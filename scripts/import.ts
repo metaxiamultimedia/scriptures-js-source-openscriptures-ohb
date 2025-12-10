@@ -12,6 +12,7 @@ import { mkdir, writeFile, readFile } from 'fs/promises';
 import { existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { computeHebrew } from '@metaxia/scriptures-core';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -53,57 +54,12 @@ interface VerseData {
   gematria: Record<string, number>;
 }
 
-// Hebrew letter values for standard gematria
-const HEBREW_VALUES: Record<string, number> = {
-  'א': 1, 'ב': 2, 'ג': 3, 'ד': 4, 'ה': 5, 'ו': 6, 'ז': 7, 'ח': 8, 'ט': 9,
-  'י': 10, 'כ': 20, 'ך': 20, 'ל': 30, 'מ': 40, 'ם': 40, 'נ': 50, 'ן': 50,
-  'ס': 60, 'ע': 70, 'פ': 80, 'ף': 80, 'צ': 90, 'ץ': 90, 'ק': 100, 'ר': 200,
-  'ש': 300, 'ת': 400,
-};
-
-// Hebrew letter ordinal positions (Mispar Siduri - position in alphabet, 1-22)
-// Final letters (sofit) continue the sequence 23-27
-const HEBREW_ORDINAL: Record<string, number> = {
-  'א': 1, 'ב': 2, 'ג': 3, 'ד': 4, 'ה': 5, 'ו': 6, 'ז': 7, 'ח': 8, 'ט': 9,
-  'י': 10, 'כ': 11, 'ל': 12, 'מ': 13, 'נ': 14, 'ס': 15, 'ע': 16, 'פ': 17,
-  'צ': 18, 'ק': 19, 'ר': 20, 'ש': 21, 'ת': 22,
-  'ך': 23, 'ם': 24, 'ן': 25, 'ף': 26, 'ץ': 27,
-};
-
 // Hebrew maqqef character (U+05BE) - used as a word connector like a hyphen
 const MAQQEF = '\u05BE';
 
 function removeCantillation(text: string): string {
   // Remove Hebrew cantillation marks (U+0591 to U+05AF) and other diacritics
   return text.replace(/[\u0591-\u05AF\u05BD\u05BF\u05C0\u05C3\u05C6]/g, '');
-}
-
-function removeVowels(text: string): string {
-  // Remove Hebrew vowel points (U+05B0 to U+05BC)
-  return text.replace(/[\u05B0-\u05BC]/g, '');
-}
-
-function computeGematria(text: string): Record<string, number> {
-  // Remove cantillation and vowels for gematria calculation
-  const cleanText = removeVowels(removeCantillation(text));
-  const result: Record<string, number> = { standard: 0, ordinal: 0, reduced: 0 };
-
-  for (const char of cleanText) {
-    const val = HEBREW_VALUES[char];
-    if (val) {
-      result.standard += val;
-      // Ordinal: use letter's position in Hebrew alphabet (Mispar Siduri)
-      result.ordinal += HEBREW_ORDINAL[char] || 0;
-      // Reduced: digital root of letter value
-      let reduced = val;
-      while (reduced > 9) {
-        reduced = String(reduced).split('').reduce((a, b) => a + parseInt(b, 10), 0);
-      }
-      result.reduced += reduced;
-    }
-  }
-
-  return result;
 }
 
 function extractStrongs(value: string | null, wordText?: string): string[] {
@@ -323,7 +279,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
   const filteredWords: WordEntry[] = [];
   let position = 1;
   for (const w of verse.words) {
-    const gematria = computeGematria(w.text);
+    const gematria = computeHebrew(w.text);
     if (isTextualCriticalNote(w, gematria)) continue;
     if (isParagraphMarker(w)) continue;
 

@@ -17,9 +17,9 @@ describe('gematria calculations', () => {
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '32', '29.json');
     const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
-    // Word at position 10 is Israel (יִשְׂרָאֵל)
+    // Word at position 9 is Israel (יִשְׂרָאֵל)
     const israelWord = data.words.find(
-      (word: { position: number }) => word.position === 10
+      (word: { position: number }) => word.position === 9
     );
 
     expect(israelWord).toBeDefined();
