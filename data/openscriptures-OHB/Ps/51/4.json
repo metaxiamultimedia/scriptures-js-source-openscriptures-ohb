@@ -1,5 +1,5 @@
 {
-  "text": "הרבה הֶרֶב כַּבְּסֵנִי מֵעֲוֺנִי וּמֵחַטָּאתִי טַהֲרֵנִי",
+  "text": "הרבה הֶרֶב הרבה כַּבְּסֵנִי מֵעֲוֺנִי וּמֵחַטָּאתִי טַהֲרֵנִי",
   "words": [
     {
       "position": 1,
@@ -30,6 +30,21 @@
     },
     {
       "position": 3,
+      "text": "הרבה",
+      "lemma": "7235 a",
+      "morph": "HVha",
+      "strongs": [
+        "H7235"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 212,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
       "text": "כַּבְּסֵנִי",
       "lemma": "3526",
       "morph": "HVpv2ms/Sp1cs",
@@ -44,7 +59,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "מֵעֲוֺנִי",
       "lemma": "m/5771",
       "morph": "HR/Ncbsc/Sp1cs",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּמֵחַטָּאתִי",
       "lemma": "c/m/2403 b",
       "morph": "HC/R/Ncfsc/Sp1cs",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "טַהֲרֵנִי",
       "lemma": "2891",
       "morph": "HVpv2ms/Sp1cs",
@@ -90,8 +105,8 @@
     }
   ],
   "gematria": {
-    "standard": 1485,
-    "ordinal": 297,
-    "reduced": 117
+    "standard": 1697,
+    "ordinal": 329,
+    "reduced": 131
   }
 }

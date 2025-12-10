@@ -1,5 +1,5 @@
 {
-  "text": "חָלִילָה לִּי מֵיהוָה מִשְּׁלֹחַ יָדִי בִּמְשִׁיחַ יְהוָה וְעַתָּה קַח נָא אֶת הַחֲנִית אֲשֶׁר וְאֶת צַפַּחַת הַמַּיִם וְנֵלֲכָה לָּנוּ מראשתו מְרַאֲשֹׁתָיו",
+  "text": "חָלִילָה לִּי מֵיהוָה מִשְּׁלֹחַ יָדִי בִּמְשִׁיחַ יְהוָה וְעַתָּה קַח נָא אֶת הַחֲנִית אֲשֶׁר מראשתו וְאֶת צַפַּחַת הַמַּיִם וְנֵלֲכָה לָּנוּ מראשתו מְרַאֲשֹׁתָיו",
   "words": [
     {
       "position": 1,
@@ -195,6 +195,21 @@
     },
     {
       "position": 14,
+      "text": "מראשתו",
+      "lemma": "4763",
+      "morph": "HNcfpc/Sp3ms",
+      "strongs": [
+        "H4763"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 947,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "צַפַּחַת",
       "lemma": "6835",
       "morph": "HNcfsc",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַמַּיִם",
       "lemma": "d/4325",
       "morph": "HTd/Ncmpa",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְנֵלֲכָה",
       "lemma": "c/3212",
       "morph": "HC/Vqi1cp",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לָּנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
@@ -266,7 +281,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "מראשתו",
       "lemma": null,
       "morph": null,
@@ -278,7 +293,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "מְרַאֲשֹׁתָיו",
       "lemma": "4763",
       "morph": "HNcfpc/Sp3ms",
@@ -294,8 +309,8 @@
     }
   ],
   "gematria": {
-    "standard": 6173,
-    "ordinal": 883,
-    "reduced": 305
+    "standard": 7120,
+    "ordinal": 966,
+    "reduced": 325
   }
 }

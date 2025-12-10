@@ -1,5 +1,5 @@
 {
-  "text": "תֻּמַּת יְשָׁרִים תַּנְחֵם וְסֶלֶף בּוֹגְדִים ושדם יְשָׁדֵּם",
+  "text": "תֻּמַּת יְשָׁרִים תַּנְחֵם וְסֶלֶף בּוֹגְדִים ושדם ושדם יְשָׁדֵּם",
   "words": [
     {
       "position": 1,
@@ -79,6 +79,21 @@
     {
       "position": 6,
       "text": "ושדם",
+      "lemma": "c/7703",
+      "morph": "HC/Ncmsc/Sp3mp",
+      "strongs": [
+        "H7703"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 350,
+        "ordinal": 55,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ושדם",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְשָׁדֵּם",
       "lemma": "7703",
       "morph": "HVqi3ms/Sp3mp",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 2843,
-    "ordinal": 432,
-    "reduced": 116
+    "standard": 3193,
+    "ordinal": 487,
+    "reduced": 133
   }
 }

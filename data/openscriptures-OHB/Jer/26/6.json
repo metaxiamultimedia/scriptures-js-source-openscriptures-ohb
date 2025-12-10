@@ -1,5 +1,5 @@
 {
-  "text": "וְנָתַתִּי אֶת הַבַּיִת הַזֶּה כְּשִׁלֹה וְאֶת הָעִיר אֶתֵּן לִקְלָלָה לְכֹל גּוֹיֵי הָאָרֶץ הזאתה הַזֹּאת",
+  "text": "וְנָתַתִּי אֶת הַבַּיִת הַזֶּה כְּשִׁלֹה וְאֶת הָעִיר הזאתה אֶתֵּן לִקְלָלָה לְכֹל גּוֹיֵי הָאָרֶץ הזאתה הַזֹּאת",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,21 @@
     },
     {
       "position": 8,
+      "text": "הזאתה",
+      "lemma": "d/2063",
+      "morph": "HTd/Pdxfs",
+      "strongs": [
+        "H2063"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 418,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
       "text": "אֶתֵּן",
       "lemma": "5414",
       "morph": "HVqi1cs",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לִקְלָלָה",
       "lemma": "l/7045",
       "morph": "HR/Ncfsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְכֹל",
       "lemma": "l/3605",
       "morph": "HR/Ncmsc",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "גּוֹיֵי",
       "lemma": "1471 a",
       "morph": "HNcmpc",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הזאתה",
       "lemma": null,
       "morph": null,
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הַזֹּאת",
       "lemma": "d/2063",
       "morph": "HTd/Pdxfs",
@@ -210,8 +225,8 @@
     }
   ],
   "gematria": {
-    "standard": 4630,
-    "ordinal": 582,
-    "reduced": 193
+    "standard": 5048,
+    "ordinal": 622,
+    "reduced": 215
   }
 }

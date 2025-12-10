@@ -1,5 +1,5 @@
 {
-  "text": "וְיִפְדְיָה בְּנֵי שָׁשָׁק ופניאל וּפְנוּאֵל",
+  "text": "וְיִפְדְיָה ופניאל בְּנֵי שָׁשָׁק ופניאל וּפְנוּאֵל",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,21 @@
     },
     {
       "position": 2,
+      "text": "ופניאל",
+      "lemma": "c/6439",
+      "morph": "HC/Np",
+      "strongs": [
+        "H6439"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 177,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "שָׁשָׁק",
       "lemma": "8349",
       "morph": "HNp",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "ופניאל",
       "lemma": null,
       "morph": null,
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּפְנוּאֵל",
       "lemma": "c/6439",
       "morph": "HC/Np",
@@ -75,8 +90,8 @@
     }
   ],
   "gematria": {
-    "standard": 1227,
-    "ordinal": 255,
-    "reduced": 93
+    "standard": 1404,
+    "ordinal": 315,
+    "reduced": 117
   }
 }

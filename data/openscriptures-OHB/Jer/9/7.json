@@ -1,5 +1,5 @@
 {
-  "text": "שוחט שָׁחוּט חֵץ לְשׁוֹנָם מִרְמָה דִבֵּר בְּפִיו שָׁלוֹם אֶת רֵעֵהוּ יְדַבֵּר וּבְקִרְבּוֹ יָשִׂים אָרְבּוֹ",
+  "text": "שוחט שָׁחוּט חֵץ שוחט לְשׁוֹנָם מִרְמָה דִבֵּר בְּפִיו שָׁלוֹם אֶת רֵעֵהוּ יְדַבֵּר וּבְקִרְבּוֹ יָשִׂים אָרְבּוֹ",
   "words": [
     {
       "position": 1,
@@ -45,6 +45,21 @@
     },
     {
       "position": 4,
+      "text": "שוחט",
+      "lemma": "7819 a",
+      "morph": "HVqrmsa",
+      "strongs": [
+        "H7819"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 323,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
       "text": "לְשׁוֹנָם",
       "lemma": "3956",
       "morph": "HNcbsc/Sp3mp",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מִרְמָה",
       "lemma": "4820",
       "morph": "HNcfsa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "דִבֵּר",
       "lemma": "1696",
       "morph": "HVpp3ms",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בְּפִיו",
       "lemma": "b/6310",
       "morph": "HR/Ncmsc/Sp3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "שָׁלוֹם",
       "lemma": "7965",
       "morph": "HNcmsa",
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֶת",
       "lemma": "854",
       "morph": "HR",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "רֵעֵהוּ",
       "lemma": "7453",
       "morph": "HNcmsc/Sp3ms",
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְדַבֵּר",
       "lemma": "1696",
       "morph": "HVpi3ms",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וּבְקִרְבּוֹ",
       "lemma": "c/b/7130",
       "morph": "HC/R/Ncmsc/Sp3ms",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יָשִׂים",
       "lemma": "7760 a",
       "morph": "HVqi3ms",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אָרְבּוֹ",
       "lemma": "696",
       "morph": "HNcmsc/Sp3ms",
@@ -210,8 +225,8 @@
     }
   ],
   "gematria": {
-    "standard": 3918,
-    "ordinal": 630,
-    "reduced": 219
+    "standard": 4241,
+    "ordinal": 674,
+    "reduced": 245
   }
 }

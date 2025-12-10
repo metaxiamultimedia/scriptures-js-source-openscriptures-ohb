@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵי שָׁמֶר אֲחִי וַאֲרָם ורוהגה וְרָהְגָּה יחבה וְחֻבָּה",
+  "text": "וּבְנֵי שָׁמֶר אֲחִי ורוהגה יחבה וַאֲרָם ורוהגה וְרָהְגָּה יחבה וְחֻבָּה",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,36 @@
     },
     {
       "position": 4,
+      "text": "ורוהגה",
+      "lemma": "c/7303",
+      "morph": "HC/Np",
+      "strongs": [
+        "H7303"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "יחבה",
+      "lemma": "3160",
+      "morph": "HNp",
+      "strongs": [
+        "H3160"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
       "text": "וַאֲרָם",
       "lemma": "c/758",
       "morph": "HC/Np",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "ורוהגה",
       "lemma": null,
       "morph": null,
@@ -74,7 +104,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "וְרָהְגָּה",
       "lemma": "c/7303",
       "morph": "HC/Np",
@@ -89,7 +119,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "יחבה",
       "lemma": null,
       "morph": null,
@@ -101,7 +131,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "וְחֻבָּה",
       "lemma": "c/3160",
       "morph": "HC/Np",
@@ -117,8 +147,8 @@
     }
   ],
   "gematria": {
-    "standard": 1364,
-    "ordinal": 286,
-    "reduced": 131
+    "standard": 1614,
+    "ordinal": 356,
+    "reduced": 174
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "עשר עָשָׂה נשברה נִשְׁבְּרוּ יְהוֹשָׁפָט אֳנִיּוֹת תַּרְשִׁישׁ לָלֶכֶת אוֹפִירָה לַזָּהָב וְלֹא הָלָךְ כִּי אֳנִיּוֹת בְּעֶצְיוֹן גָּבֶר",
+  "text": "עשר עָשָׂה נשברה נִשְׁבְּרוּ יְהוֹשָׁפָט עשר אֳנִיּוֹת תַּרְשִׁישׁ לָלֶכֶת אוֹפִירָה לַזָּהָב וְלֹא הָלָךְ כִּי נשברה אֳנִיּוֹת בְּעֶצְיוֹן גָּבֶר",
   "words": [
     {
       "position": 1,
@@ -72,6 +72,21 @@
     },
     {
       "position": 6,
+      "text": "עשר",
+      "lemma": "6240",
+      "morph": "HAcmsa",
+      "strongs": [
+        "H6240"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
       "text": "אֳנִיּוֹת",
       "lemma": "591",
       "morph": "HNcfpc",
@@ -86,7 +101,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תַּרְשִׁישׁ",
       "lemma": "8659",
       "morph": "HNp",
@@ -101,7 +116,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לָלֶכֶת",
       "lemma": "l/3212",
       "morph": "HR/Vqc",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אוֹפִירָה",
       "lemma": "211",
       "morph": "HNp/Sd",
@@ -131,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לַזָּהָב",
       "lemma": "l/2091",
       "morph": "HRd/Ncmsa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -161,7 +176,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הָלָךְ",
       "lemma": "1980",
       "morph": "HVqp3ms",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -191,7 +206,22 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
+      "text": "נשברה",
+      "lemma": "7665",
+      "morph": "HVNp3fs",
+      "strongs": [
+        "H7665"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 557,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
       "text": "אֳנִיּוֹת",
       "lemma": "591",
       "morph": "HNcfpa",
@@ -206,7 +236,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "בְּעֶצְיוֹן",
       "lemma": "b/6100+",
       "morph": "HR/Np",
@@ -221,7 +251,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "גָּבֶר",
       "lemma": "6100",
       "morph": "HNp",
@@ -237,8 +267,8 @@
     }
   ],
   "gematria": {
-    "standard": 5995,
-    "ordinal": 816,
-    "reduced": 253
+    "standard": 7122,
+    "ordinal": 935,
+    "reduced": 282
   }
 }

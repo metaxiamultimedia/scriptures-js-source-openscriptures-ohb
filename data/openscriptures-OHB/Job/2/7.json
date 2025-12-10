@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּצֵא הַשָּׂטָן מֵאֵת פְּנֵי יְהוָה וַיַּךְ אֶת אִיּוֹב בִּשְׁחִין רָע מִכַּף רַגְלוֹ קָדְקֳדוֹ עד וְעַד",
+  "text": "וַיֵּצֵא הַשָּׂטָן מֵאֵת פְּנֵי יְהוָה וַיַּךְ אֶת אִיּוֹב בִּשְׁחִין רָע מִכַּף רַגְלוֹ עד קָדְקֳדוֹ עד וְעַד",
   "words": [
     {
       "position": 1,
@@ -183,6 +183,21 @@
     },
     {
       "position": 13,
+      "text": "עד",
+      "lemma": "5704",
+      "morph": "HR",
+      "strongs": [
+        "H5704"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
       "text": "קָדְקֳדוֹ",
       "lemma": "6936",
       "morph": "HNcmsc/Sp3ms",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עד",
       "lemma": null,
       "morph": null,
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְעַד",
       "lemma": "c/5704",
       "morph": "HC/R",
@@ -225,8 +240,8 @@
     }
   ],
   "gematria": {
-    "standard": 2921,
-    "ordinal": 570,
-    "reduced": 203
+    "standard": 2995,
+    "ordinal": 590,
+    "reduced": 214
   }
 }

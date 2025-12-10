@@ -1,5 +1,5 @@
 {
-  "text": "עַל כֵּן גָּבְהָא קֹמָתוֹ מִכֹּל עֲצֵי הַשָּׂדֶה וַתִּרְבֶּינָה סַרְעַפֹּתָיו וַתֶּאֱרַכְנָה מִמַּיִם רַבִּים בְּשַׁלְּחוֹ פארתו פֹארֹתָיו",
+  "text": "עַל כֵּן גָּבְהָא קֹמָתוֹ מִכֹּל עֲצֵי הַשָּׂדֶה וַתִּרְבֶּינָה סַרְעַפֹּתָיו וַתֶּאֱרַכְנָה פארתו מִמַּיִם רַבִּים בְּשַׁלְּחוֹ פארתו פֹארֹתָיו",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,21 @@
     },
     {
       "position": 11,
+      "text": "פארתו",
+      "lemma": "6288 a",
+      "morph": "HNcfpc/Sp3ms",
+      "strongs": [
+        "H6288"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 687,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
       "text": "מִמַּיִם",
       "lemma": "m/4325",
       "morph": "HR/Ncmpa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "רַבִּים",
       "lemma": "7227 a",
       "morph": "HAampa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בְּשַׁלְּחוֹ",
       "lemma": "b/7971",
       "morph": "HR/Vpc/Sp3ms",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "פארתו",
       "lemma": null,
       "morph": null,
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "פֹארֹתָיו",
       "lemma": "6288 a",
       "morph": "HNcfpc/Sp3ms",
@@ -225,8 +240,8 @@
     }
   ],
   "gematria": {
-    "standard": 5594,
-    "ordinal": 821,
-    "reduced": 257
+    "standard": 6281,
+    "ordinal": 887,
+    "reduced": 278
   }
 }

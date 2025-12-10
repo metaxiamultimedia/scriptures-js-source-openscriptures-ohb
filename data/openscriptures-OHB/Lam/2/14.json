@@ -1,5 +1,5 @@
 {
-  "text": "נְבִיאַיִךְ חָזוּ לָךְ שָׁוְא וְתָפֵל וְלֹא גִלּוּ עַל עֲוֺנֵךְ לְהָשִׁיב וַיֶּחֱזוּ לָךְ מַשְׂאוֹת שָׁוְא וּמַדּוּחִים שביתך שְׁבוּתֵךְ",
+  "text": "נְבִיאַיִךְ חָזוּ לָךְ שָׁוְא וְתָפֵל וְלֹא גִלּוּ עַל עֲוֺנֵךְ לְהָשִׁיב שביתך וַיֶּחֱזוּ לָךְ מַשְׂאוֹת שָׁוְא וּמַדּוּחִים שביתך שְׁבוּתֵךְ",
   "words": [
     {
       "position": 1,
@@ -150,6 +150,21 @@
     },
     {
       "position": 11,
+      "text": "שביתך",
+      "lemma": "7622",
+      "morph": "HNcfsc/Sp2fs",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 732,
+        "ordinal": 78,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
       "text": "וַיֶּחֱזוּ",
       "lemma": "c/2372",
       "morph": "HC/Vqw3mp",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מַשְׂאוֹת",
       "lemma": "4864",
       "morph": "HNcfpc",
@@ -191,7 +206,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שָׁוְא",
       "lemma": "7723",
       "morph": "HNcmsa",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וּמַדּוּחִים",
       "lemma": "c/4065",
       "morph": "HC/Ncmpa",
@@ -221,7 +236,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "שביתך",
       "lemma": null,
       "morph": null,
@@ -233,7 +248,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "שְׁבוּתֵךְ",
       "lemma": "7622",
       "morph": "HNcfsc/Sp2fs",
@@ -249,8 +264,8 @@
     }
   ],
   "gematria": {
-    "standard": 4371,
-    "ordinal": 764,
-    "reduced": 258
+    "standard": 5103,
+    "ordinal": 842,
+    "reduced": 270
   }
 }

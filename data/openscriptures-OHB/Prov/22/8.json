@@ -1,5 +1,5 @@
 {
-  "text": "זוֹרֵעַ עַוְלָה אָוֶן וְשֵׁבֶט עֶבְרָתוֹ יִכְלֶה יקצור יִקְצָר",
+  "text": "זוֹרֵעַ עַוְלָה יקצור אָוֶן וְשֵׁבֶט עֶבְרָתוֹ יִכְלֶה יקצור יִקְצָר",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "יקצור",
+      "lemma": "7114 b",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H7114"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 406,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
       "text": "אָוֶן",
       "lemma": "205",
       "morph": "HNcmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְשֵׁבֶט",
       "lemma": "c/7626",
       "morph": "HC/Ncmsc",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עֶבְרָתוֹ",
       "lemma": "5678",
       "morph": "HNcfsc/Sp3ms",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִכְלֶה",
       "lemma": "3615",
       "morph": "HVqi3ms",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יקצור",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יִקְצָר",
       "lemma": "7114 b",
       "morph": "HVqi3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 2317,
-    "ordinal": 402,
-    "reduced": 139
+    "standard": 2723,
+    "ordinal": 475,
+    "reduced": 158
   }
 }

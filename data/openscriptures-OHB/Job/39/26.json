@@ -1,5 +1,5 @@
 {
-  "text": "הֲמִבִּינָתְךָ יַאֲבֶר נֵץ יִפְרֹשׂ לְתֵימָן כנפו כְּנָפָיו",
+  "text": "הֲמִבִּינָתְךָ יַאֲבֶר נֵץ יִפְרֹשׂ כנפו לְתֵימָן כנפו כְּנָפָיו",
   "words": [
     {
       "position": 1,
@@ -60,6 +60,21 @@
     },
     {
       "position": 5,
+      "text": "כנפו",
+      "lemma": "3671",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H3671"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
       "text": "לְתֵימָן",
       "lemma": "l/8486",
       "morph": "HR/Ncfsa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כנפו",
       "lemma": null,
       "morph": null,
@@ -86,7 +101,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כְּנָפָיו",
       "lemma": "3671",
       "morph": "HNcfpc/Sp3ms",
@@ -102,8 +117,8 @@
     }
   ],
   "gematria": {
-    "standard": 2322,
-    "ordinal": 419,
-    "reduced": 117
+    "standard": 2478,
+    "ordinal": 467,
+    "reduced": 138
   }
 }

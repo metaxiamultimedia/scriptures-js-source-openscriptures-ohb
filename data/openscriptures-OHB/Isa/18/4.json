@@ -1,5 +1,5 @@
 {
-  "text": "כִּי כֹה אָמַר יְהוָה אֵלַי וְאַבִּיטָה בִמְכוֹנִי כְּחֹם צַח עֲלֵי אוֹר כְּעָב טַל בְּחֹם קָצִיר אשקוטה אֶשְׁקֳטָה",
+  "text": "כִּי כֹה אָמַר יְהוָה אֵלַי אשקוטה וְאַבִּיטָה בִמְכוֹנִי כְּחֹם צַח עֲלֵי אוֹר כְּעָב טַל בְּחֹם קָצִיר אשקוטה אֶשְׁקֳטָה",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "אשקוטה",
+      "lemma": "8252",
+      "morph": "HVqh1cs",
+      "strongs": [
+        "H8252"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
       "text": "וְאַבִּיטָה",
       "lemma": "c/5027",
       "morph": "HC/Vhh1cs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בִמְכוֹנִי",
       "lemma": "b/4349",
       "morph": "HR/Ncmsc/Sp1cs",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "כְּחֹם",
       "lemma": "k/2527",
       "morph": "HR/Ncmsc",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "צַח",
       "lemma": "6703",
       "morph": "HAamsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עֲלֵי",
       "lemma": "5921 a",
       "morph": "HR",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אוֹר",
       "lemma": "216",
       "morph": "HNcbsa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כְּעָב",
       "lemma": "k/5645",
       "morph": "HR/Ncbsc",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "טַל",
       "lemma": "2919",
       "morph": "HNcmsa",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּחֹם",
       "lemma": "b/2527",
       "morph": "HR/Ncmsc",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "קָצִיר",
       "lemma": "7105 a",
       "morph": "HNcmsa",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אשקוטה",
       "lemma": null,
       "morph": null,
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֶשְׁקֳטָה",
       "lemma": "8252",
       "morph": "HVqh1cs",
@@ -255,8 +270,8 @@
     }
   ],
   "gematria": {
-    "standard": 2424,
-    "ordinal": 610,
-    "reduced": 228
+    "standard": 2845,
+    "ordinal": 671,
+    "reduced": 253
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "וַתֹּאמֶר לֵאָה וַתִּקְרָא אֶת שְׁמוֹ גָּד בגד",
+  "text": "וַתֹּאמֶר לֵאָה בגד וַתִּקְרָא אֶת שְׁמוֹ גָּד בגד",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "בגד",
+      "lemma": "b/1409",
+      "morph": "HR/Ncmsa",
+      "strongs": [
+        "H1409"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
       "text": "וַתִּקְרָא",
       "lemma": "c/7121",
       "morph": "HC/Vqw3fs",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "שְׁמוֹ",
       "lemma": "8034",
       "morph": "HNcmsc/Sp3ms",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "גָּד",
       "lemma": "1410",
       "morph": "HNp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בגד",
       "lemma": null,
       "morph": null,
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 2153,
-    "ordinal": 227,
-    "reduced": 74
+    "standard": 2162,
+    "ordinal": 236,
+    "reduced": 83
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "כִּי בִימֵי דָוִיד וְאָסָף מִקֶּדֶם הַמְשֹׁרְרִים וְשִׁיר תְּהִלָּה וְהֹדוֹת לֵאלֹהִים ראש רָאשֵׁי",
+  "text": "כִּי בִימֵי דָוִיד וְאָסָף מִקֶּדֶם ראש הַמְשֹׁרְרִים וְשִׁיר תְּהִלָּה וְהֹדוֹת לֵאלֹהִים ראש רָאשֵׁי",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "ראש",
+      "lemma": "7218 a",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H7218"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 42,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
       "text": "הַמְשֹׁרְרִים",
       "lemma": "d/7891",
       "morph": "HTd/Vormpa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְשִׁיר",
       "lemma": "c/7892 a",
       "morph": "HC/Ncbsc",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תְּהִלָּה",
       "lemma": "8416",
       "morph": "HNcfsa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְהֹדוֹת",
       "lemma": "c/3034",
       "morph": "HC/Vhc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לֵאלֹהִים",
       "lemma": "l/430",
       "morph": "HR/Ncmpa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "ראש",
       "lemma": null,
       "morph": null,
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "רָאשֵׁי",
       "lemma": "7218 a",
       "morph": "HNcmpc",
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 3747,
-    "ordinal": 603,
-    "reduced": 165
+    "standard": 4248,
+    "ordinal": 645,
+    "reduced": 171
   }
 }

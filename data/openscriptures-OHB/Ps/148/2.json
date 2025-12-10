@@ -1,5 +1,5 @@
 {
-  "text": "הַלְלוּהוּ כָל מַלְאָכָיו הַלְלוּהוּ כָּל צבאו צְבָאָיו",
+  "text": "הַלְלוּהוּ כָל מַלְאָכָיו הַלְלוּהוּ כָּל צבאו צבאו צְבָאָיו",
   "words": [
     {
       "position": 1,
@@ -79,6 +79,21 @@
     {
       "position": 6,
       "text": "צבאו",
+      "lemma": "6635 a",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H6635"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 27,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "צבאו",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "צְבָאָיו",
       "lemma": "6635 a",
       "morph": "HNcbpc/Sp3ms",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 579,
-    "ordinal": 255,
-    "reduced": 120
+    "standard": 678,
+    "ordinal": 282,
+    "reduced": 138
   }
 }

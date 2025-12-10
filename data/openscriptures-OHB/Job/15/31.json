@@ -1,5 +1,5 @@
 {
-  "text": "אַל יַאֲמֵן נִתְעָה כִּי שָׁוְא תִּהְיֶה תְמוּרָתוֹ בשו בַּשָּׁיו",
+  "text": "אַל יַאֲמֵן בשו נִתְעָה כִּי שָׁוְא תִּהְיֶה תְמוּרָתוֹ בשו בַּשָּׁיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "בשו",
+      "lemma": "b/7723",
+      "morph": "HRd/Ncmsa",
+      "strongs": [
+        "H7723"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
       "text": "נִתְעָה",
       "lemma": "8582",
       "morph": "HVNp3ms",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "שָׁוְא",
       "lemma": "7723",
       "morph": "HNcmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תִּהְיֶה",
       "lemma": "1961",
       "morph": "HVqi3fs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תְמוּרָתוֹ",
       "lemma": "8545",
       "morph": "HNcfsc/Sp3ms",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בשו",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בַּשָּׁיו",
       "lemma": "b/7723",
       "morph": "HRd/Ncmsa",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 3092,
-    "ordinal": 367,
-    "reduced": 113
+    "standard": 3400,
+    "ordinal": 396,
+    "reduced": 124
   }
 }

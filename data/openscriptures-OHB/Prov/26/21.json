@@ -1,5 +1,5 @@
 {
-  "text": "פֶּחָם לְגֶחָלִים וְעֵצִים לְאֵשׁ וְאִישׁ לְחַרְחַר רִיב מדונים מִדְיָנִים",
+  "text": "פֶּחָם לְגֶחָלִים וְעֵצִים לְאֵשׁ וְאִישׁ מדונים לְחַרְחַר רִיב מדונים מִדְיָנִים",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "מדונים",
+      "lemma": "4066",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H4066"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 71,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
       "text": "לְחַרְחַר",
       "lemma": "l/2787",
       "morph": "HR/Vlc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רִיב",
       "lemma": "7379",
       "morph": "HNcbsa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מדונים",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מִדְיָנִים",
       "lemma": "4079",
       "morph": "HNcmpa",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 2075,
-    "ordinal": 510,
-    "reduced": 158
+    "standard": 2225,
+    "ordinal": 581,
+    "reduced": 182
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "הָלוֹךְ הָלְכוּ הָעֵצִים לִמְשֹׁחַ עֲלֵיהֶם מֶלֶךְ וַיֹּאמְרוּ לַזַּיִת עָלֵינוּ מלוכה מָלְכָה",
+  "text": "הָלוֹךְ הָלְכוּ הָעֵצִים לִמְשֹׁחַ עֲלֵיהֶם מֶלֶךְ וַיֹּאמְרוּ לַזַּיִת מלוכה עָלֵינוּ מלוכה מָלְכָה",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "מלוכה",
+      "lemma": "4427 a",
+      "morph": "HVqv2ms/Sh",
+      "strongs": [
+        "H4427"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 101,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
       "text": "עָלֵינוּ",
       "lemma": "5921 a",
       "morph": "HR/Sp1cp",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "מלוכה",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מָלְכָה",
       "lemma": "4427 a",
       "morph": "HVqv2ms/Sh",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2032,
-    "ordinal": 575,
-    "reduced": 196
+    "standard": 2133,
+    "ordinal": 622,
+    "reduced": 216
   }
 }

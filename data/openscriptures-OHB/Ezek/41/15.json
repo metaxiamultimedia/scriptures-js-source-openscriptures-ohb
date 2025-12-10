@@ -1,5 +1,5 @@
 {
-  "text": "וּמָדַד אֹרֶךְ הַבִּנְיָן אֶל פְּנֵי הַגִּזְרָה אֲשֶׁר עַל אַחֲרֶיהָ מִפּוֹ וּמִפּוֹ מֵאָה אַמָּה וְהַהֵיכָל הַפְּנִימִי וְאֻלַמֵּי הֶחָצֵר ואתוקיהא וְאַתִּיקֶיהָא",
+  "text": "וּמָדַד אֹרֶךְ הַבִּנְיָן אֶל פְּנֵי הַגִּזְרָה אֲשֶׁר עַל אַחֲרֶיהָ ואתוקיהא מִפּוֹ וּמִפּוֹ מֵאָה אַמָּה וְהַהֵיכָל הַפְּנִימִי וְאֻלַמֵּי הֶחָצֵר ואתוקיהא וְאַתִּיקֶיהָא",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,21 @@
     },
     {
       "position": 10,
+      "text": "ואתוקיהא",
+      "lemma": "c/862 a",
+      "morph": "HC/Ncmpc/Sp3fs",
+      "strongs": [
+        "H862"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
       "text": "מִפּוֹ",
       "lemma": "m/6311",
       "morph": "HR/D",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וּמִפּוֹ",
       "lemma": "c/m/6311",
       "morph": "HC/R/D",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מֵאָה",
       "lemma": "3967",
       "morph": "HAcbsa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אַמָּה",
       "lemma": "520 a",
       "morph": "HNcfsa",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְהַהֵיכָל",
       "lemma": "c/d/1964",
       "morph": "HC/Td/Ncmsa",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַפְּנִימִי",
       "lemma": "d/6442",
       "morph": "HTd/Aamsa",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְאֻלַמֵּי",
       "lemma": "c/197",
       "morph": "HC/Ncmpc",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הֶחָצֵר",
       "lemma": "d/2691 a",
       "morph": "HTd/Ncbsa",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "ואתוקיהא",
       "lemma": null,
       "morph": null,
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וְאַתִּיקֶיהָא",
       "lemma": "c/862 b",
       "morph": "HC/Ncmpc/Sp3fs",
@@ -285,8 +300,8 @@
     }
   ],
   "gematria": {
-    "standard": 3681,
-    "ordinal": 806,
-    "reduced": 306
+    "standard": 4210,
+    "ordinal": 876,
+    "reduced": 331
   }
 }

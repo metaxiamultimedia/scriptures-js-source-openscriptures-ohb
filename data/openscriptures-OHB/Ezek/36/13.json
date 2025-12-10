@@ -1,5 +1,5 @@
 {
-  "text": "כֹּה אָמַר אֲדֹנָי יְהוִה יַעַן אֹמְרִים לָכֶם אֹכֶלֶת אָדָם וּמְשַׁכֶּלֶת הָיִית אתי אָתְּ גויך גּוֹיַיִךְ",
+  "text": "כֹּה אָמַר אֲדֹנָי יְהוִה יַעַן אֹמְרִים לָכֶם אֹכֶלֶת אָדָם אתי וּמְשַׁכֶּלֶת גויך הָיִית אתי אָתְּ גויך גּוֹיַיִךְ",
   "words": [
     {
       "position": 1,
@@ -135,6 +135,21 @@
     },
     {
       "position": 10,
+      "text": "אתי",
+      "lemma": "859 b",
+      "morph": "HPp2fs",
+      "strongs": [
+        "H859"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 33,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
       "text": "וּמְשַׁכֶּלֶת",
       "lemma": "c/7921 a",
       "morph": "HC/Vprfsc",
@@ -149,7 +164,22 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
+      "text": "גויך",
+      "lemma": "1471 a",
+      "morph": "HNcmsc/Sp2fs",
+      "strongs": [
+        "H1471"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 39,
+        "ordinal": 42,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
       "text": "הָיִית",
       "lemma": "1961",
       "morph": "HVqp2fs",
@@ -164,7 +194,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "אתי",
       "lemma": null,
       "morph": null,
@@ -176,7 +206,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "אָתְּ",
       "lemma": "859 b",
       "morph": "HPp2fs",
@@ -191,7 +221,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "גויך",
       "lemma": null,
       "morph": null,
@@ -203,7 +233,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "גּוֹיַיִךְ",
       "lemma": "1471 a",
       "morph": "HNcmpc/Sp2fs",
@@ -219,8 +249,8 @@
     }
   ],
   "gematria": {
-    "standard": 3485,
-    "ordinal": 628,
-    "reduced": 164
+    "standard": 3935,
+    "ordinal": 703,
+    "reduced": 182
   }
 }

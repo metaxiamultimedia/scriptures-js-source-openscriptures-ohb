@@ -1,8 +1,23 @@
 {
-  "text": "סֹפֵר וְצָדוֹק וְאֶבְיָתָר כֹּהֲנִים ושיא וּשְׁוָא",
+  "text": "ושיא סֹפֵר וְצָדוֹק וְאֶבְיָתָר כֹּהֲנִים ושיא וּשְׁוָא",
   "words": [
     {
       "position": 1,
+      "text": "ושיא",
+      "lemma": "c/7864",
+      "morph": "HC/Np",
+      "strongs": [
+        "H7864"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 317,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
       "text": "סֹפֵר",
       "lemma": "5608 b",
       "morph": "HNcmsa",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "וְצָדוֹק",
       "lemma": "c/6659",
       "morph": "HC/Np",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וְאֶבְיָתָר",
       "lemma": "c/54",
       "morph": "HC/Np",
@@ -44,7 +59,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "כֹּהֲנִים",
       "lemma": "3548",
       "morph": "HNcmpa",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "ושיא",
       "lemma": null,
       "morph": null,
@@ -71,7 +86,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וּשְׁוָא",
       "lemma": "c/7724",
       "morph": "HC/Np",
@@ -87,8 +102,8 @@
     }
   ],
   "gematria": {
-    "standard": 1920,
-    "ordinal": 302,
-    "reduced": 102
+    "standard": 2237,
+    "ordinal": 340,
+    "reduced": 113
   }
 }

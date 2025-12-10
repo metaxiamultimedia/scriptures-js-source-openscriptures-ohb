@@ -1,5 +1,5 @@
 {
-  "text": "אִם לַלֵּצִים הוּא יָלִיץ יִתֶּן חֵן ולעניים וְלַעֲנָוִים",
+  "text": "אִם לַלֵּצִים הוּא יָלִיץ ולעניים יִתֶּן חֵן ולעניים וְלַעֲנָוִים",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "ולעניים",
+      "lemma": "c/l/6041",
+      "morph": "HC/R/Aampa",
+      "strongs": [
+        "H6041"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 216,
+        "ordinal": 92,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
       "text": "יִתֶּן",
       "lemma": "5414",
       "morph": "HVqi3ms",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "חֵן",
       "lemma": "2580",
       "morph": "HNcmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "ולעניים",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְלַעֲנָוִים",
       "lemma": "c/l/6035",
       "morph": "HC/R/Aampa",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1339,
-    "ordinal": 442,
-    "reduced": 133
+    "standard": 1555,
+    "ordinal": 534,
+    "reduced": 160
   }
 }

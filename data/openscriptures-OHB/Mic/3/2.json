@@ -1,5 +1,5 @@
 {
-  "text": "שֹׂנְאֵי טוֹב וְאֹהֲבֵי גֹּזְלֵי עוֹרָם מֵעֲלֵיהֶם וּשְׁאֵרָם מֵעַל עַצְמוֹתָם רעה רָע",
+  "text": "שֹׂנְאֵי טוֹב וְאֹהֲבֵי רעה גֹּזְלֵי עוֹרָם מֵעֲלֵיהֶם וּשְׁאֵרָם מֵעַל עַצְמוֹתָם רעה רָע",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "רעה",
+      "lemma": "7451 b",
+      "morph": "HAafsa",
+      "strongs": [
+        "H7451"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
       "text": "גֹּזְלֵי",
       "lemma": "1497",
       "morph": "HVqrmpc",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עוֹרָם",
       "lemma": "5785",
       "morph": "HNcmsc/Sp3mp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מֵעֲלֵיהֶם",
       "lemma": "m/5921 a",
       "morph": "HR/R/Sp3mp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וּשְׁאֵרָם",
       "lemma": "c/7607",
       "morph": "HC/Ncmsc/Sp3mp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מֵעַל",
       "lemma": "m/5921 a",
       "morph": "HR/R",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "עַצְמוֹתָם",
       "lemma": "6106",
       "morph": "HNcfpc/Sp3mp",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "רעה",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "רָע",
       "lemma": "7451 b",
       "morph": "HAamsa",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2841,
-    "ordinal": 554,
-    "reduced": 186
+    "standard": 3116,
+    "ordinal": 595,
+    "reduced": 200
   }
 }

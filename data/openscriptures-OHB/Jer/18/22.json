@@ -1,5 +1,5 @@
 {
-  "text": "תִּשָּׁמַע זְעָקָה מִבָּתֵּיהֶם כִּי תָבִיא עֲלֵיהֶם גְּדוּד פִּתְאֹם כִּי כָרוּ לְלָכְדֵנִי וּפַחִים טָמְנוּ לְרַגְלָי שיחה שׁוּחָה",
+  "text": "תִּשָּׁמַע זְעָקָה מִבָּתֵּיהֶם כִּי תָבִיא עֲלֵיהֶם גְּדוּד פִּתְאֹם כִּי כָרוּ שיחה לְלָכְדֵנִי וּפַחִים טָמְנוּ לְרַגְלָי שיחה שׁוּחָה",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,21 @@
     },
     {
       "position": 11,
+      "text": "שיחה",
+      "lemma": "7882",
+      "morph": "HNcfsa",
+      "strongs": [
+        "H7882"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 323,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
       "text": "לְלָכְדֵנִי",
       "lemma": "l/3920",
       "morph": "HR/Vqc/Sp1cs",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וּפַחִים",
       "lemma": "c/6341 a",
       "morph": "HC/Ncmpa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "טָמְנוּ",
       "lemma": "2934",
       "morph": "HVqp3cp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "לְרַגְלָי",
       "lemma": "l/7272",
       "morph": "HR/Ncfdc/Sp1cs",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שיחה",
       "lemma": null,
       "morph": null,
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "שׁוּחָה",
       "lemma": "7745",
       "morph": "HNcfsa",
@@ -240,8 +255,8 @@
     }
   ],
   "gematria": {
-    "standard": 4189,
-    "ordinal": 768,
-    "reduced": 256
+    "standard": 4512,
+    "ordinal": 812,
+    "reduced": 273
   }
 }

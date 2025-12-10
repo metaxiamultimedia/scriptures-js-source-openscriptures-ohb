@@ -1,5 +1,5 @@
 {
-  "text": "יְהוָה אֱלֹהֵינוּ כֹל הֶהָמוֹן הַזֶּה אֲשֶׁר הֲכִינֹנוּ לִבְנוֹת לְךָ בַיִת לְשֵׁם קָדְשֶׁךָ מִיָּדְךָ וּלְךָ הַכֹּל היא הוּא",
+  "text": "יְהוָה אֱלֹהֵינוּ כֹל הֶהָמוֹן הַזֶּה אֲשֶׁר הֲכִינֹנוּ לִבְנוֹת לְךָ בַיִת לְשֵׁם קָדְשֶׁךָ מִיָּדְךָ היא וּלְךָ הַכֹּל היא הוּא",
   "words": [
     {
       "position": 1,
@@ -195,6 +195,21 @@
     },
     {
       "position": 14,
+      "text": "היא",
+      "lemma": "1931",
+      "morph": "HPp3fs",
+      "strongs": [
+        "H1931"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 16,
+        "ordinal": 16,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
       "text": "וּלְךָ",
       "lemma": "c/l",
       "morph": "HC/R/Sp2ms",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַכֹּל",
       "lemma": "d/3605",
       "morph": "HTd/Ncmsa",
@@ -221,7 +236,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "היא",
       "lemma": null,
       "morph": null,
@@ -233,7 +248,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -249,8 +264,8 @@
     }
   ],
   "gematria": {
-    "standard": 2900,
-    "ordinal": 666,
-    "reduced": 218
+    "standard": 2916,
+    "ordinal": 682,
+    "reduced": 225
   }
 }

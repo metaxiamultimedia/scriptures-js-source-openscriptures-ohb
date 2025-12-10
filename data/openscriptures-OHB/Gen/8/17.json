@@ -1,5 +1,5 @@
 {
-  "text": "כָּל הַחַיָּה אֲשֶׁר אִתְּךָ מִכָּל בָּשָׂר בָּעוֹף וּבַבְּהֵמָה וּבְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ אִתָּךְ וְשָׁרְצוּ בָאָרֶץ וּפָרוּ וְרָבוּ עַל הָאָרֶץ הוצא הַיְצֵא",
+  "text": "כָּל הַחַיָּה אֲשֶׁר אִתְּךָ מִכָּל בָּשָׂר בָּעוֹף וּבַבְּהֵמָה וּבְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ הוצא אִתָּךְ וְשָׁרְצוּ בָאָרֶץ וּפָרוּ וְרָבוּ עַל הָאָרֶץ הוצא הַיְצֵא",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,21 @@
     },
     {
       "position": 14,
+      "text": "הוצא",
+      "lemma": "3318",
+      "morph": "HVhv2ms",
+      "strongs": [
+        "H3318"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
       "text": "אִתָּךְ",
       "lemma": "854",
       "morph": "HR/Sp2fs",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְשָׁרְצוּ",
       "lemma": "c/8317",
       "morph": "HC/Vqq3cp",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בָאָרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וּפָרוּ",
       "lemma": "c/6509",
       "morph": "HC/Vqq3cp",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וְרָבוּ",
       "lemma": "c/7235 a",
       "morph": "HC/Vqq3cp",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -302,7 +317,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "הוצא",
       "lemma": null,
       "morph": null,
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "הַיְצֵא",
       "lemma": "3318",
       "morph": "HVhv2ms",
@@ -330,8 +345,8 @@
     }
   ],
   "gematria": {
-    "standard": 5780,
-    "ordinal": 926,
-    "reduced": 317
+    "standard": 5882,
+    "ordinal": 956,
+    "reduced": 338
   }
 }

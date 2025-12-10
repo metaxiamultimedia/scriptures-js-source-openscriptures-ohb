@@ -1,8 +1,23 @@
 {
-  "text": "אֶת חֲכָמִים וְרֹעֶה כְסִילִים יֵרוֹעַ הלוך הוֹלֵךְ וחכם יֶחְכָּם",
+  "text": "הלוך אֶת חֲכָמִים וחכם וְרֹעֶה כְסִילִים יֵרוֹעַ הלוך הוֹלֵךְ וחכם יֶחְכָּם",
   "words": [
     {
       "position": 1,
+      "text": "הלוך",
+      "lemma": "1980",
+      "morph": "HVqa",
+      "strongs": [
+        "H1980"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 46,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
       "text": "אֶת",
       "lemma": "854",
       "morph": "HR",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "חֲכָמִים",
       "lemma": "2450",
       "morph": "HAampa",
@@ -32,7 +47,22 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
+      "text": "וחכם",
+      "lemma": "c/2449",
+      "morph": "HC/Vqv2ms",
+      "strongs": [
+        "H2449"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 49,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
       "text": "וְרֹעֶה",
       "lemma": "c/7462 c",
       "morph": "HC/Vqrmsa",
@@ -47,7 +77,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "כְסִילִים",
       "lemma": "3684",
       "morph": "HAampa",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "יֵרוֹעַ",
       "lemma": "7489 a",
       "morph": "HVNi3ms",
@@ -77,7 +107,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "הלוך",
       "lemma": null,
       "morph": null,
@@ -89,7 +119,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "הוֹלֵךְ",
       "lemma": "1980",
       "morph": "HVqrmsa",
@@ -104,7 +134,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "וחכם",
       "lemma": null,
       "morph": null,
@@ -116,7 +146,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "יֶחְכָּם",
       "lemma": "2449",
       "morph": "HVqi3ms",
@@ -132,8 +162,8 @@
     }
   ],
   "gematria": {
-    "standard": 1530,
-    "ordinal": 464,
-    "reduced": 144
+    "standard": 1665,
+    "ordinal": 559,
+    "reduced": 180
   }
 }

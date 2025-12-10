@@ -1,5 +1,5 @@
 {
-  "text": "נָחַר מַפֻּחַ עֹפָרֶת לַשָּׁוְא צָרַף צָרוֹף וְרָעִים לֹא נִתָּקוּ מאשתם",
+  "text": "נָחַר מַפֻּחַ מאשתם עֹפָרֶת לַשָּׁוְא צָרַף צָרוֹף וְרָעִים לֹא נִתָּקוּ מאשתם",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "מאשתם",
+      "lemma": "m/800",
+      "morph": "HR/Ncfsc/Sp3mp",
+      "strongs": [
+        "H800"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
       "text": "עֹפָרֶת",
       "lemma": "5777",
       "morph": "HNcfsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לַשָּׁוְא",
       "lemma": "l/7723",
       "morph": "HRd/Ncmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "צָרַף",
       "lemma": "6884",
       "morph": "HVqp3ms",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "צָרוֹף",
       "lemma": "6884",
       "morph": "HVqa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְרָעִים",
       "lemma": "c/7451 a",
       "morph": "HC/Aampa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "נִתָּקוּ",
       "lemma": "5423",
       "morph": "HVNp3cp",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "מאשתם",
       "lemma": null,
       "morph": null,
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 3913,
-    "ordinal": 560,
-    "reduced": 169
+    "standard": 4694,
+    "ordinal": 641,
+    "reduced": 185
   }
 }

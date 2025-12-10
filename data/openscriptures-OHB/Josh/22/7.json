@@ -1,5 +1,5 @@
 {
-  "text": "וְלַחֲצִי שֵׁבֶט הַמְנַשֶּׁה נָתַן מֹשֶׁה בַּבָּשָׁן וּלְחֶצְיוֹ נָתַן יְהוֹשֻׁעַ עִם אֲחֵיהֶם הַיַּרְדֵּן יָמָּה וְגַם כִּי שִׁלְּחָם יְהוֹשֻׁעַ אֶל אָהֳלֵיהֶם וַיְבָרֲכֵם מעבר בְּעֵבֶר",
+  "text": "וְלַחֲצִי שֵׁבֶט הַמְנַשֶּׁה נָתַן מֹשֶׁה בַּבָּשָׁן וּלְחֶצְיוֹ נָתַן יְהוֹשֻׁעַ עִם אֲחֵיהֶם מעבר הַיַּרְדֵּן יָמָּה וְגַם כִּי שִׁלְּחָם יְהוֹשֻׁעַ אֶל אָהֳלֵיהֶם וַיְבָרֲכֵם מעבר בְּעֵבֶר",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,21 @@
     },
     {
       "position": 12,
+      "text": "מעבר",
+      "lemma": "m/5676",
+      "morph": "HR/Ncmsc",
+      "strongs": [
+        "H5676"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 312,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
       "text": "הַיַּרְדֵּן",
       "lemma": "d/3383",
       "morph": "HTd/Np",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יָמָּה",
       "lemma": "3220",
       "morph": "HNcmsa/Sd",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְגַם",
       "lemma": "c/1571",
       "morph": "HC/Ta",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "שִׁלְּחָם",
       "lemma": "7971",
       "morph": "HVpp3ms/Sp3mp",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יְהוֹשֻׁעַ",
       "lemma": "3091",
       "morph": "HNp",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אָהֳלֵיהֶם",
       "lemma": "168",
       "morph": "HNcmpc/Sp3mp",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וַיְבָרֲכֵם",
       "lemma": "c/1288",
       "morph": "HC/Vpw3ms/Sp3mp",
@@ -302,7 +317,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "מעבר",
       "lemma": null,
       "morph": null,
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "בְּעֵבֶר",
       "lemma": "b/5676",
       "morph": "HR/Ncmsc",
@@ -330,8 +345,8 @@
     }
   ],
   "gematria": {
-    "standard": 5427,
-    "ordinal": 1064,
-    "reduced": 351
+    "standard": 5739,
+    "ordinal": 1115,
+    "reduced": 366
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "אַל תִּלְחַם אֶת לֶחֶם רַע עָיִן וְאַל לְמַטְעַמֹּתָיו תתאו תִּתְאָיו",
+  "text": "אַל תִּלְחַם אֶת לֶחֶם רַע עָיִן וְאַל תתאו לְמַטְעַמֹּתָיו תתאו תִּתְאָיו",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,21 @@
     },
     {
       "position": 8,
+      "text": "תתאו",
+      "lemma": "183",
+      "morph": "HVtj2ms",
+      "strongs": [
+        "H183"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 807,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
       "text": "לְמַטְעַמֹּתָיו",
       "lemma": "l/4303",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "תתאו",
       "lemma": null,
       "morph": null,
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "תִּתְאָיו",
       "lemma": "183",
       "morph": "HVtj2ms",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 3654,
-    "ordinal": 465,
-    "reduced": 144
+    "standard": 4461,
+    "ordinal": 516,
+    "reduced": 159
   }
 }

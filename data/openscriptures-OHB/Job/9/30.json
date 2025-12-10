@@ -1,5 +1,5 @@
 {
-  "text": "אִם הִתְרָחַצְתִּי שָׁלֶג וַהֲזִכּוֹתִי בְּבֹר כַּפָּי במו בְמֵי",
+  "text": "אִם הִתְרָחַצְתִּי במו שָׁלֶג וַהֲזִכּוֹתִי בְּבֹר כַּפָּי במו בְמֵי",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "במו",
+      "lemma": "1119",
+      "morph": "HR",
+      "strongs": [
+        "H1119"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
       "text": "שָׁלֶג",
       "lemma": "7950",
       "morph": "HNcmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וַהֲזִכּוֹתִי",
       "lemma": "c/2141",
       "morph": "HC/Vhq1cs",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בְּבֹר",
       "lemma": "b/1253",
       "morph": "HR/Ncmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כַּפָּי",
       "lemma": "3709",
       "morph": "HNcfdc/Sp1cs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "במו",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְמֵי",
       "lemma": "b/4325",
       "morph": "HR/Ncmpc",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 2355,
-    "ordinal": 341,
-    "reduced": 114
+    "standard": 2403,
+    "ordinal": 362,
+    "reduced": 126
   }
 }

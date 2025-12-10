@@ -1,8 +1,23 @@
 {
-  "text": "בְּרֵהּ בֵּלְשַׁאצַּר לָא הַשְׁפֵּלְתְּ לִבְבָךְ כָּל קֳבֵל דִּי כָל דְּנָה יְדַעְתָּ ואנתה וְאַנְתְּ",
+  "text": "ואנתה בְּרֵהּ בֵּלְשַׁאצַּר לָא הַשְׁפֵּלְתְּ לִבְבָךְ כָּל קֳבֵל דִּי כָל דְּנָה יְדַעְתָּ ואנתה וְאַנְתְּ",
   "words": [
     {
       "position": 1,
+      "text": "ואנתה",
+      "lemma": "c/607",
+      "morph": "AC/Pp2ms",
+      "strongs": [
+        "H607"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 462,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
       "text": "בְּרֵהּ",
       "lemma": "1247",
       "morph": "ANcmsc/Sp3ms",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "בֵּלְשַׁאצַּר",
       "lemma": "1113",
       "morph": "ANp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "לָא",
       "lemma": "3809",
       "morph": "ATn",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "הַשְׁפֵּלְתְּ",
       "lemma": "8214",
       "morph": "AVhp2ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לִבְבָךְ",
       "lemma": "3825",
       "morph": "ANcmsc/Sp2ms",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כָּל",
       "lemma": "k/3606",
       "morph": "AC/C",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "קֳבֵל",
       "lemma": "6903",
       "morph": "AC",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "AC",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "כָל",
       "lemma": "3606",
       "morph": "ANcmsc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "דְּנָה",
       "lemma": "1836",
       "morph": "APdxms",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְדַעְתָּ",
       "lemma": "3046",
       "morph": "AVqp2ms",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "ואנתה",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְאַנְתְּ",
       "lemma": "c/607",
       "morph": "AC/Pp2ms",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 3438,
-    "ordinal": 489,
-    "reduced": 153
+    "standard": 3900,
+    "ordinal": 537,
+    "reduced": 174
   }
 }

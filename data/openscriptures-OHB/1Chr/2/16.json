@@ -1,8 +1,23 @@
 {
-  "text": "צְרוּיָה וַאֲבִיגָיִל וּבְנֵי צְרוּיָה אַבְשַׁי וְיוֹאָב וַעֲשָׂה אֵל שְׁלֹשָׁה ואחיתיהם וְאַחְיוֹתֵיהֶם",
+  "text": "ואחיתיהם צְרוּיָה וַאֲבִיגָיִל וּבְנֵי צְרוּיָה אַבְשַׁי וְיוֹאָב וַעֲשָׂה אֵל שְׁלֹשָׁה ואחיתיהם וְאַחְיוֹתֵיהֶם",
   "words": [
     {
       "position": 1,
+      "text": "ואחיתיהם",
+      "lemma": "c/269",
+      "morph": "HC/Ncfpc/Sp3mp",
+      "strongs": [
+        "H269"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 86,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
       "text": "צְרוּיָה",
       "lemma": "6870",
       "morph": "HNp",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "וַאֲבִיגָיִל",
       "lemma": "c/26",
       "morph": "HC/Np",
@@ -29,7 +44,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וּבְנֵי",
       "lemma": "c/1121 a",
       "morph": "HC/Ncmpc",
@@ -44,7 +59,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "צְרוּיָה",
       "lemma": "6870",
       "morph": "HNp",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אַבְשַׁי",
       "lemma": "52",
       "morph": "HNp",
@@ -71,7 +86,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְיוֹאָב",
       "lemma": "c/3097",
       "morph": "HC/Np",
@@ -86,7 +101,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וַעֲשָׂה",
       "lemma": "c/6214+",
       "morph": "HC/Np",
@@ -101,7 +116,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֵל",
       "lemma": "6214",
       "morph": "HNp",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "שְׁלֹשָׁה",
       "lemma": "7969",
       "morph": "HAcmsa",
@@ -131,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "ואחיתיהם",
       "lemma": null,
       "morph": null,
@@ -143,7 +158,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְאַחְיוֹתֵיהֶם",
       "lemma": "c/269",
       "morph": "HC/Ncfpc/Sp3mp",
@@ -159,8 +174,8 @@
     }
   ],
   "gematria": {
-    "standard": 3103,
-    "ordinal": 551,
-    "reduced": 205
+    "standard": 3583,
+    "ordinal": 637,
+    "reduced": 235
   }
 }

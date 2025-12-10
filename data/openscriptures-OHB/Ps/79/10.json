@@ -1,5 +1,5 @@
 {
-  "text": "לָמָּה יֹאמְרוּ הַגּוֹיִם אַיֵּה אֱלֹהֵיהֶם יִוָּדַע לְעֵינֵינוּ נִקְמַת דַּם עֲבָדֶיךָ הַשָּׁפוּךְ בגיים בַּגּוֹיִם",
+  "text": "לָמָּה יֹאמְרוּ הַגּוֹיִם אַיֵּה אֱלֹהֵיהֶם יִוָּדַע בגיים לְעֵינֵינוּ נִקְמַת דַּם עֲבָדֶיךָ הַשָּׁפוּךְ בגיים בַּגּוֹיִם",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "בגיים",
+      "lemma": "b/1471 a",
+      "morph": "HRd/Ncmpa",
+      "strongs": [
+        "H1471"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 49,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
       "text": "לְעֵינֵינוּ",
       "lemma": "l/5869 a",
       "morph": "HR/Ncbdc/Sp1cp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "נִקְמַת",
       "lemma": "5360",
       "morph": "HNcfsc",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "דַּם",
       "lemma": "1818",
       "morph": "HNcmsc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עֲבָדֶיךָ",
       "lemma": "5650",
       "morph": "HNcmpc/Sp2ms",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַשָּׁפוּךְ",
       "lemma": "d/8210",
       "morph": "HTd/Vqsmsa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בגיים",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בַּגּוֹיִם",
       "lemma": "b/1471 a",
       "morph": "HRd/Ncmpa",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 2096,
-    "ordinal": 636,
-    "reduced": 206
+    "standard": 2161,
+    "ordinal": 685,
+    "reduced": 217
   }
 }

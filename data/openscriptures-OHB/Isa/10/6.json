@@ -1,5 +1,5 @@
 {
-  "text": "בְּגוֹי חָנֵף אֲשַׁלְּחֶנּוּ וְעַל עַם עֶבְרָתִי אֲצַוֶּנּוּ לִשְׁלֹל שָׁלָל וְלָבֹז בַּז מִרְמָס כְּחֹמֶר חוּצוֹת ולשימו וּלְשׂוּמוֹ",
+  "text": "בְּגוֹי חָנֵף אֲשַׁלְּחֶנּוּ וְעַל עַם עֶבְרָתִי אֲצַוֶּנּוּ לִשְׁלֹל שָׁלָל וְלָבֹז בַּז ולשימו מִרְמָס כְּחֹמֶר חוּצוֹת ולשימו וּלְשׂוּמוֹ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,21 @@
     },
     {
       "position": 12,
+      "text": "ולשימו",
+      "lemma": "c/l/7760 a",
+      "morph": "HC/R/Vqc/Sp3ms",
+      "strongs": [
+        "H7760"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 392,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
       "text": "מִרְמָס",
       "lemma": "4823",
       "morph": "HNcmsa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "כְּחֹמֶר",
       "lemma": "k/2563 a",
       "morph": "HR/Ncmsc",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "חוּצוֹת",
       "lemma": "2351",
       "morph": "HNcmpa",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "ולשימו",
       "lemma": null,
       "morph": null,
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וּלְשׂוּמוֹ",
       "lemma": "c/l/7760 a",
       "morph": "HC/R/Vqc/Sp3ms",
@@ -240,8 +255,8 @@
     }
   ],
   "gematria": {
-    "standard": 4307,
-    "ordinal": 763,
-    "reduced": 293
+    "standard": 4699,
+    "ordinal": 831,
+    "reduced": 316
   }
 }

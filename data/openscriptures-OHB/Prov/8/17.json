@@ -1,5 +1,5 @@
 {
-  "text": "אֲנִי אֵהָב וּמְשַׁחֲרַי יִמְצָאֻנְנִי אהביה אֹהֲבַי",
+  "text": "אֲנִי אהביה אֵהָב וּמְשַׁחֲרַי יִמְצָאֻנְנִי אהביה אֹהֲבַי",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,21 @@
     },
     {
       "position": 2,
+      "text": "אהביה",
+      "lemma": "157",
+      "morph": "HVqrmpc/Sp3fs",
+      "strongs": [
+        "H157"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 23,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
       "text": "אֵהָב",
       "lemma": "157",
       "morph": "HVqi1cs",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וּמְשַׁחֲרַי",
       "lemma": "c/7836",
       "morph": "HC/Vprmpc/Sp1cs",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יִמְצָאֻנְנִי",
       "lemma": "4672",
       "morph": "HVqi3mp/Sp1cs",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אהביה",
       "lemma": null,
       "morph": null,
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֹהֲבַי",
       "lemma": "157",
       "morph": "HVqrmpc/Sp1cs",
@@ -90,8 +105,8 @@
     }
   ],
   "gematria": {
-    "standard": 925,
-    "ordinal": 232,
-    "reduced": 88
+    "standard": 948,
+    "ordinal": 255,
+    "reduced": 102
   }
 }

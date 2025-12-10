@@ -1,5 +1,5 @@
 {
-  "text": "הָאֵל מָעוּזִּי חָיִל וַיַּתֵּר תָּמִים דרכו דַּרְכִּי",
+  "text": "הָאֵל מָעוּזִּי חָיִל וַיַּתֵּר תָּמִים דרכו דרכו דַּרְכִּי",
   "words": [
     {
       "position": 1,
@@ -79,6 +79,21 @@
     {
       "position": 6,
       "text": "דרכו",
+      "lemma": "1870",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H1870"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 230,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "דרכו",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "דַּרְכִּי",
       "lemma": "1870",
       "morph": "HNcbsc/Sp1cs",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 1787,
-    "ordinal": 313,
-    "reduced": 95
+    "standard": 2017,
+    "ordinal": 354,
+    "reduced": 109
   }
 }

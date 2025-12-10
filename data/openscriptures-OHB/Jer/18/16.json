@@ -1,5 +1,5 @@
 {
-  "text": "לָשׂוּם אַרְצָם לְשַׁמָּה עוֹלָם כֹּל עוֹבֵר עָלֶיהָ יִשֹּׁם וְיָנִיד בְּרֹאשׁוֹ שרוקת שְׁרִיקוֹת",
+  "text": "לָשׂוּם אַרְצָם לְשַׁמָּה שרוקת עוֹלָם כֹּל עוֹבֵר עָלֶיהָ יִשֹּׁם וְיָנִיד בְּרֹאשׁוֹ שרוקת שְׁרִיקוֹת",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "שרוקת",
+      "lemma": "8292",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H8292"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 1006,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
       "text": "עוֹלָם",
       "lemma": "5769",
       "morph": "HNcmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כֹּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עוֹבֵר",
       "lemma": "5674 a",
       "morph": "HVqrmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עָלֶיהָ",
       "lemma": "5921 a",
       "morph": "HR/Sp3fs",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יִשֹּׁם",
       "lemma": "8074",
       "morph": "HVqi3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְיָנִיד",
       "lemma": "c/5110",
       "morph": "HC/Vhi3ms",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בְּרֹאשׁוֹ",
       "lemma": "b/7218 a",
       "morph": "HR/Ncmsc/Sp3ms",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "שרוקת",
       "lemma": null,
       "morph": null,
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "שְׁרִיקוֹת",
       "lemma": "8322",
       "morph": "HNcfpc",
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 4632,
-    "ordinal": 680,
-    "reduced": 177
+    "standard": 5638,
+    "ordinal": 768,
+    "reduced": 193
   }
 }

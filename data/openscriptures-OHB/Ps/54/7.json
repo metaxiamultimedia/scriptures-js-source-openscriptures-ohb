@@ -1,5 +1,5 @@
 {
-  "text": "ישוב יָשִׁיב הָרַע לְשֹׁרְרָי בַּאֲמִתְּךָ הַצְמִיתֵם",
+  "text": "ישוב יָשִׁיב ישוב הָרַע לְשֹׁרְרָי בַּאֲמִתְּךָ הַצְמִיתֵם",
   "words": [
     {
       "position": 1,
@@ -30,6 +30,21 @@
     },
     {
       "position": 3,
+      "text": "ישוב",
+      "lemma": "7725",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
       "text": "הָרַע",
       "lemma": "d/7451 b",
       "morph": "HTd/Aamsa",
@@ -44,7 +59,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לְשֹׁרְרָי",
       "lemma": "l/8324",
       "morph": "HR/Ncmpc/Sp1cs",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בַּאֲמִתְּךָ",
       "lemma": "b/571",
       "morph": "HR/Ncfsc/Sp2ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַצְמִיתֵם",
       "lemma": "6789",
       "morph": "HVhv2ms/Sp3mp",
@@ -90,8 +105,8 @@
     }
   ],
   "gematria": {
-    "standard": 2703,
-    "ordinal": 359,
-    "reduced": 84
+    "standard": 3021,
+    "ordinal": 398,
+    "reduced": 96
   }
 }

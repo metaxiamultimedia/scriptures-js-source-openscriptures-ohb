@@ -1,5 +1,5 @@
 {
-  "text": "יאשר וְאֻשַּׁר יְהוָה יִשְׁמְרֵהוּ וִיחַיֵּהוּ בָּאָרֶץ וְאַל תִּתְּנֵהוּ בְּנֶפֶשׁ אֹיְבָיו",
+  "text": "יאשר וְאֻשַּׁר יְהוָה יִשְׁמְרֵהוּ וִיחַיֵּהוּ יאשר בָּאָרֶץ וְאַל תִּתְּנֵהוּ בְּנֶפֶשׁ אֹיְבָיו",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "יאשר",
+      "lemma": "833",
+      "morph": "HTi",
+      "strongs": [
+        "H833"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 52,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
       "text": "בָּאָרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְאַל",
       "lemma": "c/408",
       "morph": "HC/Tn",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תִּתְּנֵהוּ",
       "lemma": "5414",
       "morph": "HVqj2ms/Sp3ms",
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בְּנֶפֶשׁ",
       "lemma": "b/5315",
       "morph": "HR/Ncbsc",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֹיְבָיו",
       "lemma": "341",
       "morph": "HVqrmpc/Sp3ms",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 3302,
-    "ordinal": 467,
-    "reduced": 161
+    "standard": 3813,
+    "ordinal": 519,
+    "reduced": 168
   }
 }

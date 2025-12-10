@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי חָגָב בְּנֵי בְּנֵי חָנָן שמלי שַׁלְמַי",
+  "text": "בְּנֵי חָגָב בְּנֵי שמלי בְּנֵי חָנָן שמלי שַׁלְמַי",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "שמלי",
+      "lemma": "8073",
+      "morph": "HNp",
+      "strongs": [
+        "H8073"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "חָנָן",
       "lemma": "2605",
       "morph": "HNp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "שמלי",
       "lemma": null,
       "morph": null,
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שַׁלְמַי",
       "lemma": "8014",
       "morph": "HNp",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 1067,
-    "ordinal": 250,
-    "reduced": 77
+    "standard": 1447,
+    "ordinal": 306,
+    "reduced": 88
   }
 }

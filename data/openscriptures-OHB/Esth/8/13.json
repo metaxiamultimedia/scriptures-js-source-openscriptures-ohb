@@ -1,5 +1,5 @@
 {
-  "text": "פַּתְשֶׁגֶן הַכְּתָב לְהִנָּתֵן דָּת בְּכָל מְדִינָה וּמְדִינָה גָּלוּי לְכָל הָעַמִּים וְלִהְיוֹת לַיּוֹם הַזֶּה לְהִנָּקֵם מֵאֹיְבֵיהֶם היהודיים הַיְּהוּדִים עתודים עֲתִידִים",
+  "text": "פַּתְשֶׁגֶן הַכְּתָב לְהִנָּתֵן דָּת בְּכָל מְדִינָה וּמְדִינָה גָּלוּי לְכָל הָעַמִּים וְלִהְיוֹת היהודיים עתודים לַיּוֹם הַזֶּה לְהִנָּקֵם מֵאֹיְבֵיהֶם היהודיים הַיְּהוּדִים עתודים עֲתִידִים",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,36 @@
     },
     {
       "position": 12,
+      "text": "היהודיים",
+      "lemma": "d/3064",
+      "morph": "HTd/Ngmpa",
+      "strongs": [
+        "H3064"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 90,
+        "ordinal": 74,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "עתודים",
+      "lemma": "6259",
+      "morph": "HAampa",
+      "strongs": [
+        "H6259"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 82,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 14,
       "text": "לַיּוֹם",
       "lemma": "l/3117",
       "morph": "HRd/Ncmsa",
@@ -182,7 +212,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "הַזֶּה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -197,7 +227,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "לְהִנָּקֵם",
       "lemma": "l/5358",
       "morph": "HR/VNc",
@@ -212,7 +242,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "מֵאֹיְבֵיהֶם",
       "lemma": "m/341",
       "morph": "HR/Vqrmpc/Sp3mp",
@@ -227,7 +257,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "היהודיים",
       "lemma": null,
       "morph": null,
@@ -239,7 +269,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "הַיְּהוּדִים",
       "lemma": "d/3064",
       "morph": "HTd/Ngmpa",
@@ -254,7 +284,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "עתודים",
       "lemma": null,
       "morph": null,
@@ -266,7 +296,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "עֲתִידִים",
       "lemma": "6264",
       "morph": "HAampa",
@@ -282,8 +312,8 @@
     }
   ],
   "gematria": {
-    "standard": 4896,
-    "ordinal": 1064,
-    "reduced": 351
+    "standard": 5516,
+    "ordinal": 1220,
+    "reduced": 404
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "וְעַל קַרְנַיָּא עֲשַׂר דִּי בְרֵאשַׁהּ וְאָחֳרִי דִּי סִלְקַת מִן תְּלָת וְקַרְנָא דִכֵּן וְעַיְנִין לַהּ וְפֻם מְמַלִּל רַבְרְבָן וְחֶזְוַהּ רַב מִן חַבְרָתַהּ ונפלו וּנְפַלָה קדמיה קֳדָמַהּ",
+  "text": "וְעַל קַרְנַיָּא עֲשַׂר דִּי בְרֵאשַׁהּ וְאָחֳרִי דִּי סִלְקַת ונפלו מִן קדמיה תְּלָת וְקַרְנָא דִכֵּן וְעַיְנִין לַהּ וְפֻם מְמַלִּל רַבְרְבָן וְחֶזְוַהּ רַב מִן חַבְרָתַהּ ונפלו וּנְפַלָה קדמיה קֳדָמַהּ",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "ונפלו",
+      "lemma": "c/5308",
+      "morph": "AC/Vqp3mp",
+      "strongs": [
+        "H5308"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 172,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -137,7 +152,22 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
+      "text": "קדמיה",
+      "lemma": "6925",
+      "morph": "AR/Sp3fs",
+      "strongs": [
+        "H6925"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
       "text": "תְּלָת",
       "lemma": "8532",
       "morph": "AAcbsa",
@@ -152,7 +182,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "וְקַרְנָא",
       "lemma": "c/7162",
       "morph": "AC/Ncfsd/Td",
@@ -167,7 +197,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "דִכֵּן",
       "lemma": "1797",
       "morph": "APdxcs",
@@ -182,7 +212,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "וְעַיְנִין",
       "lemma": "c/5870",
       "morph": "AC/Ncfpa",
@@ -197,7 +227,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "לַהּ",
       "lemma": "l",
       "morph": "AR/Sp3fs",
@@ -209,7 +239,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "וְפֻם",
       "lemma": "c/6433",
       "morph": "AC/Ncmsa",
@@ -224,7 +254,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "מְמַלִּל",
       "lemma": "4449",
       "morph": "AVprmsa",
@@ -239,7 +269,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "רַבְרְבָן",
       "lemma": "7260",
       "morph": "AAafpa",
@@ -254,7 +284,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "וְחֶזְוַהּ",
       "lemma": "c/2376",
       "morph": "AC/Ncmsc/Sp3fs",
@@ -269,7 +299,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "רַב",
       "lemma": "7229",
       "morph": "AAamsa",
@@ -284,7 +314,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -299,7 +329,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 23,
       "text": "חַבְרָתַהּ",
       "lemma": "2273",
       "morph": "ANcfpc/Sp3fs",
@@ -314,7 +344,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 24,
       "text": "ונפלו",
       "lemma": null,
       "morph": null,
@@ -326,7 +356,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 25,
       "text": "וּנְפַלָה",
       "lemma": "c/5308",
       "morph": "AC/Vqp3fp",
@@ -341,7 +371,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 26,
       "text": "קדמיה",
       "lemma": null,
       "morph": null,
@@ -353,7 +383,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 27,
       "text": "קֳדָמַהּ",
       "lemma": "6925",
       "morph": "AR/Sp3fs",
@@ -369,8 +399,8 @@
     }
   ],
   "gematria": {
-    "standard": 6280,
-    "ordinal": 1153,
-    "reduced": 367
+    "standard": 6611,
+    "ordinal": 1259,
+    "reduced": 410
   }
 }

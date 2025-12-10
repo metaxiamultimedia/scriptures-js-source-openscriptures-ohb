@@ -1,5 +1,5 @@
 {
-  "text": "וּמָה דִי וְעַל יֵיטַב בִּשְׁאָר כַּסְפָּא וְדַהֲבָה לְמֶעְבַּד כִּרְעוּת אֱלָהֲכֹם תַּעַבְדוּן עליך עֲלָךְ אחיך אֶחָךְ",
+  "text": "וּמָה דִי עליך וְעַל אחיך יֵיטַב בִּשְׁאָר כַּסְפָּא וְדַהֲבָה לְמֶעְבַּד כִּרְעוּת אֱלָהֲכֹם תַּעַבְדוּן עליך עֲלָךְ אחיך אֶחָךְ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "עליך",
+      "lemma": "5921 a",
+      "morph": "AR/Sp2ms",
+      "strongs": [
+        "H5921"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 130,
+        "ordinal": 61,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
       "text": "וְעַל",
       "lemma": "c/5922",
       "morph": "AC/R",
@@ -47,7 +62,22 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
+      "text": "אחיך",
+      "lemma": "252",
+      "morph": "ANcmpc/Sp2ms",
+      "strongs": [
+        "H252"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 39,
+        "ordinal": 42,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
       "text": "יֵיטַב",
       "lemma": "3191",
       "morph": "AVqi3ms",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "בִּשְׁאָר",
       "lemma": "b/7606",
       "morph": "AR/Ncmsc",
@@ -77,7 +107,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "כַּסְפָּא",
       "lemma": "3702",
       "morph": "ANcmsd/Td",
@@ -92,7 +122,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "וְדַהֲבָה",
       "lemma": "c/1722",
       "morph": "AC/Ncmsd/Td",
@@ -107,7 +137,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "לְמֶעְבַּד",
       "lemma": "l/5648",
       "morph": "AR/Vqc",
@@ -122,7 +152,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "כִּרְעוּת",
       "lemma": "k/7470",
       "morph": "AR/Ncfsc",
@@ -137,7 +167,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "אֱלָהֲכֹם",
       "lemma": "426",
       "morph": "ANcmsc/Sp2mp",
@@ -152,7 +182,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "תַּעַבְדוּן",
       "lemma": "5648",
       "morph": "AVqi2mp",
@@ -167,7 +197,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "עליך",
       "lemma": null,
       "morph": null,
@@ -179,7 +209,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "עֲלָךְ",
       "lemma": "5921 a",
       "morph": "AR/Sp2ms",
@@ -194,7 +224,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "אחיך",
       "lemma": null,
       "morph": null,
@@ -206,7 +236,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "אֶחָךְ",
       "lemma": "252",
       "morph": "ANcmsc/Sp2ms",
@@ -222,8 +252,8 @@
     }
   ],
   "gematria": {
-    "standard": 2676,
-    "ordinal": 649,
-    "reduced": 228
+    "standard": 2845,
+    "ordinal": 752,
+    "reduced": 253
   }
 }

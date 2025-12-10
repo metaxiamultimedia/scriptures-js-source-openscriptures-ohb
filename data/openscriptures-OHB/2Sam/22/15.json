@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּשְׁלַח חִצִּים וַיְפִיצֵם בָּרָק ויהמם וַיָּהֹם",
+  "text": "וַיִּשְׁלַח חִצִּים וַיְפִיצֵם בָּרָק ויהמם ויהמם וַיָּהֹם",
   "words": [
     {
       "position": 1,
@@ -64,6 +64,21 @@
     {
       "position": 5,
       "text": "ויהמם",
+      "lemma": "c/2000",
+      "morph": "HC/Vhw3ms/Sp3mp",
+      "strongs": [
+        "H2000"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 101,
+        "ordinal": 58,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "ויהמם",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וַיָּהֹם",
       "lemma": "c/2000",
       "morph": "HC/Vhw3ms",
@@ -90,8 +105,8 @@
     }
   ],
   "gematria": {
-    "standard": 1202,
-    "ordinal": 346,
-    "reduced": 113
+    "standard": 1303,
+    "ordinal": 404,
+    "reduced": 133
   }
 }

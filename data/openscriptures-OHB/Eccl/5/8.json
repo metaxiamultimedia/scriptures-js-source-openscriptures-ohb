@@ -1,5 +1,5 @@
 {
-  "text": "היא הוּא וְיִתְרוֹן אֶרֶץ בַּכֹּל מֶלֶךְ לְשָׂדֶה נֶעֱבָד",
+  "text": "היא הוּא וְיִתְרוֹן אֶרֶץ בַּכֹּל היא מֶלֶךְ לְשָׂדֶה נֶעֱבָד",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "היא",
+      "lemma": "1931",
+      "morph": "HPp3fs",
+      "strongs": [
+        "H1931"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 16,
+        "ordinal": 16,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
       "text": "מֶלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsa",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לְשָׂדֶה",
       "lemma": "l/7704 b",
       "morph": "HR/Ncmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "נֶעֱבָד",
       "lemma": "5647",
       "morph": "HVNp3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1598,
-    "ordinal": 316,
-    "reduced": 104
+    "standard": 1614,
+    "ordinal": 332,
+    "reduced": 111
   }
 }

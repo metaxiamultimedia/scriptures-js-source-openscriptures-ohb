@@ -1,8 +1,23 @@
 {
-  "text": "הַכַּרְמְלִי פַּעֲרַי הָאַרְבִּי חצרו חֶצְרַי",
+  "text": "חצרו הַכַּרְמְלִי פַּעֲרַי הָאַרְבִּי חצרו חֶצְרַי",
   "words": [
     {
       "position": 1,
+      "text": "חצרו",
+      "lemma": "2695",
+      "morph": "HNp",
+      "strongs": [
+        "H2695"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
       "text": "הַכַּרְמְלִי",
       "lemma": "d/3761",
       "morph": "HTd/Ngmsa",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "פַּעֲרַי",
       "lemma": "6474",
       "morph": "HNp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "הָאַרְבִּי",
       "lemma": "d/701",
       "morph": "HTd/Ngmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "חצרו",
       "lemma": null,
       "morph": null,
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "חֶצְרַי",
       "lemma": "2695",
       "morph": "HNp",
@@ -75,8 +90,8 @@
     }
   ],
   "gematria": {
-    "standard": 1495,
-    "ordinal": 280,
-    "reduced": 91
+    "standard": 1799,
+    "ordinal": 332,
+    "reduced": 116
   }
 }

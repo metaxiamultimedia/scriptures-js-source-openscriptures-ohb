@@ -1,5 +1,5 @@
 {
-  "text": "מֵשִׁיב רָעָה תַּחַת טוֹבָה לֹא רָעָה מִבֵּיתוֹ תמיש תָמוּשׁ",
+  "text": "מֵשִׁיב רָעָה תַּחַת טוֹבָה לֹא תמיש רָעָה מִבֵּיתוֹ תמיש תָמוּשׁ",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "תמיש",
+      "lemma": "4185",
+      "morph": "HVhi3fs",
+      "strongs": [
+        "H4185"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 66,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
       "text": "רָעָה",
       "lemma": "7451 c",
       "morph": "HNcfsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מִבֵּיתוֹ",
       "lemma": "m/1004 b",
       "morph": "HR/Ncmsc/Sp3ms",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תמיש",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "תָמוּשׁ",
       "lemma": "4185",
       "morph": "HVqi3fs",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 3717,
-    "ordinal": 396,
-    "reduced": 126
+    "standard": 4467,
+    "ordinal": 462,
+    "reduced": 138
   }
 }

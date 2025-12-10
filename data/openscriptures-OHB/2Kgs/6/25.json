@@ -1,5 +1,5 @@
 {
-  "text": "וַיְהִי רָעָב גָּדוֹל בְּשֹׁמְרוֹן וְהִנֵּה צָרִים עָלֶיהָ עַד הֱיוֹת רֹאשׁ חֲמוֹר בִּשְׁמֹנִים כֶּסֶף וְרֹבַע הַקַּב בַּחֲמִשָּׁה כָסֶף חרייונים דִּבְיוֹנִים",
+  "text": "וַיְהִי רָעָב גָּדוֹל בְּשֹׁמְרוֹן וְהִנֵּה צָרִים עָלֶיהָ עַד הֱיוֹת רֹאשׁ חֲמוֹר בִּשְׁמֹנִים כֶּסֶף וְרֹבַע הַקַּב חרי יונים בַּחֲמִשָּׁה כָסֶף חרייונים דִּבְיוֹנִים",
   "words": [
     {
       "position": 1,
@@ -228,9 +228,39 @@
     },
     {
       "position": 16,
+      "text": "חרי",
+      "lemma": "2755",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H2755"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 218,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "יונים",
+      "lemma": "3123",
+      "morph": "HNcfpa",
+      "strongs": [
+        "H3123"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 116,
+        "ordinal": 64,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
       "text": "בַּחֲמִשָּׁה",
       "lemma": "b/2568",
-      "morph": "HR/Acmsa",
+      "morph": "HRd/Acmsa",
       "strongs": [
         "H2568"
       ],
@@ -242,7 +272,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "כָסֶף",
       "lemma": "3701",
       "morph": "HNcmsa",
@@ -257,7 +287,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "חרייונים",
       "lemma": null,
       "morph": null,
@@ -269,7 +299,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "דִּבְיוֹנִים",
       "lemma": "1686",
       "morph": "HNcmpa",
@@ -285,8 +315,8 @@
     }
   ],
   "gematria": {
-    "standard": 4673,
-    "ordinal": 957,
-    "reduced": 317
+    "standard": 5007,
+    "ordinal": 1059,
+    "reduced": 345
   }
 }

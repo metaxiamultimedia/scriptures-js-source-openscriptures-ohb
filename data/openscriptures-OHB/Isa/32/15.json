@@ -1,5 +1,5 @@
 {
-  "text": "עַד יֵעָרֶה עָלֵינוּ רוּחַ מִמָּרוֹם וְהָיָה מִדְבָּר לַכַּרְמֶל לַיַּעַר יֵחָשֵׁב וכרמל וְהַכַּרְמֶל",
+  "text": "עַד יֵעָרֶה עָלֵינוּ רוּחַ מִמָּרוֹם וְהָיָה מִדְבָּר לַכַּרְמֶל וכרמל לַיַּעַר יֵחָשֵׁב וכרמל וְהַכַּרְמֶל",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "וכרמל",
+      "lemma": "c/3759",
+      "morph": "HC/Ncmsa",
+      "strongs": [
+        "H3759"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 296,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
       "text": "לַיַּעַר",
       "lemma": "l/3293 a",
       "morph": "HRd/Ncmsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יֵחָשֵׁב",
       "lemma": "2803",
       "morph": "HVNi3ms",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וכרמל",
       "lemma": null,
       "morph": null,
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְהַכַּרְמֶל",
       "lemma": "c/d/3759",
       "morph": "HC/Td/Ncmsa",
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 2884,
-    "ordinal": 600,
-    "reduced": 193
+    "standard": 3180,
+    "ordinal": 662,
+    "reduced": 210
   }
 }

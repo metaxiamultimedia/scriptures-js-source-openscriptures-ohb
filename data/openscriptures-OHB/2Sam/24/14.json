@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר דָּוִד אֶל גָּד צַר לִי מְאֹד נִפְּלָה נָּא בְיַד יְהוָה כִּי רַבִּים וּבְיַד אָדָם אַל אֶפֹּלָה רחמו רַחֲמָיו",
+  "text": "וַיֹּאמֶר דָּוִד אֶל גָּד צַר לִי מְאֹד נִפְּלָה נָּא בְיַד יְהוָה כִּי רַבִּים רחמו וּבְיַד אָדָם אַל אֶפֹּלָה רחמו רַחֲמָיו",
   "words": [
     {
       "position": 1,
@@ -195,6 +195,21 @@
     },
     {
       "position": 14,
+      "text": "רחמו",
+      "lemma": "7356 b",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H7356"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 254,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
       "text": "וּבְיַד",
       "lemma": "c/b/3027",
       "morph": "HC/R/Ncbsc",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אָדָם",
       "lemma": "120",
       "morph": "HNcmsa",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אַל",
       "lemma": "408",
       "morph": "HTn",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֶפֹּלָה",
       "lemma": "5307",
       "morph": "HVqh1cs",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "רחמו",
       "lemma": null,
       "morph": null,
@@ -266,7 +281,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "רַחֲמָיו",
       "lemma": "7356 b",
       "morph": "HNcmpc/Sp3ms",
@@ -282,8 +297,8 @@
     }
   ],
   "gematria": {
-    "standard": 1956,
-    "ordinal": 547,
-    "reduced": 210
+    "standard": 2210,
+    "ordinal": 594,
+    "reduced": 230
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "עָלָיו יִשְׁאֲגוּ כְפִרִים נָתְנוּ קוֹלָם וַיָּשִׁיתוּ אַרְצוֹ לְשַׁמָּה עָרָיו מִבְּלִי יֹשֵׁב נצתה נִצְּתוּ",
+  "text": "עָלָיו יִשְׁאֲגוּ כְפִרִים נָתְנוּ קוֹלָם וַיָּשִׁיתוּ אַרְצוֹ לְשַׁמָּה עָרָיו נצתה מִבְּלִי יֹשֵׁב נצתה נִצְּתוּ",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,21 @@
     },
     {
       "position": 10,
+      "text": "נצתה",
+      "lemma": "3341",
+      "morph": "HVNp3fs",
+      "strongs": [
+        "H3341"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 545,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
       "text": "מִבְּלִי",
       "lemma": "m/1097",
       "morph": "HR/Ncmsc",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יֹשֵׁב",
       "lemma": "3427",
       "morph": "HVqrmsa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "נצתה",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "נִצְּתוּ",
       "lemma": "3341",
       "morph": "HVNp3cp",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 4643,
-    "ordinal": 696,
-    "reduced": 215
+    "standard": 5188,
+    "ordinal": 755,
+    "reduced": 238
   }
 }

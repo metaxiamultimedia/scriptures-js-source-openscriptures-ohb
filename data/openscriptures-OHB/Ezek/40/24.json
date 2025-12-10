@@ -1,5 +1,5 @@
 {
-  "text": "וַיּוֹלִכֵנִי דֶּרֶךְ הַדָּרוֹם וְהִנֵּה שַׁעַר דֶּרֶךְ הַדָּרוֹם וּמָדַד כַּמִּדּוֹת הָאֵלֶּה אילו אֵילָיו ואילמו וְאֵילַמָּיו",
+  "text": "וַיּוֹלִכֵנִי דֶּרֶךְ הַדָּרוֹם וְהִנֵּה שַׁעַר דֶּרֶךְ הַדָּרוֹם וּמָדַד אילו ואילמו כַּמִּדּוֹת הָאֵלֶּה אילו אֵילָיו ואילמו וְאֵילַמָּיו",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,36 @@
     },
     {
       "position": 9,
+      "text": "אילו",
+      "lemma": "352 b",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H352"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 47,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ואילמו",
+      "lemma": "c/361",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H361"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
       "text": "כַּמִּדּוֹת",
       "lemma": "k/4060 a",
       "morph": "HRd/Ncfpa",
@@ -137,7 +167,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "הָאֵלֶּה",
       "lemma": "d/428",
       "morph": "HTd/Pdxcp",
@@ -152,7 +182,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "אילו",
       "lemma": null,
       "morph": null,
@@ -164,7 +194,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "אֵילָיו",
       "lemma": "352 b",
       "morph": "HNcmpc/Sp3ms",
@@ -179,7 +209,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "ואילמו",
       "lemma": null,
       "morph": null,
@@ -191,7 +221,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "וְאֵילַמָּיו",
       "lemma": "c/361",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -207,8 +237,8 @@
     }
   ],
   "gematria": {
-    "standard": 2591,
-    "ordinal": 648,
-    "reduced": 233
+    "standard": 2731,
+    "ordinal": 725,
+    "reduced": 265
   }
 }

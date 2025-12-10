@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּמָד אֶת אֻלָם הַשַּׁעַר שְׁמֹנֶה אַמּוֹת שְׁתַּיִם אַמּוֹת וְאֻלָם הַשַּׁעַר מֵהַבָּיִת ואילו וְאֵילָיו",
+  "text": "וַיָּמָד אֶת אֻלָם הַשַּׁעַר שְׁמֹנֶה אַמּוֹת ואילו שְׁתַּיִם אַמּוֹת וְאֻלָם הַשַּׁעַר מֵהַבָּיִת ואילו וְאֵילָיו",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "ואילו",
+      "lemma": "c/352 b",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H352"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
       "text": "שְׁתַּיִם",
       "lemma": "8147",
       "morph": "HAcfda",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אַמּוֹת",
       "lemma": "520 a",
       "morph": "HNcfpa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְאֻלָם",
       "lemma": "c/197",
       "morph": "HC/Ncmsc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הַשַּׁעַר",
       "lemma": "d/8179",
       "morph": "HTd/Ncmsa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מֵהַבָּיִת",
       "lemma": "m/d/1004 b",
       "morph": "HR/Td/Ncmsa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "ואילו",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְאֵילָיו",
       "lemma": "c/352 b",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 4371,
-    "ordinal": 606,
-    "reduced": 186
+    "standard": 4424,
+    "ordinal": 641,
+    "reduced": 203
   }
 }

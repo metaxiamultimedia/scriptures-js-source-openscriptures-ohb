@@ -1,5 +1,5 @@
 {
-  "text": "אֲבֹתֵינוּ חָטְאוּ עֲוֺנֹתֵיהֶם סָבָלְנוּ אינם וְאֵינָם אנחנו וַאֲנַחְנוּ",
+  "text": "אֲבֹתֵינוּ חָטְאוּ אינם אנחנו עֲוֺנֹתֵיהֶם סָבָלְנוּ אינם וְאֵינָם אנחנו וַאֲנַחְנוּ",
   "words": [
     {
       "position": 1,
@@ -30,6 +30,36 @@
     },
     {
       "position": 3,
+      "text": "אינם",
+      "lemma": "369",
+      "morph": "HTn/Sp3mp",
+      "strongs": [
+        "H369"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 101,
+        "ordinal": 49,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "אנחנו",
+      "lemma": "587",
+      "morph": "HPp1cp",
+      "strongs": [
+        "H587"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 115,
+        "ordinal": 43,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
       "text": "עֲוֺנֹתֵיהֶם",
       "lemma": "5771",
       "morph": "HNcbpc/Sp3mp",
@@ -44,7 +74,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "סָבָלְנוּ",
       "lemma": "5445",
       "morph": "HVqp1cp",
@@ -59,7 +89,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "אינם",
       "lemma": null,
       "morph": null,
@@ -71,7 +101,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "וְאֵינָם",
       "lemma": "c/369",
       "morph": "HC/Tn/Sp3mp",
@@ -86,7 +116,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "אנחנו",
       "lemma": null,
       "morph": null,
@@ -98,7 +128,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "וַאֲנַחְנוּ",
       "lemma": "c/587",
       "morph": "HC/Pp1cp",
@@ -114,8 +144,8 @@
     }
   ],
   "gematria": {
-    "standard": 1666,
-    "ordinal": 421,
-    "reduced": 181
+    "standard": 1882,
+    "ordinal": 513,
+    "reduced": 217
   }
 }

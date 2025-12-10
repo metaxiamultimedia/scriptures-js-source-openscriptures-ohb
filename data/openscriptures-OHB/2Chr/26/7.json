@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעְזְרֵהוּ הָאֱלֹהִים עַל פְּלִשְׁתִּים וְעַל הַיֹּשְׁבִים בְּגוּר בָּעַל וְהַמְּעוּנִים הערביים הָעַרְבִים",
+  "text": "וַיַּעְזְרֵהוּ הָאֱלֹהִים עַל פְּלִשְׁתִּים וְעַל הערביים הַיֹּשְׁבִים בְּגוּר בָּעַל וְהַמְּעוּנִים הערביים הָעַרְבִים",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "הערביים",
+      "lemma": "d/6163 b",
+      "morph": "HTd/Ngmpa",
+      "strongs": [
+        "H6163"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 337,
+        "ordinal": 87,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
       "text": "הַיֹּשְׁבִים",
       "lemma": "d/3427",
       "morph": "HTd/Vqrmpa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בְּגוּר",
       "lemma": "b/1485+",
       "morph": "HR/Np",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בָּעַל",
       "lemma": "1485",
       "morph": "HNp",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְהַמְּעוּנִים",
       "lemma": "c/d/4586",
       "morph": "HC/Td/Ngmpa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הערביים",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הָעַרְבִים",
       "lemma": "d/6163 b",
       "morph": "HTd/Ngmpa",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 3032,
-    "ordinal": 686,
-    "reduced": 224
+    "standard": 3369,
+    "ordinal": 773,
+    "reduced": 246
   }
 }

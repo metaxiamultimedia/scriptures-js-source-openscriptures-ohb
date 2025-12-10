@@ -1,5 +1,5 @@
 {
-  "text": "אַךְ אֶת זֶה תֹּאכְלוּ מִכֹּל שֶׁרֶץ הָעוֹף הַהֹלֵךְ עַל אַרְבַּע אֲשֶׁר כְרָעַיִם מִמַּעַל לְרַגְלָיו לְנַתֵּר בָּהֵן עַל הָאָרֶץ לא לוֹ",
+  "text": "אַךְ אֶת זֶה תֹּאכְלוּ מִכֹּל שֶׁרֶץ הָעוֹף הַהֹלֵךְ עַל אַרְבַּע אֲשֶׁר לא כְרָעַיִם מִמַּעַל לְרַגְלָיו לְנַתֵּר בָּהֵן עַל הָאָרֶץ לא לוֹ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,21 @@
     },
     {
       "position": 12,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
       "text": "כְרָעַיִם",
       "lemma": "3767",
       "morph": "HNcbda",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מִמַּעַל",
       "lemma": "m/4605",
       "morph": "HR/D",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "לְרַגְלָיו",
       "lemma": "l/7272",
       "morph": "HR/Ncfdc/Sp3ms",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לְנַתֵּר",
       "lemma": "l/5425 a",
       "morph": "HR/Vpc",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בָּהֵן",
       "lemma": "b/2004",
       "morph": "HR/Sp3fp",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לא",
       "lemma": null,
       "morph": null,
@@ -284,7 +299,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -297,8 +312,8 @@
     }
   ],
   "gematria": {
-    "standard": 4665,
-    "ordinal": 832,
-    "reduced": 246
+    "standard": 4696,
+    "ordinal": 845,
+    "reduced": 250
   }
 }

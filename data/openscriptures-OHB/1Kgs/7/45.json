@@ -1,5 +1,5 @@
 {
-  "text": "וְאֶת הַסִּירוֹת וְאֶת הַיָּעִים וְאֶת הַמִּזְרָקוֹת וְאֵת כָּל הַכֵּלִים אֲשֶׁר עָשָׂה חִירָם לַמֶּלֶךְ שְׁלֹמֹה בֵּית יְהוָה נְחֹשֶׁת מְמֹרָט האהל הָאֵלֶּה",
+  "text": "וְאֶת הַסִּירוֹת וְאֶת הַיָּעִים וְאֶת הַמִּזְרָקוֹת וְאֵת כָּל הַכֵּלִים האהל אֲשֶׁר עָשָׂה חִירָם לַמֶּלֶךְ שְׁלֹמֹה בֵּית יְהוָה נְחֹשֶׁת מְמֹרָט האהל הָאֵלֶּה",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,21 @@
     },
     {
       "position": 10,
+      "text": "האהל",
+      "lemma": "d/428",
+      "morph": "HTd/Pdxcp",
+      "strongs": [
+        "H428"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 41,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עָשָׂה",
       "lemma": "6213 a",
       "morph": "HVqp3ms",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "חִירָם",
       "lemma": "2438",
       "morph": "HNp",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לַמֶּלֶךְ",
       "lemma": "l/4428",
       "morph": "HRd/Ncmsa",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שְׁלֹמֹה",
       "lemma": "8010",
       "morph": "HNp",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בֵּית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "נְחֹשֶׁת",
       "lemma": "5178 a",
       "morph": "HNcfsa",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "מְמֹרָט",
       "lemma": "4803",
       "morph": "HVPsmsa",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "האהל",
       "lemma": null,
       "morph": null,
@@ -284,7 +299,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "הָאֵלֶּה",
       "lemma": "d/428",
       "morph": "HTd/Pdxcp",
@@ -300,8 +315,8 @@
     }
   ],
   "gematria": {
-    "standard": 6553,
-    "ordinal": 919,
-    "reduced": 289
+    "standard": 6594,
+    "ordinal": 942,
+    "reduced": 303
   }
 }

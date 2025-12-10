@@ -1,5 +1,5 @@
 {
-  "text": "בְּיַד מַלְאָכֶיךָ חֵרַפְתָּ אֲדֹנָי וַתֹּאמֶר רִכְבִּי אֲנִי עָלִיתִי מְרוֹם הָרִים יַרְכְּתֵי לְבָנוֹן וְאֶכְרֹת קוֹמַת אֲרָזָיו מִבְחוֹר בְּרֹשָׁיו וְאָבוֹאָה מְלוֹן קִצֹּה יַעַר כַּרְמִלּוֹ ברכב בְּרֹב",
+  "text": "בְּיַד מַלְאָכֶיךָ חֵרַפְתָּ אֲדֹנָי וַתֹּאמֶר ברכב רִכְבִּי אֲנִי עָלִיתִי מְרוֹם הָרִים יַרְכְּתֵי לְבָנוֹן וְאֶכְרֹת קוֹמַת אֲרָזָיו מִבְחוֹר בְּרֹשָׁיו וְאָבוֹאָה מְלוֹן קִצֹּה יַעַר כַּרְמִלּוֹ ברכב בְּרֹב",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "ברכב",
+      "lemma": "b/7393",
+      "morph": "HR/Ncmsc",
+      "strongs": [
+        "H7393"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 224,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
       "text": "רִכְבִּי",
       "lemma": "7393",
       "morph": "HNcmsc/Sp1cs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֲנִי",
       "lemma": "589",
       "morph": "HPp1cs",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עָלִיתִי",
       "lemma": "5927",
       "morph": "HVqp1cs",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מְרוֹם",
       "lemma": "4791",
       "morph": "HNcmsc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הָרִים",
       "lemma": "2022",
       "morph": "HNcmpa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יַרְכְּתֵי",
       "lemma": "3411",
       "morph": "HNcfdc",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לְבָנוֹן",
       "lemma": "3844",
       "morph": "HNp",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְאֶכְרֹת",
       "lemma": "c/3772",
       "morph": "HC/Vqi1cs",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "קוֹמַת",
       "lemma": "6967",
       "morph": "HNcfsc",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֲרָזָיו",
       "lemma": "730",
       "morph": "HNcmpc/Sp3ms",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מִבְחוֹר",
       "lemma": "4005",
       "morph": "HNcmsc",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בְּרֹשָׁיו",
       "lemma": "1265",
       "morph": "HNcmpc/Sp3ms",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וְאָבוֹאָה",
       "lemma": "c/935",
       "morph": "HC/Vqh1cs",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "מְלוֹן",
       "lemma": "4411",
       "morph": "HNcmsc",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "קִצֹּה",
       "lemma": "7093",
       "morph": "HNcmsc/Sp3ms",
@@ -302,7 +317,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "יַעַר",
       "lemma": "3293 a",
       "morph": "HNcmsc",
@@ -317,7 +332,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "כַּרְמִלּוֹ",
       "lemma": "3759",
       "morph": "HNcmsc/Sp3ms",
@@ -332,7 +347,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "ברכב",
       "lemma": null,
       "morph": null,
@@ -344,7 +359,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "בְּרֹב",
       "lemma": "b/7230",
       "morph": "HR/Ncbsc",
@@ -360,8 +375,8 @@
     }
   ],
   "gematria": {
-    "standard": 7186,
-    "ordinal": 1194,
-    "reduced": 337
+    "standard": 7410,
+    "ordinal": 1229,
+    "reduced": 345
   }
 }

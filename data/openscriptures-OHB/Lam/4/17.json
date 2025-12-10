@@ -1,8 +1,23 @@
 {
-  "text": "תִּכְלֶינָה עֵינֵינוּ אֶל עֶזְרָתֵנוּ הָבֶל בְּצִפִּיָּתֵנוּ צִפִּינוּ אֶל גּוֹי לֹא יוֹשִׁעַ עודינה עוֹדֵינוּ",
+  "text": "עודינה תִּכְלֶינָה עֵינֵינוּ אֶל עֶזְרָתֵנוּ הָבֶל בְּצִפִּיָּתֵנוּ צִפִּינוּ אֶל גּוֹי לֹא יוֹשִׁעַ עודינה עוֹדֵינוּ",
   "words": [
     {
       "position": 1,
+      "text": "עודינה",
+      "lemma": "5750",
+      "morph": "HD/Sp3fp",
+      "strongs": [
+        "H5750"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
       "text": "תִּכְלֶינָה",
       "lemma": "3615",
       "morph": "HVqi3fp",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "עֵינֵינוּ",
       "lemma": "5869 a",
       "morph": "HNcbdc/Sp1cp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "עֶזְרָתֵנוּ",
       "lemma": "5833",
       "morph": "HNcfsc/Sp1cp",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "הָבֶל",
       "lemma": "1892",
       "morph": "HNcmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּצִפִּיָּתֵנוּ",
       "lemma": "b/6836",
       "morph": "HR/Ncfsc/Sp1cp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "צִפִּינוּ",
       "lemma": "6822",
       "morph": "HVpp1cp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "גּוֹי",
       "lemma": "1471 a",
       "morph": "HNcmsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יוֹשִׁעַ",
       "lemma": "3467",
       "morph": "HVhi3ms",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "עודינה",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עוֹדֵינוּ",
       "lemma": "5750",
       "morph": "HD/Sp1cp",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 3144,
-    "ordinal": 624,
-    "reduced": 246
+    "standard": 3289,
+    "ordinal": 679,
+    "reduced": 274
   }
 }

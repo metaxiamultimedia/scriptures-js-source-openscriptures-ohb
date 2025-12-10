@@ -1,5 +1,5 @@
 {
-  "text": "אוֹ עָשִׂיתִי שֶׁקֶר וְכָל דָּבָר לֹא יִכָּחֵד מִן הַמֶּלֶךְ וְאַתָּה תִּתְיַצֵּב מִנֶּגֶד בנפשו בְנַפְשִׁי",
+  "text": "אוֹ עָשִׂיתִי בנפשו שֶׁקֶר וְכָל דָּבָר לֹא יִכָּחֵד מִן הַמֶּלֶךְ וְאַתָּה תִּתְיַצֵּב מִנֶּגֶד בנפשו בְנַפְשִׁי",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "בנפשו",
+      "lemma": "b/5315",
+      "morph": "HR/Ncbsc/Sp3ms",
+      "strongs": [
+        "H5315"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
       "text": "שֶׁקֶר",
       "lemma": "8267",
       "morph": "HNcmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "דָּבָר",
       "lemma": "1697",
       "morph": "HNcmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יִכָּחֵד",
       "lemma": "3582",
       "morph": "HVNi3ms",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַמֶּלֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְאַתָּה",
       "lemma": "c/859 a",
       "morph": "HC/Pp2ms",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "תִּתְיַצֵּב",
       "lemma": "3320",
       "morph": "HVti2ms",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מִנֶּגֶד",
       "lemma": "m/5048",
       "morph": "HR/R",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בנפשו",
       "lemma": null,
       "morph": null,
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְנַפְשִׁי",
       "lemma": "b/5315",
       "morph": "HR/Ncbsc/Sp1cs",
@@ -210,8 +225,8 @@
     }
   ],
   "gematria": {
-    "standard": 4208,
-    "ordinal": 604,
-    "reduced": 185
+    "standard": 4646,
+    "ordinal": 664,
+    "reduced": 209
   }
 }

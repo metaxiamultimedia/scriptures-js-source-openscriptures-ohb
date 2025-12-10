@@ -1,5 +1,5 @@
 {
-  "text": "וּנְתַתִּיו בְּיַד הַזָּרִים לָבַז וּלְרִשְׁעֵי הָאָרֶץ לְשָׁלָל וחללה וְחִלְּלוּהוּ",
+  "text": "וּנְתַתִּיו בְּיַד הַזָּרִים לָבַז וּלְרִשְׁעֵי הָאָרֶץ לְשָׁלָל וחללה וחללה וְחִלְּלוּהוּ",
   "words": [
     {
       "position": 1,
@@ -109,6 +109,21 @@
     {
       "position": 8,
       "text": "וחללה",
+      "lemma": "c/2490 c",
+      "morph": "HC/Vpq3ms/Sp3fs",
+      "strongs": [
+        "H2490"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 79,
+        "ordinal": 43,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "וחללה",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְחִלְּלוּהוּ",
       "lemma": "c/2490 c",
       "morph": "HC/Vpq3cp/Sp3ms",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 2661,
-    "ordinal": 476,
-    "reduced": 177
+    "standard": 2740,
+    "ordinal": 519,
+    "reduced": 202
   }
 }

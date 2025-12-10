@@ -1,8 +1,23 @@
 {
-  "text": "אֶתְכֶם אֶל אֶרֶץ הָאֱמֹרִי הַיּוֹשֵׁב בְּעֵבֶר הַיַּרְדֵּן וַיִּלָּחֲמוּ אִתְּכֶם וָאֶתֵּן אוֹתָם בְּיֶדְכֶם וַתִּירְשׁוּ אֶת אַרְצָם וָאַשְׁמִידֵם מִפְּנֵיכֶם ואבאה וָאָבִיא",
+  "text": "ואבאה אֶתְכֶם אֶל אֶרֶץ הָאֱמֹרִי הַיּוֹשֵׁב בְּעֵבֶר הַיַּרְדֵּן וַיִּלָּחֲמוּ אִתְּכֶם וָאֶתֵּן אוֹתָם בְּיֶדְכֶם וַתִּירְשׁוּ אֶת אַרְצָם וָאַשְׁמִידֵם מִפְּנֵיכֶם ואבאה וָאָבִיא",
   "words": [
     {
       "position": 1,
+      "text": "ואבאה",
+      "lemma": "c/935",
+      "morph": "HC/Vhw1cs/Sh",
+      "strongs": [
+        "H935"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
       "text": "אֶתְכֶם",
       "lemma": "853",
       "morph": "HTo/Sp2mp",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "אֶרֶץ",
       "lemma": "776",
       "morph": "HNcbsc",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "הָאֱמֹרִי",
       "lemma": "d/567",
       "morph": "HTd/Ngmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "הַיּוֹשֵׁב",
       "lemma": "d/3427",
       "morph": "HTd/Vqrmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּעֵבֶר",
       "lemma": "b/5676",
       "morph": "HR/Ncmsc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַיַּרְדֵּן",
       "lemma": "d/3383",
       "morph": "HTd/Np",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וַיִּלָּחֲמוּ",
       "lemma": "c/3898 a",
       "morph": "HC/VNw3mp",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אִתְּכֶם",
       "lemma": "854",
       "morph": "HR/Sp2mp",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וָאֶתֵּן",
       "lemma": "c/5414",
       "morph": "HC/Vqw1cs",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אוֹתָם",
       "lemma": "853",
       "morph": "HTo/Sp3mp",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בְּיֶדְכֶם",
       "lemma": "b/3027",
       "morph": "HR/Ncbsc/Sp2mp",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וַתִּירְשׁוּ",
       "lemma": "c/3423",
       "morph": "HC/Vqw2mp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אַרְצָם",
       "lemma": "776",
       "morph": "HNcbsc/Sp3mp",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וָאַשְׁמִידֵם",
       "lemma": "c/8045",
       "morph": "HC/Vhw1cs/Sp3mp",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "מִפְּנֵיכֶם",
       "lemma": "m/6440",
       "morph": "HR/Ncbpc/Sp2mp",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "ואבאה",
       "lemma": null,
       "morph": null,
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וָאָבִיא",
       "lemma": "c/935",
       "morph": "HC/Vhw1cs",
@@ -285,8 +300,8 @@
     }
   ],
   "gematria": {
-    "standard": 5776,
-    "ordinal": 961,
-    "reduced": 286
+    "standard": 5791,
+    "ordinal": 976,
+    "reduced": 301
   }
 }

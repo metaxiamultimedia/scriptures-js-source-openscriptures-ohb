@@ -1,5 +1,5 @@
 {
-  "text": "יְקָרָה הִיא וְכָל חֲפָצֶיךָ לֹא יִשְׁווּ בָהּ מפניים מִפְּנִינִים",
+  "text": "יְקָרָה הִיא מפניים וְכָל חֲפָצֶיךָ לֹא יִשְׁווּ בָהּ מפניים מִפְּנִינִים",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "מפניים",
+      "lemma": "m/6443",
+      "morph": "HR/Ncbpa",
+      "strongs": [
+        "H6443"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 230,
+        "ordinal": 88,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "חֲפָצֶיךָ",
       "lemma": "2656",
       "morph": "HNcmpc/Sp2ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִשְׁווּ",
       "lemma": "7737 a",
       "morph": "HVqi3mp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מפניים",
       "lemma": null,
       "morph": null,
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מִפְּנִינִים",
       "lemma": "m/6443",
       "morph": "HR/Ncbpa",
@@ -132,8 +147,8 @@
     }
   ],
   "gematria": {
-    "standard": 1465,
-    "ordinal": 428,
-    "reduced": 133
+    "standard": 1695,
+    "ordinal": 516,
+    "reduced": 156
   }
 }

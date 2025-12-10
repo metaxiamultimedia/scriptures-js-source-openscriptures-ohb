@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּשֶׂם הַמֶּלֶךְ מַס עַל הָאָרֶץ וְאִיֵּי הַיָּם אחשרש אֲחַשְׁוֵרוֹשׁ",
+  "text": "וַיָּשֶׂם הַמֶּלֶךְ אחשרש מַס עַל הָאָרֶץ וְאִיֵּי הַיָּם אחשרש אֲחַשְׁוֵרוֹשׁ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "אחשרש",
+      "lemma": "325",
+      "morph": "HNp",
+      "strongs": [
+        "H325"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 809,
+        "ordinal": 71,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
       "text": "מַס",
       "lemma": "4522",
       "morph": "HNcmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְאִיֵּי",
       "lemma": "c/339",
       "morph": "HC/Ncmpc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַיָּם",
       "lemma": "d/3220",
       "morph": "HTd/Ncmsa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אחשרש",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֲחַשְׁוֵרוֹשׁ",
       "lemma": "325",
       "morph": "HNp",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 2659,
-    "ordinal": 443,
-    "reduced": 130
+    "standard": 3468,
+    "ordinal": 514,
+    "reduced": 147
   }
 }

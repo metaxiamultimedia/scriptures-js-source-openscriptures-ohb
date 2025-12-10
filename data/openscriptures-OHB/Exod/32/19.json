@@ -1,5 +1,5 @@
 {
-  "text": "וַיְהִי כַּאֲשֶׁר קָרַב אֶל הַמַּחֲנֶה וַיַּרְא אֶת הָעֵגֶל וּמְחֹלֹת וַיִּחַר אַף מֹשֶׁה וַיַּשְׁלֵךְ אֶת הַלֻּחֹת וַיְשַׁבֵּר אֹתָם תַּחַת הָהָר מידו מִיָּדָיו",
+  "text": "וַיְהִי כַּאֲשֶׁר קָרַב אֶל הַמַּחֲנֶה וַיַּרְא אֶת הָעֵגֶל וּמְחֹלֹת וַיִּחַר אַף מֹשֶׁה וַיַּשְׁלֵךְ מידו אֶת הַלֻּחֹת וַיְשַׁבֵּר אֹתָם תַּחַת הָהָר מידו מִיָּדָיו",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,21 @@
     },
     {
       "position": 14,
+      "text": "מידו",
+      "lemma": "m/3027",
+      "morph": "HR/Ncbsc/Sp3ms",
+      "strongs": [
+        "H3027"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 60,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַלֻּחֹת",
       "lemma": "d/3871",
       "morph": "HTd/Ncmpa",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וַיְשַׁבֵּר",
       "lemma": "c/7665",
       "morph": "HC/Vpw3ms",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֹתָם",
       "lemma": "853",
       "morph": "HTo/Sp3mp",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "תַּחַת",
       "lemma": "8478",
       "morph": "HR",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הָהָר",
       "lemma": "d/2022",
       "morph": "HTd/Ncmsa",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "מידו",
       "lemma": null,
       "morph": null,
@@ -299,7 +314,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "מִיָּדָיו",
       "lemma": "m/3027",
       "morph": "HR/Ncbdc/Sp3ms",
@@ -315,8 +330,8 @@
     }
   ],
   "gematria": {
-    "standard": 6170,
-    "ordinal": 856,
-    "reduced": 275
+    "standard": 6230,
+    "ordinal": 889,
+    "reduced": 290
   }
 }

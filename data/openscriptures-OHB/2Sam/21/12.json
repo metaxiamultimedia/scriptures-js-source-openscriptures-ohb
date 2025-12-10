@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּלֶךְ דָּוִד וַיִּקַּח אֶת עַצְמוֹת שָׁאוּל וְאֶת עַצְמוֹת יְהוֹנָתָן בְּנוֹ מֵאֵת בַּעֲלֵי יָבֵישׁ גִּלְעָד אֲשֶׁר גָּנְבוּ אֹתָם מֵרְחֹב בֵּית שַׁן אֲשֶׁר בְּיוֹם הַכּוֹת פְּלִשְׁתִּים אֶת שָׁאוּל בַּגִּלְבֹּעַ תלום תְּלָאוּם שם הפלשתים",
+  "text": "וַיֵּלֶךְ דָּוִד וַיִּקַּח אֶת עַצְמוֹת שָׁאוּל וְאֶת עַצְמוֹת יְהוֹנָתָן בְּנוֹ מֵאֵת בַּעֲלֵי יָבֵישׁ גִּלְעָד אֲשֶׁר גָּנְבוּ אֹתָם מֵרְחֹב בֵּית שַׁן אֲשֶׁר תלום שם הפלשתים בְּיוֹם הַכּוֹת פְּלִשְׁתִּים אֶת שָׁאוּל בַּגִּלְבֹּעַ תלום תְּלָאוּם שם הפלשתים",
   "words": [
     {
       "position": 1,
@@ -318,6 +318,51 @@
     },
     {
       "position": 22,
+      "text": "תלום",
+      "lemma": "8518",
+      "morph": "HVqp3cp/Sp3mp",
+      "strongs": [
+        "H8518"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 476,
+        "ordinal": 64,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 23,
+      "text": "שם",
+      "lemma": "8033",
+      "morph": "HD",
+      "strongs": [
+        "H8033"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 340,
+        "ordinal": 45,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 24,
+      "text": "הפלשתים",
+      "lemma": "d/6430",
+      "morph": "HTd/Ngmpa",
+      "strongs": [
+        "H6430"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 111,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 25,
       "text": "בְּיוֹם",
       "lemma": "b/3117",
       "morph": "HR/Ncmsc",
@@ -332,7 +377,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 26,
       "text": "הַכּוֹת",
       "lemma": "5221",
       "morph": "HVhc",
@@ -347,7 +392,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 27,
       "text": "פְּלִשְׁתִּים",
       "lemma": "6430",
       "morph": "HNgmpa",
@@ -362,7 +407,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 28,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -377,7 +422,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 29,
       "text": "שָׁאוּל",
       "lemma": "7586",
       "morph": "HNp",
@@ -392,7 +437,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 30,
       "text": "בַּגִּלְבֹּעַ",
       "lemma": "b/1533",
       "morph": "HRd/Np",
@@ -407,7 +452,7 @@
       }
     },
     {
-      "position": 28,
+      "position": 31,
       "text": "תלום",
       "lemma": null,
       "morph": null,
@@ -419,7 +464,7 @@
       }
     },
     {
-      "position": 29,
+      "position": 32,
       "text": "תְּלָאוּם",
       "lemma": "8518",
       "morph": "HVqp3cp/Sp3mp",
@@ -434,7 +479,7 @@
       }
     },
     {
-      "position": 30,
+      "position": 33,
       "text": "שם",
       "lemma": null,
       "morph": null,
@@ -446,7 +491,7 @@
       }
     },
     {
-      "position": 31,
+      "position": 34,
       "text": "הפלשתים",
       "lemma": null,
       "morph": null,
@@ -459,8 +504,8 @@
     }
   ],
   "gematria": {
-    "standard": 10990,
-    "ordinal": 1462,
-    "reduced": 442
+    "standard": 12671,
+    "ordinal": 1682,
+    "reduced": 494
   }
 }

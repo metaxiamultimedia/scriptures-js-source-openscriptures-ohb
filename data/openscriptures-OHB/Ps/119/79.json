@@ -1,5 +1,5 @@
 {
-  "text": "יָשׁוּבוּ לִי יְרֵאֶיךָ עֵדֹתֶיךָ וידעו וְיֹדְעֵי",
+  "text": "יָשׁוּבוּ לִי יְרֵאֶיךָ וידעו עֵדֹתֶיךָ וידעו וְיֹדְעֵי",
   "words": [
     {
       "position": 1,
@@ -45,6 +45,21 @@
     },
     {
       "position": 4,
+      "text": "וידעו",
+      "lemma": "c/3045",
+      "morph": "HC/Vqq3cp",
+      "strongs": [
+        "H3045"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
       "text": "עֵדֹתֶיךָ",
       "lemma": "5713 b",
       "morph": "HNcfpc/Sp2ms",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וידעו",
       "lemma": null,
       "morph": null,
@@ -71,7 +86,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְיֹדְעֵי",
       "lemma": "c/3045",
       "morph": "HC/Vqrmpc",
@@ -87,8 +102,8 @@
     }
   ],
   "gematria": {
-    "standard": 1305,
-    "ordinal": 294,
-    "reduced": 90
+    "standard": 1401,
+    "ordinal": 336,
+    "reduced": 114
   }
 }

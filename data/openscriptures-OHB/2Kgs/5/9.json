@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֹא נַעֲמָן וּבְרִכְבּוֹ וַיַּעֲמֹד פֶּתַח הַבַּיִת לֶאֱלִישָׁע בסוסו בְּסוּסָיו",
+  "text": "וַיָּבֹא נַעֲמָן בסוסו וּבְרִכְבּוֹ וַיַּעֲמֹד פֶּתַח הַבַּיִת לֶאֱלִישָׁע בסוסו בְּסוּסָיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "בסוסו",
+      "lemma": "b/5483 b",
+      "morph": "HR/Ncmpc/Sp3ms",
+      "strongs": [
+        "H5483"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
       "text": "וּבְרִכְבּוֹ",
       "lemma": "c/b/7393",
       "morph": "HC/R/Ncmsc/Sp3ms",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וַיַּעֲמֹד",
       "lemma": "c/5975",
       "morph": "HC/Vqw3ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "פֶּתַח",
       "lemma": "6607",
       "morph": "HNcmsc",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַבַּיִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לֶאֱלִישָׁע",
       "lemma": "l/477",
       "morph": "HR/Np",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בסוסו",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בְּסוּסָיו",
       "lemma": "b/5483 b",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 2219,
-    "ordinal": 439,
-    "reduced": 176
+    "standard": 2353,
+    "ordinal": 483,
+    "reduced": 202
   }
 }

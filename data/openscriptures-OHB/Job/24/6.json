@@ -1,5 +1,5 @@
 {
-  "text": "בַּשָּׂדֶה בְּלִילוֹ וְכֶרֶם רָשָׁע יְלַקֵּשׁוּ יקצירו יִקְצוֹרוּ",
+  "text": "בַּשָּׂדֶה בְּלִילוֹ יקצירו וְכֶרֶם רָשָׁע יְלַקֵּשׁוּ יקצירו יִקְצוֹרוּ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "יקצירו",
+      "lemma": "7114 b",
+      "morph": "HVhi3mp",
+      "strongs": [
+        "H7114"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 416,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
       "text": "וְכֶרֶם",
       "lemma": "c/3754",
       "morph": "HC/Ncbsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "רָשָׁע",
       "lemma": "7563",
       "morph": "HAamsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יְלַקֵּשׁוּ",
       "lemma": "3953",
       "morph": "HVpi3mp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יקצירו",
       "lemma": null,
       "morph": null,
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יִקְצוֹרוּ",
       "lemma": "7114 b",
       "morph": "HVqi3mp",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 2499,
-    "ordinal": 422,
-    "reduced": 114
+    "standard": 2915,
+    "ordinal": 505,
+    "reduced": 134
   }
 }

@@ -1,8 +1,23 @@
 {
-  "text": "וּבֵית תַּפּוּחַ וַאֲפֵקָה וינים וְיָנוּם",
+  "text": "וינים וּבֵית תַּפּוּחַ וַאֲפֵקָה וינים וְיָנוּם",
   "words": [
     {
       "position": 1,
+      "text": "וינים",
+      "lemma": "c/3241",
+      "morph": "HC/Np",
+      "strongs": [
+        "H3241"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 116,
+        "ordinal": 64,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
       "text": "וּבֵית",
       "lemma": "c/1054+",
       "morph": "HC/Np",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "תַּפּוּחַ",
       "lemma": "1054",
       "morph": "HNp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וַאֲפֵקָה",
       "lemma": "c/664",
       "morph": "HC/Np",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וינים",
       "lemma": null,
       "morph": null,
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְיָנוּם",
       "lemma": "c/3241",
       "morph": "HC/Np",
@@ -75,8 +90,8 @@
     }
   ],
   "gematria": {
-    "standard": 1332,
-    "ordinal": 265,
-    "reduced": 99
+    "standard": 1448,
+    "ordinal": 329,
+    "reduced": 116
   }
 }

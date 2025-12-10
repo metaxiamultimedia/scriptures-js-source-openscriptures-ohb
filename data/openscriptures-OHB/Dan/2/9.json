@@ -1,5 +1,5 @@
 {
-  "text": "דִּי הֵן חֶלְמָא לָא תְהוֹדְעֻנַּנִי חֲדָה הִיא דָתְכוֹן וּמִלָּה כִדְבָה וּשְׁחִיתָה לְמֵאמַר קָדָמַי עַד דִּי עִדָּנָא יִשְׁתַּנֵּא לָהֵן חֶלְמָא אֱמַרוּ לִי וְאִנְדַּע דִּי פִשְׁרֵהּ תְּהַחֲוֻנַּנִי הזמנתון הִזְדְּמִנְתּוּן",
+  "text": "דִּי הֵן חֶלְמָא לָא תְהוֹדְעֻנַּנִי חֲדָה הִיא דָתְכוֹן וּמִלָּה כִדְבָה וּשְׁחִיתָה הזמנתון לְמֵאמַר קָדָמַי עַד דִּי עִדָּנָא יִשְׁתַּנֵּא לָהֵן חֶלְמָא אֱמַרוּ לִי וְאִנְדַּע דִּי פִשְׁרֵהּ תְּהַחֲוֻנַּנִי הזמנתון הִזְדְּמִנְתּוּן",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,21 @@
     },
     {
       "position": 12,
+      "text": "הזמנתון",
+      "lemma": "2164",
+      "morph": "AVhp2mp",
+      "strongs": [
+        "H2164"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 558,
+        "ordinal": 92,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 13,
       "text": "לְמֵאמַר",
       "lemma": "l/560",
       "morph": "AR/Vqc",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "קָדָמַי",
       "lemma": "6925",
       "morph": "AR/Sp1cs",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עַד",
       "lemma": "5705",
       "morph": "AR",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עִדָּנָא",
       "lemma": "5732",
       "morph": "ANcmsd/Td",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יִשְׁתַּנֵּא",
       "lemma": "8133",
       "morph": "AVMi3ms",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לָהֵן",
       "lemma": "2006 b",
       "morph": "AC",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "חֶלְמָא",
       "lemma": "2493",
       "morph": "ANcmsd/Td",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אֱמַרוּ",
       "lemma": "560",
       "morph": "AVqv2mp",
@@ -302,7 +317,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "לִי",
       "lemma": "l",
       "morph": "AR/Sp1cs",
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "וְאִנְדַּע",
       "lemma": "c/3046",
       "morph": "AC/Vqi1cs",
@@ -329,7 +344,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -344,7 +359,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "פִשְׁרֵהּ",
       "lemma": "6591",
       "morph": "ANcmsc/Sp3ms",
@@ -359,7 +374,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "תְּהַחֲוֻנַּנִי",
       "lemma": "2324",
       "morph": "AVhi2mp/Sp1cs",
@@ -374,7 +389,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "הזמנתון",
       "lemma": null,
       "morph": null,
@@ -386,7 +401,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "הִזְדְּמִנְתּוּן",
       "lemma": "2164",
       "morph": "AVMp3mp",
@@ -402,8 +417,8 @@
     }
   ],
   "gematria": {
-    "standard": 6397,
-    "ordinal": 1178,
-    "reduced": 448
+    "standard": 6955,
+    "ordinal": 1270,
+    "reduced": 484
   }
 }

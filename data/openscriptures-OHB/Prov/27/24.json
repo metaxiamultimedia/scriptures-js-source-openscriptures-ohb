@@ -1,5 +1,5 @@
 {
-  "text": "כִּי לֹא לְעוֹלָם חֹסֶן וְאִם נֵזֶר לְדוֹר דור וָדוֹר",
+  "text": "כִּי לֹא לְעוֹלָם חֹסֶן וְאִם נֵזֶר לְדוֹר דור דור וָדוֹר",
   "words": [
     {
       "position": 1,
@@ -109,6 +109,21 @@
     {
       "position": 8,
       "text": "דור",
+      "lemma": "1755",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H1755"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 210,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "דור",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וָדוֹר",
       "lemma": "c/1755",
       "morph": "HC/Ncmsa",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 1325,
-    "ordinal": 332,
-    "reduced": 119
+    "standard": 1535,
+    "ordinal": 362,
+    "reduced": 131
   }
 }

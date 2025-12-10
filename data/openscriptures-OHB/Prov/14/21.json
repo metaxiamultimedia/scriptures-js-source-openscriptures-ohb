@@ -1,5 +1,5 @@
 {
-  "text": "בָּז לְרֵעֵהוּ חוֹטֵא וּמְחוֹנֵן אַשְׁרָיו עניים עֲנָוִים",
+  "text": "בָּז לְרֵעֵהוּ חוֹטֵא וּמְחוֹנֵן עניים אַשְׁרָיו עניים עֲנָוִים",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "עניים",
+      "lemma": "6041",
+      "morph": "HAampa",
+      "strongs": [
+        "H6041"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 180,
+        "ordinal": 74,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
       "text": "אַשְׁרָיו",
       "lemma": "835",
       "morph": "HNcmpc/Sp3ms",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עניים",
       "lemma": null,
       "morph": null,
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עֲנָוִים",
       "lemma": "6035",
       "morph": "HAampa",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 1377,
-    "ordinal": 366,
-    "reduced": 144
+    "standard": 1557,
+    "ordinal": 440,
+    "reduced": 162
   }
 }

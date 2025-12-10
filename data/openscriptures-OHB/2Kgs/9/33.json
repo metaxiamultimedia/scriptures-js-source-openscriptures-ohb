@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר וַיִּשְׁמְטוּהָ וַיִּז מִדָּמָהּ אֶל הַקִּיר וְאֶל הַסּוּסִים וַיִּרְמְסֶנָּה שמטהו שִׁמְטוּהָ",
+  "text": "וַיֹּאמֶר שמטהו וַיִּשְׁמְטוּהָ וַיִּז מִדָּמָהּ אֶל הַקִּיר וְאֶל הַסּוּסִים וַיִּרְמְסֶנָּה שמטהו שִׁמְטוּהָ",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,21 @@
     },
     {
       "position": 2,
+      "text": "שמטהו",
+      "lemma": "8058",
+      "morph": "HVqv2mp/Sp3ms",
+      "strongs": [
+        "H8058"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 3,
       "text": "וַיִּשְׁמְטוּהָ",
       "lemma": "c/8058",
       "morph": "HC/Vqw3mp/Sp3fs",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וַיִּז",
       "lemma": "c/5137 a",
       "morph": "HC/Vqw3ms",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "מִדָּמָהּ",
       "lemma": "m/1818",
       "morph": "HR/Ncmsc/Sp3fs",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַקִּיר",
       "lemma": "d/7023",
       "morph": "HTd/Ncmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְאֶל",
       "lemma": "c/413",
       "morph": "HC/R",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הַסּוּסִים",
       "lemma": "d/5483 b",
       "morph": "HTd/Ncmpa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וַיִּרְמְסֶנָּה",
       "lemma": "c/7429",
       "morph": "HC/Vqw3ms/Sp3fs",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "שמטהו",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "שִׁמְטוּהָ",
       "lemma": "8058",
       "morph": "HVqv2mp/Sp3fs",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2400,
-    "ordinal": 530,
-    "reduced": 213
+    "standard": 2760,
+    "ordinal": 584,
+    "reduced": 240
   }
 }

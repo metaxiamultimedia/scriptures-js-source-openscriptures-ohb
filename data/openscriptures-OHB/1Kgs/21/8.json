@@ -1,5 +1,5 @@
 {
-  "text": "וַתִּכְתֹּב סְפָרִים בְּשֵׁם אַחְאָב וַתַּחְתֹּם בְּחֹתָמוֹ וַתִּשְׁלַח אֶל הַזְקֵנִים וְאֶל הַחֹרִים אֲשֶׁר בְּעִירוֹ הַיֹּשְׁבִים אֶת נָבוֹת הספרים סְפָרִים",
+  "text": "וַתִּכְתֹּב סְפָרִים בְּשֵׁם אַחְאָב וַתַּחְתֹּם בְּחֹתָמוֹ וַתִּשְׁלַח הספרים אֶל הַזְקֵנִים וְאֶל הַחֹרִים אֲשֶׁר בְּעִירוֹ הַיֹּשְׁבִים אֶת נָבוֹת הספרים סְפָרִים",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,21 @@
     },
     {
       "position": 8,
+      "text": "הספרים",
+      "lemma": "d/5612 a",
+      "morph": "HTd/Ncmpa",
+      "strongs": [
+        "H5612"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 395,
+        "ordinal": 91,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַזְקֵנִים",
       "lemma": "d/2205",
       "morph": "HTd/Aampa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְאֶל",
       "lemma": "c/413",
       "morph": "HC/R",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַחֹרִים",
       "lemma": "d/2715",
       "morph": "HTd/Ncmpa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בְּעִירוֹ",
       "lemma": "b/5892 b",
       "morph": "HR/Ncfsc/Sp3ms",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הַיֹּשְׁבִים",
       "lemma": "d/3427",
       "morph": "HTd/Vqrmpa",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶת",
       "lemma": "854",
       "morph": "HR",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "נָבוֹת",
       "lemma": "5022",
       "morph": "HNp",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הספרים",
       "lemma": null,
       "morph": null,
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "סְפָרִים",
       "lemma": "5612 a",
       "morph": "HNcmpa",
@@ -270,8 +285,8 @@
     }
   ],
   "gematria": {
-    "standard": 6969,
-    "ordinal": 1000,
-    "reduced": 300
+    "standard": 7364,
+    "ordinal": 1091,
+    "reduced": 326
   }
 }

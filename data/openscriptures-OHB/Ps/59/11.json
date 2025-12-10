@@ -1,5 +1,5 @@
 {
-  "text": "חסדו חַסְדִּי אֱלֹהֵי יְקַדְּמֵנִי אֱלֹהִים יַרְאֵנִי בְשֹׁרְרָי",
+  "text": "חסדו חַסְדִּי אֱלֹהֵי חסדו יְקַדְּמֵנִי אֱלֹהִים יַרְאֵנִי בְשֹׁרְרָי",
   "words": [
     {
       "position": 1,
@@ -45,6 +45,21 @@
     },
     {
       "position": 4,
+      "text": "חסדו",
+      "lemma": "2617 a",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2617"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 78,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
       "text": "יְקַדְּמֵנִי",
       "lemma": "6923",
       "morph": "HVpi3ms/Sp1cs",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֱלֹהִים",
       "lemma": "430",
       "morph": "HNcmpa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יַרְאֵנִי",
       "lemma": "7200",
       "morph": "HVhi3ms/Sp1cs",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בְשֹׁרְרָי",
       "lemma": "b/8324",
       "morph": "HR/Ncmpc/Sp1cs",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 1489,
-    "ordinal": 348,
-    "reduced": 103
+    "standard": 1567,
+    "ordinal": 381,
+    "reduced": 127
   }
 }

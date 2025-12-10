@@ -1,5 +1,5 @@
 {
-  "text": "עַצְמוֹתָיו מָלְאוּ וְעִמּוֹ עַל עָפָר תִּשְׁכָּב עלומו עֲלוּמָיו",
+  "text": "עַצְמוֹתָיו מָלְאוּ עלומו וְעִמּוֹ עַל עָפָר תִּשְׁכָּב עלומו עֲלוּמָיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "עלומו",
+      "lemma": "5934",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H5934"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
       "text": "וְעִמּוֹ",
       "lemma": "c/5973 a",
       "morph": "HC/R/Sp3ms",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עָפָר",
       "lemma": "6083",
       "morph": "HNcmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תִּשְׁכָּב",
       "lemma": "7901",
       "morph": "HVqi3fs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עלומו",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עֲלוּמָיו",
       "lemma": "5934",
       "morph": "HNcmpc/Sp3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 2307,
-    "ordinal": 417,
-    "reduced": 165
+    "standard": 2459,
+    "ordinal": 470,
+    "reduced": 191
   }
 }

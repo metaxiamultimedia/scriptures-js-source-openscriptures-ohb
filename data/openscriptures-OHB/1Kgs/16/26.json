@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּלֶךְ בְּכָל דֶּרֶךְ יָרָבְעָם בֶּן נְבָט אֲשֶׁר הֶחֱטִיא אֶת יִשְׂרָאֵל לְהַכְעִיס אֶת יְהוָה אֱלֹהֵי יִשְׂרָאֵל בְּהַבְלֵיהֶם ובחטאתיו וּבְחַטָּאתוֹ",
+  "text": "וַיֵּלֶךְ בְּכָל דֶּרֶךְ יָרָבְעָם בֶּן נְבָט ובחטאתיו אֲשֶׁר הֶחֱטִיא אֶת יִשְׂרָאֵל לְהַכְעִיס אֶת יְהוָה אֱלֹהֵי יִשְׂרָאֵל בְּהַבְלֵיהֶם ובחטאתיו וּבְחַטָּאתוֹ",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "ובחטאתיו",
+      "lemma": "c/b/2403 b",
+      "morph": "HC/R/Ncfpc/Sp3ms",
+      "strongs": [
+        "H2403"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 8,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הֶחֱטִיא",
       "lemma": "2398",
       "morph": "HVhp3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לְהַכְעִיס",
       "lemma": "l/3707",
       "morph": "HR/Vhc",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֱלֹהֵי",
       "lemma": "430",
       "morph": "HNcmpc",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בְּהַבְלֵיהֶם",
       "lemma": "b/1892",
       "morph": "HR/Ncmpc/Sp3mp",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "ובחטאתיו",
       "lemma": null,
       "morph": null,
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וּבְחַטָּאתוֹ",
       "lemma": "c/b/2403 b",
       "morph": "HC/R/Ncfsc/Sp3ms",
@@ -270,8 +285,8 @@
     }
   ],
   "gematria": {
-    "standard": 4430,
-    "ordinal": 797,
-    "reduced": 272
+    "standard": 4872,
+    "ordinal": 861,
+    "reduced": 309
   }
 }

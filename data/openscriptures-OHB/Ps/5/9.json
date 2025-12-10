@@ -1,5 +1,5 @@
 {
-  "text": "הושר הַיְשַׁר יְהוָה נְחֵנִי בְצִדְקָתֶךָ לְמַעַן שׁוֹרְרָי לְפָנַי דַּרְכֶּךָ",
+  "text": "הושר הַיְשַׁר יְהוָה נְחֵנִי בְצִדְקָתֶךָ לְמַעַן שׁוֹרְרָי הושר לְפָנַי דַּרְכֶּךָ",
   "words": [
     {
       "position": 1,
@@ -105,6 +105,21 @@
     },
     {
       "position": 8,
+      "text": "הושר",
+      "lemma": "3474",
+      "morph": "HVhv2ms",
+      "strongs": [
+        "H3474"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
       "text": "לְפָנַי",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc/Sp1cs",
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "דַּרְכֶּךָ",
       "lemma": "1870",
       "morph": "HNcbsc/Sp2ms",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 3106,
-    "ordinal": 522,
-    "reduced": 145
+    "standard": 3617,
+    "ordinal": 574,
+    "reduced": 161
   }
 }

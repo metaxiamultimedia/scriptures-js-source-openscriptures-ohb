@@ -1,5 +1,5 @@
 {
-  "text": "מַדּוּעַ מִשַּׁדַּי לֹא נִצְפְּנוּ עִתִּים לֹא חָזוּ יָמָיו וידעו וְיֹדְעָיו",
+  "text": "מַדּוּעַ מִשַּׁדַּי לֹא נִצְפְּנוּ עִתִּים וידעו לֹא חָזוּ יָמָיו וידעו וְיֹדְעָיו",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "וידעו",
+      "lemma": "c/3045",
+      "morph": "HC/Vqrmsc/Sp3ms",
+      "strongs": [
+        "H3045"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "חָזוּ",
       "lemma": "2372",
       "morph": "HVqp3cp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יָמָיו",
       "lemma": "3117",
       "morph": "HNcmpc/Sp3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וידעו",
       "lemma": null,
       "morph": null,
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְיֹדְעָיו",
       "lemma": "c/3045",
       "morph": "HC/Vqrmpc/Sp3ms",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 1621,
-    "ordinal": 408,
-    "reduced": 172
+    "standard": 1717,
+    "ordinal": 450,
+    "reduced": 196
   }
 }

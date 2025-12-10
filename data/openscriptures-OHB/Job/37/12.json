@@ -1,5 +1,5 @@
 {
-  "text": "וְהוּא מְסִבּוֹת מִתְהַפֵּךְ לְפָעֳלָם כֹּל אֲשֶׁר יְצַוֵּם עַל פְּנֵי תֵבֵל אָרְצָה בתחבולתו בְּתַחְבּוּלֹתָיו",
+  "text": "וְהוּא מְסִבּוֹת מִתְהַפֵּךְ בתחבולתו לְפָעֳלָם כֹּל אֲשֶׁר יְצַוֵּם עַל פְּנֵי תֵבֵל אָרְצָה בתחבולתו בְּתַחְבּוּלֹתָיו",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "בתחבולתו",
+      "lemma": "b/8458",
+      "morph": "HR/Ncfsc/Sp3ms",
+      "strongs": [
+        "H8458"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 854,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
       "text": "לְפָעֳלָם",
       "lemma": "l/6467",
       "morph": "HR/Vqc/Sp3mp",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כֹּל",
       "lemma": "3605",
       "morph": "HNcmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְצַוֵּם",
       "lemma": "6680",
       "morph": "HVpi3ms/Sp3mp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "פְּנֵי",
       "lemma": "6440",
       "morph": "HNcbpc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "תֵבֵל",
       "lemma": "8398",
       "morph": "HNcfsa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אָרְצָה",
       "lemma": "776",
       "morph": "HNcbsa/Sd",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בתחבולתו",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בְּתַחְבּוּלֹתָיו",
       "lemma": "b/8458",
       "morph": "HR/Ncfpc/Sp3ms",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 4704,
-    "ordinal": 679,
-    "reduced": 240
+    "standard": 5558,
+    "ordinal": 759,
+    "reduced": 275
   }
 }

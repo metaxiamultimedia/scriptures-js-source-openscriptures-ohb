@@ -1,5 +1,5 @@
 {
-  "text": "וּבִימֵי אַרְתַּחְשַׁשְׂתָּא כָּתַב בִּשְׁלָם מִתְרְדָת טָבְאֵל וּשְׁאָר עַל מֶלֶךְ פָּרָס וּכְתָב הַנִּשְׁתְּוָן כָּתוּב אֲרָמִית וּמְתֻרְגָּם אֲרָמִית כנותו כְּנָוֺתָיו ארתחששתא אַרְתַּחְשַׁשְׂתְּ",
+  "text": "וּבִימֵי אַרְתַּחְשַׁשְׂתָּא כָּתַב בִּשְׁלָם מִתְרְדָת טָבְאֵל וּשְׁאָר כנותו עַל ארתחששתא מֶלֶךְ פָּרָס וּכְתָב הַנִּשְׁתְּוָן כָּתוּב אֲרָמִית וּמְתֻרְגָּם אֲרָמִית כנותו כְּנָוֺתָיו ארתחששתא אַרְתַּחְשַׁשְׂתְּ",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,21 @@
     },
     {
       "position": 8,
+      "text": "כנותו",
+      "lemma": "3674",
+      "morph": "HNcmpc/Pp3ms",
+      "strongs": [
+        "H3674"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 482,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -122,7 +137,22 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
+      "text": "ארתחששתא",
+      "lemma": "783 a",
+      "morph": "HNp",
+      "strongs": [
+        "H783"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 1610,
+        "ordinal": 116,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
       "text": "מֶלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsc",
@@ -137,7 +167,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "פָּרָס",
       "lemma": "6539",
       "morph": "HNp",
@@ -152,7 +182,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "וּכְתָב",
       "lemma": "c/3791",
       "morph": "HC/Ncmsc",
@@ -167,7 +197,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "הַנִּשְׁתְּוָן",
       "lemma": "d/5406",
       "morph": "HTd/Ncmsa",
@@ -182,7 +212,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "כָּתוּב",
       "lemma": "3789",
       "morph": "HVqsmsa",
@@ -194,36 +224,6 @@
         "standard": 428,
         "ordinal": 41,
         "reduced": 14
-      }
-    },
-    {
-      "position": 14,
-      "text": "אֲרָמִית",
-      "lemma": "762",
-      "morph": "HNgfsa",
-      "strongs": [
-        "H762"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 651,
-        "ordinal": 66,
-        "reduced": 12
-      }
-    },
-    {
-      "position": 15,
-      "text": "וּמְתֻרְגָּם",
-      "lemma": "c/8638",
-      "morph": "HC/VPsmsa",
-      "strongs": [
-        "H8638"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 689,
-        "ordinal": 88,
-        "reduced": 23
       }
     },
     {
@@ -243,6 +243,36 @@
     },
     {
       "position": 17,
+      "text": "וּמְתֻרְגָּם",
+      "lemma": "c/8638",
+      "morph": "HC/VPsmsa",
+      "strongs": [
+        "H8638"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 88,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "אֲרָמִית",
+      "lemma": "762",
+      "morph": "HNgfsa",
+      "strongs": [
+        "H762"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 651,
+        "ordinal": 66,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
       "text": "כנותו",
       "lemma": null,
       "morph": null,
@@ -254,10 +284,10 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "כְּנָוֺתָיו",
       "lemma": "3674",
-      "morph": "HNcmpc/Sp3ms",
+      "morph": "HNcmpc/Pp3ms",
       "strongs": [
         "H3674"
       ],
@@ -269,7 +299,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "ארתחששתא",
       "lemma": null,
       "morph": null,
@@ -281,7 +311,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "אַרְתַּחְשַׁשְׂתְּ",
       "lemma": "783 a",
       "morph": "HNp",
@@ -297,8 +327,8 @@
     }
   ],
   "gematria": {
-    "standard": 12446,
-    "ordinal": 1286,
-    "reduced": 341
+    "standard": 14538,
+    "ordinal": 1461,
+    "reduced": 390
   }
 }

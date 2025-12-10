@@ -1,5 +1,5 @@
 {
-  "text": "וְשַׁבְתִּי אֶת שְׁבִיתְהֶן אֶת סְדֹם וּבְנוֹתֶיהָ וְאֶת שֹׁמְרוֹן וּבְנוֹתֶיהָ שְׁבִיתַיִךְ בְּתוֹכָהְנָה שבית שְׁבוּת שבית שְׁבוּת ושבית וּשְׁבוּת",
+  "text": "וְשַׁבְתִּי אֶת שְׁבִיתְהֶן אֶת שבית סְדֹם וּבְנוֹתֶיהָ וְאֶת שבית שֹׁמְרוֹן וּבְנוֹתֶיהָ ושבית שְׁבִיתַיִךְ בְּתוֹכָהְנָה שבית שְׁבוּת שבית שְׁבוּת ושבית וּשְׁבוּת",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "שבית",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 712,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
       "text": "סְדֹם",
       "lemma": "5467",
       "morph": "HNp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וּבְנוֹתֶיהָ",
       "lemma": "c/1323",
       "morph": "HC/Ncfpc/Sp3fs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -107,7 +122,22 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
+      "text": "שבית",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 712,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
       "text": "שֹׁמְרוֹן",
       "lemma": "8111",
       "morph": "HNp",
@@ -122,7 +152,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "וּבְנוֹתֶיהָ",
       "lemma": "c/1323",
       "morph": "HC/Ncfpc/Sp3fs",
@@ -137,7 +167,22 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
+      "text": "ושבית",
+      "lemma": "c/7622",
+      "morph": "HC/Ncfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 718,
+        "ordinal": 61,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
       "text": "שְׁבִיתַיִךְ",
       "lemma": "7628 a",
       "morph": "HNcbpc/Sp2fs",
@@ -152,7 +197,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 14,
       "text": "בְּתוֹכָהְנָה",
       "lemma": "b/8432",
       "morph": "HR/Ncmsc/Sp3fp",
@@ -167,61 +212,61 @@
       }
     },
     {
-      "position": 12,
-      "text": "שבית",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 712,
-        "ordinal": 55,
-        "reduced": 10
-      }
-    },
-    {
-      "position": 13,
-      "text": "שְׁבוּת",
-      "lemma": "7622",
-      "morph": "HNcfsc",
-      "strongs": [
-        "H7622"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 708,
-        "ordinal": 51,
-        "reduced": 15
-      }
-    },
-    {
-      "position": 14,
-      "text": "שבית",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 712,
-        "ordinal": 55,
-        "reduced": 10
-      }
-    },
-    {
       "position": 15,
-      "text": "שְׁבוּת",
-      "lemma": "7622",
-      "morph": "HNcfsc",
-      "strongs": [
-        "H7622"
-      ],
+      "text": "שבית",
+      "lemma": null,
+      "morph": null,
       "metadata": {},
       "gematria": {
-        "standard": 708,
-        "ordinal": 51,
-        "reduced": 15
+        "standard": 712,
+        "ordinal": 55,
+        "reduced": 10
       }
     },
     {
       "position": 16,
+      "text": "שְׁבוּת",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 708,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "שבית",
+      "lemma": null,
+      "morph": null,
+      "metadata": {},
+      "gematria": {
+        "standard": 712,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "שְׁבוּת",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 708,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
       "text": "ושבית",
       "lemma": null,
       "morph": null,
@@ -233,7 +278,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 20,
       "text": "וּשְׁבוּת",
       "lemma": "c/7622",
       "morph": "HC/Ncfsc",
@@ -249,8 +294,8 @@
     }
   ],
   "gematria": {
-    "standard": 9854,
-    "ordinal": 962,
-    "reduced": 278
+    "standard": 11996,
+    "ordinal": 1133,
+    "reduced": 314
   }
 }

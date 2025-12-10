@@ -1,5 +1,5 @@
 {
-  "text": "אָח נִפְשָׁע מִקִּרְיַת עֹז כִּבְרִיחַ אַרְמוֹן ומדונים וּמִדְיָנִים",
+  "text": "אָח נִפְשָׁע מִקִּרְיַת עֹז ומדונים כִּבְרִיחַ אַרְמוֹן ומדונים וּמִדְיָנִים",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "ומדונים",
+      "lemma": "c/4066",
+      "morph": "HC/Ncmpa",
+      "strongs": [
+        "H4066"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 77,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
       "text": "כִּבְרִיחַ",
       "lemma": "k/1280",
       "morph": "HR/Ncmsc",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אַרְמוֹן",
       "lemma": "759",
       "morph": "HNcmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "ומדונים",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּמִדְיָנִים",
       "lemma": "c/4079",
       "morph": "HC/Ncmpa",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 2189,
-    "ordinal": 458,
-    "reduced": 146
+    "standard": 2345,
+    "ordinal": 535,
+    "reduced": 176
   }
 }

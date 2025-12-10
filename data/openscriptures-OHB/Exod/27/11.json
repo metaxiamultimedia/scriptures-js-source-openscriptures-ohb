@@ -1,5 +1,5 @@
 {
-  "text": "וְכֵן לִפְאַת צָפוֹן בָּאֹרֶךְ קְלָעִים מֵאָה אֹרֶךְ עֶשְׂרִים וְאַדְנֵיהֶם עֶשְׂרִים נְחֹשֶׁת וָוֵי הָעַמֻּדִים וַחֲשֻׁקֵיהֶם כָּסֶף ועמדו וְעַמּוּדָיו",
+  "text": "וְכֵן לִפְאַת צָפוֹן בָּאֹרֶךְ קְלָעִים מֵאָה אֹרֶךְ ועמדו עֶשְׂרִים וְאַדְנֵיהֶם עֶשְׂרִים נְחֹשֶׁת וָוֵי הָעַמֻּדִים וַחֲשֻׁקֵיהֶם כָּסֶף ועמדו וְעַמּוּדָיו",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,21 @@
     },
     {
       "position": 8,
+      "text": "ועמדו",
+      "lemma": "c/5982",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H5982"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
       "text": "עֶשְׂרִים",
       "lemma": "6242",
       "morph": "HAcbpa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְאַדְנֵיהֶם",
       "lemma": "c/134",
       "morph": "HC/Ncmpc/Sp3mp",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עֶשְׂרִים",
       "lemma": "6242",
       "morph": "HAcbpa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "נְחֹשֶׁת",
       "lemma": "5178 a",
       "morph": "HNcfsa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וָוֵי",
       "lemma": "2053",
       "morph": "HNcmpc",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הָעַמֻּדִים",
       "lemma": "d/5982",
       "morph": "HTd/Ncmpa",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וַחֲשֻׁקֵיהֶם",
       "lemma": "c/2838",
       "morph": "HC/Ncmpc/Sp3mp",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "כָּסֶף",
       "lemma": "3701",
       "morph": "HNcmsa",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "ועמדו",
       "lemma": null,
       "morph": null,
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְעַמּוּדָיו",
       "lemma": "c/5982",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -255,8 +270,8 @@
     }
   ],
   "gematria": {
-    "standard": 4755,
-    "ordinal": 1006,
-    "reduced": 318
+    "standard": 4881,
+    "ordinal": 1051,
+    "reduced": 345
   }
 }

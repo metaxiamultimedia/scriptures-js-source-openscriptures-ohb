@@ -1,5 +1,5 @@
 {
-  "text": "ינועון יְנִיעוּן הֵמָּה לֶאֱכֹל אִם לֹא יִשְׂבְּעוּ וַיָּלִינוּ",
+  "text": "ינועון יְנִיעוּן הֵמָּה ינועון לֶאֱכֹל אִם לֹא יִשְׂבְּעוּ וַיָּלִינוּ",
   "words": [
     {
       "position": 1,
@@ -45,6 +45,21 @@
     },
     {
       "position": 4,
+      "text": "ינועון",
+      "lemma": "5128",
+      "morph": "HVqi3mp/Sn",
+      "strongs": [
+        "H5128"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 192,
+        "ordinal": 77,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
       "text": "לֶאֱכֹל",
       "lemma": "l/398",
       "morph": "HR/Vqc",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אִם",
       "lemma": "518 a",
       "morph": "HC",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יִשְׂבְּעוּ",
       "lemma": "7646",
       "morph": "HVqi3mp",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וַיָּלִינוּ",
       "lemma": "c/3885 b",
       "morph": "HC/Vqw3mp",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1091,
-    "ordinal": 368,
-    "reduced": 128
+    "standard": 1283,
+    "ordinal": 445,
+    "reduced": 158
   }
 }

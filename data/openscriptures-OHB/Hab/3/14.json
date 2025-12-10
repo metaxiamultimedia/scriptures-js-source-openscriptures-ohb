@@ -1,5 +1,5 @@
 {
-  "text": "נָקַבְתָּ בְמַטָּיו רֹאשׁ יִסְעֲרוּ לַהֲפִיצֵנִי עֲלִיצֻתָם כְּמוֹ לֶאֱכֹל עָנִי בַּמִּסְתָּר פרזו פְּרָזָיו",
+  "text": "נָקַבְתָּ בְמַטָּיו רֹאשׁ פרזו יִסְעֲרוּ לַהֲפִיצֵנִי עֲלִיצֻתָם כְּמוֹ לֶאֱכֹל עָנִי בַּמִּסְתָּר פרזו פְּרָזָיו",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "פרזו",
+      "lemma": "6518",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H6518"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 293,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
       "text": "יִסְעֲרוּ",
       "lemma": "5590",
       "morph": "HVqi3mp",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לַהֲפִיצֵנִי",
       "lemma": "l/6327 a",
       "morph": "HR/Vhc/Sp1cs",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עֲלִיצֻתָם",
       "lemma": "5951",
       "morph": "HNcfsc/Sp3mp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כְּמוֹ",
       "lemma": "3644",
       "morph": "HR",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לֶאֱכֹל",
       "lemma": "l/398",
       "morph": "HR/Vqc",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "עָנִי",
       "lemma": "6041",
       "morph": "HAamsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בַּמִּסְתָּר",
       "lemma": "b/4565",
       "morph": "HRd/Ncmsa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "פרזו",
       "lemma": null,
       "morph": null,
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "פְּרָזָיו",
       "lemma": "6518",
       "morph": "HNcmpc/Sp3ms",
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 3956,
-    "ordinal": 682,
-    "reduced": 221
+    "standard": 4249,
+    "ordinal": 732,
+    "reduced": 244
   }
 }

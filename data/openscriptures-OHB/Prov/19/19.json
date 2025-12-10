@@ -1,8 +1,23 @@
 {
-  "text": "חֵמָה נֹשֵׂא עֹנֶשׁ כִּי אִם תַּצִּיל וְעוֹד תּוֹסִף גרל גְּדָל",
+  "text": "גרל חֵמָה נֹשֵׂא עֹנֶשׁ כִּי אִם תַּצִּיל וְעוֹד תּוֹסִף גרל גְּדָל",
   "words": [
     {
       "position": 1,
+      "text": "גרל",
+      "lemma": "1632",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H1632"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
       "text": "חֵמָה",
       "lemma": "2534",
       "morph": "HNcfsa",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "נֹשֵׂא",
       "lemma": "5375",
       "morph": "HVqrmsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "עֹנֶשׁ",
       "lemma": "6066",
       "morph": "HNcmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "כִּי",
       "lemma": "3588 b",
       "morph": "HC",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אִם",
       "lemma": "518 b",
       "morph": "HC",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תַּצִּיל",
       "lemma": "5337",
       "morph": "HVhi2ms",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְעוֹד",
       "lemma": "c/5750",
       "morph": "HC/D",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תּוֹסִף",
       "lemma": "3254",
       "morph": "HVhi2ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "גרל",
       "lemma": null,
       "morph": null,
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "גְּדָל",
       "lemma": "1419 a",
       "morph": "HAamsc",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 2327,
-    "ordinal": 376,
-    "reduced": 131
+    "standard": 2560,
+    "ordinal": 411,
+    "reduced": 139
   }
 }

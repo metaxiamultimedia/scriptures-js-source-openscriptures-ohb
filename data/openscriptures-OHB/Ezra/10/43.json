@@ -1,5 +1,5 @@
 {
-  "text": "מִבְּנֵי נְבוֹ יְעִיאֵל מַתִּתְיָה זָבָד זְבִינָא וְיוֹאֵל בְּנָיָה ידו יַדַּי",
+  "text": "מִבְּנֵי נְבוֹ יְעִיאֵל מַתִּתְיָה זָבָד זְבִינָא ידו וְיוֹאֵל בְּנָיָה ידו יַדַּי",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "ידו",
+      "lemma": "3035",
+      "morph": "HNp",
+      "strongs": [
+        "H3035"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 20,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
       "text": "וְיוֹאֵל",
       "lemma": "c/3100",
       "morph": "HC/Np",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְּנָיָה",
       "lemma": "1141",
       "morph": "HNp",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "ידו",
       "lemma": null,
       "morph": null,
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יַדַּי",
       "lemma": "3035",
       "morph": "HNp",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 1383,
-    "ordinal": 339,
-    "reduced": 132
+    "standard": 1403,
+    "ordinal": 359,
+    "reduced": 143
   }
 }

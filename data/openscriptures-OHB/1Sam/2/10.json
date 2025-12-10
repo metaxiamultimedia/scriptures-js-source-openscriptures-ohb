@@ -1,5 +1,5 @@
 {
-  "text": "יְהוָה יֵחַתּוּ בַּשָּׁמַיִם יַרְעֵם יְהוָה יָדִין אַפְסֵי אָרֶץ וְיִתֶּן עֹז לְמַלְכּוֹ וְיָרֵם קֶרֶן מְשִׁיחוֹ מריבו מְרִיבָיו עלו עָלָיו",
+  "text": "יְהוָה יֵחַתּוּ מריבו עלו בַּשָּׁמַיִם יַרְעֵם יְהוָה יָדִין אַפְסֵי אָרֶץ וְיִתֶּן עֹז לְמַלְכּוֹ וְיָרֵם קֶרֶן מְשִׁיחוֹ מריבו מְרִיבָיו עלו עָלָיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,36 @@
     },
     {
       "position": 3,
+      "text": "מריבו",
+      "lemma": "7378",
+      "morph": "HVhrmsc/Sp3ms",
+      "strongs": [
+        "H7378"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 258,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "עלו",
+      "lemma": "5921 a",
+      "morph": "HR/Sp3ms",
+      "strongs": [
+        "H5921"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 106,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
       "text": "בַּשָּׁמַיִם",
       "lemma": "b/8064",
       "morph": "HRd/Ncmpa",
@@ -47,7 +77,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "יַרְעֵם",
       "lemma": "7481",
       "morph": "HVhi3ms",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -77,7 +107,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "יָדִין",
       "lemma": "1777",
       "morph": "HVqi3ms",
@@ -92,7 +122,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "אַפְסֵי",
       "lemma": "657 a",
       "morph": "HNcmpc",
@@ -107,7 +137,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "אָרֶץ",
       "lemma": "776",
       "morph": "HNcbsa",
@@ -122,7 +152,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "וְיִתֶּן",
       "lemma": "c/5414",
       "morph": "HC/Vqi3ms",
@@ -137,7 +167,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "עֹז",
       "lemma": "5797",
       "morph": "HNcmsa",
@@ -152,7 +182,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "לְמַלְכּוֹ",
       "lemma": "l/4428",
       "morph": "HR/Ncmsc/Sp3ms",
@@ -167,7 +197,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "וְיָרֵם",
       "lemma": "c/7311 a",
       "morph": "HC/Vhi3ms",
@@ -182,7 +212,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "קֶרֶן",
       "lemma": "7161 a",
       "morph": "HNcbsc",
@@ -197,7 +227,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "מְשִׁיחוֹ",
       "lemma": "4899",
       "morph": "HNcmsc/Sp3ms",
@@ -212,7 +242,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "מריבו",
       "lemma": null,
       "morph": null,
@@ -224,7 +254,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "מְרִיבָיו",
       "lemma": "7378",
       "morph": "HVhrmpc/Sp3ms",
@@ -239,7 +269,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "עלו",
       "lemma": null,
       "morph": null,
@@ -251,7 +281,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "עָלָיו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -267,8 +297,8 @@
     }
   ],
   "gematria": {
-    "standard": 4091,
-    "ordinal": 890,
-    "reduced": 275
+    "standard": 4455,
+    "ordinal": 975,
+    "reduced": 306
   }
 }

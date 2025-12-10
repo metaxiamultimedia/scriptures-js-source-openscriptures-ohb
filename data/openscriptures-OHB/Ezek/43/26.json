@@ -1,5 +1,5 @@
 {
-  "text": "שִׁבְעַת יָמִים יְכַפְּרוּ אֶת הַמִּזְבֵּחַ וְטִהֲרוּ אֹתוֹ וּמִלְאוּ ידו יָדָיו",
+  "text": "שִׁבְעַת יָמִים יְכַפְּרוּ אֶת הַמִּזְבֵּחַ וְטִהֲרוּ אֹתוֹ וּמִלְאוּ ידו ידו יָדָיו",
   "words": [
     {
       "position": 1,
@@ -124,6 +124,21 @@
     {
       "position": 9,
       "text": "ידו",
+      "lemma": "3027",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H3027"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 20,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ידו",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יָדָיו",
       "lemma": "3027",
       "morph": "HNcbsc/Sp3ms",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 2417,
-    "ordinal": 403,
-    "reduced": 158
+    "standard": 2437,
+    "ordinal": 423,
+    "reduced": 169
   }
 }

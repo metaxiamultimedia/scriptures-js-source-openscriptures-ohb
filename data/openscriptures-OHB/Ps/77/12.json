@@ -1,5 +1,5 @@
 {
-  "text": "אזכיר אֶזְכּוֹר מַעַלְלֵי יָהּ כִּי אֶזְכְּרָה מִקֶּדֶם פִּלְאֶךָ",
+  "text": "אזכיר אֶזְכּוֹר אזכיר מַעַלְלֵי יָהּ כִּי אֶזְכְּרָה מִקֶּדֶם פִּלְאֶךָ",
   "words": [
     {
       "position": 1,
@@ -30,6 +30,21 @@
     },
     {
       "position": 3,
+      "text": "אזכיר",
+      "lemma": "2142",
+      "morph": "HVhi1cs",
+      "strongs": [
+        "H2142"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 238,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
       "text": "מַעַלְלֵי",
       "lemma": "4611",
       "morph": "HNcmpc",
@@ -44,7 +59,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יָהּ",
       "lemma": "3050",
       "morph": "HNp",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֶזְכְּרָה",
       "lemma": "2142",
       "morph": "HVqh1cs",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מִקֶּדֶם",
       "lemma": "m/6924 a",
       "morph": "HR/Ncmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "פִּלְאֶךָ",
       "lemma": "6382",
       "morph": "HNcmsc/Sp2ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1245,
-    "ordinal": 350,
-    "reduced": 102
+    "standard": 1483,
+    "ordinal": 399,
+    "reduced": 115
   }
 }

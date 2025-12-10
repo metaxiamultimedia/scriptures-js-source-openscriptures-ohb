@@ -1,5 +1,5 @@
 {
-  "text": "כִּי מֹצְאִי חַיִּים וַיָּפֶק רָצוֹן מֵיְהוָה מצאי מָצָא",
+  "text": "כִּי מֹצְאִי מצאי חַיִּים וַיָּפֶק רָצוֹן מֵיְהוָה מצאי מָצָא",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "מצאי",
+      "lemma": "4672",
+      "morph": "HVqrmpc",
+      "strongs": [
+        "H4672"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 141,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
       "text": "חַיִּים",
       "lemma": "2416 e",
       "morph": "HNcmpa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וַיָּפֶק",
       "lemma": "c/6329",
       "morph": "HC/Vhw3ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רָצוֹן",
       "lemma": "7522",
       "morph": "HNcmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מֵיְהוָה",
       "lemma": "m/3068",
       "morph": "HR/Np",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מצאי",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מָצָא",
       "lemma": "4672",
       "morph": "HVqp3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1119,
-    "ordinal": 349,
-    "reduced": 120
+    "standard": 1260,
+    "ordinal": 391,
+    "reduced": 135
   }
 }

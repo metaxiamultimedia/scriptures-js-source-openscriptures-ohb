@@ -1,5 +1,5 @@
 {
-  "text": "ידעת יָדַעְתִּי כִּי יַעֲשֶׂה יְהוָה דִּין עָנִי מִשְׁפַּט אֶבְיֹנִים",
+  "text": "ידעת יָדַעְתִּי ידעת כִּי יַעֲשֶׂה יְהוָה דִּין עָנִי מִשְׁפַּט אֶבְיֹנִים",
   "words": [
     {
       "position": 1,
@@ -30,6 +30,21 @@
     },
     {
       "position": 3,
+      "text": "ידעת",
+      "lemma": "3045",
+      "morph": "HVqp2ms",
+      "strongs": [
+        "H3045"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -44,7 +59,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יַעֲשֶׂה",
       "lemma": "6213 a",
       "morph": "HVqi3ms",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "דִּין",
       "lemma": "1779",
       "morph": "HNcmsc",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עָנִי",
       "lemma": "6041",
       "morph": "HAamsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִשְׁפַּט",
       "lemma": "4941",
       "morph": "HNcmsc",
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֶבְיֹנִים",
       "lemma": "34",
       "morph": "HAampa",
@@ -132,8 +147,8 @@
     }
   ],
   "gematria": {
-    "standard": 2155,
-    "ordinal": 413,
-    "reduced": 130
+    "standard": 2639,
+    "ordinal": 465,
+    "reduced": 146
   }
 }

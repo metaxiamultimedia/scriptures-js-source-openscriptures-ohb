@@ -1,5 +1,5 @@
 {
-  "text": "כִּי הוּא יַכְאִיב וְיֶחְבָּשׁ יִמְחַץ תִּרְפֶּינָה וידו וְיָדָיו",
+  "text": "כִּי הוּא יַכְאִיב וְיֶחְבָּשׁ יִמְחַץ וידו תִּרְפֶּינָה וידו וְיָדָיו",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "וידו",
+      "lemma": "c/3027",
+      "morph": "HC/Ncbdc/Sp3ms",
+      "strongs": [
+        "H3027"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 26,
+        "ordinal": 26,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
       "text": "תִּרְפֶּינָה",
       "lemma": "7495",
       "morph": "HVqi3fp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וידו",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְיָדָיו",
       "lemma": "c/3027",
       "morph": "HC/Ncbdc/Sp3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1366,
-    "ordinal": 322,
-    "reduced": 124
+    "standard": 1392,
+    "ordinal": 348,
+    "reduced": 141
   }
 }

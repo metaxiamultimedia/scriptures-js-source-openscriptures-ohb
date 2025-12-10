@@ -1,5 +1,5 @@
 {
-  "text": "וָאֵרֵד בֵּית הַיּוֹצֵר עֹשֶׂה מְלָאכָה עַל הָאָבְנָיִם והנהו וְהִנֵּה הוּא",
+  "text": "וָאֵרֵד בֵּית הַיּוֹצֵר והנהו עֹשֶׂה מְלָאכָה עַל הָאָבְנָיִם והנהו וְהִנֵּה הוּא",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "והנהו",
+      "lemma": "c/2009",
+      "morph": "HC/Tm/Sp3ms",
+      "strongs": [
+        "H2009"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
       "text": "עֹשֶׂה",
       "lemma": "6213 a",
       "morph": "HVqrmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מְלָאכָה",
       "lemma": "4399",
       "morph": "HNcfsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הָאָבְנָיִם",
       "lemma": "d/70",
       "morph": "HTd/Ncmda",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "והנהו",
       "lemma": null,
       "morph": null,
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְהִנֵּה",
       "lemma": "c/2009",
       "morph": "HC/Tm",
@@ -131,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -147,8 +162,8 @@
     }
   ],
   "gematria": {
-    "standard": 1763,
-    "ordinal": 370,
-    "reduced": 161
+    "standard": 1835,
+    "ordinal": 406,
+    "reduced": 188
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵי חֶלְאָה צֶרֶת וְאֶתְנָן יצחר וְצֹחַר",
+  "text": "וּבְנֵי חֶלְאָה צֶרֶת יצחר וְאֶתְנָן יצחר וְצֹחַר",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "יצחר",
+      "lemma": "3328",
+      "morph": "HNp",
+      "strongs": [
+        "H3328"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
       "text": "וְאֶתְנָן",
       "lemma": "c/869",
       "morph": "HC/Np",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יצחר",
       "lemma": null,
       "morph": null,
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְצֹחַר",
       "lemma": "c/6714",
       "morph": "HC/Np",
@@ -90,8 +105,8 @@
     }
   ],
   "gematria": {
-    "standard": 1921,
-    "ordinal": 294,
-    "reduced": 112
+    "standard": 2229,
+    "ordinal": 350,
+    "reduced": 132
   }
 }

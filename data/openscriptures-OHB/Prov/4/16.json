@@ -1,5 +1,5 @@
 {
-  "text": "כִּי לֹא יִשְׁנוּ אִם לֹא יָרֵעוּ וְנִגְזְלָה שְׁנָתָם אִם לֹא יכשולו יַכְשִׁילוּ",
+  "text": "כִּי לֹא יִשְׁנוּ אִם לֹא יָרֵעוּ וְנִגְזְלָה שְׁנָתָם אִם לֹא יכשולו יכשולו יַכְשִׁילוּ",
   "words": [
     {
       "position": 1,
@@ -154,6 +154,21 @@
     {
       "position": 11,
       "text": "יכשולו",
+      "lemma": "3782",
+      "morph": "HVqi3mp",
+      "strongs": [
+        "H3782"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 372,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "יכשולו",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יַכְשִׁילוּ",
       "lemma": "3782",
       "morph": "HVhi3mp",
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 2496,
-    "ordinal": 477,
-    "reduced": 138
+    "standard": 2868,
+    "ordinal": 543,
+    "reduced": 159
   }
 }

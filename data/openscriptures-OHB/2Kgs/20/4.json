@@ -1,5 +1,5 @@
 {
-  "text": "וַיְהִי יְשַׁעְיָהוּ לֹא יָצָא הַתִּיכֹנָה וּדְבַר יְהוָה הָיָה אֵלָיו לֵאמֹר העיר חָצֵר",
+  "text": "וַיְהִי יְשַׁעְיָהוּ לֹא יָצָא העיר הַתִּיכֹנָה וּדְבַר יְהוָה הָיָה אֵלָיו לֵאמֹר העיר חָצֵר",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "העיר",
+      "lemma": "d/5892 b",
+      "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H5892"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 285,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
       "text": "הַתִּיכֹנָה",
       "lemma": "d/8484",
       "morph": "HTd/Aafsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וּדְבַר",
       "lemma": "c/1697",
       "morph": "HC/Ncmsc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הָיָה",
       "lemma": "1961",
       "morph": "HVqp3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֵלָיו",
       "lemma": "413",
       "morph": "HR/Sp3ms",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לֵאמֹר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "העיר",
       "lemma": null,
       "morph": null,
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "חָצֵר",
       "lemma": "2691 a",
       "morph": "HNcbsa",
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 2213,
-    "ordinal": 458,
-    "reduced": 170
+    "standard": 2498,
+    "ordinal": 509,
+    "reduced": 185
   }
 }

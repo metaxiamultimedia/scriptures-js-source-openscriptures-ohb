@@ -1,5 +1,5 @@
 {
-  "text": "וּלְאֵלֶּה אָמַר בְּאָזְנַי עִבְרוּ בָעִיר אַחֲרָיו וְהַכּוּ תָּחֹס וְאַל תַּחְמֹלוּ על אַל עיניכם עֵינְכֶם",
+  "text": "וּלְאֵלֶּה אָמַר בְּאָזְנַי עִבְרוּ בָעִיר אַחֲרָיו וְהַכּוּ על תָּחֹס עיניכם וְאַל תַּחְמֹלוּ על אַל עיניכם עֵינְכֶם",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,21 @@
     },
     {
       "position": 8,
+      "text": "על",
+      "lemma": "5921 a",
+      "morph": "HR",
+      "strongs": [
+        "H5921"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
       "text": "תָּחֹס",
       "lemma": "2347",
       "morph": "HVqj3fs",
@@ -122,7 +137,22 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
+      "text": "עיניכם",
+      "lemma": "5869 a",
+      "morph": "HNcbdc/Sp2mp",
+      "strongs": [
+        "H5869"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 85,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
       "text": "וְאַל",
       "lemma": "c/408",
       "morph": "HC/Tn",
@@ -137,7 +167,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "תַּחְמֹלוּ",
       "lemma": "2550",
       "morph": "HVqj2mp",
@@ -152,7 +182,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "על",
       "lemma": null,
       "morph": null,
@@ -164,7 +194,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "אַל",
       "lemma": "408",
       "morph": "HTn",
@@ -179,7 +209,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "עיניכם",
       "lemma": null,
       "morph": null,
@@ -191,7 +221,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "עֵינְכֶם",
       "lemma": "5869 a",
       "morph": "HNcbsc/Sp2mp",
@@ -207,8 +237,8 @@
     }
   ],
   "gematria": {
-    "standard": 2715,
-    "ordinal": 595,
-    "reduced": 213
+    "standard": 3015,
+    "ordinal": 708,
+    "reduced": 243
   }
 }

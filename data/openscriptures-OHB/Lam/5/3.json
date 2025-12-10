@@ -1,5 +1,5 @@
 {
-  "text": "יְתוֹמִים הָיִינוּ אָב אִמֹּתֵינוּ כְּאַלְמָנוֹת אין וְאֵין",
+  "text": "יְתוֹמִים הָיִינוּ אין אָב אִמֹּתֵינוּ כְּאַלְמָנוֹת אין וְאֵין",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "אין",
+      "lemma": "369",
+      "morph": "HTn",
+      "strongs": [
+        "H369"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 36,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
       "text": "אָב",
       "lemma": "1",
       "morph": "HNcmsa",
@@ -44,7 +59,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אִמֹּתֵינוּ",
       "lemma": "517",
       "morph": "HNcfpc/Sp1cp",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כְּאַלְמָנוֹת",
       "lemma": "k/490",
       "morph": "HR/Ncfpa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אין",
       "lemma": null,
       "morph": null,
@@ -86,7 +101,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְאֵין",
       "lemma": "c/369",
       "morph": "HC/Tn",
@@ -102,8 +117,8 @@
     }
   ],
   "gematria": {
-    "standard": 1772,
-    "ordinal": 356,
-    "reduced": 107
+    "standard": 1833,
+    "ordinal": 392,
+    "reduced": 114
   }
 }

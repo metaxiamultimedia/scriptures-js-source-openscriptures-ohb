@@ -1,5 +1,5 @@
 {
-  "text": "וְיָצָא עוֹד הַמִּדָּה נֶגְדּוֹ עַל גִּבְעַת גָּרֵב וְנָסַב גֹּעָתָה קוה קָו",
+  "text": "וְיָצָא עוֹד קוה הַמִּדָּה נֶגְדּוֹ עַל גִּבְעַת גָּרֵב וְנָסַב גֹּעָתָה קוה קָו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "קוה",
+      "lemma": "6961",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H6961"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 111,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
       "text": "הַמִּדָּה",
       "lemma": "d/4060 a",
       "morph": "HTd/Ncfsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "נֶגְדּוֹ",
       "lemma": "5048",
       "morph": "HR/Sp3ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "גִּבְעַת",
       "lemma": "1389",
       "morph": "HNcfsc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "גָּרֵב",
       "lemma": "1619",
       "morph": "HNp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְנָסַב",
       "lemma": "c/5437",
       "morph": "HC/VNq3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "גֹּעָתָה",
       "lemma": "1601",
       "morph": "HNp/Sd",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "קוה",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "קָו",
       "lemma": "6957 b",
       "morph": "HNcmsc",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 1897,
-    "ordinal": 349,
-    "reduced": 160
+    "standard": 2008,
+    "ordinal": 379,
+    "reduced": 172
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "קֹרוֹת בָּתֵּינוּ אֲרָזִים בְּרוֹתִים רחיטנו רַהִיטֵנוּ",
+  "text": "קֹרוֹת בָּתֵּינוּ אֲרָזִים רחיטנו בְּרוֹתִים רחיטנו רַהִיטֵנוּ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "רחיטנו",
+      "lemma": "7351",
+      "morph": "HNcmsc/Sp1cp",
+      "strongs": [
+        "H7351"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 283,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
       "text": "בְּרוֹתִים",
       "lemma": "1266",
       "morph": "HNcmpa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רחיטנו",
       "lemma": null,
       "morph": null,
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "רַהִיטֵנוּ",
       "lemma": "7351",
       "morph": "HNcmsc/Sp1cp",
@@ -90,8 +105,8 @@
     }
   ],
   "gematria": {
-    "standard": 2653,
-    "ordinal": 398,
-    "reduced": 124
+    "standard": 2936,
+    "ordinal": 465,
+    "reduced": 155
   }
 }

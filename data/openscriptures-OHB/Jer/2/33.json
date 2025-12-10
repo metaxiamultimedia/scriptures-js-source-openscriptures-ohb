@@ -1,5 +1,5 @@
 {
-  "text": "מַה תֵּיטִבִי דַּרְכֵּךְ לְבַקֵּשׁ אַהֲבָה לָכֵן גַּם אֶת הָרָעוֹת אֶת דְּרָכָיִךְ למדתי לִמַּדְתְּ",
+  "text": "מַה תֵּיטִבִי דַּרְכֵּךְ לְבַקֵּשׁ אַהֲבָה לָכֵן גַּם אֶת הָרָעוֹת למדתי אֶת דְּרָכָיִךְ למדתי לִמַּדְתְּ",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,21 @@
     },
     {
       "position": 10,
+      "text": "למדתי",
+      "lemma": "3925",
+      "morph": "HVpp1cs",
+      "strongs": [
+        "H3925"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 61,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "דְּרָכָיִךְ",
       "lemma": "1870",
       "morph": "HNcbpc/Sp2fs",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "למדתי",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לִמַּדְתְּ",
       "lemma": "3925",
       "morph": "HVpp1cs",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 4003,
-    "ordinal": 566,
-    "reduced": 151
+    "standard": 4487,
+    "ordinal": 627,
+    "reduced": 167
   }
 }

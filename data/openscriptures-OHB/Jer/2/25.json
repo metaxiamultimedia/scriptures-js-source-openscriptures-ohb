@@ -1,5 +1,5 @@
 {
-  "text": "מִנְעִי רַגְלֵךְ מִיָּחֵף מִצִּמְאָה וַתֹּאמְרִי נוֹאָשׁ לוֹא כִּי אָהַבְתִּי זָרִים וְאַחֲרֵיהֶם אֵלֵךְ וגורנך וּגְרוֹנֵךְ",
+  "text": "מִנְעִי רַגְלֵךְ מִיָּחֵף וגורנך מִצִּמְאָה וַתֹּאמְרִי נוֹאָשׁ לוֹא כִּי אָהַבְתִּי זָרִים וְאַחֲרֵיהֶם אֵלֵךְ וגורנך וּגְרוֹנֵךְ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "וגורנך",
+      "lemma": "c/1637",
+      "morph": "HC/Ncbsc/Sp2fs",
+      "strongs": [
+        "H1637"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 285,
+        "ordinal": 72,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
       "text": "מִצִּמְאָה",
       "lemma": "m/6773",
       "morph": "HR/Ncfsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וַתֹּאמְרִי",
       "lemma": "c/559",
       "morph": "HC/Vqw2fs",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "נוֹאָשׁ",
       "lemma": "2976",
       "morph": "HVNrmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לוֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אָהַבְתִּי",
       "lemma": "157",
       "morph": "HVqp1cs",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "זָרִים",
       "lemma": "2114 a",
       "morph": "HAampa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְאַחֲרֵיהֶם",
       "lemma": "c/310 a",
       "morph": "HC/R/Sp3mp",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֵלֵךְ",
       "lemma": "3212",
       "morph": "HVqi1cs",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וגורנך",
       "lemma": null,
       "morph": null,
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וּגְרוֹנֵךְ",
       "lemma": "c/1627",
       "morph": "HC/Ncmsc/Sp2fs",
@@ -210,8 +225,8 @@
     }
   ],
   "gematria": {
-    "standard": 3384,
-    "ordinal": 727,
-    "reduced": 225
+    "standard": 3669,
+    "ordinal": 799,
+    "reduced": 249
   }
 }

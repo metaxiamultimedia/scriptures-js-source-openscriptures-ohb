@@ -1,5 +1,5 @@
 {
-  "text": "הֲלוֹא זֶה דָוִד אֲשֶׁר יַעֲנוּ לוֹ בַּמְּחֹלוֹת לֵאמֹר הִכָּה שָׁאוּל בַּאֲלָפָיו וְדָוִד ברבבתו בְּרִבְבֹתָיו",
+  "text": "הֲלוֹא זֶה דָוִד אֲשֶׁר יַעֲנוּ לוֹ בַּמְּחֹלוֹת לֵאמֹר הִכָּה שָׁאוּל בַּאֲלָפָיו וְדָוִד ברבבתו ברבבתו בְּרִבְבֹתָיו",
   "words": [
     {
       "position": 1,
@@ -181,6 +181,21 @@
     {
       "position": 13,
       "text": "ברבבתו",
+      "lemma": "b/7233",
+      "morph": "HR/Ncfpc/Sp3ms",
+      "strongs": [
+        "H7233"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 612,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "ברבבתו",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -191,7 +206,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּרִבְבֹתָיו",
       "lemma": "b/7233",
       "morph": "HR/Ncfpc/Sp3ms",
@@ -207,8 +222,8 @@
     }
   ],
   "gematria": {
-    "standard": 3248,
-    "ordinal": 512,
-    "reduced": 215
+    "standard": 3860,
+    "ordinal": 566,
+    "reduced": 233
   }
 }

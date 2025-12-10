@@ -1,8 +1,23 @@
 {
-  "text": "בַּלְּבָנוֹן בָּאֲרָזִים מַה נֵּחַנְתְּ בְּבֹא לָךְ חֲבָלִים חִיל כַּיֹּלֵדָה ישבתי יֹשַׁבְתְּ מקננתי מְקֻנַּנְתְּ",
+  "text": "ישבתי בַּלְּבָנוֹן מקננתי בָּאֲרָזִים מַה נֵּחַנְתְּ בְּבֹא לָךְ חֲבָלִים חִיל כַּיֹּלֵדָה ישבתי יֹשַׁבְתְּ מקננתי מְקֻנַּנְתְּ",
   "words": [
     {
       "position": 1,
+      "text": "ישבתי",
+      "lemma": "3427",
+      "morph": "HVqrfsa",
+      "strongs": [
+        "H3427"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 722,
+        "ordinal": 65,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
       "text": "בַּלְּבָנוֹן",
       "lemma": "b/3844",
       "morph": "HRd/Np",
@@ -17,7 +32,22 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
+      "text": "מקננתי",
+      "lemma": "7077",
+      "morph": "HVPsfsa",
+      "strongs": [
+        "H7077"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 92,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
       "text": "בָּאֲרָזִים",
       "lemma": "b/730",
       "morph": "HRd/Ncmpa",
@@ -32,7 +62,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 5,
       "text": "מַה",
       "lemma": "4100",
       "morph": "HTi",
@@ -47,7 +77,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "נֵּחַנְתְּ",
       "lemma": "2603 a",
       "morph": "HVNp2fs",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "בְּבֹא",
       "lemma": "b/935",
       "morph": "HR/Vqc",
@@ -77,7 +107,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
@@ -89,7 +119,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "חֲבָלִים",
       "lemma": "2256 b",
       "morph": "HNcmpa",
@@ -104,7 +134,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "חִיל",
       "lemma": "2427 a",
       "morph": "HNcmsa",
@@ -119,7 +149,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "כַּיֹּלֵדָה",
       "lemma": "k/3205",
       "morph": "HRd/Vqrfsa",
@@ -134,7 +164,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "ישבתי",
       "lemma": null,
       "morph": null,
@@ -146,7 +176,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "יֹשַׁבְתְּ",
       "lemma": "3427",
       "morph": "HVqrfsc",
@@ -161,7 +191,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "מקננתי",
       "lemma": null,
       "morph": null,
@@ -173,7 +203,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "מְקֻנַּנְתְּ",
       "lemma": "7077",
       "morph": "HVPsfsa",
@@ -189,8 +219,8 @@
     }
   ],
   "gematria": {
-    "standard": 3939,
-    "ordinal": 663,
-    "reduced": 186
+    "standard": 5311,
+    "ordinal": 820,
+    "reduced": 217
   }
 }

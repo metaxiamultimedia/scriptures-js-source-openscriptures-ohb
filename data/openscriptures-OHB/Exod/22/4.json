@@ -1,5 +1,5 @@
 {
-  "text": "בעירה בְּעִירוֹ כִּי יַבְעֶר אִישׁ שָׂדֶה אוֹ כֶרֶם וְשִׁלַּח אֶת וּבִעֵר בִּשְׂדֵה אַחֵר מֵיטַב שָׂדֵהוּ וּמֵיטַב כַּרְמוֹ יְשַׁלֵּם",
+  "text": "בעירה בְּעִירוֹ כִּי יַבְעֶר אִישׁ שָׂדֶה אוֹ כֶרֶם וְשִׁלַּח אֶת בעירה וּבִעֵר בִּשְׂדֵה אַחֵר מֵיטַב שָׂדֵהוּ וּמֵיטַב כַּרְמוֹ יְשַׁלֵּם",
   "words": [
     {
       "position": 1,
@@ -150,6 +150,21 @@
     },
     {
       "position": 11,
+      "text": "בעירה",
+      "lemma": "1165",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H1165"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 287,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
       "text": "וּבִעֵר",
       "lemma": "c/1197 b",
       "morph": "HC/Vpq3ms",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בִּשְׂדֵה",
       "lemma": "b/7704 b",
       "morph": "HR/Ncmsc",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אַחֵר",
       "lemma": "312",
       "morph": "HAamsa",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מֵיטַב",
       "lemma": "4315",
       "morph": "HNcmsc",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שָׂדֵהוּ",
       "lemma": "7704 b",
       "morph": "HNcmsc/Sp3ms",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וּמֵיטַב",
       "lemma": "c/4315",
       "morph": "HC/Ncmsc",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "כַּרְמוֹ",
       "lemma": "3754",
       "morph": "HNcbsc/Sp3ms",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "יְשַׁלֵּם",
       "lemma": "7999 a",
       "morph": "HVpi3ms",
@@ -270,8 +285,8 @@
     }
   ],
   "gematria": {
-    "standard": 4406,
-    "ordinal": 702,
-    "reduced": 230
+    "standard": 4693,
+    "ordinal": 755,
+    "reduced": 247
   }
 }

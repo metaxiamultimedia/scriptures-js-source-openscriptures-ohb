@@ -1,5 +1,5 @@
 {
-  "text": "וְאֶת בַּעֲלָת וְאֶת בַּמִּדְבָּר בָּאָרֶץ תמר תַּדְמֹר",
+  "text": "וְאֶת בַּעֲלָת וְאֶת תמר בַּמִּדְבָּר בָּאָרֶץ תמר תַּדְמֹר",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "תמר",
+      "lemma": "8559",
+      "morph": "HNp",
+      "strongs": [
+        "H8559"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 640,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
       "text": "בַּמִּדְבָּר",
       "lemma": "b/4057 b",
       "morph": "HRd/Ncmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בָּאָרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תמר",
       "lemma": null,
       "morph": null,
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תַּדְמֹר",
       "lemma": "8412",
       "morph": "HNp",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 3141,
-    "ordinal": 315,
-    "reduced": 90
+    "standard": 3781,
+    "ordinal": 370,
+    "reduced": 100
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "הְמִיָּמֶיךָ צִוִּיתָ בֹּקֶר מְקֹמוֹ ידעתה שחר",
+  "text": "הְמִיָּמֶיךָ צִוִּיתָ בֹּקֶר ידעתה שחר מְקֹמוֹ ידעתה שחר",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,36 @@
     },
     {
       "position": 4,
+      "text": "ידעתה",
+      "lemma": "3045",
+      "morph": "HVpp2ms",
+      "strongs": [
+        "H3045"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "שחר",
+      "lemma": "7837",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H7837"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
       "text": "מְקֹמוֹ",
       "lemma": "4725",
       "morph": "HNcmsc/Sp3ms",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "ידעתה",
       "lemma": null,
       "morph": null,
@@ -74,7 +104,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "שחר",
       "lemma": null,
       "morph": null,
@@ -87,8 +117,8 @@
     }
   ],
   "gematria": {
-    "standard": 2116,
-    "ordinal": 328,
-    "reduced": 91
+    "standard": 3113,
+    "ordinal": 434,
+    "reduced": 125
   }
 }

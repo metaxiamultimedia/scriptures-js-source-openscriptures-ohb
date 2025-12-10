@@ -1,5 +1,5 @@
 {
-  "text": "בֵּאדַיִן גֻּבְרַיָּא אִלֵּךְ כְּפִתוּ בְּסַרְבָּלֵיהוֹן וְכַרְבְּלָתְהוֹן וּלְבֻשֵׁיהוֹן וּרְמִיו לְגוֹא אַתּוּן נוּרָא יָקִדְתָּא פטישיהון פַּטְּשֵׁיהוֹן",
+  "text": "בֵּאדַיִן גֻּבְרַיָּא אִלֵּךְ כְּפִתוּ בְּסַרְבָּלֵיהוֹן פטישיהון וְכַרְבְּלָתְהוֹן וּלְבֻשֵׁיהוֹן וּרְמִיו לְגוֹא אַתּוּן נוּרָא יָקִדְתָּא פטישיהון פַּטְּשֵׁיהוֹן",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "פטישיהון",
+      "lemma": "6361",
+      "morph": "ANcmpc/Sp3mp",
+      "strongs": [
+        "H6361"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 103,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
       "text": "וְכַרְבְּלָתְהוֹן",
       "lemma": "c/3737",
       "morph": "AC/Ncfpc/Sp3mp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וּלְבֻשֵׁיהוֹן",
       "lemma": "c/3831",
       "morph": "AC/Ncmpc/Sp3mp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּרְמִיו",
       "lemma": "c/7412",
       "morph": "AC/VQp3mp",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לְגוֹא",
       "lemma": "l/1459",
       "morph": "AR/Ncmsc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אַתּוּן",
       "lemma": "861",
       "morph": "ANcmsc",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "נוּרָא",
       "lemma": "5135",
       "morph": "ANcbsd/Td",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יָקִדְתָּא",
       "lemma": "3345",
       "morph": "AVqrfsd/Td",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "פטישיהון",
       "lemma": null,
       "morph": null,
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "פַּטְּשֵׁיהוֹן",
       "lemma": "6361",
       "morph": "ANcmpc/Sp3mp",
@@ -210,8 +225,8 @@
     }
   ],
   "gematria": {
-    "standard": 4794,
-    "ordinal": 887,
-    "reduced": 294
+    "standard": 5264,
+    "ordinal": 990,
+    "reduced": 332
   }
 }

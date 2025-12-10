@@ -1,5 +1,5 @@
 {
-  "text": "וּמִן בְּנֵי הֵימָן וְשִׁמְעִי וּמִן בְּנֵי יְדוּתוּן שְׁמַעְיָה וְעֻזִּיאֵל יחואל יְחִיאֵל",
+  "text": "וּמִן בְּנֵי הֵימָן יחואל וְשִׁמְעִי וּמִן בְּנֵי יְדוּתוּן שְׁמַעְיָה וְעֻזִּיאֵל יחואל יְחִיאֵל",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "יחואל",
+      "lemma": "3171",
+      "morph": "HNp",
+      "strongs": [
+        "H3171"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
       "text": "וְשִׁמְעִי",
       "lemma": "c/8096",
       "morph": "HC/Np",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּמִן",
       "lemma": "c/4480 a",
       "morph": "HC/R",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְדוּתוּן",
       "lemma": "3038",
       "morph": "HNp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "שְׁמַעְיָה",
       "lemma": "8098",
       "morph": "HNp",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְעֻזִּיאֵל",
       "lemma": "c/5816",
       "morph": "HC/Np",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יחואל",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְחִיאֵל",
       "lemma": "3171",
       "morph": "HNp",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 1986,
-    "ordinal": 527,
-    "reduced": 186
+    "standard": 2041,
+    "ordinal": 564,
+    "reduced": 205
   }
 }

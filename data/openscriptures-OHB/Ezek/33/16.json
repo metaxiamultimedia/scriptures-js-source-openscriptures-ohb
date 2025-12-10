@@ -1,5 +1,5 @@
 {
-  "text": "כָּל אֲשֶׁר חָטָא לֹא תִזָּכַרְנָה לוֹ מִשְׁפָּט וּצְדָקָה עָשָׂה חָיוֹ יִחְיֶה חטאתו חַטֹּאתָיו",
+  "text": "כָּל חטאתו אֲשֶׁר חָטָא לֹא תִזָּכַרְנָה לוֹ מִשְׁפָּט וּצְדָקָה עָשָׂה חָיוֹ יִחְיֶה חטאתו חַטֹּאתָיו",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,21 @@
     },
     {
       "position": 2,
+      "text": "חטאתו",
+      "lemma": "2403 b",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H2403"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 424,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "חָטָא",
       "lemma": "2398",
       "morph": "HVqp3ms",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "תִזָּכַרְנָה",
       "lemma": "2142",
       "morph": "HVNi3fp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מִשְׁפָּט",
       "lemma": "4941",
       "morph": "HNcmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּצְדָקָה",
       "lemma": "c/6666",
       "morph": "HC/Ncfsa",
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "עָשָׂה",
       "lemma": "6213 a",
       "morph": "HVqp3ms",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "חָיוֹ",
       "lemma": "2421",
       "morph": "HVqa",
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יִחְיֶה",
       "lemma": "2421",
       "morph": "HVqi3ms",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "חטאתו",
       "lemma": null,
       "morph": null,
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "חַטֹּאתָיו",
       "lemma": "2403 b",
       "morph": "HNcfpc/Sp3ms",
@@ -192,8 +207,8 @@
     }
   ],
   "gematria": {
-    "standard": 3242,
-    "ordinal": 506,
-    "reduced": 218
+    "standard": 3666,
+    "ordinal": 552,
+    "reduced": 246
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "גַּם בְּנֵי נֹף יִרְעוּךְ קָדְקֹד ותחפנס וְתַחְפַּנְחֵס",
+  "text": "גַּם בְּנֵי נֹף ותחפנס יִרְעוּךְ קָדְקֹד ותחפנס וְתַחְפַּנְחֵס",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "ותחפנס",
+      "lemma": "c/8471",
+      "morph": "HC/Np",
+      "strongs": [
+        "H8471"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 604,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
       "text": "יִרְעוּךְ",
       "lemma": "7462 b",
       "morph": "HVqi3mp/Sp2fs",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "קָדְקֹד",
       "lemma": "6936",
       "morph": "HNcmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "ותחפנס",
       "lemma": null,
       "morph": null,
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְתַחְפַּנְחֵס",
       "lemma": "c/8471",
       "morph": "HC/Np",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 1965,
-    "ordinal": 386,
-    "reduced": 138
+    "standard": 2569,
+    "ordinal": 468,
+    "reduced": 175
   }
 }

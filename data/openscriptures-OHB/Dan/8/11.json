@@ -1,5 +1,5 @@
 {
-  "text": "וְעַד שַׂר הַצָּבָא הִגְדִּיל וּמִמֶּנּוּ הַתָּמִיד וְהֻשְׁלַךְ מְכוֹן מִקְדָּשׁוֹ הרים הוּרַם",
+  "text": "וְעַד שַׂר הַצָּבָא הִגְדִּיל וּמִמֶּנּוּ הרים הַתָּמִיד וְהֻשְׁלַךְ מְכוֹן מִקְדָּשׁוֹ הרים הוּרַם",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "הרים",
+      "lemma": "7311 a",
+      "morph": "HVhp3ms",
+      "strongs": [
+        "H7311"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 255,
+        "ordinal": 59,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
       "text": "הַתָּמִיד",
       "lemma": "d/8548",
       "morph": "HTd/Ncmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְהֻשְׁלַךְ",
       "lemma": "c/7993",
       "morph": "HC/VHp3ms",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מְכוֹן",
       "lemma": "4349",
       "morph": "HNcmsc",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מִקְדָּשׁוֹ",
       "lemma": "4720",
       "morph": "HNcmsc/Sp3ms",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הרים",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הוּרַם",
       "lemma": "7311 a",
       "morph": "HVHp3ms",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2764,
-    "ordinal": 532,
-    "reduced": 181
+    "standard": 3019,
+    "ordinal": 591,
+    "reduced": 193
   }
 }

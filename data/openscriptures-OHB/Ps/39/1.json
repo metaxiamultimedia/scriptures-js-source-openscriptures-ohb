@@ -1,5 +1,5 @@
 {
-  "text": "לַמְנַצֵּחַ מִזְמוֹר לְדָוִד לידיתון לִידוּתוּן",
+  "text": "לַמְנַצֵּחַ לידיתון מִזְמוֹר לְדָוִד לידיתון לִידוּתוּן",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,21 @@
     },
     {
       "position": 2,
+      "text": "לידיתון",
+      "lemma": "l/3038",
+      "morph": "HR/Np",
+      "strongs": [
+        "H3038"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 89,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
       "text": "מִזְמוֹר",
       "lemma": "4210",
       "morph": "HNcmsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "לְדָוִד",
       "lemma": "l/1732",
       "morph": "HR/Np",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לידיתון",
       "lemma": null,
       "morph": null,
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לִידוּתוּן",
       "lemma": "l/3038",
       "morph": "HR/Np",
@@ -75,8 +90,8 @@
     }
   ],
   "gematria": {
-    "standard": 1571,
-    "ordinal": 324,
-    "reduced": 122
+    "standard": 2081,
+    "ordinal": 413,
+    "reduced": 146
   }
 }

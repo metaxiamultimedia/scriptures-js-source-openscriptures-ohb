@@ -1,5 +1,5 @@
 {
-  "text": "אֱדַיִן רְחוּם בְּעֵל טְעֵם וְשִׁמְשַׁי סָפְרָא וּשְׁאָר כְּנָוָתְהוֹן דִּינָיֵא וַאֲפַרְסַתְכָיֵא טַרְפְּלָיֵא אֲפָרְסָיֵא בָבְלָיֵא שׁוּשַׁנְכָיֵא עֵלְמָיֵא ארכוי אַרְכְּוָיֵא דהוא דֶּהָיֵא",
+  "text": "אֱדַיִן רְחוּם בְּעֵל טְעֵם וְשִׁמְשַׁי סָפְרָא וּשְׁאָר כְּנָוָתְהוֹן דִּינָיֵא וַאֲפַרְסַתְכָיֵא טַרְפְּלָיֵא אֲפָרְסָיֵא ארכוי בָבְלָיֵא שׁוּשַׁנְכָיֵא דהוא עֵלְמָיֵא ארכוי אַרְכְּוָיֵא דהוא דֶּהָיֵא",
   "words": [
     {
       "position": 1,
@@ -183,6 +183,21 @@
     },
     {
       "position": 13,
+      "text": "ארכוי",
+      "lemma": "756",
+      "morph": "ANgmpc",
+      "strongs": [
+        "H756"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 237,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
       "text": "בָבְלָיֵא",
       "lemma": "896",
       "morph": "ANgmpd/Td",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שׁוּשַׁנְכָיֵא",
       "lemma": "7801",
       "morph": "ANgmpd/Td",
@@ -212,7 +227,22 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
+      "text": "דהוא",
+      "lemma": "1768",
+      "morph": "ATr/Ta",
+      "strongs": [
+        "H1768"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 16,
+        "ordinal": 16,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
       "text": "עֵלְמָיֵא",
       "lemma": "5962",
       "morph": "ANgmpd/Td",
@@ -227,7 +257,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "ארכוי",
       "lemma": null,
       "morph": null,
@@ -239,7 +269,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "אַרְכְּוָיֵא",
       "lemma": "756",
       "morph": "ANgmpd/Td",
@@ -254,7 +284,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "דהוא",
       "lemma": null,
       "morph": null,
@@ -266,7 +296,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "דֶּהָיֵא",
       "lemma": "1723",
       "morph": "ANgmpd/Td",
@@ -282,8 +312,8 @@
     }
   ],
   "gematria": {
-    "standard": 5510,
-    "ordinal": 1009,
-    "reduced": 326
+    "standard": 5763,
+    "ordinal": 1073,
+    "reduced": 354
   }
 }

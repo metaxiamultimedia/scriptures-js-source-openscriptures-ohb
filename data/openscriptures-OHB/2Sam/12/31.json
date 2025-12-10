@@ -1,5 +1,5 @@
 {
-  "text": "וְאֶת הָעָם אֲשֶׁר בָּהּ הוֹצִיא וַיָּשֶׂם בַּמְּגֵרָה וּבַחֲרִצֵי הַבַּרְזֶל וּבְמַגְזְרֹת הַבַּרְזֶל וְהֶעֱבִיר אוֹתָם וְכֵן יַעֲשֶׂה לְכֹל עָרֵי בְנֵי עַמּוֹן וַיָּשָׁב דָּוִד וְכָל הָעָם יְרוּשָׁלִָם במלכן בַּמַּלְבֵּן",
+  "text": "וְאֶת הָעָם אֲשֶׁר בָּהּ הוֹצִיא וַיָּשֶׂם בַּמְּגֵרָה וּבַחֲרִצֵי הַבַּרְזֶל וּבְמַגְזְרֹת הַבַּרְזֶל וְהֶעֱבִיר אוֹתָם במלכן וְכֵן יַעֲשֶׂה לְכֹל עָרֵי בְנֵי עַמּוֹן וַיָּשָׁב דָּוִד וְכָל הָעָם יְרוּשָׁלִָם במלכן בַּמַּלְבֵּן",
   "words": [
     {
       "position": 1,
@@ -195,6 +195,21 @@
     },
     {
       "position": 14,
+      "text": "במלכן",
+      "lemma": "b/4404",
+      "morph": "HRd/Ncmsa",
+      "strongs": [
+        "H4404"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 142,
+        "ordinal": 63,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
       "text": "וְכֵן",
       "lemma": "c/3651 c",
       "morph": "HC/Tm",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יַעֲשֶׂה",
       "lemma": "6213 a",
       "morph": "HVqi3ms",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לְכֹל",
       "lemma": "l/3605",
       "morph": "HR/Ncmsc",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "עָרֵי",
       "lemma": "5892 b",
       "morph": "HNcfpc",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בְנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עַמּוֹן",
       "lemma": "5983",
       "morph": "HNp",
@@ -284,7 +299,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וַיָּשָׁב",
       "lemma": "c/7725",
       "morph": "HC/Vqw3ms",
@@ -299,7 +314,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "דָּוִד",
       "lemma": "1732",
       "morph": "HNp",
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -329,7 +344,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "הָעָם",
       "lemma": "d/5971 a",
       "morph": "HTd/Ncmsa",
@@ -344,7 +359,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "יְרוּשָׁלִָם",
       "lemma": "3389",
       "morph": "HNp",
@@ -359,7 +374,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "במלכן",
       "lemma": null,
       "morph": null,
@@ -371,7 +386,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "בַּמַּלְבֵּן",
       "lemma": "b/4404",
       "morph": "HRd/Ncmsa",
@@ -387,8 +402,8 @@
     }
   ],
   "gematria": {
-    "standard": 6354,
-    "ordinal": 1206,
-    "reduced": 405
+    "standard": 6496,
+    "ordinal": 1269,
+    "reduced": 421
   }
 }

@@ -1,8 +1,23 @@
 {
-  "text": "אֶת בְּנֵי בִנְיָמִן לֵאמֹר לְכוּ וַאֲרַבְתֶּם בַּכְּרָמִים ויצו וַיְצַוּוּ",
+  "text": "ויצו אֶת בְּנֵי בִנְיָמִן לֵאמֹר לְכוּ וַאֲרַבְתֶּם בַּכְּרָמִים ויצו וַיְצַוּוּ",
   "words": [
     {
       "position": 1,
+      "text": "ויצו",
+      "lemma": "c/6680",
+      "morph": "HC/Vpw3mp",
+      "strongs": [
+        "H6680"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 112,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "בִנְיָמִן",
       "lemma": "1144",
       "morph": "HNp",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לֵאמֹר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לְכוּ",
       "lemma": "3212",
       "morph": "HVqv2mp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וַאֲרַבְתֶּם",
       "lemma": "c/693",
       "morph": "HC/Vqp2mp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בַּכְּרָמִים",
       "lemma": "b/3754",
       "morph": "HRd/Ncbpa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "ויצו",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וַיְצַוּוּ",
       "lemma": "c/6680",
       "morph": "HC/Vpw3mp",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 2133,
-    "ordinal": 429,
-    "reduced": 135
+    "standard": 2245,
+    "ordinal": 469,
+    "reduced": 157
   }
 }

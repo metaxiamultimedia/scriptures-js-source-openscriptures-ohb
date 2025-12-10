@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר יְהוָה יַעַן כִּי גָבְהוּ בְּנוֹת צִיּוֹן וַתֵּלַכְנָה גָּרוֹן וּמְשַׂקְּרוֹת עֵינָיִם הָלוֹךְ וְטָפֹף תֵּלַכְנָה וּבְרַגְלֵיהֶם תְּעַכַּסְנָה נטוות נְטוּיוֹת",
+  "text": "וַיֹּאמֶר יְהוָה יַעַן כִּי גָבְהוּ בְּנוֹת צִיּוֹן וַתֵּלַכְנָה נטוות גָּרוֹן וּמְשַׂקְּרוֹת עֵינָיִם הָלוֹךְ וְטָפֹף תֵּלַכְנָה וּבְרַגְלֵיהֶם תְּעַכַּסְנָה נטוות נְטוּיוֹת",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "נטוות",
+      "lemma": "5186",
+      "morph": "HVqsfpa",
+      "strongs": [
+        "H5186"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 471,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
       "text": "גָּרוֹן",
       "lemma": "1627",
       "morph": "HNcmsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וּמְשַׂקְּרוֹת",
       "lemma": "c/8265",
       "morph": "HC/Vprfpa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עֵינָיִם",
       "lemma": "5869 a",
       "morph": "HNcbda",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הָלוֹךְ",
       "lemma": "1980",
       "morph": "HVqa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְטָפֹף",
       "lemma": "c/2952",
       "morph": "HC/Vqa",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "תֵּלַכְנָה",
       "lemma": "3212",
       "morph": "HVqi3fp",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וּבְרַגְלֵיהֶם",
       "lemma": "c/b/7272",
       "morph": "HC/R/Ncfdc/Sp3mp",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "תְּעַכַּסְנָה",
       "lemma": "5913",
       "morph": "HVpi3fp",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "נטוות",
       "lemma": null,
       "morph": null,
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "נְטוּיוֹת",
       "lemma": "5186",
       "morph": "HVqsfpa",
@@ -270,8 +285,8 @@
     }
   ],
   "gematria": {
-    "standard": 5669,
-    "ordinal": 1029,
-    "reduced": 368
+    "standard": 6140,
+    "ordinal": 1086,
+    "reduced": 398
   }
 }

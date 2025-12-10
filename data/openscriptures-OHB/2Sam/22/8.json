@@ -1,8 +1,23 @@
 {
-  "text": "וַתִּרְעַשׁ הָאָרֶץ מוֹסְדוֹת הַשָּׁמַיִם יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ ותגעש וַיִּתְגָּעַשׁ",
+  "text": "ותגעש וַתִּרְעַשׁ הָאָרֶץ מוֹסְדוֹת הַשָּׁמַיִם יִרְגָּזוּ וַיִּתְגָּעֲשׁוּ כִּי חָרָה לוֹ ותגעש וַיִּתְגָּעַשׁ",
   "words": [
     {
       "position": 1,
+      "text": "ותגעש",
+      "lemma": "c/1607",
+      "morph": "HC/Vqw3fs",
+      "strongs": [
+        "H1607"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 779,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
       "text": "וַתִּרְעַשׁ",
       "lemma": "c/7493",
       "morph": "HC/Vqw3fs",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מוֹסְדוֹת",
       "lemma": "4146",
       "morph": "HNcbpc",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "הַשָּׁמַיִם",
       "lemma": "d/8064",
       "morph": "HTd/Ncmpa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יִרְגָּזוּ",
       "lemma": "7264",
       "morph": "HVqi3mp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וַיִּתְגָּעֲשׁוּ",
       "lemma": "c/1607",
       "morph": "HC/Vtw3mp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "חָרָה",
       "lemma": "2734",
       "morph": "HVqp3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "ותגעש",
       "lemma": null,
       "morph": null,
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וַיִּתְגָּעַשׁ",
       "lemma": "c/1607",
       "morph": "HC/Vtw3ms",
@@ -162,8 +177,8 @@
     }
   ],
   "gematria": {
-    "standard": 5051,
-    "ordinal": 625,
-    "reduced": 209
+    "standard": 5830,
+    "ordinal": 693,
+    "reduced": 232
   }
 }

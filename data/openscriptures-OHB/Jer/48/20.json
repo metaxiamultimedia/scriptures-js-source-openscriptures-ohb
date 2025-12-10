@@ -1,5 +1,5 @@
 {
-  "text": "הֹבִישׁ מוֹאָב כִּי חַתָּה הַגִּידוּ בְאַרְנוֹן כִּי שֻׁדַּד מוֹאָב הילילי הֵילִילוּ וזעקי וּזְעָקוּ",
+  "text": "הֹבִישׁ מוֹאָב כִּי חַתָּה הילילי וזעקי הַגִּידוּ בְאַרְנוֹן כִּי שֻׁדַּד מוֹאָב הילילי הֵילִילוּ וזעקי וּזְעָקוּ",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,36 @@
     },
     {
       "position": 5,
+      "text": "הילילי",
+      "lemma": "3213",
+      "morph": "HVhv2fs",
+      "strongs": [
+        "H3213"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "וזעקי",
+      "lemma": "c/2199",
+      "morph": "HC/Vqv2fs",
+      "strongs": [
+        "H2199"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 193,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
       "text": "הַגִּידוּ",
       "lemma": "5046",
       "morph": "HVhv2mp",
@@ -77,7 +107,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "בְאַרְנוֹן",
       "lemma": "b/769",
       "morph": "HR/Np",
@@ -92,7 +122,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -107,7 +137,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "שֻׁדַּד",
       "lemma": "7703",
       "morph": "HVPp3ms",
@@ -122,7 +152,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "מוֹאָב",
       "lemma": "4124",
       "morph": "HNp",
@@ -137,7 +167,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "הילילי",
       "lemma": null,
       "morph": null,
@@ -149,7 +179,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "הֵילִילוּ",
       "lemma": "3213",
       "morph": "HVhv2mp",
@@ -164,7 +194,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "וזעקי",
       "lemma": null,
       "morph": null,
@@ -176,7 +206,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "וּזְעָקוּ",
       "lemma": "c/2199",
       "morph": "HC/Vqv2mp",
@@ -192,8 +222,8 @@
     }
   ],
   "gematria": {
-    "standard": 2101,
-    "ordinal": 510,
-    "reduced": 193
+    "standard": 2389,
+    "ordinal": 627,
+    "reduced": 229
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "שָׁקוֹהִי דִּי פַרְזֶל רַגְלוֹהִי דִּי פַרְזֶל דִּי חֲסַף מנהון מִנְּהֵין ומנהון וּמִנְּהֵין",
+  "text": "שָׁקוֹהִי דִּי פַרְזֶל רַגְלוֹהִי מנהון דִּי פַרְזֶל ומנהון דִּי חֲסַף מנהון מִנְּהֵין ומנהון וּמִנְּהֵין",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "מנהון",
+      "lemma": "4481",
+      "morph": "AR/Sp3mp",
+      "strongs": [
+        "H4481"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 63,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "פַרְזֶל",
       "lemma": "6523",
       "morph": "ANcmsa",
@@ -92,7 +107,22 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
+      "text": "ומנהון",
+      "lemma": "c/4481",
+      "morph": "AC/R/Sp3mp",
+      "strongs": [
+        "H4481"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 157,
+        "ordinal": 69,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -107,7 +137,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "חֲסַף",
       "lemma": "2635",
       "morph": "ANcmsa",
@@ -122,7 +152,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "מנהון",
       "lemma": null,
       "morph": null,
@@ -134,7 +164,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "מִנְּהֵין",
       "lemma": "4481",
       "morph": "AR/Sp3fp",
@@ -149,7 +179,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "ומנהון",
       "lemma": null,
       "morph": null,
@@ -161,7 +191,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "וּמִנְּהֵין",
       "lemma": "c/4481",
       "morph": "AC/R/Sp3fp",
@@ -177,8 +207,8 @@
     }
   ],
   "gematria": {
-    "standard": 2123,
-    "ordinal": 592,
-    "reduced": 215
+    "standard": 2431,
+    "ordinal": 724,
+    "reduced": 271
   }
 }

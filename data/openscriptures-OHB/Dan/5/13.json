@@ -1,5 +1,5 @@
 {
-  "text": "בֵּאדַיִן דָּנִיֵּאל הֻעַל קֳדָם מַלְכָּא עָנֵה מַלְכָּא וְאָמַר לְדָנִיֵּאל הוּא דָנִיֵּאל דִּי מִן בְּנֵי גָלוּתָא דִּי יְהוּד דִּי הַיְתִי מַלְכָּא אַבִי מִן יְהוּד אנתה אַנְתְּ",
+  "text": "בֵּאדַיִן דָּנִיֵּאל הֻעַל קֳדָם מַלְכָּא עָנֵה מַלְכָּא וְאָמַר לְדָנִיֵּאל אנתה הוּא דָנִיֵּאל דִּי מִן בְּנֵי גָלוּתָא דִּי יְהוּד דִּי הַיְתִי מַלְכָּא אַבִי מִן יְהוּד אנתה אַנְתְּ",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,21 @@
     },
     {
       "position": 10,
+      "text": "אנתה",
+      "lemma": "607",
+      "morph": "APp2ms",
+      "strongs": [
+        "H607"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
       "text": "הוּא",
       "lemma": "1932",
       "morph": "ATa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "דָנִיֵּאל",
       "lemma": "1841",
       "morph": "ANp",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּנֵי",
       "lemma": "1123",
       "morph": "ANcmpc",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "גָלוּתָא",
       "lemma": "1547",
       "morph": "ANcfsd/Td",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יְהוּד",
       "lemma": "3061",
       "morph": "ANp",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הַיְתִי",
       "lemma": "858",
       "morph": "AVhp3ms",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "מַלְכָּא",
       "lemma": "4430",
       "morph": "ANcmsd/Td",
@@ -302,7 +317,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אַבִי",
       "lemma": "2",
       "morph": "ANcmsc/Sp1cs",
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -329,7 +344,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "יְהוּד",
       "lemma": "3061",
       "morph": "ANp",
@@ -344,7 +359,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "אנתה",
       "lemma": null,
       "morph": null,
@@ -356,7 +371,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "אַנְתְּ",
       "lemma": "607",
       "morph": "APp2ms",
@@ -372,8 +387,8 @@
     }
   ],
   "gematria": {
-    "standard": 3407,
-    "ordinal": 832,
-    "reduced": 284
+    "standard": 3863,
+    "ordinal": 874,
+    "reduced": 299
   }
 }

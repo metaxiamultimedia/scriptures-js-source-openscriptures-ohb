@@ -1,5 +1,5 @@
 {
-  "text": "אשוב אָשִׁיב כִּי הִנֵּה בַּיָּמִים הָהֵמָּה וּבָעֵת הַהִיא אֲשֶׁר אֶת שְׁבוּת יְהוּדָה וִירוּשָׁלִָם",
+  "text": "אשוב אָשִׁיב כִּי הִנֵּה בַּיָּמִים הָהֵמָּה וּבָעֵת הַהִיא אֲשֶׁר אשוב אֶת שְׁבוּת יְהוּדָה וִירוּשָׁלִָם",
   "words": [
     {
       "position": 1,
@@ -135,6 +135,21 @@
     },
     {
       "position": 10,
+      "text": "אשוב",
+      "lemma": "7725",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 309,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "שְׁבוּת",
       "lemma": "7622",
       "morph": "HNcfsc",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יְהוּדָה",
       "lemma": "3063",
       "morph": "HNp",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וִירוּשָׁלִָם",
       "lemma": "c/3389",
       "morph": "HC/Np",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 3600,
-    "ordinal": 508,
-    "reduced": 171
+    "standard": 3909,
+    "ordinal": 538,
+    "reduced": 183
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "כֹּה אָמַר יְהוָה גֹּאֲלֶךָ וְיֹצֶרְךָ מִבָּטֶן אָנֹכִי יְהוָה עֹשֶׂה כֹּל נֹטֶה שָׁמַיִם לְבַדִּי רֹקַע הָאָרֶץ מי אתי מֵאִתִּי",
+  "text": "כֹּה אָמַר יְהוָה גֹּאֲלֶךָ וְיֹצֶרְךָ מִבָּטֶן אָנֹכִי יְהוָה עֹשֶׂה כֹּל נֹטֶה שָׁמַיִם לְבַדִּי רֹקַע הָאָרֶץ מי אתי מי אתי מֵאִתִּי",
   "words": [
     {
       "position": 1,
@@ -229,6 +229,36 @@
     {
       "position": 16,
       "text": "מי",
+      "lemma": "4325",
+      "morph": "HNcmpc",
+      "strongs": [
+        "H4325"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 17,
+      "text": "אתי",
+      "lemma": "854",
+      "morph": "HR/Sp1cs",
+      "strongs": [
+        "H854"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 33,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "מי",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -239,7 +269,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "אתי",
       "lemma": null,
       "morph": null,
@@ -251,7 +281,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "מֵאִתִּי",
       "lemma": "m/854",
       "morph": "HR/R/Sp1cs",
@@ -267,8 +297,8 @@
     }
   ],
   "gematria": {
-    "standard": 3383,
-    "ordinal": 702,
-    "reduced": 215
+    "standard": 3844,
+    "ordinal": 758,
+    "reduced": 226
   }
 }

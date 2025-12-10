@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר יְהוָה אֵלַי שֶׁקֶר הַנְּבִאִים נִבְּאִים בִּשְׁמִי לֹא שְׁלַחְתִּים וְלֹא צִוִּיתִים וְלֹא דִבַּרְתִּי אֲלֵיהֶם חֲזוֹן שֶׁקֶר וְקֶסֶם לִבָּם הֵמָּה מִתְנַבְּאִים לָכֶם ואלול וֶאֱלִיל ותרמות וְתַרְמִית",
+  "text": "וַיֹּאמֶר יְהוָה אֵלַי שֶׁקֶר הַנְּבִאִים נִבְּאִים בִּשְׁמִי לֹא שְׁלַחְתִּים וְלֹא צִוִּיתִים וְלֹא דִבַּרְתִּי אֲלֵיהֶם חֲזוֹן שֶׁקֶר וְקֶסֶם ואלול ותרמות לִבָּם הֵמָּה מִתְנַבְּאִים לָכֶם ואלול וֶאֱלִיל ותרמות וְתַרְמִית",
   "words": [
     {
       "position": 1,
@@ -258,6 +258,36 @@
     },
     {
       "position": 18,
+      "text": "ואלול",
+      "lemma": "c/434",
+      "morph": "HC/Np",
+      "strongs": [
+        "H434"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 73,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "ותרמות",
+      "lemma": "c/8649 b",
+      "morph": "HC/Ncfsc",
+      "strongs": [
+        "H8649"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 1052,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 20,
       "text": "לִבָּם",
       "lemma": "3820 a",
       "morph": "HNcmsc/Sp3mp",
@@ -272,7 +302,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "הֵמָּה",
       "lemma": "1992",
       "morph": "HPp3mp",
@@ -287,7 +317,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "מִתְנַבְּאִים",
       "lemma": "5012",
       "morph": "HVtrmpa",
@@ -302,7 +332,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 23,
       "text": "לָכֶם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
@@ -314,7 +344,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 24,
       "text": "ואלול",
       "lemma": null,
       "morph": null,
@@ -326,7 +356,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 25,
       "text": "וֶאֱלִיל",
       "lemma": "c/457",
       "morph": "HC/Ncmsa",
@@ -341,7 +371,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 26,
       "text": "ותרמות",
       "lemma": null,
       "morph": null,
@@ -353,7 +383,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 27,
       "text": "וְתַרְמִית",
       "lemma": "c/8649 b",
       "morph": "HC/Ncfsc",
@@ -369,8 +399,8 @@
     }
   ],
   "gematria": {
-    "standard": 7528,
-    "ordinal": 1284,
-    "reduced": 364
+    "standard": 8653,
+    "ordinal": 1410,
+    "reduced": 409
   }
 }

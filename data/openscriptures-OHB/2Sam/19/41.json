@@ -1,5 +1,5 @@
 {
-  "text": "ויעברו הֶעֱבִירוּ וַיַּעֲבֹר הַמֶּלֶךְ הַגִּלְגָּלָה וְכִמְהָן עָבַר עִמּוֹ וְכָל עַם יְהוּדָה אֶת הַמֶּלֶךְ וְגַם חֲצִי עַם יִשְׂרָאֵל",
+  "text": "ויעברו הֶעֱבִירוּ וַיַּעֲבֹר הַמֶּלֶךְ הַגִּלְגָּלָה וְכִמְהָן עָבַר עִמּוֹ וְכָל עַם יְהוּדָה ויעברו אֶת הַמֶּלֶךְ וְגַם חֲצִי עַם יִשְׂרָאֵל",
   "words": [
     {
       "position": 1,
@@ -165,6 +165,21 @@
     },
     {
       "position": 12,
+      "text": "ויעברו",
+      "lemma": "c/5674 a",
+      "morph": "HC/Vhw3mp",
+      "strongs": [
+        "H5674"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 294,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הַמֶּלֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְגַם",
       "lemma": "c/1571",
       "morph": "HC/Ta",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "חֲצִי",
       "lemma": "2677",
       "morph": "HNcmsc",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עַם",
       "lemma": "5971 a",
       "morph": "HNcmsc",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -255,8 +270,8 @@
     }
   ],
   "gematria": {
-    "standard": 3055,
-    "ordinal": 747,
-    "reduced": 265
+    "standard": 3349,
+    "ordinal": 807,
+    "reduced": 289
   }
 }

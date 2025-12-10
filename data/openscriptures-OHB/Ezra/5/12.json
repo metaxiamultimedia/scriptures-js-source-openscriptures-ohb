@@ -1,5 +1,5 @@
 {
-  "text": "לָהֵן מִן דִּי הַרְגִּזוּ אֲבָהֳתַנָא לֶאֱלָהּ שְׁמַיָּא יְהַב הִמּוֹ בְּיַד נְבוּכַדְנֶצַּר מֶלֶךְ בָּבֶל וּבַיְתָה דְנָה סַתְרֵהּ וְעַמָּה הַגְלִי לְבָבֶל כסדיא כַּסְדָּאָה",
+  "text": "לָהֵן מִן דִּי הַרְגִּזוּ אֲבָהֳתַנָא לֶאֱלָהּ שְׁמַיָּא יְהַב הִמּוֹ בְּיַד נְבוּכַדְנֶצַּר מֶלֶךְ בָּבֶל כסדיא וּבַיְתָה דְנָה סַתְרֵהּ וְעַמָּה הַגְלִי לְבָבֶל כסדיא כַּסְדָּאָה",
   "words": [
     {
       "position": 1,
@@ -195,6 +195,21 @@
     },
     {
       "position": 14,
+      "text": "כסדיא",
+      "lemma": "3679",
+      "morph": "ANgmpd/Td",
+      "strongs": [
+        "H3679"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
       "text": "וּבַיְתָה",
       "lemma": "c/1005",
       "morph": "AC/Ncmsd/Td",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "דְנָה",
       "lemma": "1836",
       "morph": "APdxms",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "סַתְרֵהּ",
       "lemma": "5642 b",
       "morph": "AVqp3ms/Sp3ms",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְעַמָּה",
       "lemma": "c/5972",
       "morph": "AC/Ncmsd/Td",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "הַגְלִי",
       "lemma": "1541",
       "morph": "AVhp3ms",
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לְבָבֶל",
       "lemma": "l/895",
       "morph": "AR/Np",
@@ -284,7 +299,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "כסדיא",
       "lemma": null,
       "morph": null,
@@ -296,7 +311,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "כַּסְדָּאָה",
       "lemma": "3679",
       "morph": "ANgmsd/Td",
@@ -312,8 +327,8 @@
     }
   ],
   "gematria": {
-    "standard": 3481,
-    "ordinal": 770,
-    "reduced": 295
+    "standard": 3576,
+    "ordinal": 811,
+    "reduced": 309
   }
 }

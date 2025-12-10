@@ -1,5 +1,5 @@
 {
-  "text": "אַל תֹּאמַר לֵךְ וָשׁוּב וּמָחָר אֶתֵּן וְיֵשׁ אִתָּךְ לרעיך לְרֵעֲךָ",
+  "text": "אַל תֹּאמַר לרעיך לֵךְ וָשׁוּב וּמָחָר אֶתֵּן וְיֵשׁ אִתָּךְ לרעיך לְרֵעֲךָ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "לרעיך",
+      "lemma": "l/7453",
+      "morph": "HR/Ncmpc/Sp2ms",
+      "strongs": [
+        "H7453"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 330,
+        "ordinal": 81,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
       "text": "לֵךְ",
       "lemma": "3212",
       "morph": "HVqv2ms",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וָשׁוּב",
       "lemma": "c/7725",
       "morph": "HC/Vqv2ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּמָחָר",
       "lemma": "c/4279",
       "morph": "HC/Ncmsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֶתֵּן",
       "lemma": "5414",
       "morph": "HVqi1cs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְיֵשׁ",
       "lemma": "c/3426",
       "morph": "HC/Tm",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אִתָּךְ",
       "lemma": "854",
       "morph": "HR/Sp2fs",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לרעיך",
       "lemma": null,
       "morph": null,
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְרֵעֲךָ",
       "lemma": "l/7453",
       "morph": "HR/Ncmsc/Sp2ms",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 3128,
-    "ordinal": 469,
-    "reduced": 113
+    "standard": 3458,
+    "ordinal": 550,
+    "reduced": 128
   }
 }

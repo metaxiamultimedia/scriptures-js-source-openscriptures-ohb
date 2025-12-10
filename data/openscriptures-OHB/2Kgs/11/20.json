@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּשְׂמַח כָּל עַם הָאָרֶץ וְהָעִיר שָׁקָטָה וְאֶת עֲתַלְיָהוּ הֵמִיתוּ בַחֶרֶב בֵּית מלך הַמֶּלֶךְ",
+  "text": "וַיִּשְׂמַח כָּל עַם הָאָרֶץ וְהָעִיר שָׁקָטָה וְאֶת עֲתַלְיָהוּ הֵמִיתוּ בַחֶרֶב בֵּית מלך מלך הַמֶּלֶךְ",
   "words": [
     {
       "position": 1,
@@ -169,6 +169,21 @@
     {
       "position": 12,
       "text": "מלך",
+      "lemma": "4428",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H4428"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 90,
+        "ordinal": 48,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "מלך",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הַמֶּלֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 3723,
-    "ordinal": 608,
-    "reduced": 195
+    "standard": 3813,
+    "ordinal": 656,
+    "reduced": 204
   }
 }

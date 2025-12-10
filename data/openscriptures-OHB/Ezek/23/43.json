@@ -1,5 +1,5 @@
 {
-  "text": "וָאֹמַר לַבָּלָה נִאוּפִים תַזְנוּתֶהָ וָהִיא עת עַתָּה יזנה יִזְנוּ",
+  "text": "וָאֹמַר לַבָּלָה נִאוּפִים עת יזנה תַזְנוּתֶהָ וָהִיא עת עַתָּה יזנה יִזְנוּ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,36 @@
     },
     {
       "position": 4,
+      "text": "עת",
+      "lemma": "6258",
+      "morph": "HD",
+      "strongs": [
+        "H6258"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "יזנה",
+      "lemma": "2181",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H2181"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
       "text": "תַזְנוּתֶהָ",
       "lemma": "8457",
       "morph": "HNcfpc/Sp3fs",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "וָהִיא",
       "lemma": "c/1931",
       "morph": "HC/Pp3fs",
@@ -77,7 +107,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "עת",
       "lemma": null,
       "morph": null,
@@ -89,7 +119,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "עַתָּה",
       "lemma": "6258",
       "morph": "HD",
@@ -104,7 +134,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "יזנה",
       "lemma": null,
       "morph": null,
@@ -116,7 +146,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "יִזְנוּ",
       "lemma": "2181",
       "morph": "HVqi3mp",
@@ -132,8 +162,8 @@
     }
   ],
   "gematria": {
-    "standard": 2481,
-    "ordinal": 395,
-    "reduced": 159
+    "standard": 3023,
+    "ordinal": 469,
+    "reduced": 188
   }
 }

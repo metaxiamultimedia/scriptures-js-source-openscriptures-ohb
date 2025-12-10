@@ -1,5 +1,5 @@
 {
-  "text": "וְאֵת כָּל תּוֹעֲבֹתַיִךְ וְתַזְנֻתַיִךְ לֹא אֶת יְמֵי נְעוּרָיִךְ בִּהְיוֹתֵךְ עֵרֹם וְעֶרְיָה מִתְבּוֹסֶסֶת בְּדָמֵךְ הָיִית זכרתי זָכַרְתְּ",
+  "text": "וְאֵת כָּל תּוֹעֲבֹתַיִךְ וְתַזְנֻתַיִךְ לֹא זכרתי אֶת יְמֵי נְעוּרָיִךְ בִּהְיוֹתֵךְ עֵרֹם וְעֶרְיָה מִתְבּוֹסֶסֶת בְּדָמֵךְ הָיִית זכרתי זָכַרְתְּ",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "זכרתי",
+      "lemma": "2142",
+      "morph": "HVqp2fs",
+      "strongs": [
+        "H2142"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 637,
+        "ordinal": 70,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְמֵי",
       "lemma": "3117",
       "morph": "HNcmpc",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "נְעוּרָיִךְ",
       "lemma": "5271 a",
       "morph": "HNcbpc/Sp2fs",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בִּהְיוֹתֵךְ",
       "lemma": "b/1961",
       "morph": "HR/Vqc/Sp2fs",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עֵרֹם",
       "lemma": "5903",
       "morph": "HAamsa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְעֶרְיָה",
       "lemma": "c/6181",
       "morph": "HC/Ncfsa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מִתְבּוֹסֶסֶת",
       "lemma": "947",
       "morph": "HVrrfsa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בְּדָמֵךְ",
       "lemma": "b/1818",
       "morph": "HR/Ncmsc/Sp2fs",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הָיִית",
       "lemma": "1961",
       "morph": "HVqp2fs",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "זכרתי",
       "lemma": null,
       "morph": null,
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "זָכַרְתְּ",
       "lemma": "2142",
       "morph": "HVqp2fs",
@@ -240,8 +255,8 @@
     }
   ],
   "gematria": {
-    "standard": 6873,
-    "ordinal": 914,
-    "reduced": 249
+    "standard": 7510,
+    "ordinal": 984,
+    "reduced": 265
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "וַיֻּגַּד לְשָׁאוּל לֵאמֹר הִנֵּה דָוִד בָּרָמָה בנוית בְּנָיוֹת",
+  "text": "וַיֻּגַּד לְשָׁאוּל לֵאמֹר הִנֵּה דָוִד בנוית בָּרָמָה בנוית בְּנָיוֹת",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "בנוית",
+      "lemma": "b/5121",
+      "morph": "HR/Np",
+      "strongs": [
+        "H5121"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 468,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
       "text": "בָּרָמָה",
       "lemma": "b/7414",
       "morph": "HRd/Np",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בנוית",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְּנָיוֹת",
       "lemma": "b/5121",
       "morph": "HR/Np",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1918,
-    "ordinal": 307,
-    "reduced": 118
+    "standard": 2386,
+    "ordinal": 361,
+    "reduced": 136
   }
 }

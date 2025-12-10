@@ -1,8 +1,23 @@
 {
-  "text": "שְׁלוֹשָׁה מִפּוֹ וּשְׁלֹשָׁה מִפּוֹ הָיָה כְּמִדַּת הַשַּׁעַר הָרִאשׁוֹן חֲמִשִּׁים אַמָּה אָרְכּוֹ וְרֹחַב חָמֵשׁ וְעֶשְׂרִים בָּאַמָּה ותאו וְתָאָיו ואילו וְאֵילָיו ואלמו וְאֵלַמָּיו",
+  "text": "ותאו שְׁלוֹשָׁה מִפּוֹ וּשְׁלֹשָׁה מִפּוֹ ואילו ואלמו הָיָה כְּמִדַּת הַשַּׁעַר הָרִאשׁוֹן חֲמִשִּׁים אַמָּה אָרְכּוֹ וְרֹחַב חָמֵשׁ וְעֶשְׂרִים בָּאַמָּה ותאו וְתָאָיו ואילו וְאֵילָיו ואלמו וְאֵלַמָּיו",
   "words": [
     {
       "position": 1,
+      "text": "ותאו",
+      "lemma": "c/8372",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H8372"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 413,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
       "text": "שְׁלוֹשָׁה",
       "lemma": "7969",
       "morph": "HAcmsa",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "מִפּוֹ",
       "lemma": "m/6311",
       "morph": "HR/D",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וּשְׁלֹשָׁה",
       "lemma": "c/7969",
       "morph": "HC/Acmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "מִפּוֹ",
       "lemma": "m/6311",
       "morph": "HR/D",
@@ -62,7 +77,37 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
+      "text": "ואילו",
+      "lemma": "c/352 b",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H352"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ואלמו",
+      "lemma": "c/361",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H361"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 83,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
       "text": "הָיָה",
       "lemma": "1961",
       "morph": "HVqp3ms",
@@ -77,7 +122,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 9,
       "text": "כְּמִדַּת",
       "lemma": "k/4060 a",
       "morph": "HR/Ncfsc",
@@ -92,7 +137,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 10,
       "text": "הַשַּׁעַר",
       "lemma": "d/8179",
       "morph": "HTd/Ncmsa",
@@ -107,7 +152,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 11,
       "text": "הָרִאשׁוֹן",
       "lemma": "d/7223",
       "morph": "HTd/Aomsa",
@@ -122,7 +167,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 12,
       "text": "חֲמִשִּׁים",
       "lemma": "2572",
       "morph": "HAcbpa",
@@ -137,7 +182,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 13,
       "text": "אַמָּה",
       "lemma": "520 a",
       "morph": "HNcfsa",
@@ -152,7 +197,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 14,
       "text": "אָרְכּוֹ",
       "lemma": "753",
       "morph": "HNcmsc/Sp3ms",
@@ -167,7 +212,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 15,
       "text": "וְרֹחַב",
       "lemma": "c/7341",
       "morph": "HC/Ncmsa",
@@ -182,7 +227,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 16,
       "text": "חָמֵשׁ",
       "lemma": "2568",
       "morph": "HAcfsa",
@@ -197,7 +242,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 17,
       "text": "וְעֶשְׂרִים",
       "lemma": "c/6242",
       "morph": "HC/Acbpa",
@@ -212,7 +257,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 18,
       "text": "בָּאַמָּה",
       "lemma": "b/520 a",
       "morph": "HRd/Ncfsa",
@@ -227,7 +272,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 19,
       "text": "ותאו",
       "lemma": null,
       "morph": null,
@@ -239,7 +284,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 20,
       "text": "וְתָאָיו",
       "lemma": "c/8372",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -254,7 +299,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 21,
       "text": "ואילו",
       "lemma": null,
       "morph": null,
@@ -266,7 +311,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 22,
       "text": "וְאֵילָיו",
       "lemma": "c/352 b",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -281,7 +326,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 23,
       "text": "ואלמו",
       "lemma": null,
       "morph": null,
@@ -293,7 +338,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 24,
       "text": "וְאֵלַמָּיו",
       "lemma": "c/361",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -309,8 +354,8 @@
     }
   ],
   "gematria": {
-    "standard": 6192,
-    "ordinal": 987,
-    "reduced": 360
+    "standard": 6741,
+    "ordinal": 1095,
+    "reduced": 414
   }
 }

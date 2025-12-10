@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר בְּעוֹד הַיֶּלֶד חַי צַמְתִּי וָאֶבְכֶּה כִּי אָמַרְתִּי מִי יוֹדֵעַ יְהוָה וְחַי הַיָּלֶד יחנני וְחַנַּנִי",
+  "text": "וַיֹּאמֶר בְּעוֹד הַיֶּלֶד חַי צַמְתִּי וָאֶבְכֶּה כִּי אָמַרְתִּי מִי יוֹדֵעַ יחנני יְהוָה וְחַי הַיָּלֶד יחנני וְחַנַּנִי",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,21 @@
     },
     {
       "position": 11,
+      "text": "יחנני",
+      "lemma": "2603 a",
+      "morph": "HVqi3ms/Sp1cs",
+      "strongs": [
+        "H2603"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 128,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְחַי",
       "lemma": "c/2416 a",
       "morph": "HC/Vqq3ms",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הַיָּלֶד",
       "lemma": "d/3206",
       "morph": "HTd/Ncmsa",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יחנני",
       "lemma": null,
       "morph": null,
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְחַנַּנִי",
       "lemma": "c/2603 a",
       "morph": "HC/Vqq3ms/Sp1cs",
@@ -225,8 +240,8 @@
     }
   ],
   "gematria": {
-    "standard": 2152,
-    "ordinal": 550,
-    "reduced": 217
+    "standard": 2280,
+    "ordinal": 606,
+    "reduced": 237
   }
 }

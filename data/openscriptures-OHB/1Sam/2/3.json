@@ -1,5 +1,5 @@
 {
-  "text": "אַל תַּרְבּוּ תְדַבְּרוּ גְּבֹהָה גְבֹהָה יֵצֵא עָתָק מִפִּיכֶם כִּי אֵל דֵּעוֹת יְהוָה נִתְכְּנוּ עֲלִלוֹת ולא וְלוֹ",
+  "text": "אַל תַּרְבּוּ תְדַבְּרוּ גְּבֹהָה גְבֹהָה יֵצֵא עָתָק מִפִּיכֶם כִּי אֵל דֵּעוֹת יְהוָה ולא נִתְכְּנוּ עֲלִלוֹת ולא וְלוֹ",
   "words": [
     {
       "position": 1,
@@ -183,6 +183,21 @@
     },
     {
       "position": 13,
+      "text": "ולא",
+      "lemma": "c/3808",
+      "morph": "HC/Tn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 37,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
       "text": "נִתְכְּנוּ",
       "lemma": "8505",
       "morph": "HVNp3cp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עֲלִלוֹת",
       "lemma": "5949",
       "morph": "HNcfpa",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "ולא",
       "lemma": null,
       "morph": null,
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְלוֹ",
       "lemma": "c/l/3808",
       "morph": "HC/R/Sp3ms",
@@ -240,8 +255,8 @@
     }
   ],
   "gematria": {
-    "standard": 3850,
-    "ordinal": 594,
-    "reduced": 223
+    "standard": 3887,
+    "ordinal": 613,
+    "reduced": 233
   }
 }

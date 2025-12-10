@@ -1,5 +1,5 @@
 {
-  "text": "יֵשׁ אֶחָד וְאֵין שֵׁנִי גַּם בֵּן וָאָח אֵין לוֹ וְאֵין קֵץ לְכָל עֲמָלוֹ גַּם לֹא תִשְׂבַּע עֹשֶׁר וּלְמִי אֲנִי עָמֵל וּמְחַסֵּר אֶת נַפְשִׁי מִטּוֹבָה גַּם זֶה הֶבֶל וְעִנְיַן רָע הוּא עיניו עֵינוֹ",
+  "text": "יֵשׁ אֶחָד וְאֵין שֵׁנִי גַּם בֵּן וָאָח אֵין לוֹ וְאֵין קֵץ לְכָל עֲמָלוֹ גַּם עיניו לֹא תִשְׂבַּע עֹשֶׁר וּלְמִי אֲנִי עָמֵל וּמְחַסֵּר אֶת נַפְשִׁי מִטּוֹבָה גַּם זֶה הֶבֶל וְעִנְיַן רָע הוּא עיניו עֵינוֹ",
   "words": [
     {
       "position": 1,
@@ -210,6 +210,21 @@
     },
     {
       "position": 15,
+      "text": "עיניו",
+      "lemma": "5869 a",
+      "morph": "HNcbdc/Sp3ms",
+      "strongs": [
+        "H5869"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 146,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "תִשְׂבַּע",
       "lemma": "7646",
       "morph": "HVqi3fs",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "עֹשֶׁר",
       "lemma": "6239",
       "morph": "HNcmsa",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וּלְמִי",
       "lemma": "c/l/4310",
       "morph": "HC/R/Ti",
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אֲנִי",
       "lemma": "589",
       "morph": "HPp1cs",
@@ -284,7 +299,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "עָמֵל",
       "lemma": "6001 b",
       "morph": "HAamsa",
@@ -299,7 +314,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "וּמְחַסֵּר",
       "lemma": "c/2637",
       "morph": "HC/Vprmsa",
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -329,7 +344,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "נַפְשִׁי",
       "lemma": "5315",
       "morph": "HNcbsc/Sp1cs",
@@ -344,7 +359,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "מִטּוֹבָה",
       "lemma": "m/2896 c",
       "morph": "HR/Aafsa",
@@ -359,7 +374,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "גַּם",
       "lemma": "1571",
       "morph": "HTa",
@@ -374,7 +389,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "זֶה",
       "lemma": "2088",
       "morph": "HPdxms",
@@ -389,7 +404,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "הֶבֶל",
       "lemma": "1892",
       "morph": "HNcmsa",
@@ -404,7 +419,7 @@
       }
     },
     {
-      "position": 28,
+      "position": 29,
       "text": "וְעִנְיַן",
       "lemma": "c/6045",
       "morph": "HC/Ncmsa",
@@ -419,7 +434,7 @@
       }
     },
     {
-      "position": 29,
+      "position": 30,
       "text": "רָע",
       "lemma": "7451 a",
       "morph": "HAamsa",
@@ -434,7 +449,7 @@
       }
     },
     {
-      "position": 30,
+      "position": 31,
       "text": "הוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -449,7 +464,7 @@
       }
     },
     {
-      "position": 31,
+      "position": 32,
       "text": "עיניו",
       "lemma": null,
       "morph": null,
@@ -461,7 +476,7 @@
       }
     },
     {
-      "position": 32,
+      "position": 33,
       "text": "עֵינוֹ",
       "lemma": "5869 a",
       "morph": "HNcbsc/Sp3ms",
@@ -477,8 +492,8 @@
     }
   ],
   "gematria": {
-    "standard": 5202,
-    "ordinal": 1150,
-    "reduced": 396
+    "standard": 5348,
+    "ordinal": 1206,
+    "reduced": 416
   }
 }

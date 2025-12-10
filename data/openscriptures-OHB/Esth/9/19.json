@@ -1,5 +1,5 @@
 {
-  "text": "עַל כֵּן הַיְּהוּדִים הַיֹּשְׁבִים בְּעָרֵי הַפְּרָזוֹת עֹשִׂים אֵת יוֹם אַרְבָּעָה עָשָׂר לְחֹדֶשׁ אֲדָר שִׂמְחָה וּמִשְׁתֶּה וְיוֹם טוֹב וּמִשְׁלוֹחַ מָנוֹת אִישׁ לְרֵעֵהוּ הפרוזים הַפְּרָזִים",
+  "text": "עַל כֵּן הַיְּהוּדִים הפרוזים הַיֹּשְׁבִים בְּעָרֵי הַפְּרָזוֹת עֹשִׂים אֵת יוֹם אַרְבָּעָה עָשָׂר לְחֹדֶשׁ אֲדָר שִׂמְחָה וּמִשְׁתֶּה וְיוֹם טוֹב וּמִשְׁלוֹחַ מָנוֹת אִישׁ לְרֵעֵהוּ הפרוזים הַפְּרָזִים",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "הפרוזים",
+      "lemma": "d/6521",
+      "morph": "HTd/Ncmpa",
+      "strongs": [
+        "H6521"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 348,
+        "ordinal": 89,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
       "text": "הַיֹּשְׁבִים",
       "lemma": "d/3427",
       "morph": "HTd/Vqrmpa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בְּעָרֵי",
       "lemma": "b/5892 b",
       "morph": "HR/Ncfpc",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַפְּרָזוֹת",
       "lemma": "d/6519",
       "morph": "HTd/Ncfpa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עֹשִׂים",
       "lemma": "6213 a",
       "morph": "HVqrmpa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֵת",
       "lemma": "853",
       "morph": "HTo",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יוֹם",
       "lemma": "3117",
       "morph": "HNcmsc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אַרְבָּעָה",
       "lemma": "702",
       "morph": "HAcmsa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עָשָׂר",
       "lemma": "6240",
       "morph": "HAcmsa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לְחֹדֶשׁ",
       "lemma": "l/2320",
       "morph": "HR/Ncmsc",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲדָר",
       "lemma": "143",
       "morph": "HNp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שִׂמְחָה",
       "lemma": "8057",
       "morph": "HNcfsa",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וּמִשְׁתֶּה",
       "lemma": "c/4960",
       "morph": "HC/Ncmsa",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְיוֹם",
       "lemma": "c/3117",
       "morph": "HC/Ncmsa",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "טוֹב",
       "lemma": "2896 a",
       "morph": "HAamsa",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וּמִשְׁלוֹחַ",
       "lemma": "c/4916 b",
       "morph": "HC/Ncmsc",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "מָנוֹת",
       "lemma": "4490",
       "morph": "HNcfpa",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אִישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -302,7 +317,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "לְרֵעֵהוּ",
       "lemma": "l/7453",
       "morph": "HR/Ncmsc/Sp3ms",
@@ -317,7 +332,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "הפרוזים",
       "lemma": null,
       "morph": null,
@@ -329,7 +344,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "הַפְּרָזִים",
       "lemma": "d/6521",
       "morph": "HTd/Ncmpa",
@@ -345,8 +360,8 @@
     }
   ],
   "gematria": {
-    "standard": 7250,
-    "ordinal": 1191,
-    "reduced": 401
+    "standard": 7598,
+    "ordinal": 1280,
+    "reduced": 434
   }
 }

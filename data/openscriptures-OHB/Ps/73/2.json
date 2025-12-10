@@ -1,5 +1,5 @@
 {
-  "text": "וַאֲנִי כִּמְעַט רַגְלָי כְּאַיִן אֲשֻׁרָי נטוי נָטָיוּ שפכה שֻׁפְּכוּ",
+  "text": "וַאֲנִי כִּמְעַט נטוי רַגְלָי כְּאַיִן שפכה אֲשֻׁרָי נטוי נָטָיוּ שפכה שֻׁפְּכוּ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "נטוי",
+      "lemma": "5186",
+      "morph": "HVqsmsc",
+      "strongs": [
+        "H5186"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 75,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
       "text": "רַגְלָי",
       "lemma": "7272",
       "morph": "HNcfdc/Sp1cs",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "כְּאַיִן",
       "lemma": "k/369",
       "morph": "HR/Tn",
@@ -62,7 +77,22 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
+      "text": "שפכה",
+      "lemma": "8210",
+      "morph": "HVQp3fs",
+      "strongs": [
+        "H8210"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 405,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
       "text": "אֲשֻׁרָי",
       "lemma": "838 a",
       "morph": "HNcfpc/Sp1cs",
@@ -77,7 +107,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "נטוי",
       "lemma": null,
       "morph": null,
@@ -89,7 +119,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "נָטָיוּ",
       "lemma": "5186",
       "morph": "HVqp3cp",
@@ -104,7 +134,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "שפכה",
       "lemma": null,
       "morph": null,
@@ -116,7 +146,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "שֻׁפְּכוּ",
       "lemma": "8210",
       "morph": "HVQp3cp",
@@ -132,8 +162,8 @@
     }
   ],
   "gematria": {
-    "standard": 2002,
-    "ordinal": 411,
-    "reduced": 139
+    "standard": 2482,
+    "ordinal": 504,
+    "reduced": 178
   }
 }

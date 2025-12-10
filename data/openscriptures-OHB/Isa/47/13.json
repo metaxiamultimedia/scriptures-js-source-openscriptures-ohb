@@ -1,5 +1,5 @@
 {
-  "text": "נִלְאֵית בְּרֹב עֲצָתָיִךְ יַעַמְדוּ נָא וְיוֹשִׁיעֻךְ שָׁמַיִם הַחֹזִים בַּכּוֹכָבִים מוֹדִיעִם לֶחֳדָשִׁים מֵאֲשֶׁר יָבֹאוּ עָלָיִךְ הברו הֹבְרֵי",
+  "text": "נִלְאֵית בְּרֹב עֲצָתָיִךְ יַעַמְדוּ נָא וְיוֹשִׁיעֻךְ הברו שָׁמַיִם הַחֹזִים בַּכּוֹכָבִים מוֹדִיעִם לֶחֳדָשִׁים מֵאֲשֶׁר יָבֹאוּ עָלָיִךְ הברו הֹבְרֵי",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "הברו",
+      "lemma": "1895",
+      "morph": "HVqp3cp",
+      "strongs": [
+        "H1895"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 213,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
       "text": "שָׁמַיִם",
       "lemma": "8064",
       "morph": "HNcmpa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הַחֹזִים",
       "lemma": "d/2374",
       "morph": "HTd/Vqrmpa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בַּכּוֹכָבִים",
       "lemma": "b/3556",
       "morph": "HRd/Ncmpa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "מוֹדִיעִם",
       "lemma": "3045",
       "morph": "HVhrmpa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לֶחֳדָשִׁים",
       "lemma": "l/2320",
       "morph": "HRd/Ncmpa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מֵאֲשֶׁר",
       "lemma": "m/834 c",
       "morph": "HR/Tr",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יָבֹאוּ",
       "lemma": "935",
       "morph": "HVqi3mp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עָלָיִךְ",
       "lemma": "5921 a",
       "morph": "HR/Sp2fs",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הברו",
       "lemma": null,
       "morph": null,
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הֹבְרֵי",
       "lemma": "1895",
       "morph": "HVqrmpc",
@@ -240,8 +255,8 @@
     }
   ],
   "gematria": {
-    "standard": 4130,
-    "ordinal": 873,
-    "reduced": 260
+    "standard": 4343,
+    "ordinal": 906,
+    "reduced": 275
   }
 }

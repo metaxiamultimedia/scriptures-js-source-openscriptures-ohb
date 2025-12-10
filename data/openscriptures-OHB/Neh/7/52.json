@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי בֵסַי בְּנֵי מְעוּנִים בְּנֵי נפושסים נְפִישְׁסִים",
+  "text": "בְּנֵי בֵסַי בְּנֵי מְעוּנִים בְּנֵי נפושסים נפושסים נְפִישְׁסִים",
   "words": [
     {
       "position": 1,
@@ -79,6 +79,21 @@
     {
       "position": 6,
       "text": "נפושסים",
+      "lemma": "5300",
+      "morph": "HNgmpa",
+      "strongs": [
+        "H5300"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 546,
+        "ordinal": 107,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "נפושסים",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "נְפִישְׁסִים",
       "lemma": "5304",
       "morph": "HNgmpa",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 1570,
-    "ordinal": 406,
-    "reduced": 121
+    "standard": 2116,
+    "ordinal": 513,
+    "reduced": 154
   }
 }

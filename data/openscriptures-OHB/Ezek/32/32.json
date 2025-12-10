@@ -1,5 +1,5 @@
 {
-  "text": "כִּי נָתַתִּי אֶת בְּאֶרֶץ חַיִּים וְהֻשְׁכַּב בְּתוֹךְ עֲרֵלִים אֶת חַלְלֵי חֶרֶב פַּרְעֹה וְכָל הֲמוֹנֹה נְאֻם אֲדֹנָי יְהוִה חתיתו חִתִּיתִי",
+  "text": "כִּי נָתַתִּי אֶת חתיתו בְּאֶרֶץ חַיִּים וְהֻשְׁכַּב בְּתוֹךְ עֲרֵלִים אֶת חַלְלֵי חֶרֶב פַּרְעֹה וְכָל הֲמוֹנֹה נְאֻם אֲדֹנָי יְהוִה חתיתו חִתִּיתִי",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "חתיתו",
+      "lemma": "2851",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H2851"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
       "text": "בְּאֶרֶץ",
       "lemma": "b/776",
       "morph": "HR/Ncbsc",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "חַיִּים",
       "lemma": "2416 a",
       "morph": "HAampa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְהֻשְׁכַּב",
       "lemma": "c/7901",
       "morph": "HC/VHq3ms",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בְּתוֹךְ",
       "lemma": "b/8432",
       "morph": "HR/Ncmsc",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עֲרֵלִים",
       "lemma": "6189",
       "morph": "HAampa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֶת",
       "lemma": "854",
       "morph": "HR",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "חַלְלֵי",
       "lemma": "2491 a",
       "morph": "HAampc",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "חֶרֶב",
       "lemma": "2719",
       "morph": "HNcfsa",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "פַּרְעֹה",
       "lemma": "6547",
       "morph": "HNp",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הֲמוֹנֹה",
       "lemma": "1995 a",
       "morph": "HNcmsc/Sp3ms",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "נְאֻם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֲדֹנָי",
       "lemma": "136",
       "morph": "HNcmpc/Sp1cs",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יְהוִה",
       "lemma": "3069",
       "morph": "HNp",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "חתיתו",
       "lemma": null,
       "morph": null,
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "חִתִּיתִי",
       "lemma": "2851",
       "morph": "HNcfsc/Sp1cs",
@@ -285,8 +300,8 @@
     }
   ],
   "gematria": {
-    "standard": 5803,
-    "ordinal": 853,
-    "reduced": 268
+    "standard": 6627,
+    "ordinal": 921,
+    "reduced": 291
   }
 }

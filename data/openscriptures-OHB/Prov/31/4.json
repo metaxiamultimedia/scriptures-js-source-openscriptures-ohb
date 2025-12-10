@@ -1,5 +1,5 @@
 {
-  "text": "אַל לַמְלָכִים לְמוֹאֵל אַל לַמְלָכִים שְׁתוֹ יָיִן וּלְרוֹזְנִים שֵׁכָר או אֵי",
+  "text": "אַל לַמְלָכִים לְמוֹאֵל אַל לַמְלָכִים שְׁתוֹ יָיִן וּלְרוֹזְנִים או שֵׁכָר או אֵי",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "או",
+      "lemma": "176 b",
+      "morph": "HC",
+      "strongs": [
+        "H176"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 7,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
       "text": "שֵׁכָר",
       "lemma": "7941",
       "morph": "HNcmsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "או",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֵי",
       "lemma": "335",
       "morph": "HTi",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2172,
-    "ordinal": 497,
-    "reduced": 129
+    "standard": 2179,
+    "ordinal": 504,
+    "reduced": 136
   }
 }

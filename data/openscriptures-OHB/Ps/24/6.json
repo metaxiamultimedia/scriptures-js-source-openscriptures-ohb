@@ -1,5 +1,5 @@
 {
-  "text": "זֶה דּוֹר מְבַקְשֵׁי פָנֶיךָ יַעֲקֹב סֶלָה דרשו דֹּרְשָׁיו",
+  "text": "זֶה דּוֹר דרשו מְבַקְשֵׁי פָנֶיךָ יַעֲקֹב סֶלָה דרשו דֹּרְשָׁיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "דרשו",
+      "lemma": "1875",
+      "morph": "HVqrmsc/Sp3ms",
+      "strongs": [
+        "H1875"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
       "text": "מְבַקְשֵׁי",
       "lemma": "1245",
       "morph": "HVprmpc",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "פָנֶיךָ",
       "lemma": "6440",
       "morph": "HNcbpc/Sp2ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יַעֲקֹב",
       "lemma": "3290",
       "morph": "HNp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "סֶלָה",
       "lemma": "5542",
       "morph": "HTj",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "דרשו",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "דֹּרְשָׁיו",
       "lemma": "1875",
       "morph": "HVqrmpc/Sp3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 2141,
-    "ordinal": 362,
-    "reduced": 107
+    "standard": 2651,
+    "ordinal": 413,
+    "reduced": 122
   }
 }

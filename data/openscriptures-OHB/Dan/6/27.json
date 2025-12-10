@@ -1,5 +1,5 @@
 {
-  "text": "זאעין זָיְעִין מִן קֳדָמַי שִׂים טְעֵם דִּי בְּכָל שָׁלְטָן מַלְכוּתִי לֶהֱוֺן וְדָחֲלִין מִן קֳדָם אֱלָהֵהּ דִּי דָנִיֵּאל דִּי הוּא אֱלָהָא חַיָּא וְקַיָּם לְעָלְמִין וּמַלְכוּתֵהּ דִּי לָא תִתְחַבַּל וְשָׁלְטָנֵהּ עַד סוֹפָא",
+  "text": "זאעין זָיְעִין מִן קֳדָמַי שִׂים טְעֵם דִּי בְּכָל שָׁלְטָן מַלְכוּתִי לֶהֱוֺן זאעין וְדָחֲלִין מִן קֳדָם אֱלָהֵהּ דִּי דָנִיֵּאל דִּי הוּא אֱלָהָא חַיָּא וְקַיָּם לְעָלְמִין וּמַלְכוּתֵהּ דִּי לָא תִתְחַבַּל וְשָׁלְטָנֵהּ עַד סוֹפָא",
   "words": [
     {
       "position": 1,
@@ -165,6 +165,21 @@
     },
     {
       "position": 12,
+      "text": "זאעין",
+      "lemma": "2112",
+      "morph": "AVqrmpa",
+      "strongs": [
+        "H2112"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 138,
+        "ordinal": 59,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
       "text": "וְדָחֲלִין",
       "lemma": "c/1763",
       "morph": "AC/Vqrmpa",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "קֳדָם",
       "lemma": "6925",
       "morph": "AR",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֱלָהֵהּ",
       "lemma": "426",
       "morph": "ANcmsc/Sp3ms",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "דָנִיֵּאל",
       "lemma": "1841",
       "morph": "ANp",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "AC",
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הוּא",
       "lemma": "1932",
       "morph": "APp3ms",
@@ -284,7 +299,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אֱלָהָא",
       "lemma": "426",
       "morph": "ANcmsd/Td",
@@ -299,7 +314,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "חַיָּא",
       "lemma": "2417",
       "morph": "AAamsd/Td",
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "וְקַיָּם",
       "lemma": "c/7011",
       "morph": "AC/Aamsa",
@@ -329,7 +344,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "לְעָלְמִין",
       "lemma": "l/5957",
       "morph": "AR/Ncmpa",
@@ -344,7 +359,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "וּמַלְכוּתֵהּ",
       "lemma": "c/4437",
       "morph": "AC/Ncfsc/Sp3ms",
@@ -359,7 +374,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -374,7 +389,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "לָא",
       "lemma": "3809",
       "morph": "ATn",
@@ -389,7 +404,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "תִתְחַבַּל",
       "lemma": "2255",
       "morph": "AVMi3fs",
@@ -404,7 +419,7 @@
       }
     },
     {
-      "position": 28,
+      "position": 29,
       "text": "וְשָׁלְטָנֵהּ",
       "lemma": "c/7985",
       "morph": "AC/Ncmsc/Sp3ms",
@@ -419,7 +434,7 @@
       }
     },
     {
-      "position": 29,
+      "position": 30,
       "text": "עַד",
       "lemma": "5705",
       "morph": "AR",
@@ -434,7 +449,7 @@
       }
     },
     {
-      "position": 30,
+      "position": 31,
       "text": "סוֹפָא",
       "lemma": "5491",
       "morph": "ANcmsd/Td",
@@ -450,8 +465,8 @@
     }
   ],
   "gematria": {
-    "standard": 5023,
-    "ordinal": 1276,
-    "reduced": 433
+    "standard": 5161,
+    "ordinal": 1335,
+    "reduced": 454
   }
 }

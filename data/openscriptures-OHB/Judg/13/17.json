@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר מָנוֹחַ אֶל מַלְאַךְ יְהוָה מִי שְׁמֶךָ כִּי יָבֹא וְכִבַּדְנוּךָ דבריך דְבָרְךָ",
+  "text": "וַיֹּאמֶר מָנוֹחַ אֶל מַלְאַךְ יְהוָה מִי שְׁמֶךָ כִּי יָבֹא דבריך וְכִבַּדְנוּךָ דבריך דְבָרְךָ",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,21 @@
     },
     {
       "position": 10,
+      "text": "דבריך",
+      "lemma": "1697",
+      "morph": "HNcmpc/Pp2ms",
+      "strongs": [
+        "H1697"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 236,
+        "ordinal": 59,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
       "text": "וְכִבַּדְנוּךָ",
       "lemma": "c/3513",
       "morph": "HC/Vpp1cp/Sp2ms",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "דבריך",
       "lemma": null,
       "morph": null,
@@ -164,10 +179,10 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "דְבָרְךָ",
       "lemma": "1697",
-      "morph": "HNcmsc/Sp2ms",
+      "morph": "HNcmsc/Pp2ms",
       "strongs": [
         "H1697"
       ],
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 1532,
-    "ordinal": 467,
-    "reduced": 137
+    "standard": 1768,
+    "ordinal": 526,
+    "reduced": 148
   }
 }

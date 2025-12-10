@@ -1,5 +1,5 @@
 {
-  "text": "חַבֻּרוֹת פֶּצַע בְּרָע וּמַכּוֹת חַדְרֵי בָטֶן תמריק תַּמְרוּק",
+  "text": "חַבֻּרוֹת פֶּצַע תמריק בְּרָע וּמַכּוֹת חַדְרֵי בָטֶן תמריק תַּמְרוּק",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "תמריק",
+      "lemma": "4838",
+      "morph": "HVhi3fs",
+      "strongs": [
+        "H4838"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 84,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
       "text": "בְּרָע",
       "lemma": "b/7451 a",
       "morph": "HR/Aamsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וּמַכּוֹת",
       "lemma": "c/4347",
       "morph": "HC/Ncfpc",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "חַדְרֵי",
       "lemma": "2315",
       "morph": "HNcmpc",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בָטֶן",
       "lemma": "990",
       "morph": "HNcfsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תמריק",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תַּמְרוּק",
       "lemma": "8562",
       "morph": "HNcmsa",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 3379,
-    "ordinal": 447,
-    "reduced": 139
+    "standard": 4129,
+    "ordinal": 531,
+    "reduced": 151
   }
 }

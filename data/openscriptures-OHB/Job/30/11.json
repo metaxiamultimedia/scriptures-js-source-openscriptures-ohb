@@ -1,5 +1,5 @@
 {
-  "text": "כִּי פִתַּח וַיְעַנֵּנִי וְרֶסֶן מִפָּנַי שִׁלֵּחוּ יתרו יִתְרִי",
+  "text": "כִּי יתרו פִתַּח וַיְעַנֵּנִי וְרֶסֶן מִפָּנַי שִׁלֵּחוּ יתרו יִתְרִי",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,21 @@
     },
     {
       "position": 2,
+      "text": "יתרו",
+      "lemma": "3499 b",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H3499"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 616,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
       "text": "פִתַּח",
       "lemma": "6605 a",
       "morph": "HVpp3ms",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וַיְעַנֵּנִי",
       "lemma": "c/6031 b",
       "morph": "HC/Vpw3ms/Sp1cs",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְרֶסֶן",
       "lemma": "c/7448",
       "morph": "HC/Ncmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מִפָּנַי",
       "lemma": "m/6440",
       "morph": "HR/Ncbpc/Sp1cs",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "שִׁלֵּחוּ",
       "lemma": "7971",
       "morph": "HVpp3cp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יתרו",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יִתְרִי",
       "lemma": "3499 b",
       "morph": "HNcmsc/Sp1cs",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 2790,
-    "ordinal": 425,
-    "reduced": 126
+    "standard": 3406,
+    "ordinal": 483,
+    "reduced": 139
   }
 }

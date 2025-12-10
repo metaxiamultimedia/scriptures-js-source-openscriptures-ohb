@@ -1,5 +1,5 @@
 {
-  "text": "כִּי תָנוּחַ יַד יְהוָה בָּהָר הַזֶּה וְנָדוֹשׁ מוֹאָב תַּחְתָּיו כְּהִדּוּשׁ מַתְבֵּן מַדְמֵנָה במי בְּמוֹ",
+  "text": "כִּי תָנוּחַ יַד יְהוָה בָּהָר הַזֶּה וְנָדוֹשׁ מוֹאָב תַּחְתָּיו כְּהִדּוּשׁ מַתְבֵּן במי מַדְמֵנָה במי בְּמוֹ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,21 @@
     },
     {
       "position": 12,
+      "text": "במי",
+      "lemma": "b/1119",
+      "morph": "HR/Ncmpc",
+      "strongs": [
+        "H1119"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 25,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
       "text": "מַדְמֵנָה",
       "lemma": "4087",
       "morph": "HNcfsa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "במי",
       "lemma": null,
       "morph": null,
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּמוֹ",
       "lemma": "1119",
       "morph": "HR",
@@ -210,8 +225,8 @@
     }
   ],
   "gematria": {
-    "standard": 3063,
-    "ordinal": 500,
-    "reduced": 210
+    "standard": 3115,
+    "ordinal": 525,
+    "reduced": 217
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "אַל עִם אָדָם חִנָּם אִם לֹא גְמָלְךָ רָעָה תרוב תָּרִיב",
+  "text": "אַל תרוב עִם אָדָם חִנָּם אִם לֹא גְמָלְךָ רָעָה תרוב תָּרִיב",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,21 @@
     },
     {
       "position": 2,
+      "text": "תרוב",
+      "lemma": "7378",
+      "morph": "HVqj2ms",
+      "strongs": [
+        "H7378"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 608,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
       "text": "עִם",
       "lemma": "5973 a",
       "morph": "HR",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "אָדָם",
       "lemma": "120",
       "morph": "HNcmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "חִנָּם",
       "lemma": "2600",
       "morph": "HD",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אִם",
       "lemma": "518 a",
       "morph": "HC",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "גְמָלְךָ",
       "lemma": "1580",
       "morph": "HVqp3ms/Sp2ms",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "רָעָה",
       "lemma": "7451 c",
       "morph": "HNcfsa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "תרוב",
       "lemma": null,
       "morph": null,
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "תָּרִיב",
       "lemma": "7378",
       "morph": "HVqj2ms",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 1944,
-    "ordinal": 362,
-    "reduced": 99
+    "standard": 2552,
+    "ordinal": 412,
+    "reduced": 113
   }
 }

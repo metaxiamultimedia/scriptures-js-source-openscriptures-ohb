@@ -1,8 +1,23 @@
 {
-  "text": "יָשֹׁחַ וְנָפַל בַּעֲצוּמָיו ודכה יִדְכֶּה חלכאים",
+  "text": "ודכה יָשֹׁחַ וְנָפַל בַּעֲצוּמָיו חלכאים ודכה יִדְכֶּה חלכאים",
   "words": [
     {
       "position": 1,
+      "text": "ודכה",
+      "lemma": "c/1794",
+      "morph": "HC/Vqq3ms",
+      "strongs": [
+        "H1794"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 35,
+        "ordinal": 26,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
       "text": "יָשֹׁחַ",
       "lemma": "7817",
       "morph": "HVqi3ms",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "וְנָפַל",
       "lemma": "c/5307",
       "morph": "HC/Vqq3ms",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "בַּעֲצוּמָיו",
       "lemma": "b/6099",
       "morph": "HR/Aampc/Sp3ms",
@@ -47,7 +62,22 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
+      "text": "חלכאים",
+      "lemma": "2489",
+      "morph": "HNcfpa",
+      "strongs": [
+        "H2489"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 66,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
       "text": "ודכה",
       "lemma": null,
       "morph": null,
@@ -59,7 +89,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "יִדְכֶּה",
       "lemma": "1794",
       "morph": "HVqi3ms",
@@ -74,7 +104,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "חלכאים",
       "lemma": null,
       "morph": null,
@@ -87,8 +117,8 @@
     }
   ],
   "gematria": {
-    "standard": 891,
-    "ordinal": 281,
-    "reduced": 117
+    "standard": 1035,
+    "ordinal": 373,
+    "reduced": 153
   }
 }

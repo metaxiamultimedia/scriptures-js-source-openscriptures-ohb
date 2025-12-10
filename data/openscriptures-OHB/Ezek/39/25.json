@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵן כֹּה אָמַר אֲדֹנָי יְהוִה עַתָּה אָשִׁיב אֶת יַעֲקֹב וְרִחַמְתִּי כָּל בֵּית יִשְׂרָאֵל וְקִנֵּאתִי לְשֵׁם קָדְשִׁי שבית שְׁבוּת",
+  "text": "לָכֵן כֹּה אָמַר אֲדֹנָי יְהוִה עַתָּה אָשִׁיב אֶת שבית יַעֲקֹב וְרִחַמְתִּי כָּל בֵּית יִשְׂרָאֵל וְקִנֵּאתִי לְשֵׁם קָדְשִׁי שבית שְׁבוּת",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "שבית",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 712,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
       "text": "יַעֲקֹב",
       "lemma": "3290",
       "morph": "HNp",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְרִחַמְתִּי",
       "lemma": "c/7355",
       "morph": "HC/Vpq1cs",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בֵּית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְקִנֵּאתִי",
       "lemma": "c/7065",
       "morph": "HC/Vpq1cs",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לְשֵׁם",
       "lemma": "l/8034",
       "morph": "HR/Ncmsc",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "קָדְשִׁי",
       "lemma": "6944",
       "morph": "HNcmsc/Sp1cs",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "שבית",
       "lemma": null,
       "morph": null,
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "שְׁבוּת",
       "lemma": "7622",
       "morph": "HNcfsc",
@@ -270,8 +285,8 @@
     }
   ],
   "gematria": {
-    "standard": 6266,
-    "ordinal": 789,
-    "reduced": 200
+    "standard": 6978,
+    "ordinal": 844,
+    "reduced": 210
   }
 }

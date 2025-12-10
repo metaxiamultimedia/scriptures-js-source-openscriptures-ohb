@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵי יְדִיעֲאֵל בִּלְהָן וּבְנֵי בִלְהָן וּבִנְיָמִן וְאֵהוּד וּכְנַעֲנָה וְזֵיתָן וְתַרְשִׁישׁ וַאֲחִישָׁחַר יעיש יְעוּשׁ",
+  "text": "וּבְנֵי יְדִיעֲאֵל בִּלְהָן וּבְנֵי בִלְהָן יעיש וּבִנְיָמִן וְאֵהוּד וּכְנַעֲנָה וְזֵיתָן וְתַרְשִׁישׁ וַאֲחִישָׁחַר יעיש יְעוּשׁ",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "יעיש",
+      "lemma": "3266",
+      "morph": "HNp",
+      "strongs": [
+        "H3266"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
       "text": "וּבִנְיָמִן",
       "lemma": "c/1144",
       "morph": "HC/Np",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְאֵהוּד",
       "lemma": "c/164",
       "morph": "HC/Np",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּכְנַעֲנָה",
       "lemma": "c/3668",
       "morph": "HC/Np",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְזֵיתָן",
       "lemma": "c/2133",
       "morph": "HC/Np",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְתַרְשִׁישׁ",
       "lemma": "c/8659",
       "morph": "HC/Np",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וַאֲחִישָׁחַר",
       "lemma": "c/300",
       "morph": "HC/Np",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יעיש",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יְעוּשׁ",
       "lemma": "3266",
       "morph": "HNp",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 3814,
-    "ordinal": 717,
-    "reduced": 250
+    "standard": 4204,
+    "ordinal": 774,
+    "reduced": 262
   }
 }

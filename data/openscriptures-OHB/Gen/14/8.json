@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּצֵא מֶלֶךְ סְדֹם וּמֶלֶךְ עֲמֹרָה וּמֶלֶךְ אַדְמָה וּמֶלֶךְ וּמֶלֶךְ בֶּלַע הִוא צֹעַר וַיַּעַרְכוּ אִתָּם מִלְחָמָה בְּעֵמֶק הַשִּׂדִּים צביים צְבוֹיִם",
+  "text": "וַיֵּצֵא מֶלֶךְ סְדֹם וּמֶלֶךְ עֲמֹרָה וּמֶלֶךְ אַדְמָה וּמֶלֶךְ צביים וּמֶלֶךְ בֶּלַע הִוא צֹעַר וַיַּעַרְכוּ אִתָּם מִלְחָמָה בְּעֵמֶק הַשִּׂדִּים צביים צְבוֹיִם",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "צביים",
+      "lemma": "6636",
+      "morph": "HNp",
+      "strongs": [
+        "H6636"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 64,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
       "text": "וּמֶלֶךְ",
       "lemma": "c/4428",
       "morph": "HC/Ncmsc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בֶּלַע",
       "lemma": "1106 b",
       "morph": "HNp",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הִוא",
       "lemma": "1931",
       "morph": "HPp3fs",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "צֹעַר",
       "lemma": "6820",
       "morph": "HNp",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וַיַּעַרְכוּ",
       "lemma": "c/6186 a",
       "morph": "HC/Vqw3mp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אִתָּם",
       "lemma": "854",
       "morph": "HR/Sp3mp",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "מִלְחָמָה",
       "lemma": "4421",
       "morph": "HNcfsa",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בְּעֵמֶק",
       "lemma": "b/6010",
       "morph": "HR/Ncmsc",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הַשִּׂדִּים",
       "lemma": "d/7708",
       "morph": "HTd/Np",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "צביים",
       "lemma": null,
       "morph": null,
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "צְבוֹיִם",
       "lemma": "6636",
       "morph": "HNp",
@@ -285,8 +300,8 @@
     }
   ],
   "gematria": {
-    "standard": 3271,
-    "ordinal": 920,
-    "reduced": 301
+    "standard": 3423,
+    "ordinal": 984,
+    "reduced": 318
   }
 }

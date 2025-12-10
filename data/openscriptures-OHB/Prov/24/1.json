@@ -1,5 +1,5 @@
 {
-  "text": "אַל תְּקַנֵּא בְּאַנְשֵׁי רָעָה וְאַל לִהְיוֹת אִתָּם תתאו תִּתְאָיו",
+  "text": "אַל תְּקַנֵּא בְּאַנְשֵׁי רָעָה וְאַל תתאו לִהְיוֹת אִתָּם תתאו תִּתְאָיו",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "תתאו",
+      "lemma": "183",
+      "morph": "HVtj2ms",
+      "strongs": [
+        "H183"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 807,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
       "text": "לִהְיוֹת",
       "lemma": "l/1961",
       "morph": "HR/Vqc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אִתָּם",
       "lemma": "854",
       "morph": "HR/Sp3mp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תתאו",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "תִּתְאָיו",
       "lemma": "183",
       "morph": "HVtj2ms",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 3773,
-    "ordinal": 391,
-    "reduced": 110
+    "standard": 4580,
+    "ordinal": 442,
+    "reduced": 125
   }
 }

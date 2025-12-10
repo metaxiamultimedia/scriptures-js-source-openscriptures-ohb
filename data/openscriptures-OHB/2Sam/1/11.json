@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּחֲזֵק דָּוִד וַיִּקְרָעֵם וְגַם כָּל הָאֲנָשִׁים אֲשֶׁר אִתּוֹ בבגדו בִּבְגָדָיו",
+  "text": "וַיַּחֲזֵק דָּוִד בבגדו וַיִּקְרָעֵם וְגַם כָּל הָאֲנָשִׁים אֲשֶׁר אִתּוֹ בבגדו בִּבְגָדָיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "בבגדו",
+      "lemma": "b/899 b",
+      "morph": "HR/Ncmsc/Sp3ms",
+      "strongs": [
+        "H899"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 17,
+        "ordinal": 17,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
       "text": "וַיִּקְרָעֵם",
       "lemma": "c/7167",
       "morph": "HC/Vqw3ms/Sp3mp",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְגַם",
       "lemma": "c/1571",
       "morph": "HC/Ta",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הָאֲנָשִׁים",
       "lemma": "d/376",
       "morph": "HTd/Ncmpa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אִתּוֹ",
       "lemma": "854",
       "morph": "HR/Sp3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בבגדו",
       "lemma": null,
       "morph": null,
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בִּבְגָדָיו",
       "lemma": "b/899 b",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -150,8 +165,8 @@
     }
   ],
   "gematria": {
-    "standard": 2028,
-    "ordinal": 405,
-    "reduced": 147
+    "standard": 2045,
+    "ordinal": 422,
+    "reduced": 164
   }
 }

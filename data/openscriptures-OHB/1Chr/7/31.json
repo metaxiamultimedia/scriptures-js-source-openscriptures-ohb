@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵי בְרִיעָה חֶבֶר וּמַלְכִּיאֵל הוּא אֲבִי ברזות בִרְזָיִת",
+  "text": "וּבְנֵי בְרִיעָה חֶבֶר וּמַלְכִּיאֵל הוּא אֲבִי ברזות ברזות בִרְזָיִת",
   "words": [
     {
       "position": 1,
@@ -91,6 +91,21 @@
     {
       "position": 7,
       "text": "ברזות",
+      "lemma": "1269",
+      "morph": "HNp",
+      "strongs": [
+        "H1269"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "ברזות",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -101,7 +116,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בִרְזָיִת",
       "lemma": "1269",
       "morph": "HNp",
@@ -117,8 +132,8 @@
     }
   ],
   "gematria": {
-    "standard": 1961,
-    "ordinal": 323,
-    "reduced": 116
+    "standard": 2576,
+    "ordinal": 380,
+    "reduced": 137
   }
 }

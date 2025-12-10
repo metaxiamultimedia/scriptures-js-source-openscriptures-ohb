@@ -1,5 +1,5 @@
 {
-  "text": "וְאֶצְבְּעָת רַגְלַיָּא פַּרְזֶל חֲסַף מִן קְצָת מַלְכוּתָא תֶּהֱוֵה תַקִּיפָה וּמִנַּהּ תֶּהֱוֵה תְבִירָה מנהון מִנְּהֵין ומנהון וּמִנְּהֵין",
+  "text": "וְאֶצְבְּעָת רַגְלַיָּא מנהון פַּרְזֶל ומנהון חֲסַף מִן קְצָת מַלְכוּתָא תֶּהֱוֵה תַקִּיפָה וּמִנַּהּ תֶּהֱוֵה תְבִירָה מנהון מִנְּהֵין ומנהון וּמִנְּהֵין",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "מנהון",
+      "lemma": "4481",
+      "morph": "AR/Sp3mp",
+      "strongs": [
+        "H4481"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 63,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
       "text": "פַּרְזֶל",
       "lemma": "6523",
       "morph": "ANcmsa",
@@ -47,7 +62,22 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
+      "text": "ומנהון",
+      "lemma": "c/4481",
+      "morph": "AC/R/Sp3mp",
+      "strongs": [
+        "H4481"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 157,
+        "ordinal": 69,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
       "text": "חֲסַף",
       "lemma": "2635",
       "morph": "ANcmsa",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -77,7 +107,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "קְצָת",
       "lemma": "7118",
       "morph": "ANcfsc",
@@ -92,7 +122,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "מַלְכוּתָא",
       "lemma": "4437",
       "morph": "ANcfsd/Td",
@@ -107,7 +137,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "תֶּהֱוֵה",
       "lemma": "1934",
       "morph": "AVqi3fs",
@@ -122,7 +152,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "תַקִּיפָה",
       "lemma": "8624",
       "morph": "AAafsa",
@@ -137,7 +167,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "וּמִנַּהּ",
       "lemma": "c/4481",
       "morph": "AC/R/Sp3fs",
@@ -152,7 +182,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "תֶּהֱוֵה",
       "lemma": "1934",
       "morph": "AVqi3fs",
@@ -167,7 +197,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "תְבִירָה",
       "lemma": "8406",
       "morph": "AVQsfsa",
@@ -182,7 +212,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "מנהון",
       "lemma": null,
       "morph": null,
@@ -194,7 +224,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "מִנְּהֵין",
       "lemma": "4481",
       "morph": "AR/Sp3fp",
@@ -209,7 +239,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "ומנהון",
       "lemma": null,
       "morph": null,
@@ -221,7 +251,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "וּמִנְּהֵין",
       "lemma": "c/4481",
       "morph": "AC/R/Sp3fp",
@@ -237,8 +267,8 @@
     }
   ],
   "gematria": {
-    "standard": 5224,
-    "ordinal": 896,
-    "reduced": 319
+    "standard": 5532,
+    "ordinal": 1028,
+    "reduced": 375
   }
 }

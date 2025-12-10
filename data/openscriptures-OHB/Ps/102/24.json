@@ -1,5 +1,5 @@
 {
-  "text": "כחו כֹּחִי עִנָּה בַדֶּרֶךְ קִצַּר יָמָי",
+  "text": "כחו כֹּחִי עִנָּה בַדֶּרֶךְ כחו קִצַּר יָמָי",
   "words": [
     {
       "position": 1,
@@ -60,6 +60,21 @@
     },
     {
       "position": 5,
+      "text": "כחו",
+      "lemma": "3581 b",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H3581"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 34,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
       "text": "קִצַּר",
       "lemma": "7114 a",
       "morph": "HVpp3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יָמָי",
       "lemma": "3117",
       "morph": "HNcmpc/Sp1cs",
@@ -90,8 +105,8 @@
     }
   ],
   "gematria": {
-    "standard": 873,
-    "ordinal": 228,
-    "reduced": 72
+    "standard": 907,
+    "ordinal": 253,
+    "reduced": 88
   }
 }

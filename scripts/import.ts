@@ -1,23 +1,24 @@
 /**
  * Import script for OpenScriptures MorphHB (Hebrew Bible) data.
  *
- * Downloads individual book XML files from the MorphHB GitHub repository
- * and converts to JSON format.
+ * Reads XML files from the morphhb npm package and converts to JSON format.
  *
  * Usage: npx tsx scripts/import.ts
  */
 
 import { XMLParser } from 'fast-xml-parser';
 import { mkdir, writeFile, readFile } from 'fs/promises';
-import { existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { createRequire } from 'module';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const ROOT_DIR = join(__dirname, '..');
 
-const BASE_URL = 'https://raw.githubusercontent.com/openscriptures/morphhb/refs/heads/master/wlc/';
+// Resolve the morphhb package location
+const require = createRequire(import.meta.url);
+const MORPHHB_WLC_DIR = join(dirname(require.resolve('morphhb')), 'wlc');
 
 const BOOKS = [
   'Gen.xml', 'Exod.xml', 'Lev.xml', 'Num.xml', 'Deut.xml',
@@ -31,7 +32,6 @@ const BOOKS = [
   'Zech.xml', 'Mal.xml',
 ];
 
-const SOURCE_DIR = join(ROOT_DIR, 'source');
 const DATA_DIR = join(ROOT_DIR, 'data', 'openscriptures-OHB');
 
 // Strong's number regex
@@ -131,26 +131,9 @@ function extractStrongs(value: string | null, wordText?: string): string[] {
   return results;
 }
 
-async function downloadBook(bookName: string): Promise<string> {
-  const xmlPath = join(SOURCE_DIR, bookName);
-
-  if (existsSync(xmlPath)) {
-    return await readFile(xmlPath, 'utf-8');
-  }
-
-  const url = `${BASE_URL}${bookName}`;
-  const response = await fetch(url, {
-    headers: { 'User-Agent': 'Mozilla/5.0' }
-  });
-
-  if (!response.ok) {
-    throw new Error(`Failed to download ${bookName}: ${response.status}`);
-  }
-
-  const xml = await response.text();
-  await writeFile(xmlPath, xml, 'utf-8');
-
-  return xml;
+async function readBook(bookName: string): Promise<string> {
+  const xmlPath = join(MORPHHB_WLC_DIR, bookName);
+  return await readFile(xmlPath, 'utf-8');
 }
 
 interface ParsedVerse {
@@ -380,11 +363,10 @@ async function saveMetadata(): Promise<void> {
 async function main(): Promise<void> {
   console.log('OpenScriptures MorphHB Importer');
   console.log('===============================\n');
+  console.log(`  → Reading from morphhb package: ${MORPHHB_WLC_DIR}\n`);
 
   try {
-    await mkdir(SOURCE_DIR, { recursive: true });
-
-    console.log(`  → Downloading ${BOOKS.length} books...`);
+    console.log(`  → Processing ${BOOKS.length} books...`);
     let totalVerses = 0;
 
     for (let i = 0; i < BOOKS.length; i++) {
@@ -395,7 +377,7 @@ async function main(): Promise<void> {
         console.log(`  → Processing ${i + 1}/${BOOKS.length}: ${bookId}`);
       }
 
-      const xml = await downloadBook(bookName);
+      const xml = await readBook(bookName);
       const verses = parseOsis(xml);
 
       for (const verse of verses) {

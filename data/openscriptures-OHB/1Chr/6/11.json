@@ -1,5 +1,5 @@
 {
-  "text": "בנו בְּנֵי אֶלְקָנָה אֶלְקָנָה צוֹפַי בְּנוֹ וְנַחַת בְּנוֹ",
+  "text": "בנו בְּנֵי אֶלְקָנָה בנו אֶלְקָנָה צוֹפַי בְּנוֹ וְנַחַת בְּנוֹ",
   "words": [
     {
       "position": 1,
@@ -45,6 +45,21 @@
     },
     {
       "position": 4,
+      "text": "בנו",
+      "lemma": "1121 a",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
       "text": "אֶלְקָנָה",
       "lemma": "511",
       "morph": "HNp",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "צוֹפַי",
       "lemma": "6689",
       "morph": "HNp",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּנוֹ",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp3ms",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְנַחַת",
       "lemma": "c/5184",
       "morph": "HC/Np",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְּנוֹ",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1258,
-    "ordinal": 295,
-    "reduced": 124
+    "standard": 1316,
+    "ordinal": 317,
+    "reduced": 137
   }
 }

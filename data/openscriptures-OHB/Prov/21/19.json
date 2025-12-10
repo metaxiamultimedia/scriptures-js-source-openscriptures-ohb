@@ -1,5 +1,5 @@
 {
-  "text": "טוֹב שֶׁבֶת בְּאֶרֶץ מִדְבָּר מֵאֵשֶׁת וָכָעַס מדונים מִדְיָנִים",
+  "text": "טוֹב שֶׁבֶת בְּאֶרֶץ מִדְבָּר מֵאֵשֶׁת מדונים וָכָעַס מדונים מִדְיָנִים",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "מדונים",
+      "lemma": "4066",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H4066"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 71,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
       "text": "וָכָעַס",
       "lemma": "c/3708 a",
       "morph": "HC/Ncmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מדונים",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִדְיָנִים",
       "lemma": "4079",
       "morph": "HNcmpa",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 2459,
-    "ordinal": 402,
-    "reduced": 128
+    "standard": 2609,
+    "ordinal": 473,
+    "reduced": 152
   }
 }

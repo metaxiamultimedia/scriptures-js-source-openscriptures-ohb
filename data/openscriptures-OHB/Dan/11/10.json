@@ -1,8 +1,23 @@
 {
-  "text": "יִתְגָּרוּ וְאָסְפוּ הֲמוֹן חֲיָלִים רַבִּים וּבָא בוֹא וְשָׁטַף וְעָבָר וְיָשֹׁב עַד ובנו וּבָנָיו ויתגרו וְיִתְגָּרֶה מעזה מָעֻזּוֹ",
+  "text": "ובנו יִתְגָּרוּ וְאָסְפוּ הֲמוֹן חֲיָלִים רַבִּים וּבָא בוֹא וְשָׁטַף וְעָבָר וְיָשֹׁב ויתגרו עַד מעזה ובנו וּבָנָיו ויתגרו וְיִתְגָּרֶה מעזה מָעֻזּוֹ",
   "words": [
     {
       "position": 1,
+      "text": "ובנו",
+      "lemma": "c/1121 a",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 64,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
       "text": "יִתְגָּרוּ",
       "lemma": "1624",
       "morph": "HVti3mp",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "וְאָסְפוּ",
       "lemma": "c/622",
       "morph": "HC/Vqq3cp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "הֲמוֹן",
       "lemma": "1995 a",
       "morph": "HNcmsc",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "חֲיָלִים",
       "lemma": "2428",
       "morph": "HNcmpa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רַבִּים",
       "lemma": "7227 a",
       "morph": "HAampa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וּבָא",
       "lemma": "c/935",
       "morph": "HC/Vqq3ms",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בוֹא",
       "lemma": "935",
       "morph": "HVqa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְשָׁטַף",
       "lemma": "c/7857",
       "morph": "HC/Vqq3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְעָבָר",
       "lemma": "c/5674 a",
       "morph": "HC/Vqp3ms",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְיָשֹׁב",
       "lemma": "c/7725",
       "morph": "HC/Vqj3ms",
@@ -152,7 +167,22 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
+      "text": "ויתגרו",
+      "lemma": "c/1624",
+      "morph": "HC/Vti3mp",
+      "strongs": [
+        "H1624"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -167,7 +197,22 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
+      "text": "מעזה",
+      "lemma": "4581",
+      "morph": "HNcmsc/Sp3fs",
+      "strongs": [
+        "H4581"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 122,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
       "text": "ובנו",
       "lemma": null,
       "morph": null,
@@ -179,7 +224,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 16,
       "text": "וּבָנָיו",
       "lemma": "c/1121 a",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -194,7 +239,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 17,
       "text": "ויתגרו",
       "lemma": null,
       "morph": null,
@@ -206,7 +251,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 18,
       "text": "וְיִתְגָּרֶה",
       "lemma": "c/1624",
       "morph": "HC/Vti3ms",
@@ -221,7 +266,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 19,
       "text": "מעזה",
       "lemma": null,
       "morph": null,
@@ -233,7 +278,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 20,
       "text": "מָעֻזּוֹ",
       "lemma": "4581",
       "morph": "HNcmsc/Sp3ms",
@@ -249,8 +294,8 @@
     }
   ],
   "gematria": {
-    "standard": 3938,
-    "ordinal": 740,
-    "reduced": 302
+    "standard": 4749,
+    "ordinal": 876,
+    "reduced": 366
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "מְקַלֵּל אָבִיו וְאִמּוֹ יִדְעַךְ נֵרוֹ חֹשֶׁךְ באישון בֶּאֱשׁוּן",
+  "text": "מְקַלֵּל אָבִיו וְאִמּוֹ יִדְעַךְ נֵרוֹ באישון חֹשֶׁךְ באישון בֶּאֱשׁוּן",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "באישון",
+      "lemma": "b/380",
+      "morph": "HR/Ncmsc",
+      "strongs": [
+        "H380"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 369,
+        "ordinal": 65,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
       "text": "חֹשֶׁךְ",
       "lemma": "2822",
       "morph": "HNcmsa",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "באישון",
       "lemma": null,
       "morph": null,
@@ -101,7 +116,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בֶּאֱשׁוּן",
       "lemma": "b/380",
       "morph": "HR/Ncmsc",
@@ -117,8 +132,8 @@
     }
   ],
   "gematria": {
-    "standard": 1688,
-    "ordinal": 366,
-    "reduced": 113
+    "standard": 2057,
+    "ordinal": 431,
+    "reduced": 131
   }
 }

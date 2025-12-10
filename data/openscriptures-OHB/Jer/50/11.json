@@ -1,5 +1,5 @@
 {
-  "text": "כִּי כִּי שֹׁסֵי נַחֲלָתִי כִּי כְּעֶגְלָה דָשָׁה כָּאֲבִּרִים תשמחי תִשְׂמְחוּ תעלזי תַעֲלְזוּ תפושי תָפוּשׁוּ ותצהלי וְתִצְהֲלוּ",
+  "text": "כִּי תשמחי כִּי תעלזי שֹׁסֵי נַחֲלָתִי כִּי תפושי כְּעֶגְלָה דָשָׁה ותצהלי כָּאֲבִּרִים תשמחי תִשְׂמְחוּ תעלזי תַעֲלְזוּ תפושי תָפוּשׁוּ ותצהלי וְתִצְהֲלוּ",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,21 @@
     },
     {
       "position": 2,
+      "text": "תשמחי",
+      "lemma": "8055",
+      "morph": "HVqi2fs",
+      "strongs": [
+        "H8055"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 758,
+        "ordinal": 74,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -32,7 +47,22 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
+      "text": "תעלזי",
+      "lemma": "5937",
+      "morph": "HVqi2fs",
+      "strongs": [
+        "H5937"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 517,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
       "text": "שֹׁסֵי",
       "lemma": "8154",
       "morph": "HVqrmpc",
@@ -47,7 +77,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "נַחֲלָתִי",
       "lemma": "5159",
       "morph": "HNcfsc/Sp1cs",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -77,7 +107,22 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
+      "text": "תפושי",
+      "lemma": "6335 a",
+      "morph": "HVqi2fs",
+      "strongs": [
+        "H6335"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 796,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
       "text": "כְּעֶגְלָה",
       "lemma": "k/5697 a",
       "morph": "HR/Ncfsa",
@@ -92,7 +137,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 10,
       "text": "דָשָׁה",
       "lemma": "1877",
       "morph": "HVqrfsa",
@@ -107,7 +152,22 @@
       }
     },
     {
-      "position": 8,
+      "position": 11,
+      "text": "ותצהלי",
+      "lemma": "c/6670 a",
+      "morph": "HC/Vqi2fs",
+      "strongs": [
+        "H6670"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
       "text": "כָּאֲבִּרִים",
       "lemma": "k/47",
       "morph": "HRd/Aampa",
@@ -119,7 +179,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 13,
       "text": "תשמחי",
       "lemma": null,
       "morph": null,
@@ -131,7 +191,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 14,
       "text": "תִשְׂמְחוּ",
       "lemma": "8055",
       "morph": "HVqi2mp",
@@ -146,7 +206,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 15,
       "text": "תעלזי",
       "lemma": null,
       "morph": null,
@@ -158,7 +218,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 16,
       "text": "תַעֲלְזוּ",
       "lemma": "5937",
       "morph": "HVqi2mp",
@@ -173,7 +233,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 17,
       "text": "תפושי",
       "lemma": null,
       "morph": null,
@@ -185,7 +245,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 18,
       "text": "תָפוּשׁוּ",
       "lemma": "6335 a",
       "morph": "HVqi2mp",
@@ -200,7 +260,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 19,
       "text": "ותצהלי",
       "lemma": null,
       "morph": null,
@@ -212,7 +272,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 20,
       "text": "וְתִצְהֲלוּ",
       "lemma": "c/6670 a",
       "morph": "HC/Vqi2mp",
@@ -228,8 +288,8 @@
     }
   ],
   "gematria": {
-    "standard": 6876,
-    "ordinal": 884,
-    "reduced": 288
+    "standard": 9488,
+    "ordinal": 1174,
+    "reduced": 380
   }
 }

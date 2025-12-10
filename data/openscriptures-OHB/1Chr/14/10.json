@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּשְׁאַל דָּוִיד בֵּאלֹהִים לֵאמֹר הַאֶעֱלֶה עַל וּנְתַתָּם בְּיָדִי וַיֹּאמֶר לוֹ יְהוָה עֲלֵה וּנְתַתִּים בְּיָדֶךָ פלשתיים פְּלִשְׁתִּים",
+  "text": "וַיִּשְׁאַל דָּוִיד בֵּאלֹהִים לֵאמֹר הַאֶעֱלֶה עַל פלשתיים וּנְתַתָּם בְּיָדִי וַיֹּאמֶר לוֹ יְהוָה עֲלֵה וּנְתַתִּים בְּיָדֶךָ פלשתיים פְּלִשְׁתִּים",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "פלשתיים",
+      "lemma": "6430",
+      "morph": "HNgmpa",
+      "strongs": [
+        "H6430"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 870,
+        "ordinal": 116,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
       "text": "וּנְתַתָּם",
       "lemma": "c/5414",
       "morph": "HC/Vqq2ms/Sp3mp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְּיָדִי",
       "lemma": "b/3027",
       "morph": "HR/Ncbsc/Sp1cs",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וַיֹּאמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "עֲלֵה",
       "lemma": "5927",
       "morph": "HVqv2ms",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וּנְתַתִּים",
       "lemma": "c/5414",
       "morph": "HC/Vqq1cs/Sp3mp",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּיָדֶךָ",
       "lemma": "b/3027",
       "morph": "HR/Ncbsc/Sp2ms",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "פלשתיים",
       "lemma": null,
       "morph": null,
@@ -221,7 +236,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "פְּלִשְׁתִּים",
       "lemma": "6430",
       "morph": "HNgmpa",
@@ -237,8 +252,8 @@
     }
   ],
   "gematria": {
-    "standard": 4959,
-    "ordinal": 841,
-    "reduced": 252
+    "standard": 5829,
+    "ordinal": 957,
+    "reduced": 276
   }
 }

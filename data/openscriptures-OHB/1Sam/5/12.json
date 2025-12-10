@@ -1,5 +1,5 @@
 {
-  "text": "וְהָאֲנָשִׁים אֲשֶׁר לֹא מֵתוּ הֻכּוּ וַתַּעַל שַׁוְעַת הָעִיר הַשָּׁמָיִם בעפלים בַּטְּחֹרִים",
+  "text": "וְהָאֲנָשִׁים אֲשֶׁר לֹא מֵתוּ הֻכּוּ בעפלים וַתַּעַל שַׁוְעַת הָעִיר הַשָּׁמָיִם בעפלים בַּטְּחֹרִים",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "בעפלים",
+      "lemma": "b/6076 b",
+      "morph": "HRd/Ncmpa",
+      "strongs": [
+        "H6076"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 81,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
       "text": "וַתַּעַל",
       "lemma": "c/5927",
       "morph": "HC/Vqw3fs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שַׁוְעַת",
       "lemma": "7775",
       "morph": "HNcfsc",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הָעִיר",
       "lemma": "d/5892 b",
       "morph": "HTd/Ncfsa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַשָּׁמָיִם",
       "lemma": "d/8064",
       "morph": "HTd/Ncmpa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בעפלים",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בַּטְּחֹרִים",
       "lemma": "b/2914",
       "morph": "HRd/Ncmpa",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 3884,
-    "ordinal": 598,
-    "reduced": 185
+    "standard": 4116,
+    "ordinal": 679,
+    "reduced": 210
   }
 }

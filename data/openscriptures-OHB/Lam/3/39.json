@@ -1,5 +1,5 @@
 {
-  "text": "מַה יִּתְאוֹנֵן אָדָם חָי גֶּבֶר עַל חטאו חֲטָאָיו",
+  "text": "מַה יִּתְאוֹנֵן אָדָם חָי גֶּבֶר עַל חטאו חטאו חֲטָאָיו",
   "words": [
     {
       "position": 1,
@@ -94,6 +94,21 @@
     {
       "position": 7,
       "text": "חטאו",
+      "lemma": "2399",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2399"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 24,
+        "ordinal": 24,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "חטאו",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "חֲטָאָיו",
       "lemma": "2399",
       "morph": "HNcmpc/Sp3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 988,
-    "ordinal": 254,
-    "reduced": 115
+    "standard": 1012,
+    "ordinal": 278,
+    "reduced": 139
   }
 }

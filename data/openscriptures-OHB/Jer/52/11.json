@@ -1,5 +1,5 @@
 {
-  "text": "וְאֶת עֵינֵי צִדְקִיָּהוּ עִוֵּר וַיַּאַסְרֵהוּ בַנְחֻשְׁתַּיִם וַיְבִאֵהוּ מֶלֶךְ בָּבֶל בָּבֶלָה וַיִּתְּנֵהוּ הַפְּקֻדֹּת עַד יוֹם מוֹתוֹ בבית בֵית",
+  "text": "וְאֶת עֵינֵי צִדְקִיָּהוּ עִוֵּר וַיַּאַסְרֵהוּ בַנְחֻשְׁתַּיִם וַיְבִאֵהוּ מֶלֶךְ בָּבֶל בָּבֶלָה וַיִּתְּנֵהוּ בבית הַפְּקֻדֹּת עַד יוֹם מוֹתוֹ בבית בֵית",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,21 @@
     },
     {
       "position": 12,
+      "text": "בבית",
+      "lemma": "b/1004 b",
+      "morph": "HR/Ncmsc",
+      "strongs": [
+        "H1004"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 414,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
       "text": "הַפְּקֻדֹּת",
       "lemma": "d/6486",
       "morph": "HTd/Ncfpa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יוֹם",
       "lemma": "3117",
       "morph": "HNcmsc",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "מוֹתוֹ",
       "lemma": "4194",
       "morph": "HNcmsc/Sp3ms",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בבית",
       "lemma": null,
       "morph": null,
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בֵית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -255,8 +270,8 @@
     }
   ],
   "gematria": {
-    "standard": 4803,
-    "ordinal": 769,
-    "reduced": 276
+    "standard": 5217,
+    "ordinal": 805,
+    "reduced": 285
   }
 }

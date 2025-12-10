@@ -1,5 +1,5 @@
 {
-  "text": "עוּתַי בֶּן עַמִּיהוּד בֶּן עָמְרִי בֶּן אִמְרִי בֶן בְּנֵי פֶרֶץ בֶּן יְהוּדָה בנימן",
+  "text": "עוּתַי בֶּן עַמִּיהוּד בֶּן עָמְרִי בֶּן אִמְרִי בֶן בנימן בְּנֵי פֶרֶץ בֶּן יְהוּדָה בנימן",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "בנימן",
+      "lemma": "1144",
+      "morph": "HNcmpc/R",
+      "strongs": [
+        "H1144"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 64,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "פֶרֶץ",
       "lemma": "6557",
       "morph": "HNp",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יְהוּדָה",
       "lemma": "3063",
       "morph": "HNp",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בנימן",
       "lemma": null,
       "morph": null,
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 2066,
-    "ordinal": 530,
-    "reduced": 167
+    "standard": 2218,
+    "ordinal": 594,
+    "reduced": 184
   }
 }

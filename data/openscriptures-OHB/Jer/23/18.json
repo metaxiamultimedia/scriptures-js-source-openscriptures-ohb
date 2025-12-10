@@ -1,5 +1,5 @@
 {
-  "text": "כִּי מִי עָמַד בְּסוֹד יְהוָה וְיֵרֶא וְיִשְׁמַע אֶת דְּבָרוֹ מִי הִקְשִׁיב וַיִּשְׁמָע דברי דְּבָרוֹ",
+  "text": "כִּי מִי עָמַד בְּסוֹד יְהוָה וְיֵרֶא וְיִשְׁמַע אֶת דְּבָרוֹ מִי הִקְשִׁיב דברי וַיִּשְׁמָע דברי דְּבָרוֹ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,21 @@
     },
     {
       "position": 12,
+      "text": "דברי",
+      "lemma": "1697",
+      "morph": "HC/Vqw3ms",
+      "strongs": [
+        "H1697"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 216,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
       "text": "וַיִּשְׁמָע",
       "lemma": "c/8085",
       "morph": "HC/Vqw3ms",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "דברי",
       "lemma": null,
       "morph": null,
@@ -194,10 +209,10 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "דְּבָרוֹ",
       "lemma": "1697",
-      "morph": "HNcmsc/Sp3ms",
+      "morph": "HC/Vqw3ms",
       "strongs": [
         "H1697"
       ],
@@ -210,8 +225,8 @@
     }
   ],
   "gematria": {
-    "standard": 2869,
-    "ordinal": 502,
-    "reduced": 169
+    "standard": 3085,
+    "ordinal": 538,
+    "reduced": 178
   }
 }

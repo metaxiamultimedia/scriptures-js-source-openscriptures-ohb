@@ -1,5 +1,5 @@
 {
-  "text": "ענוים עֲנִיִּים כִּי לֹא לָנֶצַח יִשָּׁכַח אֶבְיוֹן תִּקְוַת תֹּאבַד לָעַד",
+  "text": "ענוים עֲנִיִּים כִּי לֹא לָנֶצַח יִשָּׁכַח אֶבְיוֹן תִּקְוַת ענוים תֹּאבַד לָעַד",
   "words": [
     {
       "position": 1,
@@ -117,6 +117,21 @@
     },
     {
       "position": 9,
+      "text": "ענוים",
+      "lemma": "6035",
+      "morph": "HAampa",
+      "strongs": [
+        "H6035"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 176,
+        "ordinal": 70,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
       "text": "תֹּאבַד",
       "lemma": "6",
       "morph": "HVqi3fs",
@@ -128,7 +143,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לָעַד",
       "lemma": "l/5703",
       "morph": "HR/Ncmsa",
@@ -144,8 +159,8 @@
     }
   ],
   "gematria": {
-    "standard": 2419,
-    "ordinal": 454,
-    "reduced": 142
+    "standard": 2595,
+    "ordinal": 524,
+    "reduced": 165
   }
 }

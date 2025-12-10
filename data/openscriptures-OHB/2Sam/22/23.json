@@ -1,5 +1,5 @@
 {
-  "text": "כִּי כָל לְנֶגְדִּי וְחֻקֹּתָיו לֹא אָסוּר מִמֶּנָּה משפטו מִשְׁפָּטָיו",
+  "text": "כִּי כָל משפטו לְנֶגְדִּי וְחֻקֹּתָיו לֹא אָסוּר מִמֶּנָּה משפטו מִשְׁפָּטָיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "משפטו",
+      "lemma": "4941",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H4941"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 435,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
       "text": "לְנֶגְדִּי",
       "lemma": "l/5048",
       "morph": "HR/R/Sp1cs",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְחֻקֹּתָיו",
       "lemma": "c/2708",
       "morph": "HC/Ncbpc/Sp3ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אָסוּר",
       "lemma": "5493",
       "morph": "HVqi1cs",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מִמֶּנָּה",
       "lemma": "4480 a",
       "morph": "HR/Sp3fs",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "משפטו",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מִשְׁפָּטָיו",
       "lemma": "4941",
       "morph": "HNcmpc/Sp3ms",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 2020,
-    "ordinal": 400,
-    "reduced": 148
+    "standard": 2455,
+    "ordinal": 466,
+    "reduced": 178
   }
 }

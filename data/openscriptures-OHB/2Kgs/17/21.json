@@ -1,5 +1,5 @@
 {
-  "text": "כִּי קָרַע יִשְׂרָאֵל מֵעַל בֵּית דָּוִד וַיַּמְלִיכוּ אֶת יָרָבְעָם בֶּן נְבָט יָרָבְעָם אֶת יִשְׂרָאֵל מֵאַחֲרֵי יְהוָה וְהֶחֱטֵיאָם חֲטָאָה גְדוֹלָה וידא וַיַּדַּח",
+  "text": "כִּי קָרַע יִשְׂרָאֵל מֵעַל בֵּית דָּוִד וַיַּמְלִיכוּ אֶת יָרָבְעָם בֶּן נְבָט וידא יָרָבְעָם אֶת יִשְׂרָאֵל מֵאַחֲרֵי יְהוָה וְהֶחֱטֵיאָם חֲטָאָה גְדוֹלָה וידא וַיַּדַּח",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,21 @@
     },
     {
       "position": 12,
+      "text": "וידא",
+      "lemma": "c/5077 a",
+      "morph": "HC/Vhw3ms",
+      "strongs": [
+        "H5077"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 21,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
       "text": "יָרָבְעָם",
       "lemma": "3379",
       "morph": "HNp",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "מֵאַחֲרֵי",
       "lemma": "m/310 a",
       "morph": "HR/R",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְהֶחֱטֵיאָם",
       "lemma": "c/2398",
       "morph": "HC/Vhp3ms/Sp3mp",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "חֲטָאָה",
       "lemma": "2401",
       "morph": "HNcfsa",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "גְדוֹלָה",
       "lemma": "1419 a",
       "morph": "HAafsa",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וידא",
       "lemma": null,
       "morph": null,
@@ -299,7 +314,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "וַיַּדַּח",
       "lemma": "c/5080",
       "morph": "HC/Vhw3ms",
@@ -315,8 +330,8 @@
     }
   ],
   "gematria": {
-    "standard": 4213,
-    "ordinal": 846,
-    "reduced": 298
+    "standard": 4234,
+    "ordinal": 867,
+    "reduced": 310
   }
 }

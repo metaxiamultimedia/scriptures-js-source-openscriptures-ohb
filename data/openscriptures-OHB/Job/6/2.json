@@ -1,5 +1,5 @@
 {
-  "text": "לוּ שָׁקוֹל יִשָּׁקֵל כַּעְשִׂי בְּמֹאזְנַיִם יִשְׂאוּ יָחַד והיתי וְהַוָּתִי",
+  "text": "לוּ שָׁקוֹל יִשָּׁקֵל כַּעְשִׂי והיתי בְּמֹאזְנַיִם יִשְׂאוּ יָחַד והיתי וְהַוָּתִי",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "והיתי",
+      "lemma": "c/1962",
+      "morph": "HC/Ncfsc/Sp1cs",
+      "strongs": [
+        "H1962"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
       "text": "בְּמֹאזְנַיִם",
       "lemma": "b/3976",
       "morph": "HR/Ncmda",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִשְׂאוּ",
       "lemma": "5375",
       "morph": "HVqi3mp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יָחַד",
       "lemma": "3162 a",
       "morph": "HNcmsa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "והיתי",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְהַוָּתִי",
       "lemma": "c/1942",
       "morph": "HC/Ncfsc/Sp1cs",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 2659,
-    "ordinal": 429,
-    "reduced": 130
+    "standard": 3090,
+    "ordinal": 482,
+    "reduced": 147
   }
 }

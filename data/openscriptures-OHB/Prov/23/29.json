@@ -1,5 +1,5 @@
 {
-  "text": "לְמִי אוֹי לְמִי אֲבוֹי לְמִי לְמִי שִׂיחַ לְמִי פְּצָעִים חִנָּם לְמִי חַכְלִלוּת עֵינָיִם מדונים מִדְיָנִים",
+  "text": "לְמִי אוֹי לְמִי אֲבוֹי לְמִי מדונים לְמִי שִׂיחַ לְמִי פְּצָעִים חִנָּם לְמִי חַכְלִלוּת עֵינָיִם מדונים מִדְיָנִים",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "מדונים",
+      "lemma": "4066",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H4066"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 71,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
       "text": "לְמִי",
       "lemma": "l/4310",
       "morph": "HR/Ti",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שִׂיחַ",
       "lemma": "7879",
       "morph": "HNcmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לְמִי",
       "lemma": "l/4310",
       "morph": "HR/Ti",
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "פְּצָעִים",
       "lemma": "6482",
       "morph": "HNcmpa",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "חִנָּם",
       "lemma": "2600",
       "morph": "HD",
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לְמִי",
       "lemma": "l/4310",
       "morph": "HR/Ti",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "חַכְלִלוּת",
       "lemma": "2448",
       "morph": "HNcfsc",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עֵינָיִם",
       "lemma": "5869 a",
       "morph": "HNcbda",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מדונים",
       "lemma": null,
       "morph": null,
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "מִדְיָנִים",
       "lemma": "4079",
       "morph": "HNcmpa",
@@ -222,8 +237,8 @@
     }
   ],
   "gematria": {
-    "standard": 2200,
-    "ordinal": 707,
-    "reduced": 211
+    "standard": 2350,
+    "ordinal": 778,
+    "reduced": 235
   }
 }

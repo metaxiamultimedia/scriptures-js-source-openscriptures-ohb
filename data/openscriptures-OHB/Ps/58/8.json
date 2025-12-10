@@ -1,5 +1,5 @@
 {
-  "text": "חצו חִצָּיו יִמָּאֲסוּ כְמוֹ מַיִם יִתְהַלְּכוּ לָמוֹ יִדְרֹךְ כְּמוֹ יִתְמֹלָלוּ",
+  "text": "חצו חִצָּיו יִמָּאֲסוּ כְמוֹ מַיִם יִתְהַלְּכוּ לָמוֹ יִדְרֹךְ חצו כְּמוֹ יִתְמֹלָלוּ",
   "words": [
     {
       "position": 1,
@@ -117,6 +117,21 @@
     },
     {
       "position": 9,
+      "text": "חצו",
+      "lemma": "2671",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2671"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
       "text": "כְּמוֹ",
       "lemma": "3644",
       "morph": "HR",
@@ -131,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִתְמֹלָלוּ",
       "lemma": "4135 b",
       "morph": "HVti3mp",
@@ -147,8 +162,8 @@
     }
   ],
   "gematria": {
-    "standard": 1854,
-    "ordinal": 455,
-    "reduced": 162
+    "standard": 1958,
+    "ordinal": 487,
+    "reduced": 185
   }
 }

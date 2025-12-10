@@ -1,5 +1,5 @@
 {
-  "text": "וְיִרְמְיָהוּ בָּא וְיֹצֵא בְּתוֹךְ הָעָם וְלֹא נָתְנוּ אֹתוֹ בֵּית הכליא הַכְּלוּא",
+  "text": "וְיִרְמְיָהוּ בָּא וְיֹצֵא בְּתוֹךְ הָעָם וְלֹא נָתְנוּ אֹתוֹ בֵּית הכליא הכליא הַכְּלוּא",
   "words": [
     {
       "position": 1,
@@ -139,6 +139,21 @@
     {
       "position": 10,
       "text": "הכליא",
+      "lemma": "d/3628",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H3628"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 66,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "הכליא",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַכְּלוּא",
       "lemma": "d/3628",
       "morph": "HTd/Ncmsa",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2420,
-    "ordinal": 418,
-    "reduced": 152
+    "standard": 2486,
+    "ordinal": 457,
+    "reduced": 164
   }
 }

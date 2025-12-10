@@ -1,5 +1,5 @@
 {
-  "text": "ואת וְאַתָּה וְנַפְשִׁי נִבְהֲלָה מְאֹד יְהוָה עַד מָתָי",
+  "text": "ואת וְאַתָּה וְנַפְשִׁי נִבְהֲלָה מְאֹד ואת יְהוָה עַד מָתָי",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "ואת",
+      "lemma": "c/859 c",
+      "morph": "HC/Pp2ms",
+      "strongs": [
+        "H859"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 407,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מָתָי",
       "lemma": "4970",
       "morph": "HTi",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1952,
-    "ordinal": 278,
-    "reduced": 116
+    "standard": 2359,
+    "ordinal": 307,
+    "reduced": 127
   }
 }

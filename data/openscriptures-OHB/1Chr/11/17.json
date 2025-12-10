@@ -1,8 +1,23 @@
 {
-  "text": "דָּוִיד וַיֹּאמַר מִי יַשְׁקֵנִי מַיִם מִבּוֹר בֵּית לֶחֶם אֲשֶׁר בַּשָּׁעַר ויתאו וַיִּתְאָיו",
+  "text": "ויתאו דָּוִיד וַיֹּאמַר מִי יַשְׁקֵנִי מַיִם מִבּוֹר בֵּית לֶחֶם אֲשֶׁר בַּשָּׁעַר ויתאו וַיִּתְאָיו",
   "words": [
     {
       "position": 1,
+      "text": "ויתאו",
+      "lemma": "c/183",
+      "morph": "HC/Vtw3ms",
+      "strongs": [
+        "H183"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 423,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
       "text": "דָּוִיד",
       "lemma": "1732",
       "morph": "HNp",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "וַיֹּאמַר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מִי",
       "lemma": "4310",
       "morph": "HTi",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יַשְׁקֵנִי",
       "lemma": "8248",
       "morph": "HVhi3ms/Sp1cs",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מַיִם",
       "lemma": "4325",
       "morph": "HNcmpa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מִבּוֹר",
       "lemma": "m/953 a",
       "morph": "HR/Ncmsc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בֵּית",
       "lemma": "1035+",
       "morph": "HNp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לֶחֶם",
       "lemma": "1035",
       "morph": "HNp",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בַּשָּׁעַר",
       "lemma": "b/8179",
       "morph": "HRd/Ncmsa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "ויתאו",
       "lemma": null,
       "morph": null,
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וַיִּתְאָיו",
       "lemma": "c/183",
       "morph": "HC/Vtw3ms",
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 3558,
-    "ordinal": 538,
-    "reduced": 147
+    "standard": 3981,
+    "ordinal": 583,
+    "reduced": 165
   }
 }

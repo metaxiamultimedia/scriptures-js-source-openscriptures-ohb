@@ -1,8 +1,23 @@
 {
-  "text": "דַעַת מִמֶּנִּי נִשְׂגְּבָה לֹא אוּכַל לָהּ פלאיה פְּלִיאָה",
+  "text": "פלאיה דַעַת מִמֶּנִּי נִשְׂגְּבָה לֹא אוּכַל לָהּ פלאיה פְּלִיאָה",
   "words": [
     {
       "position": 1,
+      "text": "פלאיה",
+      "lemma": "6383",
+      "morph": "HAafsa",
+      "strongs": [
+        "H6383"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
       "text": "דַעַת",
       "lemma": "1847",
       "morph": "HNcfsa",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "מִמֶּנִּי",
       "lemma": "4480 a",
       "morph": "HR/Sp1cs",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "נִשְׂגְּבָה",
       "lemma": "7682",
       "morph": "HVNrfsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אוּכַל",
       "lemma": "3201",
       "morph": "HVqi1cs",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לָהּ",
       "lemma": "l",
       "morph": "HR/Sp3fs",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "פלאיה",
       "lemma": null,
       "morph": null,
@@ -101,7 +116,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "פְּלִיאָה",
       "lemma": "6383",
       "morph": "HAafsa",
@@ -117,8 +132,8 @@
     }
   ],
   "gematria": {
-    "standard": 1349,
-    "ordinal": 287,
-    "reduced": 107
+    "standard": 1475,
+    "ordinal": 332,
+    "reduced": 125
   }
 }

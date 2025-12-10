@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּשְׁלַח אִישׁ בֹּשֶׁת וַיִּקָּחֶהָ מֵעִם אִישׁ מֵעִם פַּלְטִיאֵל בֶּן לוש לָיִשׁ",
+  "text": "וַיִּשְׁלַח אִישׁ בֹּשֶׁת וַיִּקָּחֶהָ מֵעִם אִישׁ מֵעִם פַּלְטִיאֵל בֶּן לוש לוש לָיִשׁ",
   "words": [
     {
       "position": 1,
@@ -139,6 +139,21 @@
     {
       "position": 10,
       "text": "לוש",
+      "lemma": "3889",
+      "morph": "HNp",
+      "strongs": [
+        "H3889"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 336,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "לוש",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לָיִשׁ",
       "lemma": "3919 b",
       "morph": "HNp",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2995,
-    "ordinal": 490,
-    "reduced": 142
+    "standard": 3331,
+    "ordinal": 529,
+    "reduced": 154
   }
 }

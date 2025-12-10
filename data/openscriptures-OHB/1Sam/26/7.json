@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֹא דָוִד וַאֲבִישַׁי אֶל הָעָם לַיְלָה וְהִנֵּה שָׁאוּל שֹׁכֵב יָשֵׁן בַּמַּעְגָּל וַחֲנִיתוֹ מְעוּכָה בָאָרֶץ וְאַבְנֵר וְהָעָם שֹׁכְבִים מראשתו מְרַאֲשֹׁתָיו סביבתו סְבִיבֹתָיו",
+  "text": "וַיָּבֹא דָוִד וַאֲבִישַׁי אֶל הָעָם לַיְלָה וְהִנֵּה שָׁאוּל שֹׁכֵב יָשֵׁן בַּמַּעְגָּל וַחֲנִיתוֹ מְעוּכָה בָאָרֶץ מראשתו וְאַבְנֵר וְהָעָם שֹׁכְבִים סביבתו מראשתו מְרַאֲשֹׁתָיו סביבתו סְבִיבֹתָיו",
   "words": [
     {
       "position": 1,
@@ -210,6 +210,21 @@
     },
     {
       "position": 15,
+      "text": "מראשתו",
+      "lemma": "4763",
+      "morph": "HNcfpc/Sp3ms",
+      "strongs": [
+        "H4763"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 947,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
       "text": "וְאַבְנֵר",
       "lemma": "c/74",
       "morph": "HC/Np",
@@ -221,7 +236,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְהָעָם",
       "lemma": "c/d/5971 a",
       "morph": "HC/Td/Ncmsa",
@@ -236,7 +251,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "שֹׁכְבִים",
       "lemma": "7901",
       "morph": "HVqrmpa",
@@ -251,7 +266,22 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
+      "text": "סביבתו",
+      "lemma": "5439",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H5439"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
       "text": "מראשתו",
       "lemma": null,
       "morph": null,
@@ -263,7 +293,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "מְרַאֲשֹׁתָיו",
       "lemma": "4763",
       "morph": "HNcfpc/Sp3ms",
@@ -278,7 +308,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "סביבתו",
       "lemma": null,
       "morph": null,
@@ -290,7 +320,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 23,
       "text": "סְבִיבֹתָיו",
       "lemma": "5439",
       "morph": "HNcbpc/Sp3ms",
@@ -306,8 +336,8 @@
     }
   ],
   "gematria": {
-    "standard": 6353,
-    "ordinal": 1015,
-    "reduced": 341
+    "standard": 7780,
+    "ordinal": 1155,
+    "reduced": 382
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר לִי מִי אָתָּה אֵלָיו עֲמָלֵקִי אָנֹכִי ויאמר וָאֹמַר",
+  "text": "וַיֹּאמֶר לִי מִי אָתָּה ויאמר אֵלָיו עֲמָלֵקִי אָנֹכִי ויאמר וָאֹמַר",
   "words": [
     {
       "position": 1,
@@ -60,6 +60,21 @@
     },
     {
       "position": 5,
+      "text": "ויאמר",
+      "lemma": "c/559",
+      "morph": "HC/Vqw3ms",
+      "strongs": [
+        "H559"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 257,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
       "text": "אֵלָיו",
       "lemma": "413",
       "morph": "HR/Sp3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עֲמָלֵקִי",
       "lemma": "6003",
       "morph": "HNgmsa",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אָנֹכִי",
       "lemma": "595",
       "morph": "HPp1cs",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "ויאמר",
       "lemma": null,
       "morph": null,
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וָאֹמַר",
       "lemma": "c/559",
       "morph": "HC/Vqw1cs",
@@ -132,8 +147,8 @@
     }
   ],
   "gematria": {
-    "standard": 1635,
-    "ordinal": 348,
-    "reduced": 96
+    "standard": 1892,
+    "ordinal": 398,
+    "reduced": 110
   }
 }

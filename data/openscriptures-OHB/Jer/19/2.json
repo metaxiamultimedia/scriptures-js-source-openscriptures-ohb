@@ -1,5 +1,5 @@
 {
-  "text": "וְיָצָאתָ אֶל גֵּיא בֶן הִנֹּם אֲשֶׁר פֶּתַח שַׁעַר וְקָרָאתָ שָּׁם אֶת הַדְּבָרִים אֲשֶׁר אֲדַבֵּר אֵלֶיךָ החרסות הַחַרְסִית",
+  "text": "וְיָצָאתָ אֶל גֵּיא בֶן הִנֹּם אֲשֶׁר פֶּתַח שַׁעַר החרסות וְקָרָאתָ שָּׁם אֶת הַדְּבָרִים אֲשֶׁר אֲדַבֵּר אֵלֶיךָ החרסות הַחַרְסִית",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "החרסות",
+      "lemma": "d/2777",
+      "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H2777"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 679,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
       "text": "וְקָרָאתָ",
       "lemma": "c/7121",
       "morph": "HC/Vqq2ms",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "שָּׁם",
       "lemma": "8033",
       "morph": "HD",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַדְּבָרִים",
       "lemma": "d/1697",
       "morph": "HTd/Ncmpa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֲדַבֵּר",
       "lemma": "1696",
       "morph": "HVpi1cs",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֵלֶיךָ",
       "lemma": "413",
       "morph": "HR/Sp2ms",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "החרסות",
       "lemma": null,
       "morph": null,
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הַחַרְסִית",
       "lemma": "d/2777",
       "morph": "HTd/Ncfsa",
@@ -255,8 +270,8 @@
     }
   ],
   "gematria": {
-    "standard": 6098,
-    "ordinal": 772,
-    "reduced": 212
+    "standard": 6777,
+    "ordinal": 848,
+    "reduced": 243
   }
 }

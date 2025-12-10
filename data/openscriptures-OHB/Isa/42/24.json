@@ -1,5 +1,5 @@
 {
-  "text": "מִי נָתַן יַעֲקֹב וְיִשְׂרָאֵל לְבֹזְזִים הֲלוֹא יְהוָה זוּ חָטָאנוּ לוֹ וְלֹא אָבוּ בִדְרָכָיו הָלוֹךְ וְלֹא שָׁמְעוּ בְּתוֹרָתוֹ למשוסה לִמְשִׁסָּה",
+  "text": "מִי נָתַן למשוסה יַעֲקֹב וְיִשְׂרָאֵל לְבֹזְזִים הֲלוֹא יְהוָה זוּ חָטָאנוּ לוֹ וְלֹא אָבוּ בִדְרָכָיו הָלוֹךְ וְלֹא שָׁמְעוּ בְּתוֹרָתוֹ למשוסה לִמְשִׁסָּה",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "למשוסה",
+      "lemma": "l/4882",
+      "morph": "HR/Ncfsa",
+      "strongs": [
+        "H4882"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
       "text": "יַעֲקֹב",
       "lemma": "3290",
       "morph": "HNp",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְיִשְׂרָאֵל",
       "lemma": "c/3478",
       "morph": "HC/Np",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לְבֹזְזִים",
       "lemma": "l/962",
       "morph": "HR/Vqrmpa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הֲלוֹא",
       "lemma": "i/3808",
       "morph": "HTi/Tn",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "זוּ",
       "lemma": "2098",
       "morph": "HTr",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "חָטָאנוּ",
       "lemma": "2398",
       "morph": "HVqp1cp",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אָבוּ",
       "lemma": "14",
       "morph": "HVqp3cp",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בִדְרָכָיו",
       "lemma": "b/1870",
       "morph": "HR/Ncbpc/Sp3ms",
@@ -191,7 +206,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הָלוֹךְ",
       "lemma": "1980",
       "morph": "HVqa",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -221,7 +236,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "שָׁמְעוּ",
       "lemma": "8085",
       "morph": "HVqp3cp",
@@ -236,7 +251,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בְּתוֹרָתוֹ",
       "lemma": "b/8451",
       "morph": "HR/Ncfsc/Sp3ms",
@@ -251,7 +266,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "למשוסה",
       "lemma": null,
       "morph": null,
@@ -263,7 +278,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לִמְשִׁסָּה",
       "lemma": "l/4933",
       "morph": "HR/Ncfsa",
@@ -279,8 +294,8 @@
     }
   ],
   "gematria": {
-    "standard": 4258,
-    "ordinal": 800,
-    "reduced": 307
+    "standard": 4699,
+    "ordinal": 872,
+    "reduced": 334
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "לֹא הֶאֱמִינוּ מַלְכֵי אֶרֶץ יֹשְׁבֵי תֵבֵל כִּי יָבֹא צַר וְאוֹיֵב בְּשַׁעֲרֵי יְרוּשָׁלִָם וכל כֹּל",
+  "text": "לֹא הֶאֱמִינוּ מַלְכֵי אֶרֶץ וכל יֹשְׁבֵי תֵבֵל כִּי יָבֹא צַר וְאוֹיֵב בְּשַׁעֲרֵי יְרוּשָׁלִָם וכל כֹּל",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "וכל",
+      "lemma": "c/3605",
+      "morph": "HC/Ncmsc",
+      "strongs": [
+        "H3605"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
       "text": "יֹשְׁבֵי",
       "lemma": "3427",
       "morph": "HVqrmpc",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תֵבֵל",
       "lemma": "8398",
       "morph": "HNcfsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יָבֹא",
       "lemma": "935",
       "morph": "HVqi3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "צַר",
       "lemma": "6862 c",
       "morph": "HNcmsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְאוֹיֵב",
       "lemma": "c/341",
       "morph": "HC/Vqrmsa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בְּשַׁעֲרֵי",
       "lemma": "b/8179",
       "morph": "HR/Ncmpc",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יְרוּשָׁלִָם",
       "lemma": "3389",
       "morph": "HNp",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וכל",
       "lemma": null,
       "morph": null,
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כֹּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -210,8 +225,8 @@
     }
   ],
   "gematria": {
-    "standard": 2920,
-    "ordinal": 546,
-    "reduced": 148
+    "standard": 2976,
+    "ordinal": 575,
+    "reduced": 159
   }
 }

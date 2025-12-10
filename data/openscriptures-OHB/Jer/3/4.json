@@ -1,5 +1,5 @@
 {
-  "text": "הֲלוֹא מֵעַתָּה לִי אָבִי אַלּוּף נְעֻרַי אָתָּה קראתי קָרָאת",
+  "text": "הֲלוֹא מֵעַתָּה קראתי לִי אָבִי אַלּוּף נְעֻרַי אָתָּה קראתי קָרָאת",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "קראתי",
+      "lemma": "7121",
+      "morph": "HVqp2fs",
+      "strongs": [
+        "H7121"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 72,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
@@ -44,7 +59,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אָבִי",
       "lemma": "1",
       "morph": "HNcmsc/Sp1cs",
@@ -56,7 +71,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אַלּוּף",
       "lemma": "441 a",
       "morph": "HNcmsc",
@@ -71,7 +86,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "נְעֻרַי",
       "lemma": "5271 a",
       "morph": "HNcbpc/Sp1cs",
@@ -86,7 +101,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אָתָּה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -101,7 +116,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "קראתי",
       "lemma": null,
       "morph": null,
@@ -113,7 +128,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "קָרָאת",
       "lemma": "7121",
       "morph": "HVqp2fs",
@@ -129,8 +144,8 @@
     }
   ],
   "gematria": {
-    "standard": 2875,
-    "ordinal": 382,
-    "reduced": 103
+    "standard": 3586,
+    "ordinal": 454,
+    "reduced": 112
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי עֻזִּיאֵל מִיכָה לִבְנֵי מִיכָה שמור שָׁמִיר",
+  "text": "בְּנֵי עֻזִּיאֵל מִיכָה לִבְנֵי מִיכָה שמור שמור שָׁמִיר",
   "words": [
     {
       "position": 1,
@@ -79,6 +79,21 @@
     {
       "position": 6,
       "text": "שמור",
+      "lemma": "8053",
+      "morph": "HNp",
+      "strongs": [
+        "H8053"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 546,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "שמור",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שָׁמִיר",
       "lemma": "8069",
       "morph": "HNp",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 1518,
-    "ordinal": 312,
-    "reduced": 87
+    "standard": 2064,
+    "ordinal": 372,
+    "reduced": 102
   }
 }

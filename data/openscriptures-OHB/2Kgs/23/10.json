@@ -1,5 +1,5 @@
 {
-  "text": "וְטִמֵּא אֶת הַתֹּפֶת אֲשֶׁר בְּגֵי הִנֹּם לְבִלְתִּי לְהַעֲבִיר אִישׁ אֶת בְּנוֹ וְאֶת בִּתּוֹ בָּאֵשׁ לַמֹּלֶךְ בני בֶן",
+  "text": "וְטִמֵּא אֶת הַתֹּפֶת אֲשֶׁר בְּגֵי בני הִנֹּם לְבִלְתִּי לְהַעֲבִיר אִישׁ אֶת בְּנוֹ וְאֶת בִּתּוֹ בָּאֵשׁ לַמֹּלֶךְ בני בֶן",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,21 @@
     },
     {
       "position": 6,
+      "text": "בני",
+      "lemma": "1121 a",
+      "morph": "HNp",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 26,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
       "text": "הִנֹּם",
       "lemma": "2011",
       "morph": "HNp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לְבִלְתִּי",
       "lemma": "l/1115",
       "morph": "HR/C",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לְהַעֲבִיר",
       "lemma": "l/5674 a",
       "morph": "HR/Vhc",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אִישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בְּנוֹ",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp3ms",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בִּתּוֹ",
       "lemma": "1323",
       "morph": "HNcfsc/Sp3ms",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בָּאֵשׁ",
       "lemma": "b/784",
       "morph": "HRd/Ncbsa",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לַמֹּלֶךְ",
       "lemma": "l/4432",
       "morph": "HRd/Np",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בני",
       "lemma": null,
       "morph": null,
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בֶן",
       "lemma": "1121 a",
       "morph": "HNp",
@@ -255,8 +270,8 @@
     }
   ],
   "gematria": {
-    "standard": 4864,
-    "ordinal": 614,
-    "reduced": 184
+    "standard": 4926,
+    "ordinal": 640,
+    "reduced": 192
   }
 }

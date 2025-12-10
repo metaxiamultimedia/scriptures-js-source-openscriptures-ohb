@@ -1,5 +1,5 @@
 {
-  "text": "וַיְדַבְּרוּ הַכַּשְׂדִּים לַמֶּלֶךְ אֲרָמִית מַלְכָּא לְעָלְמִין חֱיִי אֱמַר חֶלְמָא וּפִשְׁרָא נְחַוֵּא לעבדיך לְעַבְדָךְ",
+  "text": "וַיְדַבְּרוּ הַכַּשְׂדִּים לַמֶּלֶךְ אֲרָמִית מַלְכָּא לְעָלְמִין חֱיִי אֱמַר חֶלְמָא לעבדיך וּפִשְׁרָא נְחַוֵּא לעבדיך לְעַבְדָךְ",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,21 @@
     },
     {
       "position": 10,
+      "text": "לעבדיך",
+      "lemma": "l/5649",
+      "morph": "AR/Ncmpc/Sp2ms",
+      "strongs": [
+        "H5649"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 136,
+        "ordinal": 67,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
       "text": "וּפִשְׁרָא",
       "lemma": "c/6591",
       "morph": "AC/Ncmsd/Td",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "נְחַוֵּא",
       "lemma": "2324",
       "morph": "AVpi1cp",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לעבדיך",
       "lemma": null,
       "morph": null,
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לְעַבְדָךְ",
       "lemma": "l/5649",
       "morph": "AR/Ncmsc/Sp2ms",
@@ -195,8 +210,8 @@
     }
   ],
   "gematria": {
-    "standard": 2961,
-    "ordinal": 688,
-    "reduced": 207
+    "standard": 3097,
+    "ordinal": 755,
+    "reduced": 226
   }
 }

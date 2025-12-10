@@ -1,5 +1,5 @@
 {
-  "text": "וְהָעַוִּים עָשׂוּ נִבְחַז וְאֶת תַּרְתָּק וְהַסְפַרְוִים שֹׂרְפִים אֶת בְּנֵיהֶם בָּאֵשׁ לְאַדְרַמֶּלֶךְ וַעֲנַמֶּלֶךְ אלה אֱלֹהֵי ספרים סְפַרְוָיִם",
+  "text": "וְהָעַוִּים עָשׂוּ נִבְחַז וְאֶת תַּרְתָּק וְהַסְפַרְוִים שֹׂרְפִים אֶת בְּנֵיהֶם בָּאֵשׁ לְאַדְרַמֶּלֶךְ וַעֲנַמֶּלֶךְ אלה ספרים אלה אֱלֹהֵי ספרים סְפַרְוָיִם",
   "words": [
     {
       "position": 1,
@@ -184,6 +184,36 @@
     {
       "position": 13,
       "text": "אלה",
+      "lemma": "433",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H433"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 36,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ספרים",
+      "lemma": "5617",
+      "morph": "HNp",
+      "strongs": [
+        "H5617"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 86,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "אלה",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -194,7 +224,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "אֱלֹהֵי",
       "lemma": "430",
       "morph": "HNcmpc",
@@ -209,7 +239,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "ספרים",
       "lemma": null,
       "morph": null,
@@ -221,7 +251,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "סְפַרְוָיִם",
       "lemma": "5617",
       "morph": "HNp",
@@ -237,8 +267,8 @@
     }
   ],
   "gematria": {
-    "standard": 5344,
-    "ordinal": 943,
-    "reduced": 286
+    "standard": 5770,
+    "ordinal": 1047,
+    "reduced": 316
   }
 }

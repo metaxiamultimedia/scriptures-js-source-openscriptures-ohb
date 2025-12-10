@@ -1,5 +1,5 @@
 {
-  "text": "אִם חֲרוּצִים יָמָיו מִסְפַּר חֳדָשָׁיו אִתָּךְ עָשִׂיתָ וְלֹא יַעֲבוֹר חקו חֻקָּיו",
+  "text": "אִם חֲרוּצִים יָמָיו מִסְפַּר חֳדָשָׁיו אִתָּךְ חקו עָשִׂיתָ וְלֹא יַעֲבוֹר חקו חֻקָּיו",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "חקו",
+      "lemma": "2706",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2706"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 114,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
       "text": "עָשִׂיתָ",
       "lemma": "6213 a",
       "morph": "HVqp2ms",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יַעֲבוֹר",
       "lemma": "5674 a",
       "morph": "HVqi3ms",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "חקו",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "חֻקָּיו",
       "lemma": "2706",
       "morph": "HNcmpc/Sp3ms",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2933,
-    "ordinal": 528,
-    "reduced": 170
+    "standard": 3047,
+    "ordinal": 561,
+    "reduced": 185
   }
 }

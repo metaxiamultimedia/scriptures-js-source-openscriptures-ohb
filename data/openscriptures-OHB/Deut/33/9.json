@@ -1,5 +1,5 @@
 {
-  "text": "הָאֹמֵר לְאָבִיו וּלְאִמּוֹ לֹא רְאִיתִיו וְאֶת אֶחָיו לֹא הִכִּיר וְאֶת לֹא יָדָע כִּי שָׁמְרוּ אִמְרָתֶךָ וּבְרִיתְךָ יִנְצֹרוּ בנו בָּנָיו",
+  "text": "הָאֹמֵר לְאָבִיו וּלְאִמּוֹ לֹא רְאִיתִיו וְאֶת אֶחָיו לֹא הִכִּיר וְאֶת בנו לֹא יָדָע כִּי שָׁמְרוּ אִמְרָתֶךָ וּבְרִיתְךָ יִנְצֹרוּ בנו בָּנָיו",
   "words": [
     {
       "position": 1,
@@ -150,6 +150,21 @@
     },
     {
       "position": 11,
+      "text": "בנו",
+      "lemma": "1121 a",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יָדָע",
       "lemma": "3045",
       "morph": "HVqp3ms",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שָׁמְרוּ",
       "lemma": "8104",
       "morph": "HVqp3cp",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אִמְרָתֶךָ",
       "lemma": "565 a",
       "morph": "HNcfsc/Sp2ms",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וּבְרִיתְךָ",
       "lemma": "c/1285",
       "morph": "HC/Ncfsc/Sp2ms",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יִנְצֹרוּ",
       "lemma": "5341",
       "morph": "HVqi3mp",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בנו",
       "lemma": null,
       "morph": null,
@@ -266,7 +281,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "בָּנָיו",
       "lemma": "1121 a",
       "morph": "HNcmpc/Sp3ms",
@@ -282,8 +297,8 @@
     }
   ],
   "gematria": {
-    "standard": 4613,
-    "ordinal": 740,
-    "reduced": 230
+    "standard": 4671,
+    "ordinal": 762,
+    "reduced": 243
   }
 }

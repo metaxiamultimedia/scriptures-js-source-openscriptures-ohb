@@ -1,8 +1,38 @@
 {
-  "text": "נְבוּכַדְרֶאצַּר מֶלֶךְ בָּבֶל כְּלִי רִיק כַּתַּנִּין מִלָּא כְרֵשׂוֹ מֵעֲדָנָי אכלנו אֲכָלַנִי הממנו הֲמָמַנִי הציגנו הִצִּיגַנִי בלענו בְּלָעַנִי הדיחנו הֱדִיחָנִי",
+  "text": "אכלנו הממנו נְבוּכַדְרֶאצַּר מֶלֶךְ בָּבֶל הציגנו כְּלִי רִיק בלענו כַּתַּנִּין מִלָּא כְרֵשׂוֹ מֵעֲדָנָי הדיחנו אכלנו אֲכָלַנִי הממנו הֲמָמַנִי הציגנו הִצִּיגַנִי בלענו בְּלָעַנִי הדיחנו הֱדִיחָנִי",
   "words": [
     {
       "position": 1,
+      "text": "אכלנו",
+      "lemma": "398",
+      "morph": "HVqp3ms/Sp1cp",
+      "strongs": [
+        "H398"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 107,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "הממנו",
+      "lemma": "2000",
+      "morph": "HVqp3ms/Sp1cp",
+      "strongs": [
+        "H2000"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 141,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
       "text": "נְבוּכַדְרֶאצַּר",
       "lemma": "5019",
       "morph": "HNp",
@@ -17,7 +47,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 4,
       "text": "מֶלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsc",
@@ -32,7 +62,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 5,
       "text": "בָּבֶל",
       "lemma": "894",
       "morph": "HNp",
@@ -47,7 +77,22 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
+      "text": "הציגנו",
+      "lemma": "3322",
+      "morph": "HVhp3ms/Sp1cp",
+      "strongs": [
+        "H3322"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
       "text": "כְּלִי",
       "lemma": "3627",
       "morph": "HNcmsc",
@@ -62,7 +107,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 8,
       "text": "רִיק",
       "lemma": "7385",
       "morph": "HNcmsa",
@@ -77,7 +122,22 @@
       }
     },
     {
-      "position": 6,
+      "position": 9,
+      "text": "בלענו",
+      "lemma": "1104",
+      "morph": "HVqp3ms/Sp1cp",
+      "strongs": [
+        "H1104"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 158,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
       "text": "כַּתַּנִּין",
       "lemma": "k/8577 b",
       "morph": "HRd/Ncmsa",
@@ -92,7 +152,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 11,
       "text": "מִלָּא",
       "lemma": "4390",
       "morph": "HVpp3ms",
@@ -107,7 +167,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 12,
       "text": "כְרֵשׂוֹ",
       "lemma": "3770",
       "morph": "HNcfsc/Sp3ms",
@@ -122,7 +182,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 13,
       "text": "מֵעֲדָנָי",
       "lemma": "m/5730 a",
       "morph": "HR/Ncmpc/Sp1cs",
@@ -137,7 +197,22 @@
       }
     },
     {
-      "position": 10,
+      "position": 14,
+      "text": "הדיחנו",
+      "lemma": "1740",
+      "morph": "HVhp3ms/Sp1cp",
+      "strongs": [
+        "H1740"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 83,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 15,
       "text": "אכלנו",
       "lemma": null,
       "morph": null,
@@ -149,7 +224,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 16,
       "text": "אֲכָלַנִי",
       "lemma": "398",
       "morph": "HVqp3ms/Sp1cs",
@@ -164,7 +239,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 17,
       "text": "הממנו",
       "lemma": null,
       "morph": null,
@@ -176,7 +251,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 18,
       "text": "הֲמָמַנִי",
       "lemma": "2000",
       "morph": "HVqp3ms/Sp1cs",
@@ -191,7 +266,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 19,
       "text": "הציגנו",
       "lemma": null,
       "morph": null,
@@ -203,7 +278,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 20,
       "text": "הִצִּיגַנִי",
       "lemma": "3322",
       "morph": "HVhp3ms/Sp1cs",
@@ -218,7 +293,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 21,
       "text": "בלענו",
       "lemma": null,
       "morph": null,
@@ -230,7 +305,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 22,
       "text": "בְּלָעַנִי",
       "lemma": "1104",
       "morph": "HVqp3ms/Sp1cs",
@@ -245,7 +320,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 23,
       "text": "הדיחנו",
       "lemma": null,
       "morph": null,
@@ -257,7 +332,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 24,
       "text": "הֱדִיחָנִי",
       "lemma": "1740",
       "morph": "HVhp3ms/Sp1cs",
@@ -273,8 +348,8 @@
     }
   ],
   "gematria": {
-    "standard": 3694,
-    "ordinal": 981,
-    "reduced": 337
+    "standard": 4347,
+    "ordinal": 1229,
+    "reduced": 459
   }
 }

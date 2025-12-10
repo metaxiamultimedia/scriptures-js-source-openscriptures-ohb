@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּנָּגֶף יְהוּדָה לִפְנֵי יִשְׂרָאֵל וַיָּנֻסוּ אִישׁ לאהלו לְאֹהָלָיו",
+  "text": "וַיִּנָּגֶף יְהוּדָה לִפְנֵי יִשְׂרָאֵל וַיָּנֻסוּ אִישׁ לאהלו לאהלו לְאֹהָלָיו",
   "words": [
     {
       "position": 1,
@@ -94,6 +94,21 @@
     {
       "position": 7,
       "text": "לאהלו",
+      "lemma": "l/168",
+      "morph": "HR/Ncmsc/Sp3ms",
+      "strongs": [
+        "H168"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "לאהלו",
       "lemma": null,
       "morph": null,
       "metadata": {},
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לְאֹהָלָיו",
       "lemma": "l/168",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 1487,
-    "ordinal": 371,
-    "reduced": 137
+    "standard": 1559,
+    "ordinal": 407,
+    "reduced": 155
   }
 }

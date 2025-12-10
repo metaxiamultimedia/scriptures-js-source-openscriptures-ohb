@@ -1,8 +1,23 @@
 {
-  "text": "מַלְכָּא שָׂמְתָּ טְּעֵם דִּי כָל אֱנָשׁ דִּי יִשְׁמַע קָל קַרְנָא מַשְׁרֹקִיתָא שַׂבְּכָא פְסַנְתֵּרִין וְכֹל זְנֵי זְמָרָא יִפֵּל וְיִסְגֻּד לְצֶלֶם דַּהֲבָא אנתה אַנְתְּ קיתרס קַתְרוֹס וסיפניה וְסוּפֹּנְיָה",
+  "text": "אנתה מַלְכָּא שָׂמְתָּ טְּעֵם דִּי כָל אֱנָשׁ דִּי יִשְׁמַע קָל קַרְנָא מַשְׁרֹקִיתָא קיתרס שַׂבְּכָא פְסַנְתֵּרִין וסיפניה וְכֹל זְנֵי זְמָרָא יִפֵּל וְיִסְגֻּד לְצֶלֶם דַּהֲבָא אנתה אַנְתְּ קיתרס קַתְרוֹס וסיפניה וְסוּפֹּנְיָה",
   "words": [
     {
       "position": 1,
+      "text": "אנתה",
+      "lemma": "607",
+      "morph": "APp2ms",
+      "strongs": [
+        "H607"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
       "text": "מַלְכָּא",
       "lemma": "4430",
       "morph": "ANcmsd/Td",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "שָׂמְתָּ",
       "lemma": "7761",
       "morph": "AVqp2ms",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "טְּעֵם",
       "lemma": "2942",
       "morph": "ANcmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כָל",
       "lemma": "3606",
       "morph": "ANcmsc",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֱנָשׁ",
       "lemma": "606",
       "morph": "ANcmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יִשְׁמַע",
       "lemma": "8086",
       "morph": "AVqi3ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "קָל",
       "lemma": "7032",
       "morph": "ANcmsc",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "קַרְנָא",
       "lemma": "7162",
       "morph": "ANcfsd/Td",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מַשְׁרֹקִיתָא",
       "lemma": "4953",
       "morph": "ANcfsd/Td",
@@ -167,7 +182,22 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
+      "text": "קיתרס",
+      "lemma": "7030",
+      "morph": "ANcmsa",
+      "strongs": [
+        "H7030"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 86,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
       "text": "שַׂבְּכָא",
       "lemma": "5443",
       "morph": "ANcfsa",
@@ -182,7 +212,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "פְסַנְתֵּרִין",
       "lemma": "6460",
       "morph": "ANcmsa",
@@ -197,7 +227,22 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
+      "text": "וסיפניה",
+      "lemma": "c/5481",
+      "morph": "AC/Ncfsa",
+      "strongs": [
+        "H5481"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
       "text": "וְכֹל",
       "lemma": "c/3606",
       "morph": "AC/Ncmsc",
@@ -212,7 +257,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 18,
       "text": "זְנֵי",
       "lemma": "2178",
       "morph": "ANcmpc",
@@ -227,7 +272,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 19,
       "text": "זְמָרָא",
       "lemma": "2170",
       "morph": "ANcmsd/Td",
@@ -242,7 +287,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 20,
       "text": "יִפֵּל",
       "lemma": "5308",
       "morph": "AVqi3ms",
@@ -257,7 +302,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 21,
       "text": "וְיִסְגֻּד",
       "lemma": "c/5457",
       "morph": "AC/Vqi3ms",
@@ -272,7 +317,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 22,
       "text": "לְצֶלֶם",
       "lemma": "l/6755",
       "morph": "AR/Ncmsc",
@@ -287,7 +332,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 23,
       "text": "דַּהֲבָא",
       "lemma": "1722",
       "morph": "ANcmsd/Td",
@@ -302,7 +347,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 24,
       "text": "אנתה",
       "lemma": null,
       "morph": null,
@@ -314,7 +359,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 25,
       "text": "אַנְתְּ",
       "lemma": "607",
       "morph": "APp2ms",
@@ -329,7 +374,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 26,
       "text": "קיתרס",
       "lemma": null,
       "morph": null,
@@ -341,7 +386,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 27,
       "text": "קַתְרוֹס",
       "lemma": "7030",
       "morph": "ANcmsa",
@@ -356,7 +401,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 28,
       "text": "וסיפניה",
       "lemma": null,
       "morph": null,
@@ -368,7 +413,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 29,
       "text": "וְסוּפֹּנְיָה",
       "lemma": "c/5481",
       "morph": "AC/Ncfsa",
@@ -384,8 +429,8 @@
     }
   ],
   "gematria": {
-    "standard": 8161,
-    "ordinal": 1291,
-    "reduced": 376
+    "standard": 9608,
+    "ordinal": 1496,
+    "reduced": 437
   }
 }

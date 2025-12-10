@@ -1,5 +1,5 @@
 {
-  "text": "עליא עִלָּאָה אָתַיָּא וְתִמְהַיָּא דִּי עֲבַד עִמִּי אֱלָהָא שְׁפַר קָדָמַי לְהַחֲוָיָה",
+  "text": "עליא עִלָּאָה אָתַיָּא וְתִמְהַיָּא דִּי עֲבַד עִמִּי אֱלָהָא עליא שְׁפַר קָדָמַי לְהַחֲוָיָה",
   "words": [
     {
       "position": 1,
@@ -120,6 +120,21 @@
     },
     {
       "position": 9,
+      "text": "עליא",
+      "lemma": "5943",
+      "morph": "AAamsd/Td",
+      "strongs": [
+        "H5943"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 111,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
       "text": "שְׁפַר",
       "lemma": "8232",
       "morph": "AVqp3ms",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "קָדָמַי",
       "lemma": "6925",
       "morph": "AR/Sp1cs",
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לְהַחֲוָיָה",
       "lemma": "l/2324",
       "morph": "AR/Vhc",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 2136,
-    "ordinal": 408,
-    "reduced": 147
+    "standard": 2247,
+    "ordinal": 447,
+    "reduced": 159
   }
 }

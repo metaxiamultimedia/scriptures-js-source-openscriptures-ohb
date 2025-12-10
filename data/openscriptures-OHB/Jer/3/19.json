@@ -1,5 +1,5 @@
 {
-  "text": "וְאָנֹכִי אָמַרְתִּי אֵיךְ אֲשִׁיתֵךְ בַּבָּנִים וְאֶתֶּן לָךְ אֶרֶץ חֶמְדָּה נַחֲלַת צְבִי צִבְאוֹת גּוֹיִם וָאֹמַר אָבִי לִי וּמֵאַחֲרַי לֹא תקראו תִּקְרְאִי תשובו תָשׁוּבִי",
+  "text": "וְאָנֹכִי אָמַרְתִּי אֵיךְ אֲשִׁיתֵךְ בַּבָּנִים וְאֶתֶּן לָךְ אֶרֶץ חֶמְדָּה נַחֲלַת צְבִי צִבְאוֹת גּוֹיִם וָאֹמַר אָבִי תקראו לִי וּמֵאַחֲרַי לֹא תשובו תקראו תִּקְרְאִי תשובו תָשׁוּבִי",
   "words": [
     {
       "position": 1,
@@ -222,6 +222,21 @@
     },
     {
       "position": 16,
+      "text": "תקראו",
+      "lemma": "7121",
+      "morph": "HVqi2mp",
+      "strongs": [
+        "H7121"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 707,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
       "text": "לִי",
       "lemma": "l/7121",
       "morph": "HR/Sp1cs",
@@ -236,7 +251,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וּמֵאַחֲרַי",
       "lemma": "c/m/310 a",
       "morph": "HC/R/R/Sp1cs",
@@ -251,7 +266,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -266,7 +281,22 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
+      "text": "תשובו",
+      "lemma": "7725",
+      "morph": "HVqi2mp",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 714,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
       "text": "תקראו",
       "lemma": null,
       "morph": null,
@@ -278,7 +308,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "תִּקְרְאִי",
       "lemma": "7121",
       "morph": "HVqi2fs",
@@ -293,7 +323,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 23,
       "text": "תשובו",
       "lemma": null,
       "morph": null,
@@ -305,7 +335,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 24,
       "text": "תָשׁוּבִי",
       "lemma": "7725",
       "morph": "HVqi2fs",
@@ -321,8 +351,8 @@
     }
   ],
   "gematria": {
-    "standard": 7053,
-    "ordinal": 1020,
-    "reduced": 285
+    "standard": 8474,
+    "ordinal": 1145,
+    "reduced": 320
   }
 }

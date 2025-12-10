@@ -1,8 +1,23 @@
 {
-  "text": "רַבּוֹת וְלֹא תִשְׁמֹר פָּקוֹחַ אָזְנַיִם וְלֹא יִשְׁמָע ראית רָאוֹת",
+  "text": "ראית רַבּוֹת וְלֹא תִשְׁמֹר פָּקוֹחַ אָזְנַיִם וְלֹא יִשְׁמָע ראית רָאוֹת",
   "words": [
     {
       "position": 1,
+      "text": "ראית",
+      "lemma": "7200",
+      "morph": "HVqp2ms",
+      "strongs": [
+        "H7200"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 53,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
       "text": "רַבּוֹת",
       "lemma": "7227 a",
       "morph": "HAafpa",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "תִשְׁמֹר",
       "lemma": "8104",
       "morph": "HVqi2ms",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "פָּקוֹחַ",
       "lemma": "6491",
       "morph": "HVqa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אָזְנַיִם",
       "lemma": "241",
       "morph": "HNcfda",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יִשְׁמָע",
       "lemma": "8085",
       "morph": "HVqi3ms",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "ראית",
       "lemma": null,
       "morph": null,
@@ -119,7 +134,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "רָאוֹת",
       "lemma": "7200",
       "morph": "HVqa",
@@ -135,8 +150,8 @@
     }
   ],
   "gematria": {
-    "standard": 3562,
-    "ordinal": 432,
-    "reduced": 124
+    "standard": 4173,
+    "ordinal": 485,
+    "reduced": 132
   }
 }

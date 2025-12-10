@@ -1,5 +1,5 @@
 {
-  "text": "פֶּן תֶּאֱלַף וְלָקַחְתָּ מוֹקֵשׁ לְנַפְשֶׁךָ ארחתו אֹרְחֹתָיו",
+  "text": "פֶּן תֶּאֱלַף ארחתו וְלָקַחְתָּ מוֹקֵשׁ לְנַפְשֶׁךָ ארחתו אֹרְחֹתָיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "ארחתו",
+      "lemma": "734",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H734"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
       "text": "וְלָקַחְתָּ",
       "lemma": "c/3947",
       "morph": "HC/Vqq2ms",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "מוֹקֵשׁ",
       "lemma": "4170",
       "morph": "HNcmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לְנַפְשֶׁךָ",
       "lemma": "l/5315",
       "morph": "HR/Ncbsc/Sp2ms",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "ארחתו",
       "lemma": null,
       "morph": null,
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֹרְחֹתָיו",
       "lemma": "734",
       "morph": "HNcbpc/Sp3ms",
@@ -105,8 +120,8 @@
     }
   ],
   "gematria": {
-    "standard": 3351,
-    "ordinal": 440,
-    "reduced": 129
+    "standard": 3966,
+    "ordinal": 497,
+    "reduced": 150
   }
 }

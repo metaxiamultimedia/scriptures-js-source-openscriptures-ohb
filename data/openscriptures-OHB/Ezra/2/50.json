@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי אַסְנָה בְנֵי בְּנֵי מעינים מְעוּנִים נפיסים נְפוּסִים",
+  "text": "בְּנֵי אַסְנָה בְנֵי מעינים בְּנֵי נפיסים מעינים מְעוּנִים נפיסים נְפוּסִים",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "מעינים",
+      "lemma": "4586",
+      "morph": "HNgmpa",
+      "strongs": [
+        "H4586"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 87,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -62,7 +77,22 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
+      "text": "נפיסים",
+      "lemma": "5304",
+      "morph": "HNgmpa",
+      "strongs": [
+        "H5304"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 90,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
       "text": "מעינים",
       "lemma": null,
       "morph": null,
@@ -74,7 +104,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "מְעוּנִים",
       "lemma": "4586",
       "morph": "HNgmpa",
@@ -89,7 +119,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "נפיסים",
       "lemma": null,
       "morph": null,
@@ -101,7 +131,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "נְפוּסִים",
       "lemma": "5304",
       "morph": "HNgmpa",
@@ -117,8 +147,8 @@
     }
   ],
   "gematria": {
-    "standard": 1234,
-    "ordinal": 459,
-    "reduced": 145
+    "standard": 1704,
+    "ordinal": 636,
+    "reduced": 192
   }
 }

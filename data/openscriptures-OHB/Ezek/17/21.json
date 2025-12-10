@@ -1,5 +1,5 @@
 {
-  "text": "וְאֵת כָּל בְּכָל אֲגַפָּיו בַּחֶרֶב יִפֹּלוּ וְהַנִּשְׁאָרִים לְכָל רוּחַ יִפָּרֵשׂוּ וִידַעְתֶּם כִּי אֲנִי יְהוָה דִּבַּרְתִּי מברחו מִבְרָחָיו",
+  "text": "וְאֵת כָּל מברחו בְּכָל אֲגַפָּיו בַּחֶרֶב יִפֹּלוּ וְהַנִּשְׁאָרִים לְכָל רוּחַ יִפָּרֵשׂוּ וִידַעְתֶּם כִּי אֲנִי יְהוָה דִּבַּרְתִּי מברחו מִבְרָחָיו",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "מברחו",
+      "lemma": "4015",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H4015"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 256,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
       "text": "בְּכָל",
       "lemma": "b/3605",
       "morph": "HR/Ncmsc",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אֲגַפָּיו",
       "lemma": "102",
       "morph": "HNcmpc/Sp3ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בַּחֶרֶב",
       "lemma": "b/2719",
       "morph": "HRd/Ncfsa",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִפֹּלוּ",
       "lemma": "5307",
       "morph": "HVqi3mp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְהַנִּשְׁאָרִים",
       "lemma": "c/d/7604",
       "morph": "HC/Td/VNrmpa",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לְכָל",
       "lemma": "l/3605",
       "morph": "HR/Ncmsc",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "רוּחַ",
       "lemma": "7307",
       "morph": "HNcbsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִפָּרֵשׂוּ",
       "lemma": "6566",
       "morph": "HVNi3mp",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וִידַעְתֶּם",
       "lemma": "c/3045",
       "morph": "HC/Vqp2mp",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲנִי",
       "lemma": "589",
       "morph": "HPp1cs",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "דִּבַּרְתִּי",
       "lemma": "1696",
       "morph": "HVpp1cs",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מברחו",
       "lemma": null,
       "morph": null,
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "מִבְרָחָיו",
       "lemma": "4015",
       "morph": "HNcmpc/Sp3ms",
@@ -255,8 +270,8 @@
     }
   ],
   "gematria": {
-    "standard": 4234,
-    "ordinal": 755,
-    "reduced": 256
+    "standard": 4490,
+    "ordinal": 804,
+    "reduced": 278
   }
 }

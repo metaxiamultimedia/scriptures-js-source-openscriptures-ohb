@@ -1,5 +1,5 @@
 {
-  "text": "וְעָנוּ וְאָמְרוּ יָדֵינוּ לֹא אֶת הַדָּם הַזֶּה וְעֵינֵינוּ לֹא רָאוּ שפכה שָׁפְכוּ",
+  "text": "וְעָנוּ וְאָמְרוּ יָדֵינוּ לֹא שפכה אֶת הַדָּם הַזֶּה וְעֵינֵינוּ לֹא רָאוּ שפכה שָׁפְכוּ",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "שפכה",
+      "lemma": "8210",
+      "morph": "HVqp3fs",
+      "strongs": [
+        "H8210"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 405,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַדָּם",
       "lemma": "d/1818",
       "morph": "HTd/Ncmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַזֶּה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְעֵינֵינוּ",
       "lemma": "c/5869 a",
       "morph": "HC/Ncbdc/Sp1cp",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "רָאוּ",
       "lemma": "7200",
       "morph": "HVqp3cp",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "שפכה",
       "lemma": null,
       "morph": null,
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "שָׁפְכוּ",
       "lemma": "8210",
       "morph": "HVqp3cp",
@@ -180,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 2214,
-    "ordinal": 443,
-    "reduced": 180
+    "standard": 2619,
+    "ordinal": 497,
+    "reduced": 198
   }
 }

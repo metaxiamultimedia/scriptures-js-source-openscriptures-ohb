@@ -1,5 +1,5 @@
 {
-  "text": "וְאֵלֶּה שָׂרֵי אֲשֶׁר לַמֶּלֶךְ שְׁלֹמֹה חֲמִשִּׁים וּמָאתָיִם הָרֹדִים בָּעָם הנציבים הַנִּצָּבִים",
+  "text": "וְאֵלֶּה שָׂרֵי הנציבים אֲשֶׁר לַמֶּלֶךְ שְׁלֹמֹה חֲמִשִּׁים וּמָאתָיִם הָרֹדִים בָּעָם הנציבים הַנִּצָּבִים",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "הנציבים",
+      "lemma": "d/5333",
+      "morph": "HTd/Ncmpa",
+      "strongs": [
+        "H5333"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 207,
+        "ordinal": 83,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לַמֶּלֶךְ",
       "lemma": "l/4428",
       "morph": "HRd/Ncmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "שְׁלֹמֹה",
       "lemma": "8010",
       "morph": "HNp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "חֲמִשִּׁים",
       "lemma": "2572",
       "morph": "HAcbpa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וּמָאתָיִם",
       "lemma": "c/3967",
       "morph": "HC/Acbda",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הָרֹדִים",
       "lemma": "d/7287 a",
       "morph": "HTd/Vqrmpa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בָּעָם",
       "lemma": "b/5971 a",
       "morph": "HRd/Ncmsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הנציבים",
       "lemma": null,
       "morph": null,
@@ -149,7 +164,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַנִּצָּבִים",
       "lemma": "d/5324",
       "morph": "HTd/VNrmpa",
@@ -165,8 +180,8 @@
     }
   ],
   "gematria": {
-    "standard": 3218,
-    "ordinal": 641,
-    "reduced": 176
+    "standard": 3425,
+    "ordinal": 724,
+    "reduced": 203
   }
 }

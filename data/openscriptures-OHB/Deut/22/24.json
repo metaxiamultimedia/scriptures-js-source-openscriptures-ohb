@@ -1,5 +1,5 @@
 {
-  "text": "וְהוֹצֵאתֶם אֶת שְׁנֵיהֶם אֶל שַׁעַר הָעִיר הַהִוא וּסְקַלְתֶּם אֹתָם בָּאֲבָנִים וָמֵתוּ אֶת עַל דְּבַר אֲשֶׁר לֹא צָעֲקָה בָעִיר וְאֶת הָאִישׁ עַל דְּבַר אֲשֶׁר עִנָּה אֶת אֵשֶׁת רֵעֵהוּ וּבִעַרְתָּ הָרָע מִקִּרְבֶּךָ הנער הַנַּעֲרָה",
+  "text": "וְהוֹצֵאתֶם אֶת שְׁנֵיהֶם אֶל שַׁעַר הָעִיר הַהִוא וּסְקַלְתֶּם אֹתָם בָּאֲבָנִים וָמֵתוּ אֶת הנער עַל דְּבַר אֲשֶׁר לֹא צָעֲקָה בָעִיר וְאֶת הָאִישׁ עַל דְּבַר אֲשֶׁר עִנָּה אֶת אֵשֶׁת רֵעֵהוּ וּבִעַרְתָּ הָרָע מִקִּרְבֶּךָ הנער הַנַּעֲרָה",
   "words": [
     {
       "position": 1,
@@ -180,6 +180,21 @@
     },
     {
       "position": 13,
+      "text": "הנער",
+      "lemma": "d/5291",
+      "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H5291"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 325,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "דְּבַר",
       "lemma": "1697",
       "morph": "HNcmsc",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "צָעֲקָה",
       "lemma": "6817",
       "morph": "HVqp3fs",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בָעִיר",
       "lemma": "b/5892 b",
       "morph": "HRd/Ncfsa",
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -284,7 +299,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "הָאִישׁ",
       "lemma": "d/376",
       "morph": "HTd/Ncmsa",
@@ -299,7 +314,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "דְּבַר",
       "lemma": "1697",
       "morph": "HNcmsc",
@@ -329,7 +344,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -344,7 +359,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "עִנָּה",
       "lemma": "6031 b",
       "morph": "HVpp3ms",
@@ -359,7 +374,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -374,7 +389,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "אֵשֶׁת",
       "lemma": "802",
       "morph": "HNcfsc",
@@ -389,7 +404,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "רֵעֵהוּ",
       "lemma": "7453",
       "morph": "HNcmsc/Sp3ms",
@@ -404,7 +419,7 @@
       }
     },
     {
-      "position": 28,
+      "position": 29,
       "text": "וּבִעַרְתָּ",
       "lemma": "c/1197 a",
       "morph": "HC/Vpq2ms",
@@ -419,7 +434,7 @@
       }
     },
     {
-      "position": 29,
+      "position": 30,
       "text": "הָרָע",
       "lemma": "d/7451",
       "morph": "HTd/Aamsa",
@@ -434,7 +449,7 @@
       }
     },
     {
-      "position": 30,
+      "position": 31,
       "text": "מִקִּרְבֶּךָ",
       "lemma": "m/7130",
       "morph": "HR/Ncmsc/Sp2ms",
@@ -449,7 +464,7 @@
       }
     },
     {
-      "position": 31,
+      "position": 32,
       "text": "הנער",
       "lemma": null,
       "morph": null,
@@ -461,7 +476,7 @@
       }
     },
     {
-      "position": 32,
+      "position": 33,
       "text": "הַנַּעֲרָה",
       "lemma": "d/5291",
       "morph": "HTd/Ncfsa",
@@ -477,8 +492,8 @@
     }
   ],
   "gematria": {
-    "standard": 10685,
-    "ordinal": 1410,
-    "reduced": 425
+    "standard": 11010,
+    "ordinal": 1465,
+    "reduced": 444
   }
 }

@@ -12,14 +12,14 @@ const __dirname = dirname(__filename);
 
 describe('gematria calculations', () => {
   it('should calculate correct ordinal gematria using alphabet positions', async () => {
-    // Genesis 32:29 contains יִשְׂרָאֵל (Israel) at position 10
+    // Genesis 32:29 contains יִשְׂרָאֵל (Israel) at position 9
     // Letters: י(10) + ש(21) + ר(20) + א(1) + ל(12) = 64
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '32', '29.json');
     const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
-    // Word at position 10 is Israel (יִשְׂרָאֵל)
+    // Word at position 9 is Israel (יִשְׂרָאֵל)
     const israelWord = data.words.find(
-      (word: { position: number }) => word.position === 10
+      (word: { position: number }) => word.position === 9
     );
 
     expect(israelWord).toBeDefined();

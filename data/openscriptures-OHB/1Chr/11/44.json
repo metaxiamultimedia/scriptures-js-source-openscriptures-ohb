@@ -1,5 +1,5 @@
 {
-  "text": "עֻזִיָּא הָעֲשְׁתְּרָתִי שָׁמָע בְּנֵי חוֹתָם הָעֲרֹעֵרִי ויעואל וִיעִיאֵל",
+  "text": "עֻזִיָּא הָעֲשְׁתְּרָתִי שָׁמָע ויעואל בְּנֵי חוֹתָם הָעֲרֹעֵרִי ויעואל וִיעִיאֵל",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,21 @@
     },
     {
       "position": 4,
+      "text": "ויעואל",
+      "lemma": "c/3273",
+      "morph": "HC/Np",
+      "strongs": [
+        "H3273"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 123,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "חוֹתָם",
       "lemma": "2369",
       "morph": "HNp",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הָעֲרֹעֵרִי",
       "lemma": "d/6200",
       "morph": "HTd/Ngmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "ויעואל",
       "lemma": null,
       "morph": null,
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וִיעִיאֵל",
       "lemma": "c/3273",
       "morph": "HC/Np",
@@ -120,8 +135,8 @@
     }
   ],
   "gematria": {
-    "standard": 3204,
-    "ordinal": 479,
-    "reduced": 153
+    "standard": 3327,
+    "ordinal": 530,
+    "reduced": 177
   }
 }

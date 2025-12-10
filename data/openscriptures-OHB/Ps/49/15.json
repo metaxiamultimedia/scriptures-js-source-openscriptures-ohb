@@ -1,5 +1,5 @@
 {
-  "text": "וצירם וְצוּרָם כַּצֹּאן לִשְׁאוֹל שַׁתּוּ מָוֶת יִרְעֵם וַיִּרְדּוּ בָם יְשָׁרִים לַבֹּקֶר לְבַלּוֹת שְׁאוֹל מִזְּבֻל לוֹ",
+  "text": "וצירם וְצוּרָם כַּצֹּאן לִשְׁאוֹל שַׁתּוּ מָוֶת יִרְעֵם וַיִּרְדּוּ בָם יְשָׁרִים לַבֹּקֶר וצירם לְבַלּוֹת שְׁאוֹל מִזְּבֻל לוֹ",
   "words": [
     {
       "position": 1,
@@ -162,6 +162,21 @@
     },
     {
       "position": 12,
+      "text": "וצירם",
+      "lemma": "c/6736",
+      "morph": "HC/Ncmsc/Sp3mp",
+      "strongs": [
+        "H6736"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 78,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
       "text": "לְבַלּוֹת",
       "lemma": "l/1086",
       "morph": "HR/Vpc",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "שְׁאוֹל",
       "lemma": "7585",
       "morph": "HNp",
@@ -191,7 +206,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מִזְּבֻל",
       "lemma": "m/2073",
       "morph": "HR/Ncmsa",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -219,8 +234,8 @@
     }
   ],
   "gematria": {
-    "standard": 4768,
-    "ordinal": 775,
-    "reduced": 223
+    "standard": 5114,
+    "ordinal": 853,
+    "reduced": 245
   }
 }

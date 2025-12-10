@@ -1,8 +1,23 @@
 {
-  "text": "הֶחֱזִיק חֲנַנְיָה בֶן שֶׁלֶמְיָה וְחָנוּן בֶּן צָלָף הַשִּׁשִּׁי מִדָּה שֵׁנִי אַחֲרָיו הֶחֱזִיק מְשֻׁלָּם בֶּן בֶּרֶכְיָה נֶגֶד נִשְׁכָּתוֹ אחרי אַחֲרָיו",
+  "text": "אחרי הֶחֱזִיק חֲנַנְיָה בֶן שֶׁלֶמְיָה וְחָנוּן בֶּן צָלָף הַשִּׁשִּׁי מִדָּה שֵׁנִי אַחֲרָיו הֶחֱזִיק מְשֻׁלָּם בֶּן בֶּרֶכְיָה נֶגֶד נִשְׁכָּתוֹ אחרי אַחֲרָיו",
   "words": [
     {
       "position": 1,
+      "text": "אחרי",
+      "lemma": "310 a",
+      "morph": "HR/Sp1cs",
+      "strongs": [
+        "H310"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 219,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
       "text": "הֶחֱזִיק",
       "lemma": "2388",
       "morph": "HVhp3ms",
@@ -17,7 +32,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "חֲנַנְיָה",
       "lemma": "2608 a",
       "morph": "HNp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "בֶן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "שֶׁלֶמְיָה",
       "lemma": "8018",
       "morph": "HNp",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְחָנוּן",
       "lemma": "c/2586",
       "morph": "HC/Np",
@@ -77,7 +92,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "צָלָף",
       "lemma": "6764",
       "morph": "HNp",
@@ -107,7 +122,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הַשִּׁשִּׁי",
       "lemma": "d/8345",
       "morph": "HTd/Aomsa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מִדָּה",
       "lemma": "4060 a",
       "morph": "HNcfsa",
@@ -137,7 +152,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "שֵׁנִי",
       "lemma": "8145",
       "morph": "HAomsa",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אַחֲרָיו",
       "lemma": "310 a",
       "morph": "HR/Sp3ms",
@@ -167,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הֶחֱזִיק",
       "lemma": "2388",
       "morph": "HVhp3ms",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מְשֻׁלָּם",
       "lemma": "4918",
       "morph": "HNp",
@@ -197,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בֶּרֶכְיָה",
       "lemma": "1296",
       "morph": "HNp",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "נֶגֶד",
       "lemma": "5048",
       "morph": "HR",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "נִשְׁכָּתוֹ",
       "lemma": "5393",
       "morph": "HNcfsc/Sp3ms",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אחרי",
       "lemma": null,
       "morph": null,
@@ -269,7 +284,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אַחֲרָיו",
       "lemma": "310 a",
       "morph": "HR/Sp3ms",
@@ -285,8 +300,8 @@
     }
   ],
   "gematria": {
-    "standard": 4417,
-    "ordinal": 872,
-    "reduced": 295
+    "standard": 4636,
+    "ordinal": 911,
+    "reduced": 307
   }
 }

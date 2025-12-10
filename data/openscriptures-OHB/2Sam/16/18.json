@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר חוּשַׁי אֶל אַבְשָׁלֹם לֹא כִּי אֲשֶׁר בָּחַר יְהוָה וְהָעָם הַזֶּה וְכָל אִישׁ יִשְׂרָאֵל אֶהְיֶה וְאִתּוֹ אֵשֵׁב לא לוֹ",
+  "text": "וַיֹּאמֶר חוּשַׁי אֶל אַבְשָׁלֹם לֹא כִּי אֲשֶׁר בָּחַר יְהוָה וְהָעָם הַזֶּה וְכָל אִישׁ יִשְׂרָאֵל לא אֶהְיֶה וְאִתּוֹ אֵשֵׁב לא לוֹ",
   "words": [
     {
       "position": 1,
@@ -210,6 +210,21 @@
     },
     {
       "position": 15,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 16,
       "text": "אֶהְיֶה",
       "lemma": "1961",
       "morph": "HVqi1cs",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְאִתּוֹ",
       "lemma": "c/854",
       "morph": "HC/R/Sp3ms",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֵשֵׁב",
       "lemma": "3427",
       "morph": "HVqi1cs",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לא",
       "lemma": null,
       "morph": null,
@@ -266,7 +281,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -279,8 +294,8 @@
     }
   ],
   "gematria": {
-    "standard": 3633,
-    "ordinal": 604,
-    "reduced": 204
+    "standard": 3664,
+    "ordinal": 617,
+    "reduced": 208
   }
 }
