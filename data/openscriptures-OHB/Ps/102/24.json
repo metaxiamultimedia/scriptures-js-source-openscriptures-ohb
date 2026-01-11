@@ -1,27 +1,17 @@
 {
-  "text": "כחו כֹּחִי עִנָּה בַדֶּרֶךְ קִצַּר יָמָי",
+  "text": "כֹּחִי עִנָּה בַדֶּרֶךְ כחו קִצַּר יָמָי",
   "words": [
     {
       "position": 1,
-      "text": "כחו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 34,
-        "ordinal": 25,
-        "reduced": 16
-      }
-    },
-    {
-      "position": 2,
       "text": "כֹּחִי",
       "lemma": "3581 b",
       "morph": "HNcmsc/Sp1cs",
       "strongs": [
         "H3581"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 38,
         "ordinal": 29,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "עִנָּה",
       "lemma": "6031 b",
       "morph": "HVpp3ms",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "בַדֶּרֶךְ",
       "lemma": "b/1870",
       "morph": "HRd/Ncbsa",
@@ -56,6 +46,23 @@
         "standard": 226,
         "ordinal": 37,
         "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "כחו",
+      "lemma": "3581 b",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H3581"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 34,
+        "ordinal": 25,
+        "reduced": 16
       }
     },
     {

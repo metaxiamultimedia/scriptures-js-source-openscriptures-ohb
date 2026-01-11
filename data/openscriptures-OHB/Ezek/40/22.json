@@ -1,8 +1,59 @@
 {
-  "text": "כְּמִדַּת הַשַּׁעַר אֲשֶׁר פָּנָיו דֶּרֶךְ הַקָּדִים וּבְמַעֲלוֹת שֶׁבַע יַעֲלוּ בוֹ לִפְנֵיהֶם וחלונו וְחַלּוֹנָיו ואלמו וְאֵלַמָּיו ותמרו וְתִמֹרָיו ואילמו וְאֵילַמָּיו",
+  "text": "וחלונו ואלמו ותמרו כְּמִדַּת הַשַּׁעַר אֲשֶׁר פָּנָיו דֶּרֶךְ הַקָּדִים וּבְמַעֲלוֹת שֶׁבַע יַעֲלוּ בוֹ ואילמו לִפְנֵיהֶם וְחַלּוֹנָיו וְאֵלַמָּיו וְתִמֹרָיו וְאֵילַמָּיו",
   "words": [
     {
       "position": 1,
+      "text": "וחלונו",
+      "lemma": "c/2474",
+      "morph": "HC/Ncbsc/Sp3ms",
+      "strongs": [
+        "H2474"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 106,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 2,
+      "text": "ואלמו",
+      "lemma": "c/361",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H361"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 83,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "ותמרו",
+      "lemma": "c/8561",
+      "morph": "HC/Ncfsc/Sp3ms",
+      "strongs": [
+        "H8561"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 652,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
       "text": "כְּמִדַּת",
       "lemma": "k/4060 a",
       "morph": "HR/Ncfsc",
@@ -17,7 +68,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 5,
       "text": "הַשַּׁעַר",
       "lemma": "d/8179",
       "morph": "HTd/Ncmsa",
@@ -32,7 +83,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 6,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -47,7 +98,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 7,
       "text": "פָּנָיו",
       "lemma": "6440",
       "morph": "HNcbpc/Sp3ms",
@@ -62,7 +113,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 8,
       "text": "דֶּרֶךְ",
       "lemma": "1870",
       "morph": "HNcbsc",
@@ -77,7 +128,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 9,
       "text": "הַקָּדִים",
       "lemma": "d/6921",
       "morph": "HTd/Ncmsa",
@@ -92,7 +143,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 10,
       "text": "וּבְמַעֲלוֹת",
       "lemma": "c/b/4609 b",
       "morph": "HC/R/Ncfpa",
@@ -107,7 +158,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 11,
       "text": "שֶׁבַע",
       "lemma": "7651",
       "morph": "HAcfsa",
@@ -122,7 +173,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 12,
       "text": "יַעֲלוּ",
       "lemma": "5927",
       "morph": "HVqi3mp",
@@ -137,7 +188,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 13,
       "text": "בוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
@@ -149,7 +200,24 @@
       }
     },
     {
-      "position": 11,
+      "position": 14,
+      "text": "ואילמו",
+      "lemma": "c/361",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H361"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 93,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
       "text": "לִפְנֵיהֶם",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc/Sp3mp",
@@ -164,26 +232,16 @@
       }
     },
     {
-      "position": 12,
-      "text": "וחלונו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 106,
-        "ordinal": 52,
-        "reduced": 34
-      }
-    },
-    {
-      "position": 13,
+      "position": 16,
       "text": "וְחַלּוֹנָיו",
       "lemma": "c/2474",
       "morph": "HC/Ncbpc/Sp3ms",
       "strongs": [
         "H2474"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 116,
         "ordinal": 62,
@@ -191,26 +249,16 @@
       }
     },
     {
-      "position": 14,
-      "text": "ואלמו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 83,
-        "ordinal": 38,
-        "reduced": 20
-      }
-    },
-    {
-      "position": 15,
+      "position": 17,
       "text": "וְאֵלַמָּיו",
       "lemma": "c/361",
       "morph": "HC/Ncmpc/Sp3ms",
       "strongs": [
         "H361"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 93,
         "ordinal": 48,
@@ -218,42 +266,20 @@
       }
     },
     {
-      "position": 16,
-      "text": "ותמרו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 652,
-        "ordinal": 67,
-        "reduced": 22
-      }
-    },
-    {
-      "position": 17,
+      "position": 18,
       "text": "וְתִמֹרָיו",
       "lemma": "c/8561",
       "morph": "HC/Ncfpc/Sp3ms",
       "strongs": [
         "H8561"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 662,
         "ordinal": 77,
         "reduced": 23
-      }
-    },
-    {
-      "position": 18,
-      "text": "ואילמו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 93,
-        "ordinal": 48,
-        "reduced": 21
       }
     },
     {
@@ -264,7 +290,9 @@
       "strongs": [
         "H361"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 103,
         "ordinal": 58,

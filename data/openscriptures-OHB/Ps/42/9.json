@@ -1,27 +1,17 @@
 {
-  "text": "שירה שִׁירוֹ יוֹמָם יְצַוֶּה יְהוָה חַסְדּוֹ וּבַלַּיְלָה עִמִּי תְּפִלָּה לְאֵל חַיָּי",
+  "text": "שִׁירוֹ יוֹמָם יְצַוֶּה יְהוָה חַסְדּוֹ וּבַלַּיְלָה שירה עִמִּי תְּפִלָּה לְאֵל חַיָּי",
   "words": [
     {
       "position": 1,
-      "text": "שירה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 515,
-        "ordinal": 56,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 2,
       "text": "שִׁירוֹ",
       "lemma": "7892 a",
       "morph": "HNcbsc/Sp3ms",
       "strongs": [
         "H7892"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 516,
         "ordinal": 57,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יוֹמָם",
       "lemma": "3119",
       "morph": "HD",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "יְצַוֶּה",
       "lemma": "6680",
       "morph": "HVpi3ms",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "חַסְדּוֹ",
       "lemma": "2617 a",
       "morph": "HNcmsc/Sp3ms",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "וּבַלַּיְלָה",
       "lemma": "c/b/3915",
       "morph": "HC/Rd/Ncmsa",
@@ -101,6 +91,23 @@
         "standard": 83,
         "ordinal": 47,
         "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "שירה",
+      "lemma": "7892 a",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H7892"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 515,
+        "ordinal": 56,
+        "reduced": 11
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּקְרָא יְהוֹנָתָן אַחֲרֵי הַנַּעַר מְהֵרָה חוּשָׁה אַל תַּעֲמֹד וַיְלַקֵּט נַעַר יְהוֹנָתָן אֶת וַיָּבֹא אֶל אֲדֹנָיו החצי הַחִצִּים",
+  "text": "וַיִּקְרָא יְהוֹנָתָן אַחֲרֵי הַנַּעַר מְהֵרָה חוּשָׁה אַל תַּעֲמֹד וַיְלַקֵּט נַעַר יְהוֹנָתָן אֶת החצי וַיָּבֹא אֶל אֲדֹנָיו הַחִצִּים",
   "words": [
     {
       "position": 1,
@@ -183,6 +183,23 @@
     },
     {
       "position": 13,
+      "text": "החצי",
+      "lemma": "d/2678",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H2678"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 113,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
       "text": "וַיָּבֹא",
       "lemma": "c/935",
       "morph": "HC/Vqw3ms",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֲדֹנָיו",
       "lemma": "113",
       "morph": "HNcmpc/Sp3ms",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "החצי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 113,
-        "ordinal": 41,
-        "reduced": 23
-      }
-    },
-    {
       "position": 17,
       "text": "הַחִצִּים",
       "lemma": "d/2678",
@@ -246,7 +251,9 @@
       "strongs": [
         "H2678"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 153,
         "ordinal": 54,

@@ -1,27 +1,17 @@
 {
-  "text": "אנושא אֲנָשָׁא לִבְבֵהּ מִן יְשַׁנּוֹן וּלְבַב חֵיוָה יִתְיְהִב לֵהּ וְשִׁבְעָה עִדָּנִין יַחְלְפוּן עֲלוֹהִי",
+  "text": "אֲנָשָׁא לִבְבֵהּ מִן אנושא יְשַׁנּוֹן וּלְבַב חֵיוָה יִתְיְהִב לֵהּ וְשִׁבְעָה עִדָּנִין יַחְלְפוּן עֲלוֹהִי",
   "words": [
     {
       "position": 1,
-      "text": "אנושא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 358,
-        "ordinal": 43,
-        "reduced": 16
-      }
-    },
-    {
-      "position": 2,
       "text": "אֲנָשָׁא",
       "lemma": "606",
       "morph": "ANcmsd/Td",
       "strongs": [
         "H606"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 352,
         "ordinal": 37,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "לִבְבֵהּ",
       "lemma": "3825",
       "morph": "ANcmsc/Sp3ms",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -56,6 +46,23 @@
         "standard": 90,
         "ordinal": 27,
         "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "אנושא",
+      "lemma": "606",
+      "morph": "ANcmsd/Td",
+      "strongs": [
+        "H606"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 358,
+        "ordinal": 43,
+        "reduced": 16
       }
     },
     {

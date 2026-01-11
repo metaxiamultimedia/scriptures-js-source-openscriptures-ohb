@@ -1,5 +1,5 @@
 {
-  "text": "וְאַתָּה בֶן אָדָם כֹּה אָמַר אֲדֹנָי יְהוִה לְאַדְמַת יִשְׂרָאֵל קֵץ בָּא הַקֵּץ עַל כַּנְפוֹת הָאָרֶץ ארבעת אַרְבַּע",
+  "text": "וְאַתָּה בֶן אָדָם כֹּה אָמַר אֲדֹנָי יְהוִה לְאַדְמַת יִשְׂרָאֵל קֵץ בָּא הַקֵּץ עַל ארבעת כַּנְפוֹת הָאָרֶץ אַרְבַּע",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "ארבעת",
+      "lemma": "702",
+      "morph": "HAcmsc",
+      "strongs": [
+        "H702"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 673,
+        "ordinal": 61,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
       "text": "כַּנְפוֹת",
       "lemma": "3671",
       "morph": "HNcfpc",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "ארבעת",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 673,
-        "ordinal": 61,
-        "reduced": 16
-      }
-    },
-    {
       "position": 17,
       "text": "אַרְבַּע",
       "lemma": "702",
@@ -246,7 +251,9 @@
       "strongs": [
         "H702"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 273,
         "ordinal": 39,

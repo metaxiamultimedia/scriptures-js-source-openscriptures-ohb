@@ -1,5 +1,5 @@
 {
-  "text": "וְאַתָּה בֶן אָדָם קַח לְךָ עֵץ אֶחָד וּכְתֹב עָלָיו לִיהוּדָה וְלִבְנֵי יִשְׂרָאֵל וּלְקַח עֵץ אֶחָד וּכְתוֹב עָלָיו לְיוֹסֵף עֵץ אֶפְרַיִם וְכָל בֵּית יִשְׂרָאֵל חברו חֲבֵרָיו חברו חֲבֵרָיו",
+  "text": "וְאַתָּה בֶן אָדָם קַח לְךָ עֵץ אֶחָד וּכְתֹב עָלָיו לִיהוּדָה וְלִבְנֵי יִשְׂרָאֵל חברו וּלְקַח עֵץ אֶחָד וּכְתוֹב עָלָיו לְיוֹסֵף עֵץ אֶפְרַיִם וְכָל בֵּית יִשְׂרָאֵל חברו חֲבֵרָיו חֲבֵרָיו",
   "words": [
     {
       "position": 1,
@@ -180,6 +180,23 @@
     },
     {
       "position": 13,
+      "text": "חברו",
+      "lemma": "2270",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2270"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 216,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
       "text": "וּלְקַח",
       "lemma": "c/3947",
       "morph": "HC/Vqv2ms",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עֵץ",
       "lemma": "6086",
       "morph": "HNcmsa",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶחָד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -224,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וּכְתוֹב",
       "lemma": "c/3789",
       "morph": "HC/Vqv2ms",
@@ -239,7 +256,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "עָלָיו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -254,7 +271,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לְיוֹסֵף",
       "lemma": "l/3130",
       "morph": "HR/Np",
@@ -269,7 +286,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עֵץ",
       "lemma": "6086",
       "morph": "HNcmsc",
@@ -284,7 +301,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אֶפְרַיִם",
       "lemma": "669",
       "morph": "HNp",
@@ -299,7 +316,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -314,7 +331,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "בֵּית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -329,7 +346,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -344,11 +361,16 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "חברו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "2270",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2270"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 216,
         "ordinal": 36,
@@ -356,30 +378,20 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "חֲבֵרָיו",
       "lemma": "2270",
       "morph": "HNcmpc/Sp3ms",
       "strongs": [
         "H2270"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 226,
         "ordinal": 46,
         "reduced": 19
-      }
-    },
-    {
-      "position": 26,
-      "text": "חברו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 216,
-        "ordinal": 36,
-        "reduced": 18
       }
     },
     {
@@ -390,7 +402,9 @@
       "strongs": [
         "H2270"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 226,
         "ordinal": 46,

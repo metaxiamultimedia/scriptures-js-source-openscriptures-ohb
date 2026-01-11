@@ -1,5 +1,5 @@
 {
-  "text": "טָעֲמָה כִּי טוֹב סַחְרָהּ לֹא יִכְבֶּה נֵרָהּ בליל בַלַּיְלָה",
+  "text": "טָעֲמָה כִּי טוֹב סַחְרָהּ לֹא יִכְבֶּה בליל נֵרָהּ בַלַּיְלָה",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,23 @@
     },
     {
       "position": 7,
+      "text": "בליל",
+      "lemma": "b/3915",
+      "morph": "HRd/Ncmsa",
+      "strongs": [
+        "H3915"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 72,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
       "text": "נֵרָהּ",
       "lemma": "5216 a",
       "morph": "HNcmsc/Sp3fs",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "בליל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 72,
-        "ordinal": 36,
-        "reduced": 9
-      }
-    },
-    {
       "position": 9,
       "text": "בַלַּיְלָה",
       "lemma": "b/3915",
@@ -126,7 +131,9 @@
       "strongs": [
         "H3915"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 77,
         "ordinal": 41,

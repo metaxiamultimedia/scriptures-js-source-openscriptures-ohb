@@ -1,5 +1,5 @@
 {
-  "text": "וְהַקְרִבוּ לַחֲנֻכַּת בֵּית אֱלָהָא דְנָה תּוֹרִין מְאָה דִּכְרִין מָאתַיִן אִמְּרִין אַרְבַּע מְאָה וּצְפִירֵי עִזִּין עַל כָּל יִשְׂרָאֵל תְּרֵי עֲשַׂר לְמִנְיָן שִׁבְטֵי יִשְׂרָאֵל לחטיא לְחַטָּאָה",
+  "text": "וְהַקְרִבוּ לַחֲנֻכַּת בֵּית אֱלָהָא דְנָה תּוֹרִין מְאָה דִּכְרִין מָאתַיִן אִמְּרִין אַרְבַּע מְאָה וּצְפִירֵי עִזִּין לחטיא עַל כָּל יִשְׂרָאֵל תְּרֵי עֲשַׂר לְמִנְיָן שִׁבְטֵי יִשְׂרָאֵל לְחַטָּאָה",
   "words": [
     {
       "position": 1,
@@ -213,6 +213,23 @@
     },
     {
       "position": 15,
+      "text": "לחטיא",
+      "lemma": "l/2409",
+      "morph": "AR/Vpc",
+      "strongs": [
+        "H2409"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
       "text": "עַל",
       "lemma": "5922",
       "morph": "AR",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "כָּל",
       "lemma": "3606",
       "morph": "ANcmsc",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יִשְׂרָאֵל",
       "lemma": "3479",
       "morph": "ANp",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "תְּרֵי",
       "lemma": "8648",
       "morph": "AAcbsc",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עֲשַׂר",
       "lemma": "6236",
       "morph": "AAcbsa",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לְמִנְיָן",
       "lemma": "l/4510",
       "morph": "AR/Ncmsc",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "שִׁבְטֵי",
       "lemma": "7625",
       "morph": "ANcmpc",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "יִשְׂרָאֵל",
       "lemma": "3479",
       "morph": "ANp",
@@ -332,18 +349,6 @@
       }
     },
     {
-      "position": 23,
-      "text": "לחטיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 58,
-        "ordinal": 40,
-        "reduced": 22
-      }
-    },
-    {
       "position": 24,
       "text": "לְחַטָּאָה",
       "lemma": "l/2402",
@@ -351,7 +356,9 @@
       "strongs": [
         "H2402"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 53,
         "ordinal": 35,

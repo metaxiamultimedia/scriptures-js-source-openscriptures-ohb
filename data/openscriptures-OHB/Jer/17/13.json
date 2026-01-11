@@ -1,5 +1,5 @@
 {
-  "text": "מִקְוֵה יִשְׂרָאֵל יְהוָה כָּל עֹזְבֶיךָ יֵבֹשׁוּ בָּאָרֶץ יִכָּתֵבוּ כִּי עָזְבוּ מְקוֹר מַיִם חַיִּים אֶת יְהוָה יסורי וְסוּרַי",
+  "text": "מִקְוֵה יִשְׂרָאֵל יְהוָה כָּל עֹזְבֶיךָ יֵבֹשׁוּ יסורי בָּאָרֶץ יִכָּתֵבוּ כִּי עָזְבוּ מְקוֹר מַיִם חַיִּים אֶת יְהוָה וְסוּרַי",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,23 @@
     },
     {
       "position": 7,
+      "text": "יסורי",
+      "lemma": "3249",
+      "morph": "HNcmpc/Sp1cs",
+      "strongs": [
+        "H3249"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 286,
+        "ordinal": 61,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
       "text": "בָּאָרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יִכָּתֵבוּ",
       "lemma": "3789",
       "morph": "HVNi3mp",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עָזְבוּ",
       "lemma": "5800 a",
       "morph": "HVqp3cp",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מְקוֹר",
       "lemma": "4726",
       "morph": "HNcmsc",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מַיִם",
       "lemma": "4325",
       "morph": "HNcmpa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "חַיִּים",
       "lemma": "2416 a",
       "morph": "HAampa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "יסורי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 286,
-        "ordinal": 61,
-        "reduced": 16
-      }
-    },
-    {
       "position": 17,
       "text": "וְסוּרַי",
       "lemma": "c/5493",
@@ -246,7 +251,9 @@
       "strongs": [
         "H5493"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 282,
         "ordinal": 57,

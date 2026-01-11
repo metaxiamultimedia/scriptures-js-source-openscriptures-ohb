@@ -1,27 +1,17 @@
 {
-  "text": "שבות שְׁבִית רָצִיתָ יְהוָה אַרְצֶךָ שַׁבְתָּ יַעֲקֹב",
+  "text": "שְׁבִית רָצִיתָ יְהוָה אַרְצֶךָ שַׁבְתָּ שבות יַעֲקֹב",
   "words": [
     {
       "position": 1,
-      "text": "שבות",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 708,
-        "ordinal": 51,
-        "reduced": 15
-      }
-    },
-    {
-      "position": 2,
       "text": "שְׁבִית",
       "lemma": "7622",
       "morph": "HNcfsc",
       "strongs": [
         "H7622"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 712,
         "ordinal": 55,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "רָצִיתָ",
       "lemma": "7521",
       "morph": "HVqp2ms",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "אַרְצֶךָ",
       "lemma": "776",
       "morph": "HNcbsc/Sp2ms",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "שַׁבְתָּ",
       "lemma": "7725",
       "morph": "HVqp2ms",
@@ -86,6 +76,23 @@
         "standard": 702,
         "ordinal": 45,
         "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "שבות",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 708,
+        "ordinal": 51,
+        "reduced": 15
       }
     },
     {

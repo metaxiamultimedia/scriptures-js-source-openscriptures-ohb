@@ -1,5 +1,5 @@
 {
-  "text": "בְּיוֹם עֲמָדְךָ מִנֶּגֶד בְּיוֹם שְׁבוֹת זָרִים חֵילוֹ וְנָכְרִים בָּאוּ וְעַל יְרוּשָׁלִַם יַדּוּ גוֹרָל גַּם אַתָּה כְּאַחַד מֵהֶם שערו שְׁעָרָיו",
+  "text": "בְּיוֹם עֲמָדְךָ מִנֶּגֶד בְּיוֹם שְׁבוֹת זָרִים חֵילוֹ וְנָכְרִים בָּאוּ שערו וְעַל יְרוּשָׁלִַם יַדּוּ גוֹרָל גַּם אַתָּה כְּאַחַד מֵהֶם שְׁעָרָיו",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "שערו",
+      "lemma": "8179",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H8179"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 576,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
       "text": "וְעַל",
       "lemma": "c/5921 a",
       "morph": "HC/R",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְרוּשָׁלִַם",
       "lemma": "3389",
       "morph": "HNp",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יַדּוּ",
       "lemma": "3032",
       "morph": "HVqp3cp",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "גוֹרָל",
       "lemma": "1486",
       "morph": "HNcmsa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "גַּם",
       "lemma": "1571",
       "morph": "HTa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אַתָּה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "כְּאַחַד",
       "lemma": "k/259",
       "morph": "HR/Acmsc",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "מֵהֶם",
       "lemma": "m",
       "morph": "HR/Sp3mp",
@@ -254,18 +271,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "שערו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 576,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
       "position": 19,
       "text": "שְׁעָרָיו",
       "lemma": "8179",
@@ -273,7 +278,9 @@
       "strongs": [
         "H8179"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 586,
         "ordinal": 73,

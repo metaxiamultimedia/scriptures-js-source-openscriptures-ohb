@@ -1,27 +1,17 @@
 {
-  "text": "כסותה כְסוּתוֹ כִּי הִוא לְבַדָּהּ הִוא שִׂמְלָתוֹ לְעֹרוֹ בַּמֶּה יִשְׁכָּב וְהָיָה כִּי יִצְעַק אֵלַי וְשָׁמַעְתִּי כִּי חַנּוּן אָנִי",
+  "text": "כְסוּתוֹ כִּי הִוא כסותה לְבַדָּהּ הִוא שִׂמְלָתוֹ לְעֹרוֹ בַּמֶּה יִשְׁכָּב וְהָיָה כִּי יִצְעַק אֵלַי וְשָׁמַעְתִּי כִּי חַנּוּן אָנִי",
   "words": [
     {
       "position": 1,
-      "text": "כסותה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 491,
-        "ordinal": 59,
-        "reduced": 23
-      }
-    },
-    {
-      "position": 2,
       "text": "כְסוּתוֹ",
       "lemma": "3682",
       "morph": "HNcfsc/Sp3ms",
       "strongs": [
         "H3682"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 492,
         "ordinal": 60,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "הִוא",
       "lemma": "1931",
       "morph": "HPp3fs",
@@ -56,6 +46,23 @@
         "standard": 12,
         "ordinal": 12,
         "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "כסותה",
+      "lemma": "3682",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H3682"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 491,
+        "ordinal": 59,
+        "reduced": 23
       }
     },
     {

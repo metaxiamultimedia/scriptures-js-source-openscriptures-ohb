@@ -1,5 +1,5 @@
 {
-  "text": "לְקַח בִּגְדוֹ כִּי עָרַב זָר וּבְעַד חַבְלֵהוּ נכרים נָכְרִיָּה",
+  "text": "לְקַח בִּגְדוֹ כִּי עָרַב זָר וּבְעַד נכרים חַבְלֵהוּ נָכְרִיָּה",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,23 @@
     },
     {
       "position": 7,
+      "text": "נכרים",
+      "lemma": "5237",
+      "morph": "HAampa",
+      "strongs": [
+        "H5237"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 320,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
       "text": "חַבְלֵהוּ",
       "lemma": "2254 a",
       "morph": "HVqv2ms/Sp3ms",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "נכרים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 320,
-        "ordinal": 68,
-        "reduced": 14
-      }
-    },
-    {
       "position": 9,
       "text": "נָכְרִיָּה",
       "lemma": "5237",
@@ -126,7 +131,9 @@
       "strongs": [
         "H5237"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 285,
         "ordinal": 60,

@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמְרוּ מָה הָאָשָׁם אֲשֶׁר נָשִׁיב לוֹ וַיֹּאמְרוּ מִסְפַּר סַרְנֵי פְלִשְׁתִּים חֲמִשָּׁה זָהָב וַחֲמִשָּׁה עַכְבְּרֵי זָהָב כִּי מַגֵּפָה אַחַת לְכֻלָּם וּלְסַרְנֵיכֶם עפלי טְחֹרֵי",
+  "text": "וַיֹּאמְרוּ מָה הָאָשָׁם אֲשֶׁר נָשִׁיב לוֹ וַיֹּאמְרוּ מִסְפַּר סַרְנֵי פְלִשְׁתִּים חֲמִשָּׁה עפלי זָהָב וַחֲמִשָּׁה עַכְבְּרֵי זָהָב כִּי מַגֵּפָה אַחַת לְכֻלָּם וּלְסַרְנֵיכֶם טְחֹרֵי",
   "words": [
     {
       "position": 1,
@@ -165,6 +165,23 @@
     },
     {
       "position": 12,
+      "text": "עפלי",
+      "lemma": "6076 b",
+      "morph": "HNcmpc",
+      "strongs": [
+        "H6076"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 190,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
       "text": "זָהָב",
       "lemma": "2091",
       "morph": "HNcmsa",
@@ -179,7 +196,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וַחֲמִשָּׁה",
       "lemma": "c/2568",
       "morph": "HC/Acmsa",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עַכְבְּרֵי",
       "lemma": "5909",
       "morph": "HNcmpc",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "זָהָב",
       "lemma": "2091",
       "morph": "HNcmsa",
@@ -224,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -239,7 +256,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "מַגֵּפָה",
       "lemma": "4046",
       "morph": "HNcfsa",
@@ -254,7 +271,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אַחַת",
       "lemma": "259",
       "morph": "HAcfsa",
@@ -269,7 +286,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לְכֻלָּם",
       "lemma": "l/3605",
       "morph": "HR/Ncmsc/Sp3mp",
@@ -284,7 +301,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וּלְסַרְנֵיכֶם",
       "lemma": "c/l/5633 a",
       "morph": "HC/R/Ncmpc/Sp2mp",
@@ -299,18 +316,6 @@
       }
     },
     {
-      "position": 21,
-      "text": "עפלי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 190,
-        "ordinal": 55,
-        "reduced": 19
-      }
-    },
-    {
       "position": 22,
       "text": "טְחֹרֵי",
       "lemma": "2914",
@@ -318,7 +323,9 @@
       "strongs": [
         "H2914"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 227,
         "ordinal": 47,

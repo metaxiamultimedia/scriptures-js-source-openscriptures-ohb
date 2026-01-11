@@ -1,5 +1,5 @@
 {
-  "text": "וְשָׁב הַגְּבוּל הָרָמָה וְעַד עִיר מִבְצַר צֹר וְשָׁב הַגְּבוּל חֹסָה תֹצְאֹתָיו הַיָּמָּה מֵחֶבֶל אַכְזִיבָה ויהיו וְהָיוּ",
+  "text": "וְשָׁב הַגְּבוּל הָרָמָה וְעַד עִיר מִבְצַר צֹר וְשָׁב הַגְּבוּל חֹסָה ויהיו תֹצְאֹתָיו הַיָּמָּה מֵחֶבֶל אַכְזִיבָה וְהָיוּ",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "ויהיו",
+      "lemma": "c/1961",
+      "morph": "HC/Vqi3mp",
+      "strongs": [
+        "H1961"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
       "text": "תֹצְאֹתָיו",
       "lemma": "8444",
       "morph": "HNcfpc/Sp3ms",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַיָּמָּה",
       "lemma": "d/3220",
       "morph": "HTd/Ncmsa/Sd",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מֵחֶבֶל",
       "lemma": "m/2256 a",
       "morph": "HR/Ncbsa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אַכְזִיבָה",
       "lemma": "392",
       "morph": "HNp/Sd",
@@ -212,18 +229,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "ויהיו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 37,
-        "reduced": 19
-      }
-    },
-    {
       "position": 16,
       "text": "וְהָיוּ",
       "lemma": "c/1961",
@@ -231,7 +236,9 @@
       "strongs": [
         "H1961"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 27,
         "ordinal": 27,

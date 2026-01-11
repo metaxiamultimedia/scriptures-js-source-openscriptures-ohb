@@ -1,27 +1,17 @@
 {
-  "text": "היא הוּא וְיִתְרוֹן אֶרֶץ בַּכֹּל מֶלֶךְ לְשָׂדֶה נֶעֱבָד",
+  "text": "הוּא וְיִתְרוֹן אֶרֶץ בַּכֹּל היא מֶלֶךְ לְשָׂדֶה נֶעֱבָד",
   "words": [
     {
       "position": 1,
-      "text": "היא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 16,
-        "ordinal": 16,
-        "reduced": 7
-      }
-    },
-    {
-      "position": 2,
       "text": "הוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 12,
         "ordinal": 12,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "וְיִתְרוֹן",
       "lemma": "c/3504",
       "morph": "HC/Ncmsc",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "אֶרֶץ",
       "lemma": "776",
       "morph": "HNcbsa",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "בַּכֹּל",
       "lemma": "b/3605",
       "morph": "HRd/Ncmsa",
@@ -70,6 +60,23 @@
       "gematria": {
         "standard": 52,
         "ordinal": 25,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "היא",
+      "lemma": "1931",
+      "morph": "HPp3fs",
+      "strongs": [
+        "H1931"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 16,
+        "ordinal": 16,
         "reduced": 7
       }
     },

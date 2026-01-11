@@ -1,5 +1,5 @@
 {
-  "text": "וְהִתְנַבִּי חַגַּי וּזְכַרְיָה בַר עִדּוֹא עַל יְהוּדָיֵא דִּי בִיהוּד וּבִירוּשְׁלֶם בְּשֻׁם אֱלָהּ יִשְׂרָאֵל עֲלֵיהוֹן נביאה נְבִיָּא נביאיא נְבִיַּיָּא",
+  "text": "וְהִתְנַבִּי חַגַּי נביאה וּזְכַרְיָה בַר עִדּוֹא נביאיא עַל יְהוּדָיֵא דִּי בִיהוּד וּבִירוּשְׁלֶם בְּשֻׁם אֱלָהּ יִשְׂרָאֵל עֲלֵיהוֹן נְבִיָּא נְבִיַּיָּא",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "נביאה",
+      "lemma": "5029",
+      "morph": "ANcmsd/Td",
+      "strongs": [
+        "H5029"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 68,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
       "text": "וּזְכַרְיָה",
       "lemma": "c/2148 b",
       "morph": "AC/Np",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בַר",
       "lemma": "1247",
       "morph": "ANcmsc",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עִדּוֹא",
       "lemma": "5714",
       "morph": "ANp",
@@ -77,7 +94,24 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
+      "text": "נביאיא",
+      "lemma": "5029",
+      "morph": "ANcmpd/Td",
+      "strongs": [
+        "H5029"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
       "text": "עַל",
       "lemma": "5922",
       "morph": "AR",
@@ -92,7 +126,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "יְהוּדָיֵא",
       "lemma": "3062",
       "morph": "ANgmpd/Td",
@@ -107,7 +141,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -122,7 +156,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "בִיהוּד",
       "lemma": "b/3061",
       "morph": "AR/Np",
@@ -137,7 +171,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "וּבִירוּשְׁלֶם",
       "lemma": "c/b/3390",
       "morph": "AC/R/Np",
@@ -152,7 +186,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "בְּשֻׁם",
       "lemma": "b/8036",
       "morph": "AR/Ncmsc",
@@ -167,7 +201,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "אֱלָהּ",
       "lemma": "426",
       "morph": "ANcmsc",
@@ -182,7 +216,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "יִשְׂרָאֵל",
       "lemma": "3479",
       "morph": "ANp",
@@ -197,7 +231,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "עֲלֵיהוֹן",
       "lemma": "5922",
       "morph": "AR/Sp3mp",
@@ -212,42 +246,20 @@
       }
     },
     {
-      "position": 15,
-      "text": "נביאה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 68,
-        "ordinal": 32,
-        "reduced": 14
-      }
-    },
-    {
-      "position": 16,
+      "position": 17,
       "text": "נְבִיָּא",
       "lemma": "5029",
       "morph": "ANcmsd/Td",
       "strongs": [
         "H5029"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 63,
         "ordinal": 27,
         "reduced": 9
-      }
-    },
-    {
-      "position": 17,
-      "text": "נביאיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 74,
-        "ordinal": 38,
-        "reduced": 11
       }
     },
     {
@@ -258,7 +270,9 @@
       "strongs": [
         "H5029"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 73,
         "ordinal": 37,

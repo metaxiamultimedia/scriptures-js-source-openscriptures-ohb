@@ -1,5 +1,5 @@
 {
-  "text": "שִׁמְמוֹת עוֹלָם אֶתֶּנְךָ וְעָרֶיךָ לֹא וִידַעְתֶּם כִּי אֲנִי יְהוָה תישבנה תָשֹׁבְנָה",
+  "text": "שִׁמְמוֹת עוֹלָם אֶתֶּנְךָ וְעָרֶיךָ לֹא תישבנה וִידַעְתֶּם כִּי אֲנִי יְהוָה תָשֹׁבְנָה",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "תישבנה",
+      "lemma": "3427",
+      "morph": "HVqi3fp",
+      "strongs": [
+        "H3427"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 767,
+        "ordinal": 74,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
       "text": "וִידַעְתֶּם",
       "lemma": "c/3045",
       "morph": "HC/Vqq2mp",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֲנִי",
       "lemma": "589",
       "morph": "HPp1cs",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -137,18 +154,6 @@
       }
     },
     {
-      "position": 10,
-      "text": "תישבנה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 767,
-        "ordinal": 74,
-        "reduced": 20
-      }
-    },
-    {
       "position": 11,
       "text": "תָשֹׁבְנָה",
       "lemma": "7725",
@@ -156,7 +161,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 757,
         "ordinal": 64,

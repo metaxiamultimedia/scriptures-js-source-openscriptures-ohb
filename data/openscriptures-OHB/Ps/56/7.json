@@ -1,27 +1,17 @@
 {
-  "text": "יצפינו יִצְפּוֹנוּ יָגוּרוּ הֵמָּה עֲקֵבַי יִשְׁמֹרוּ כַּאֲשֶׁר קִוּוּ נַפְשִׁי",
+  "text": "יִצְפּוֹנוּ יָגוּרוּ יצפינו הֵמָּה עֲקֵבַי יִשְׁמֹרוּ כַּאֲשֶׁר קִוּוּ נַפְשִׁי",
   "words": [
     {
       "position": 1,
-      "text": "יצפינו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 246,
-        "ordinal": 75,
-        "reduced": 30
-      }
-    },
-    {
-      "position": 2,
       "text": "יִצְפּוֹנוּ",
       "lemma": "6845",
       "morph": "HVqi3mp",
       "strongs": [
         "H6845"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 242,
         "ordinal": 71,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יָגוּרוּ",
       "lemma": "1481 b",
       "morph": "HVqi3mp",
@@ -41,6 +31,23 @@
         "standard": 225,
         "ordinal": 45,
         "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "יצפינו",
+      "lemma": "6845",
+      "morph": "HVhi3mp",
+      "strongs": [
+        "H6845"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 246,
+        "ordinal": 75,
+        "reduced": 30
       }
     },
     {

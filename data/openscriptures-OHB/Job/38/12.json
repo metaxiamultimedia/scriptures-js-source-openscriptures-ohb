@@ -1,5 +1,5 @@
 {
-  "text": "הְמִיָּמֶיךָ צִוִּיתָ בֹּקֶר מְקֹמוֹ ידעתה שחר",
+  "text": "הְמִיָּמֶיךָ צִוִּיתָ בֹּקֶר ידעתה שחר מְקֹמוֹ יִדַּעְתָּה הַשַּׁחַר",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,40 @@
     },
     {
       "position": 4,
+      "text": "ידעתה",
+      "lemma": "3045",
+      "morph": "HVpp2ms",
+      "strongs": [
+        "H3045"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 489,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "שחר",
+      "lemma": "7837",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H7837"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 508,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
       "text": "מְקֹמוֹ",
       "lemma": "4725",
       "morph": "HNcmsc/Sp3ms",
@@ -62,11 +96,16 @@
       }
     },
     {
-      "position": 5,
-      "text": "ידעתה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 7,
+      "text": "יִדַּעְתָּה",
+      "lemma": "3045",
+      "morph": "HVpp2ms",
+      "strongs": [
+        "H3045"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 489,
         "ordinal": 57,
@@ -74,21 +113,26 @@
       }
     },
     {
-      "position": 6,
-      "text": "שחר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 8,
+      "text": "הַשַּׁחַר",
+      "lemma": "d/7837",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H7837"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
-        "standard": 508,
-        "ordinal": 49,
-        "reduced": 13
+        "standard": 513,
+        "ordinal": 54,
+        "reduced": 18
       }
     }
   ],
   "gematria": {
-    "standard": 2116,
-    "ordinal": 316,
-    "reduced": 91
+    "standard": 3118,
+    "ordinal": 427,
+    "reduced": 130
   }
 }

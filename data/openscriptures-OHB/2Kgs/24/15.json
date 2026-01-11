@@ -1,5 +1,5 @@
 {
-  "text": "וַיֶּגֶל אֶת יְהוֹיָכִין בָּבֶלָה וְאֶת אֵם הַמֶּלֶךְ וְאֶת נְשֵׁי הַמֶּלֶךְ וְאֶת סָרִיסָיו וְאֵת הָאָרֶץ הוֹלִיךְ גּוֹלָה מִירוּשָׁלִַם בָּבֶלָה אולי אֵילֵי",
+  "text": "וַיֶּגֶל אֶת יְהוֹיָכִין בָּבֶלָה וְאֶת אֵם הַמֶּלֶךְ וְאֶת נְשֵׁי הַמֶּלֶךְ וְאֶת סָרִיסָיו וְאֵת אולי הָאָרֶץ הוֹלִיךְ גּוֹלָה מִירוּשָׁלִַם בָּבֶלָה אֵילֵי",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "אולי",
+      "lemma": "193 b",
+      "morph": "HNcmpc",
+      "strongs": [
+        "H193"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הוֹלִיךְ",
       "lemma": "3212",
       "morph": "HVhp3ms",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "גּוֹלָה",
       "lemma": "1473",
       "morph": "HNcfsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "מִירוּשָׁלִַם",
       "lemma": "m/3389",
       "morph": "HR/Np",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בָּבֶלָה",
       "lemma": "894",
       "morph": "HNp/Sd",
@@ -272,18 +289,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "אולי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 47,
-        "ordinal": 29,
-        "reduced": 11
-      }
-    },
-    {
       "position": 20,
       "text": "אֵילֵי",
       "lemma": "352 c",
@@ -291,7 +296,9 @@
       "strongs": [
         "H352"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 51,
         "ordinal": 33,

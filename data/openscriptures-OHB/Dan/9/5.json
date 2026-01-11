@@ -1,5 +1,5 @@
 {
-  "text": "חָטָאנוּ וְעָוִינוּ וּמָרָדְנוּ וְסוֹר מִמִּצְוֺתֶךָ וּמִמִּשְׁפָּטֶיךָ והרשענו הִרְשַׁעְנוּ",
+  "text": "חָטָאנוּ וְעָוִינוּ והרשענו וּמָרָדְנוּ וְסוֹר מִמִּצְוֺתֶךָ וּמִמִּשְׁפָּטֶיךָ הִרְשַׁעְנוּ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "והרשענו",
+      "lemma": "c/7561",
+      "morph": "HC/Vhp1cp",
+      "strongs": [
+        "H7561"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 637,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
       "text": "וּמָרָדְנוּ",
       "lemma": "c/4775",
       "morph": "HC/Vqp1cp",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְסוֹר",
       "lemma": "c/5493",
       "morph": "HC/Vqa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מִמִּצְוֺתֶךָ",
       "lemma": "m/4687",
       "morph": "HR/Ncfpc/Sp2ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וּמִמִּשְׁפָּטֶיךָ",
       "lemma": "c/m/4941",
       "morph": "HC/R/Ncmpc/Sp2ms",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "והרשענו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 637,
-        "ordinal": 88,
-        "reduced": 34
-      }
-    },
-    {
       "position": 8,
       "text": "הִרְשַׁעְנוּ",
       "lemma": "7561",
@@ -111,7 +116,9 @@
       "strongs": [
         "H7561"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 631,
         "ordinal": 82,

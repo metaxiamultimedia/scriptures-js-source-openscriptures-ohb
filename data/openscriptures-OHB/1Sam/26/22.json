@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעַן דָּוִד וַיֹּאמֶר הִנֵּה הַמֶּלֶךְ וְיַעֲבֹר אֶחָד מֵהַנְּעָרִים וְיִקָּחֶהָ החנית חֲנִית",
+  "text": "וַיַּעַן דָּוִד וַיֹּאמֶר הִנֵּה החנית הַמֶּלֶךְ וְיַעֲבֹר אֶחָד מֵהַנְּעָרִים וְיִקָּחֶהָ חֲנִית",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "החנית",
+      "lemma": "d/2595",
+      "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H2595"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 473,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
       "text": "הַמֶּלֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְיַעֲבֹר",
       "lemma": "c/5674 a",
       "morph": "HC/Vqi3ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֶחָד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מֵהַנְּעָרִים",
       "lemma": "m/d/5288",
       "morph": "HR/Td/Ncmpa",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְיִקָּחֶהָ",
       "lemma": "c/3947",
       "morph": "HC/Vqi3ms/Sp3fs",
@@ -137,18 +154,6 @@
       }
     },
     {
-      "position": 10,
-      "text": "החנית",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 473,
-        "ordinal": 59,
-        "reduced": 23
-      }
-    },
-    {
       "position": 11,
       "text": "חֲנִית",
       "lemma": "2595",
@@ -156,7 +161,9 @@
       "strongs": [
         "H2595"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 468,
         "ordinal": 54,

@@ -1,5 +1,5 @@
 {
-  "text": "דֶּלֶף טוֹרֵד בְּיוֹם סַגְרִיר וְאֵשֶׁת נִשְׁתָּוָה מדונים מִדְיָנִים",
+  "text": "דֶּלֶף טוֹרֵד בְּיוֹם סַגְרִיר וְאֵשֶׁת מדונים נִשְׁתָּוָה מִדְיָנִים",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "מדונים",
+      "lemma": "4066",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H4066"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 150,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
       "text": "נִשְׁתָּוָה",
       "lemma": "7737 a",
       "morph": "HVDp3fs",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "מדונים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 60,
-        "reduced": 24
-      }
-    },
-    {
       "position": 8,
       "text": "מִדְיָנִים",
       "lemma": "4079",
@@ -111,7 +116,9 @@
       "strongs": [
         "H4079"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 154,
         "ordinal": 64,

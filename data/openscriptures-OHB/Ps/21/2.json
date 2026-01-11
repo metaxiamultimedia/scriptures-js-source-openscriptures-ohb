@@ -1,27 +1,17 @@
 {
-  "text": "יגיל יָּגֶל יְהוָה בְּעָזְּךָ יִשְׂמַח מֶלֶךְ וּבִישׁוּעָתְךָ מַה מְאֹד",
+  "text": "יָּגֶל יְהוָה בְּעָזְּךָ יִשְׂמַח מֶלֶךְ וּבִישׁוּעָתְךָ מַה יגיל מְאֹד",
   "words": [
     {
       "position": 1,
-      "text": "יגיל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 53,
-        "ordinal": 35,
-        "reduced": 8
-      }
-    },
-    {
-      "position": 2,
       "text": "יָּגֶל",
       "lemma": "1523",
       "morph": "HVqi3ms",
       "strongs": [
         "H1523"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 43,
         "ordinal": 25,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "בְּעָזְּךָ",
       "lemma": "b/5797",
       "morph": "HR/Ncmsc/Sp2ms",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "יִשְׂמַח",
       "lemma": "8055",
       "morph": "HVqi3ms",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "מֶלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsa",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "וּבִישׁוּעָתְךָ",
       "lemma": "c/b/3444",
       "morph": "HC/R/Ncfsc/Sp2ms",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "מַה",
       "lemma": "4100",
       "morph": "HTi",
@@ -116,6 +106,23 @@
         "standard": 45,
         "ordinal": 18,
         "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "יגיל",
+      "lemma": "1523",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H1523"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 35,
+        "reduced": 8
       }
     },
     {

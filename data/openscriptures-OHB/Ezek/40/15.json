@@ -1,5 +1,5 @@
 {
-  "text": "וְעַל פְּנֵי הַשַּׁעַר עַל לִפְנֵי אֻלָם הַשַּׁעַר הַפְּנִימִי חֲמִשִּׁים אַמָּה היאתון הָאִיתוֹן",
+  "text": "וְעַל פְּנֵי הַשַּׁעַר היאתון עַל לִפְנֵי אֻלָם הַשַּׁעַר הַפְּנִימִי חֲמִשִּׁים אַמָּה הָאִיתוֹן",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "היאתון",
+      "lemma": "d/2978",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H2978"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 472,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לִפְנֵי",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֻלָם",
       "lemma": "197",
       "morph": "HNcmsc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַשַּׁעַר",
       "lemma": "d/8179",
       "morph": "HTd/Ncmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הַפְּנִימִי",
       "lemma": "d/6442",
       "morph": "HTd/Aamsa",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "חֲמִשִּׁים",
       "lemma": "2572",
       "morph": "HAcbpa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אַמָּה",
       "lemma": "520 a",
       "morph": "HNcfsa",
@@ -152,18 +169,6 @@
       }
     },
     {
-      "position": 11,
-      "text": "היאתון",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 472,
-        "ordinal": 58,
-        "reduced": 22
-      }
-    },
-    {
       "position": 12,
       "text": "הָאִיתוֹן",
       "lemma": "d/2978",
@@ -171,7 +176,9 @@
       "strongs": [
         "H2978"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 472,
         "ordinal": 58,

@@ -1,5 +1,5 @@
 {
-  "text": "וְיָרַד יָמָּה אֶל גְּבוּל הַיַּפְלֵטִי עַד גְּבוּל בֵּית חוֹרֹן תַּחְתּוֹן וְעַד גָּזֶר וְהָיוּ יָמָּה תצאתו תֹצְאֹתָיו",
+  "text": "וְיָרַד יָמָּה אֶל גְּבוּל הַיַּפְלֵטִי עַד גְּבוּל בֵּית חוֹרֹן תַּחְתּוֹן וְעַד גָּזֶר וְהָיוּ תצאתו יָמָּה תֹצְאֹתָיו",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "תצאתו",
+      "lemma": "8444",
+      "morph": "HNcfpc/Sp3ms",
+      "strongs": [
+        "H8444"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 897,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
       "text": "יָמָּה",
       "lemma": "3220",
       "morph": "HNcmsa/Sd",
@@ -212,18 +229,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "תצאתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 897,
-        "ordinal": 69,
-        "reduced": 24
-      }
-    },
-    {
       "position": 16,
       "text": "תֹצְאֹתָיו",
       "lemma": "8444",
@@ -231,7 +236,9 @@
       "strongs": [
         "H8444"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 907,
         "ordinal": 79,

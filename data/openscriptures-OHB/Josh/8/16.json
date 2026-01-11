@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּזָּעֲקוּ כָּל הָעָם אֲשֶׁר לִרְדֹּף אַחֲרֵיהֶם וַיִּרְדְּפוּ אַחֲרֵי יְהוֹשֻׁעַ וַיִּנָּתְקוּ מִן הָעִיר בעיר בָּעַי",
+  "text": "וַיִּזָּעֲקוּ כָּל הָעָם אֲשֶׁר בעיר לִרְדֹּף אַחֲרֵיהֶם וַיִּרְדְּפוּ אַחֲרֵי יְהוֹשֻׁעַ וַיִּנָּתְקוּ מִן הָעִיר בָּעַי",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "בעיר",
+      "lemma": "b/5892 b",
+      "morph": "HRd/Ncfsa",
+      "strongs": [
+        "H5892"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 282,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
       "text": "לִרְדֹּף",
       "lemma": "l/7291",
       "morph": "HR/Vqc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אַחֲרֵיהֶם",
       "lemma": "310 a",
       "morph": "HR/Sp3mp",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וַיִּרְדְּפוּ",
       "lemma": "c/7291",
       "morph": "HC/Vqw3mp",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אַחֲרֵי",
       "lemma": "310 a",
       "morph": "HR",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יְהוֹשֻׁעַ",
       "lemma": "3091",
       "morph": "HNp",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וַיִּנָּתְקוּ",
       "lemma": "c/5423",
       "morph": "HC/VNw3mp",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הָעִיר",
       "lemma": "d/5892 b",
       "morph": "HTd/Ncfsa",
@@ -182,18 +199,6 @@
       }
     },
     {
-      "position": 13,
-      "text": "בעיר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 282,
-        "ordinal": 48,
-        "reduced": 12
-      }
-    },
-    {
       "position": 14,
       "text": "בָּעַי",
       "lemma": "b/5857",
@@ -201,7 +206,9 @@
       "strongs": [
         "H5857"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 82,
         "ordinal": 28,

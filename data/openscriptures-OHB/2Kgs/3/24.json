@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֹאוּ אֶל מַחֲנֵה יִשְׂרָאֵל וַיָּקֻמוּ יִשְׂרָאֵל וַיַּכּוּ אֶת מוֹאָב וַיָּנֻסוּ מִפְּנֵיהֶם בָהּ וְהַכּוֹת אֶת מוֹאָב ויבו וַיַּכּוּ",
+  "text": "וַיָּבֹאוּ אֶל מַחֲנֵה יִשְׂרָאֵל וַיָּקֻמוּ יִשְׂרָאֵל וַיַּכּוּ אֶת מוֹאָב וַיָּנֻסוּ מִפְּנֵיהֶם ויבו בָהּ וְהַכּוֹת אֶת מוֹאָב וַיַּכּוּ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "ויבו",
+      "lemma": "c/935",
+      "morph": "HC/Vqw3mp",
+      "strongs": [
+        "H935"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 24,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
       "text": "בָהּ",
       "lemma": "b/5221",
       "morph": "HR/Sp3fs",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְהַכּוֹת",
       "lemma": "c/5221",
       "morph": "HC/Vhc",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "מוֹאָב",
       "lemma": "4124",
       "morph": "HNp",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "ויבו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 24,
-        "ordinal": 24,
-        "reduced": 15
-      }
-    },
-    {
       "position": 17,
       "text": "וַיַּכּוּ",
       "lemma": "c/5221",
@@ -246,7 +251,9 @@
       "strongs": [
         "H5221"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 33,

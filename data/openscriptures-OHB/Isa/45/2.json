@@ -1,5 +1,5 @@
 {
-  "text": "אֲנִי לְפָנֶיךָ אֵלֵךְ וַהֲדוּרִים דַּלְתוֹת נְחוּשָׁה אֲשַׁבֵּר וּבְרִיחֵי בַרְזֶל אֲגַדֵּעַ אושר אֲיַשֵּׁר",
+  "text": "אֲנִי לְפָנֶיךָ אֵלֵךְ וַהֲדוּרִים אושר דַּלְתוֹת נְחוּשָׁה אֲשַׁבֵּר וּבְרִיחֵי בַרְזֶל אֲגַדֵּעַ אֲיַשֵּׁר",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "אושר",
+      "lemma": "3474",
+      "morph": "HVhi1cs",
+      "strongs": [
+        "H3474"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 507,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
       "text": "דַּלְתוֹת",
       "lemma": "1817 c",
       "morph": "HNcfpc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "נְחוּשָׁה",
       "lemma": "5154",
       "morph": "HNcfsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֲשַׁבֵּר",
       "lemma": "7665",
       "morph": "HVpi1cs",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּבְרִיחֵי",
       "lemma": "c/1280",
       "morph": "HC/Ncmpc",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בַרְזֶל",
       "lemma": "1270",
       "morph": "HNcmsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֲגַדֵּעַ",
       "lemma": "1438",
       "morph": "HVpi1cs",
@@ -152,18 +169,6 @@
       }
     },
     {
-      "position": 11,
-      "text": "אושר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 507,
-        "ordinal": 48,
-        "reduced": 12
-      }
-    },
-    {
       "position": 12,
       "text": "אֲיַשֵּׁר",
       "lemma": "3474",
@@ -171,7 +176,9 @@
       "strongs": [
         "H3474"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 511,
         "ordinal": 52,

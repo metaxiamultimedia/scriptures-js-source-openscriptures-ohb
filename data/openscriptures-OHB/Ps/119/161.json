@@ -1,5 +1,5 @@
 {
-  "text": "שָׂרִים רְדָפוּנִי חִנָּם פָּחַד לִבִּי ומדבריך וּמִדְּבָרְךָ",
+  "text": "שָׂרִים רְדָפוּנִי חִנָּם ומדבריך פָּחַד לִבִּי וּמִדְּבָרְךָ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "ומדבריך",
+      "lemma": "c/m/1697",
+      "morph": "HC/R/Ncmpc/Sp2ms",
+      "strongs": [
+        "H1697"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 282,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
       "text": "פָּחַד",
       "lemma": "6342",
       "morph": "HVqp3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לִבִּי",
       "lemma": "3820 a",
       "morph": "HNcmsc/Sp1cs",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "ומדבריך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 282,
-        "ordinal": 66,
-        "reduced": 21
-      }
-    },
-    {
       "position": 7,
       "text": "וּמִדְּבָרְךָ",
       "lemma": "c/m/1697",
@@ -96,7 +101,9 @@
       "strongs": [
         "H1697"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 272,
         "ordinal": 56,

@@ -1,5 +1,5 @@
 {
-  "text": "וְכִלִּיתָ אֶת אֵלֶּה וְשָׁכַבְתָּ עַל צִדְּךָ שֵׁנִית וְנָשָׂאתָ אֶת עֲוֺן בֵּית יְהוּדָה אַרְבָּעִים יוֹם יוֹם לַשָּׁנָה יוֹם לַשָּׁנָה נְתַתִּיו לָךְ הימיני הַיְמָנִי",
+  "text": "וְכִלִּיתָ אֶת אֵלֶּה וְשָׁכַבְתָּ עַל צִדְּךָ הימיני שֵׁנִית וְנָשָׂאתָ אֶת עֲוֺן בֵּית יְהוּדָה אַרְבָּעִים יוֹם יוֹם לַשָּׁנָה יוֹם לַשָּׁנָה נְתַתִּיו לָךְ הַיְמָנִי",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,23 @@
     },
     {
       "position": 7,
+      "text": "הימיני",
+      "lemma": "d/3227 a",
+      "morph": "HTd/Aamsa",
+      "strongs": [
+        "H3227"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 125,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
       "text": "שֵׁנִית",
       "lemma": "8145",
       "morph": "HAofsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְנָשָׂאתָ",
       "lemma": "c/5375",
       "morph": "HC/Vqq2ms",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עֲוֺן",
       "lemma": "5771",
       "morph": "HNcbsc",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בֵּית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יְהוּדָה",
       "lemma": "3063",
       "morph": "HNp",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אַרְבָּעִים",
       "lemma": "705",
       "morph": "HAcbpa",
@@ -194,21 +211,6 @@
         "standard": 323,
         "ordinal": 62,
         "reduced": 17
-      }
-    },
-    {
-      "position": 14,
-      "text": "יוֹם",
-      "lemma": "3117",
-      "morph": "HNcmsa",
-      "strongs": [
-        "H3117"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 29,
-        "reduced": 11
       }
     },
     {
@@ -228,21 +230,6 @@
     },
     {
       "position": 16,
-      "text": "לַשָּׁנָה",
-      "lemma": "l/8141",
-      "morph": "HRd/Ncfsa",
-      "strongs": [
-        "H8141"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 385,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
-      "position": 17,
       "text": "יוֹם",
       "lemma": "3117",
       "morph": "HNcmsa",
@@ -257,7 +244,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 17,
       "text": "לַשָּׁנָה",
       "lemma": "l/8141",
       "morph": "HRd/Ncfsa",
@@ -272,7 +259,37 @@
       }
     },
     {
+      "position": 18,
+      "text": "יוֹם",
+      "lemma": "3117",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H3117"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
       "position": 19,
+      "text": "לַשָּׁנָה",
+      "lemma": "l/8141",
+      "morph": "HRd/Ncfsa",
+      "strongs": [
+        "H8141"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
       "text": "נְתַתִּיו",
       "lemma": "5414",
       "morph": "HVqp1cs/Sp3ms",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
@@ -299,18 +316,6 @@
       }
     },
     {
-      "position": 21,
-      "text": "הימיני",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 125,
-        "ordinal": 62,
-        "reduced": 17
-      }
-    },
-    {
       "position": 22,
       "text": "הַיְמָנִי",
       "lemma": "d/3233",
@@ -318,7 +323,9 @@
       "strongs": [
         "H3233"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 115,
         "ordinal": 52,

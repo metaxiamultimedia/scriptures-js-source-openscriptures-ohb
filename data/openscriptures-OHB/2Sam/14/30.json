@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר אֶל עֲבָדָיו רְאוּ חֶלְקַת יוֹאָב אֶל יָדִי וְלוֹ שָׁם שְׂעֹרִים לְכוּ בָאֵשׁ וַיַּצִּתוּ עַבְדֵי אַבְשָׁלוֹם אֶת הַחֶלְקָה בָּאֵשׁ והוצתיה וְהַצִּיתוּהָ",
+  "text": "וַיֹּאמֶר אֶל עֲבָדָיו רְאוּ חֶלְקַת יוֹאָב אֶל יָדִי וְלוֹ שָׁם שְׂעֹרִים לְכוּ והוצתיה בָאֵשׁ וַיַּצִּתוּ עַבְדֵי אַבְשָׁלוֹם אֶת הַחֶלְקָה בָּאֵשׁ וְהַצִּיתוּהָ",
   "words": [
     {
       "position": 1,
@@ -180,6 +180,23 @@
     },
     {
       "position": 13,
+      "text": "והוצתיה",
+      "lemma": "c/3341",
+      "morph": "HC/Vhq1cs/Sp3fs",
+      "strongs": [
+        "H3341"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 522,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 14,
       "text": "בָאֵשׁ",
       "lemma": "b/784",
       "morph": "HRd/Ncbsa",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וַיַּצִּתוּ",
       "lemma": "c/3341",
       "morph": "HC/Vhw3mp",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עַבְדֵי",
       "lemma": "5650",
       "morph": "HNcmpc",
@@ -224,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אַבְשָׁלוֹם",
       "lemma": "53",
       "morph": "HNp",
@@ -236,7 +253,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -251,7 +268,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "הַחֶלְקָה",
       "lemma": "d/2513 a",
       "morph": "HTd/Ncfsa",
@@ -266,7 +283,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "בָּאֵשׁ",
       "lemma": "b/784",
       "morph": "HRd/Ncbsa",
@@ -281,18 +298,6 @@
       }
     },
     {
-      "position": 20,
-      "text": "והוצתיה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 522,
-        "ordinal": 72,
-        "reduced": 36
-      }
-    },
-    {
       "position": 21,
       "text": "וְהַצִּיתוּהָ",
       "lemma": "c/3341",
@@ -300,7 +305,9 @@
       "strongs": [
         "H3341"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 522,
         "ordinal": 72,

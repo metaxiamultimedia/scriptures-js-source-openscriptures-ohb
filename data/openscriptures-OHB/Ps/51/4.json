@@ -1,31 +1,38 @@
 {
-  "text": "הרבה הֶרֶב כַּבְּסֵנִי מֵעֲוֺנִי וּמֵחַטָּאתִי טַהֲרֵנִי",
+  "text": "הֶרֶב הרבה כַּבְּסֵנִי מֵעֲוֺנִי וּמֵחַטָּאתִי טַהֲרֵנִי",
   "words": [
     {
       "position": 1,
-      "text": "הרבה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 212,
-        "ordinal": 32,
-        "reduced": 14
-      }
-    },
-    {
-      "position": 2,
       "text": "הֶרֶב",
       "lemma": "7235 a",
       "morph": "HVhv2ms",
       "strongs": [
         "H7235"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 207,
         "ordinal": 27,
         "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "הרבה",
+      "lemma": "7235 a",
+      "morph": "HVha",
+      "strongs": [
+        "H7235"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 212,
+        "ordinal": 32,
+        "reduced": 14
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעַן יְהוָה אֶת אִיּוֹב וַיֹּאמַר מנ הסערה",
+  "text": "וַיַּעַן יְהוָה אֶת אִיּוֹב מנ הסערה וַיֹּאמַר מִן הַסְּעָרָה",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,40 @@
     },
     {
       "position": 5,
+      "text": "מנ",
+      "lemma": "4480 a",
+      "morph": "HR",
+      "strongs": [
+        "H4480"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 90,
+        "ordinal": 27,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "הסערה",
+      "lemma": "d/5591 b",
+      "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H5591"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 340,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
       "text": "וַיֹּאמַר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -77,11 +111,16 @@
       }
     },
     {
-      "position": 6,
-      "text": "מנ",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 8,
+      "text": "מִן",
+      "lemma": "4480 a",
+      "morph": "HR",
+      "strongs": [
+        "H4480"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 90,
         "ordinal": 27,
@@ -89,11 +128,16 @@
       }
     },
     {
-      "position": 7,
-      "text": "הסערה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 9,
+      "text": "הַסְּעָרָה",
+      "lemma": "d/5591 b",
+      "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H5591"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 340,
         "ordinal": 61,
@@ -102,8 +146,8 @@
     }
   ],
   "gematria": {
-    "standard": 1269,
-    "ordinal": 252,
-    "reduced": 99
+    "standard": 1699,
+    "ordinal": 340,
+    "reduced": 133
   }
 }

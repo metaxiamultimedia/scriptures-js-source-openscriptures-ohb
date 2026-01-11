@@ -1,5 +1,5 @@
 {
-  "text": "פְּנֵי יְהוָה חִלְּקָם לֹא יוֹסִיף לְהַבִּיטָם פְּנֵי כֹהֲנִים לֹא נָשָׂאוּ לֹא חָנָנוּ זקנים וּזְקֵנִים",
+  "text": "פְּנֵי יְהוָה חִלְּקָם לֹא יוֹסִיף לְהַבִּיטָם פְּנֵי כֹהֲנִים לֹא נָשָׂאוּ זקנים לֹא חָנָנוּ וּזְקֵנִים",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "זקנים",
+      "lemma": "2205",
+      "morph": "HAampa",
+      "strongs": [
+        "H2205"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 207,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "חָנָנוּ",
       "lemma": "2603 a",
       "morph": "HVqp3cp",
@@ -182,18 +199,6 @@
       }
     },
     {
-      "position": 13,
-      "text": "זקנים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 207,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
       "position": 14,
       "text": "וּזְקֵנִים",
       "lemma": "c/2205",
@@ -201,7 +206,9 @@
       "strongs": [
         "H2205"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 213,
         "ordinal": 69,

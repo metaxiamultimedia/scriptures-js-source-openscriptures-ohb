@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּבְדֵּל דָּוִיד וְשָׂרֵי הַצָּבָא לַעֲבֹדָה לִבְנֵי אָסָף וְהֵימָן וִידוּתוּן בְּכִנֹּרוֹת בִּנְבָלִים וּבִמְצִלְתָּיִם וַיְהִי מִסְפָּרָם אַנְשֵׁי מְלָאכָה לַעֲבֹדָתָם הנביאים הַנִּבְּאִים",
+  "text": "וַיַּבְדֵּל דָּוִיד וְשָׂרֵי הַצָּבָא לַעֲבֹדָה לִבְנֵי אָסָף וְהֵימָן וִידוּתוּן הנביאים בְּכִנֹּרוֹת בִּנְבָלִים וּבִמְצִלְתָּיִם וַיְהִי מִסְפָּרָם אַנְשֵׁי מְלָאכָה לַעֲבֹדָתָם הַנִּבְּאִים",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "הנביאים",
+      "lemma": "d/5030",
+      "morph": "HTd/Ncmpa",
+      "strongs": [
+        "H5030"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 118,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
       "text": "בְּכִנֹּרוֹת",
       "lemma": "b/3658",
       "morph": "HR/Ncmpa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בִּנְבָלִים",
       "lemma": "b/5035 b",
       "morph": "HR/Ncmpa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וּבִמְצִלְתָּיִם",
       "lemma": "c/b/4700",
       "morph": "HC/R/Ncfda",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וַיְהִי",
       "lemma": "c/1961",
       "morph": "HC/Vqw3ms",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מִסְפָּרָם",
       "lemma": "4557",
       "morph": "HNcmsc/Sp3mp",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אַנְשֵׁי",
       "lemma": "376",
       "morph": "HNcmpc",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מְלָאכָה",
       "lemma": "4399",
       "morph": "HNcfsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לַעֲבֹדָתָם",
       "lemma": "l/5656",
       "morph": "HR/Ncfsc/Sp3mp",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "הנביאים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 118,
-        "ordinal": 55,
-        "reduced": 19
-      }
-    },
-    {
       "position": 19,
       "text": "הַנִּבְּאִים",
       "lemma": "d/5012",
@@ -276,7 +281,9 @@
       "strongs": [
         "H5012"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 108,
         "ordinal": 45,

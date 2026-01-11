@@ -1,5 +1,5 @@
 {
-  "text": "מַרְבֶּה הוֹנוֹ בְּנֶשֶׁךְ לְחוֹנֵן דַּלִּים יִקְבְּצֶנּוּ ובתרבית וְתַרְבִּית",
+  "text": "מַרְבֶּה הוֹנוֹ בְּנֶשֶׁךְ ובתרבית לְחוֹנֵן דַּלִּים יִקְבְּצֶנּוּ וְתַרְבִּית",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "ובתרבית",
+      "lemma": "c/b/8636",
+      "morph": "HC/R/Ncfsa",
+      "strongs": [
+        "H8636"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 1020,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
       "text": "לְחוֹנֵן",
       "lemma": "l/2603 a",
       "morph": "HR/Vqrmsa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "דַּלִּים",
       "lemma": "1800",
       "morph": "HAampa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִקְבְּצֶנּוּ",
       "lemma": "6908",
       "morph": "HVqi3ms/Sp3ms",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "ובתרבית",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 1020,
-        "ordinal": 84,
-        "reduced": 21
-      }
-    },
-    {
       "position": 8,
       "text": "וְתַרְבִּית",
       "lemma": "c/8636",
@@ -111,7 +116,9 @@
       "strongs": [
         "H8636"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 1018,
         "ordinal": 82,

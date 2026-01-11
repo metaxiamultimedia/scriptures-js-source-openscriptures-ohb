@@ -1,27 +1,17 @@
 {
-  "text": "רגליך רַגְלְךָ שְׁמֹר כַּאֲשֶׁר תֵּלֵךְ אֶל בֵּית הָאֱלֹהִים וְקָרוֹב לִשְׁמֹעַ מִתֵּת הַכְּסִילִים זָבַח כִּי אֵינָם יוֹדְעִים לַעֲשׂוֹת רָע",
+  "text": "רַגְלְךָ שְׁמֹר רגליך כַּאֲשֶׁר תֵּלֵךְ אֶל בֵּית הָאֱלֹהִים וְקָרוֹב לִשְׁמֹעַ מִתֵּת הַכְּסִילִים זָבַח כִּי אֵינָם יוֹדְעִים לַעֲשׂוֹת רָע",
   "words": [
     {
       "position": 1,
-      "text": "רגליך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 263,
-        "ordinal": 56,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 2,
       "text": "רַגְלְךָ",
       "lemma": "7272",
       "morph": "HNcfsc/Sp2ms",
       "strongs": [
         "H7272"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 253,
         "ordinal": 46,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "שְׁמֹר",
       "lemma": "8104",
       "morph": "HVqv2ms",
@@ -41,6 +31,23 @@
         "standard": 540,
         "ordinal": 54,
         "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "רגליך",
+      "lemma": "7272",
+      "morph": "HNcfdc/Sp2ms",
+      "strongs": [
+        "H7272"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 263,
+        "ordinal": 56,
+        "reduced": 11
       }
     },
     {

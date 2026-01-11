@@ -1,5 +1,5 @@
 {
-  "text": "אִם לֹא בֵרֲכוּנִי וּמִגֵּז כְּבָשַׂי יִתְחַמָּם חלצו חֲלָצָיו",
+  "text": "אִם לֹא בֵרֲכוּנִי חלצו וּמִגֵּז כְּבָשַׂי יִתְחַמָּם חֲלָצָיו",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "חלצו",
+      "lemma": "2504",
+      "morph": "HNcbdc/Sp3ms",
+      "strongs": [
+        "H2504"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 134,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
       "text": "וּמִגֵּז",
       "lemma": "c/m/1488",
       "morph": "HC/R/Ncmsc",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כְּבָשַׂי",
       "lemma": "3532",
       "morph": "HNcmpc/Sp1cs",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִתְחַמָּם",
       "lemma": "2552",
       "morph": "HVti3ms",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "חלצו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 134,
-        "ordinal": 44,
-        "reduced": 26
-      }
-    },
-    {
       "position": 8,
       "text": "חֲלָצָיו",
       "lemma": "2504",
@@ -111,7 +116,9 @@
       "strongs": [
         "H2504"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 144,
         "ordinal": 54,

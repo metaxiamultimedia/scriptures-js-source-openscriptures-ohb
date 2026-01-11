@@ -1,5 +1,5 @@
 {
-  "text": "וְעַתָּה אָמַר יְהוָה יֹצְרִי מִבֶּטֶן לְעֶבֶד לוֹ לְשׁוֹבֵב יַעֲקֹב אֵלָיו וְיִשְׂרָאֵל יֵאָסֵף וְאֶכָּבֵד בְּעֵינֵי יְהוָה וֵאלֹהַי הָיָה עֻזִּי לא לוֹ",
+  "text": "וְעַתָּה אָמַר יְהוָה יֹצְרִי מִבֶּטֶן לְעֶבֶד לוֹ לְשׁוֹבֵב יַעֲקֹב אֵלָיו וְיִשְׂרָאֵל לא יֵאָסֵף וְאֶכָּבֵד בְּעֵינֵי יְהוָה וֵאלֹהַי הָיָה עֻזִּי לוֹ",
   "words": [
     {
       "position": 1,
@@ -165,6 +165,23 @@
     },
     {
       "position": 12,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
       "text": "יֵאָסֵף",
       "lemma": "622",
       "morph": "HVNi3ms",
@@ -179,7 +196,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְאֶכָּבֵד",
       "lemma": "c/3513",
       "morph": "HC/VNi1cs",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּעֵינֵי",
       "lemma": "b/5869 a",
       "morph": "HR/Ncbdc",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -224,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וֵאלֹהַי",
       "lemma": "c/430",
       "morph": "HC/Ncmpc/Sp1cs",
@@ -239,7 +256,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הָיָה",
       "lemma": "1961",
       "morph": "HVqp3ms",
@@ -254,7 +271,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "עֻזִּי",
       "lemma": "5797",
       "morph": "HNcmsc/Sp1cs",
@@ -269,23 +286,13 @@
       }
     },
     {
-      "position": 19,
-      "text": "לא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
       "position": 20,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

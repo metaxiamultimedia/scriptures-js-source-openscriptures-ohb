@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵי שִׁימוֹן אַמְנוֹן וְרִנָּה בֶּן חָנָן וּבְנֵי יִשְׁעִי זוֹחֵת וּבֶן זוֹחֵת ותולון וְתִילוֹן",
+  "text": "וּבְנֵי שִׁימוֹן אַמְנוֹן וְרִנָּה בֶּן חָנָן ותולון וּבְנֵי יִשְׁעִי זוֹחֵת וּבֶן זוֹחֵת וְתִילוֹן",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,23 @@
     },
     {
       "position": 7,
+      "text": "ותולון",
+      "lemma": "c/8436",
+      "morph": "HC/Np",
+      "strongs": [
+        "H8436"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 498,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
       "text": "וּבְנֵי",
       "lemma": "c/1121 a",
       "morph": "HC/Ncmpc",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יִשְׁעִי",
       "lemma": "3469",
       "morph": "HNp",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "זוֹחֵת",
       "lemma": "2105",
       "morph": "HNp",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וּבֶן",
       "lemma": "c/1132+",
       "morph": "HC/Np",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "זוֹחֵת",
       "lemma": "1132",
       "morph": "HNp",
@@ -167,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "ותולון",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 498,
-        "ordinal": 66,
-        "reduced": 30
-      }
-    },
-    {
       "position": 13,
       "text": "וְתִילוֹן",
       "lemma": "c/8436",
@@ -186,7 +191,9 @@
       "strongs": [
         "H8436"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 502,
         "ordinal": 70,

@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר אֵלָיו הָאִישׁ קַטֵּר יַקְטִירוּן כַּיּוֹם הַחֵלֶב וְקַח לְךָ כַּאֲשֶׁר תְּאַוֶּה נַפְשֶׁךָ וְאָמַר כִּי עַתָּה תִתֵּן וְאִם לֹא לָקַחְתִּי בְחָזְקָה לו לֹא",
+  "text": "וַיֹּאמֶר אֵלָיו הָאִישׁ קַטֵּר יַקְטִירוּן כַּיּוֹם הַחֵלֶב וְקַח לְךָ כַּאֲשֶׁר תְּאַוֶּה נַפְשֶׁךָ וְאָמַר לו כִּי עַתָּה תִתֵּן וְאִם לֹא לָקַחְתִּי בְחָזְקָה לֹא",
   "words": [
     {
       "position": 1,
@@ -195,6 +195,20 @@
     },
     {
       "position": 14,
+      "text": "לו",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -209,7 +223,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עַתָּה",
       "lemma": "6258",
       "morph": "HD",
@@ -224,7 +238,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "תִתֵּן",
       "lemma": "5414",
       "morph": "HVqi2ms",
@@ -239,7 +253,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְאִם",
       "lemma": "c/518 a",
       "morph": "HC/C",
@@ -254,7 +268,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -269,7 +283,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לָקַחְתִּי",
       "lemma": "3947",
       "morph": "HVqp1cs",
@@ -284,7 +298,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "בְחָזְקָה",
       "lemma": "b/2394",
       "morph": "HR/Ncfsa",
@@ -299,18 +313,6 @@
       }
     },
     {
-      "position": 21,
-      "text": "לו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
-      }
-    },
-    {
       "position": 22,
       "text": "לֹא",
       "lemma": "3808",
@@ -318,7 +320,9 @@
       "strongs": [
         "H3808"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 31,
         "ordinal": 13,

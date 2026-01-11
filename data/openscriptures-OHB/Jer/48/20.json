@@ -1,5 +1,5 @@
 {
-  "text": "הֹבִישׁ מוֹאָב כִּי חַתָּה הַגִּידוּ בְאַרְנוֹן כִּי שֻׁדַּד מוֹאָב הילילי הֵילִילוּ וזעקי וּזְעָקוּ",
+  "text": "הֹבִישׁ מוֹאָב כִּי חַתָּה הילילי וזעקי הַגִּידוּ בְאַרְנוֹן כִּי שֻׁדַּד מוֹאָב הֵילִילוּ וּזְעָקוּ",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,40 @@
     },
     {
       "position": 5,
+      "text": "הילילי",
+      "lemma": "3213",
+      "morph": "HVhv2fs",
+      "strongs": [
+        "H3213"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 95,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "וזעקי",
+      "lemma": "c/2199",
+      "morph": "HC/Vqv2fs",
+      "strongs": [
+        "H2199"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 193,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
       "text": "הַגִּידוּ",
       "lemma": "5046",
       "morph": "HVhv2mp",
@@ -77,7 +111,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "בְאַרְנוֹן",
       "lemma": "b/769",
       "morph": "HR/Np",
@@ -92,7 +126,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -107,7 +141,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "שֻׁדַּד",
       "lemma": "7703",
       "morph": "HVPp3ms",
@@ -122,7 +156,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "מוֹאָב",
       "lemma": "4124",
       "morph": "HNp",
@@ -137,42 +171,20 @@
       }
     },
     {
-      "position": 10,
-      "text": "הילילי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 95,
-        "ordinal": 59,
-        "reduced": 14
-      }
-    },
-    {
-      "position": 11,
+      "position": 12,
       "text": "הֵילִילוּ",
       "lemma": "3213",
       "morph": "HVhv2mp",
       "strongs": [
         "H3213"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 91,
         "ordinal": 55,
         "reduced": 19
-      }
-    },
-    {
-      "position": 12,
-      "text": "וזעקי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 193,
-        "ordinal": 58,
-        "reduced": 22
       }
     },
     {
@@ -183,7 +195,9 @@
       "strongs": [
         "H2199"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 189,
         "ordinal": 54,

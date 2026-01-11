@@ -1,8 +1,25 @@
 {
-  "text": "פִּתּוּחֶיהָ יָּחַד בְּכַשִּׁיל וְכֵילַפֹּת יַהֲלֹמוּן ועת וְעַתָּה",
+  "text": "ועת פִּתּוּחֶיהָ יָּחַד בְּכַשִּׁיל וְכֵילַפֹּת יַהֲלֹמוּן וְעַתָּה",
   "words": [
     {
       "position": 1,
+      "text": "ועת",
+      "lemma": "c/6258",
+      "morph": "HC/D",
+      "strongs": [
+        "H6258"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 476,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
       "text": "פִּתּוּחֶיהָ",
       "lemma": "6603",
       "morph": "HNcmpc/Sp3fs",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "יָּחַד",
       "lemma": "3162 a",
       "morph": "HD",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "בְּכַשִּׁיל",
       "lemma": "b/3781",
       "morph": "HR/Ncmsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְכֵילַפֹּת",
       "lemma": "c/3597",
       "morph": "HC/Ncfpa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יַהֲלֹמוּן",
       "lemma": "1986",
       "morph": "HVqi3mp/Sn",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "ועת",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 476,
-        "ordinal": 44,
-        "reduced": 17
-      }
-    },
-    {
       "position": 7,
       "text": "וְעַתָּה",
       "lemma": "c/6258",
@@ -96,7 +101,9 @@
       "strongs": [
         "H6258"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 481,
         "ordinal": 49,

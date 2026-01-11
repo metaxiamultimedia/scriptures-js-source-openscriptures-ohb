@@ -1,5 +1,5 @@
 {
-  "text": "עִנּוּ בַכֶּבֶל בַּרְזֶל בָּאָה נַפְשׁוֹ רגליו רַגְלוֹ",
+  "text": "עִנּוּ בַכֶּבֶל רגליו בַּרְזֶל בָּאָה נַפְשׁוֹ רַגְלוֹ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "רגליו",
+      "lemma": "7272",
+      "morph": "HNcfdc/Sp3ms",
+      "strongs": [
+        "H7272"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 249,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
       "text": "בַּרְזֶל",
       "lemma": "1270",
       "morph": "HNcmsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בָּאָה",
       "lemma": "935",
       "morph": "HVqp3fs",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "נַפְשׁוֹ",
       "lemma": "5315",
       "morph": "HNcbsc/Sp3ms",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "רגליו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 249,
-        "ordinal": 51,
-        "reduced": 15
-      }
-    },
-    {
       "position": 7,
       "text": "רַגְלוֹ",
       "lemma": "7272",
@@ -96,7 +101,9 @@
       "strongs": [
         "H7272"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 239,
         "ordinal": 41,

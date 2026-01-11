@@ -1,5 +1,5 @@
 {
-  "text": "אִם מֵאֵת אֲדֹנִי הַמֶּלֶךְ נִהְיָה הַדָּבָר הַזֶּה וְלֹא הוֹדַעְתָּ אֶת מִי יֵשֵׁב עַל כִּסֵּא אֲדֹנִי הַמֶּלֶךְ אַחֲרָיו עבדיך עַבְדְּךָ",
+  "text": "אִם מֵאֵת אֲדֹנִי הַמֶּלֶךְ נִהְיָה הַדָּבָר הַזֶּה וְלֹא הוֹדַעְתָּ אֶת עבדיך מִי יֵשֵׁב עַל כִּסֵּא אֲדֹנִי הַמֶּלֶךְ אַחֲרָיו עַבְדְּךָ",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "עבדיך",
+      "lemma": "5650",
+      "morph": "HNcmpc/Sp2ms",
+      "strongs": [
+        "H5650"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 106,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
       "text": "מִי",
       "lemma": "4310",
       "morph": "HTi",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יֵשֵׁב",
       "lemma": "3427",
       "morph": "HVqi3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כִּסֵּא",
       "lemma": "3678",
       "morph": "HNcmsc",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֲדֹנִי",
       "lemma": "113",
       "morph": "HNcmsc/Sp1cs",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַמֶּלֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אַחֲרָיו",
       "lemma": "310 a",
       "morph": "HR/Sp3ms",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "עבדיך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 106,
-        "ordinal": 43,
-        "reduced": 16
-      }
-    },
-    {
       "position": 19,
       "text": "עַבְדְּךָ",
       "lemma": "5650",
@@ -276,7 +281,9 @@
       "strongs": [
         "H5650"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 96,
         "ordinal": 33,

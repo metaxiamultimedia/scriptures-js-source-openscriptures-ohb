@@ -1,5 +1,5 @@
 {
-  "text": "וָאֹמַר לַבָּלָה נִאוּפִים תַזְנוּתֶהָ וָהִיא עת עַתָּה יזנה יִזְנוּ",
+  "text": "וָאֹמַר לַבָּלָה נִאוּפִים עת יזנה תַזְנוּתֶהָ וָהִיא עַתָּה יִזְנוּ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,40 @@
     },
     {
       "position": 4,
+      "text": "עת",
+      "lemma": "6258",
+      "morph": "HD",
+      "strongs": [
+        "H6258"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 470,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "יזנה",
+      "lemma": "2181",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H2181"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 72,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
       "text": "תַזְנוּתֶהָ",
       "lemma": "8457",
       "morph": "HNcfpc/Sp3fs",
@@ -62,7 +96,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "וָהִיא",
       "lemma": "c/1931",
       "morph": "HC/Pp3fs",
@@ -77,42 +111,20 @@
       }
     },
     {
-      "position": 6,
-      "text": "עת",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 470,
-        "ordinal": 38,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 7,
+      "position": 8,
       "text": "עַתָּה",
       "lemma": "6258",
       "morph": "HD",
       "strongs": [
         "H6258"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 475,
         "ordinal": 43,
         "reduced": 16
-      }
-    },
-    {
-      "position": 8,
-      "text": "יזנה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 72,
-        "ordinal": 36,
-        "reduced": 18
       }
     },
     {
@@ -123,7 +135,9 @@
       "strongs": [
         "H2181"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 73,
         "ordinal": 37,

@@ -1,31 +1,38 @@
 {
-  "text": "ימיטו יִמּוֹטוּ עֲלֵיהֶם גֶּחָלִים בָּאֵשׁ יַפִּלֵם בְּמַהֲמֹרוֹת בַּל יָקוּמוּ",
+  "text": "יִמּוֹטוּ ימיטו עֲלֵיהֶם גֶּחָלִים בָּאֵשׁ יַפִּלֵם בְּמַהֲמֹרוֹת בַּל יָקוּמוּ",
   "words": [
     {
       "position": 1,
-      "text": "ימיטו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 75,
-        "ordinal": 48,
-        "reduced": 21
-      }
-    },
-    {
-      "position": 2,
       "text": "יִמּוֹטוּ",
       "lemma": "4131",
       "morph": "HVNi3mp",
       "strongs": [
         "H4131"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 71,
         "ordinal": 44,
         "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "ימיטו",
+      "lemma": "4131",
+      "morph": "HVhj3mp",
+      "strongs": [
+        "H4131"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 48,
+        "reduced": 21
       }
     },
     {

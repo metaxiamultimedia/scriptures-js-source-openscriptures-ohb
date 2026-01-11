@@ -1,8 +1,25 @@
 {
-  "text": "זְכַרְיָה לְגִנְּתוֹן מְשֻׁלָּם לעדיא לְעִדּוֹא",
+  "text": "לעדיא זְכַרְיָה לְגִנְּתוֹן מְשֻׁלָּם לְעִדּוֹא",
   "words": [
     {
       "position": 1,
+      "text": "לעדיא",
+      "lemma": "l/5714",
+      "morph": "HR/Np",
+      "strongs": [
+        "H5714"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 115,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
       "text": "זְכַרְיָה",
       "lemma": "2148 a",
       "morph": "HNp",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "לְגִנְּתוֹן",
       "lemma": "l/1599",
       "morph": "HR/Np",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מְשֻׁלָּם",
       "lemma": "4918",
       "morph": "HNp",
@@ -47,18 +64,6 @@
       }
     },
     {
-      "position": 4,
-      "text": "לעדיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 115,
-        "ordinal": 43,
-        "reduced": 16
-      }
-    },
-    {
       "position": 5,
       "text": "לְעִדּוֹא",
       "lemma": "l/5714",
@@ -66,7 +71,9 @@
       "strongs": [
         "H5714"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 111,
         "ordinal": 39,

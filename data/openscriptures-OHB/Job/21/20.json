@@ -1,5 +1,5 @@
 {
-  "text": "יִרְאוּ כִּידוֹ וּמֵחֲמַת שַׁדַּי יִשְׁתֶּה עינו עֵינָיו",
+  "text": "יִרְאוּ עינו כִּידוֹ וּמֵחֲמַת שַׁדַּי יִשְׁתֶּה עֵינָיו",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "עינו",
+      "lemma": "5869 a",
+      "morph": "HNcbdc/Sp3ms",
+      "strongs": [
+        "H5869"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 136,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
       "text": "כִּידוֹ",
       "lemma": "3589",
       "morph": "HNcmsc/Sp3ms",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וּמֵחֲמַת",
       "lemma": "c/m/2534",
       "morph": "HC/R/Ncfsc",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "שַׁדַּי",
       "lemma": "7706",
       "morph": "HNp",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יִשְׁתֶּה",
       "lemma": "8354",
       "morph": "HVqi3ms",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "עינו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 136,
-        "ordinal": 46,
-        "reduced": 19
-      }
-    },
-    {
       "position": 7,
       "text": "עֵינָיו",
       "lemma": "5869 a",
@@ -96,7 +101,9 @@
       "strongs": [
         "H5869"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 146,
         "ordinal": 56,

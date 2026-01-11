@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעַשׂ אֶת הַיָּם מוּצָק עֶשֶׂר בָּאַמָּה מִשְּׂפָתוֹ עַד שְׂפָתוֹ עָגֹל סָבִיב וְחָמֵשׁ בָּאַמָּה קוֹמָתוֹ שְׁלֹשִׁים בָּאַמָּה יָסֹב אֹתוֹ סָבִיב וקוה וְקָו",
+  "text": "וַיַּעַשׂ אֶת הַיָּם מוּצָק עֶשֶׂר בָּאַמָּה מִשְּׂפָתוֹ עַד שְׂפָתוֹ עָגֹל סָבִיב וְחָמֵשׁ בָּאַמָּה קוֹמָתוֹ וקוה שְׁלֹשִׁים בָּאַמָּה יָסֹב אֹתוֹ סָבִיב וְקָו",
   "words": [
     {
       "position": 1,
@@ -213,6 +213,23 @@
     },
     {
       "position": 15,
+      "text": "וקוה",
+      "lemma": "c/6961",
+      "morph": "HC/Ncmsa",
+      "strongs": [
+        "H6961"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 117,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
       "text": "שְׁלֹשִׁים",
       "lemma": "7970",
       "morph": "HAcbpa",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בָּאַמָּה",
       "lemma": "b/520 a",
       "morph": "HRd/Ncfsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יָסֹב",
       "lemma": "5437",
       "morph": "HVqi3ms",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֹתוֹ",
       "lemma": "853",
       "morph": "HTo/Sp3ms",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "סָבִיב",
       "lemma": "5439",
       "morph": "HNcbsa",
@@ -287,18 +304,6 @@
       }
     },
     {
-      "position": 20,
-      "text": "וקוה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 117,
-        "ordinal": 36,
-        "reduced": 18
-      }
-    },
-    {
       "position": 21,
       "text": "וְקָו",
       "lemma": "c/6961",
@@ -306,7 +311,9 @@
       "strongs": [
         "H6961"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 112,
         "ordinal": 31,

@@ -1,5 +1,5 @@
 {
-  "text": "עֲוֺנֹתֵיכֶם וַעֲוֺנֹת אֲבוֹתֵיכֶם יַחְדָּו אָמַר יְהוָה אֲשֶׁר קִטְּרוּ עַל הֶהָרִים וְעַל הַגְּבָעוֹת חֵרְפוּנִי וּמַדֹּתִי פְעֻלָּתָם רִאשֹׁנָה חֵיקָם על אֶל",
+  "text": "עֲוֺנֹתֵיכֶם וַעֲוֺנֹת אֲבוֹתֵיכֶם יַחְדָּו אָמַר יְהוָה אֲשֶׁר קִטְּרוּ עַל הֶהָרִים וְעַל הַגְּבָעוֹת חֵרְפוּנִי וּמַדֹּתִי פְעֻלָּתָם רִאשֹׁנָה על חֵיקָם אֶל",
   "words": [
     {
       "position": 1,
@@ -240,6 +240,23 @@
     },
     {
       "position": 17,
+      "text": "על",
+      "lemma": "5921 a",
+      "morph": "HR",
+      "strongs": [
+        "H5921"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 100,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
       "text": "חֵיקָם",
       "lemma": "2436",
       "morph": "HNcmsc/Sp3mp",
@@ -254,18 +271,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "על",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
-      }
-    },
-    {
       "position": 19,
       "text": "אֶל",
       "lemma": "413",
@@ -273,7 +278,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 31,
         "ordinal": 13,

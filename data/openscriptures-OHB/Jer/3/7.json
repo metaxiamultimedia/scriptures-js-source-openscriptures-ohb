@@ -1,5 +1,5 @@
 {
-  "text": "וָאֹמַר אַחֲרֵי עֲשׂוֹתָהּ אֶת כָּל אֵלֶּה אֵלַי תָּשׁוּב וְלֹא שָׁבָה בָּגוֹדָה אֲחוֹתָהּ יְהוּדָה ותראה וַתֵּרֶא",
+  "text": "וָאֹמַר אַחֲרֵי עֲשׂוֹתָהּ אֶת כָּל אֵלֶּה אֵלַי תָּשׁוּב וְלֹא שָׁבָה ותראה בָּגוֹדָה אֲחוֹתָהּ יְהוּדָה וַתֵּרֶא",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "ותראה",
+      "lemma": "c/7200",
+      "morph": "HC/Vqw3fs",
+      "strongs": [
+        "H7200"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 612,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
       "text": "בָּגוֹדָה",
       "lemma": "901",
       "morph": "HAafsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֲחוֹתָהּ",
       "lemma": "269",
       "morph": "HNcfsc/Sp3fs",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יְהוּדָה",
       "lemma": "3063",
       "morph": "HNp",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "ותראה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 612,
-        "ordinal": 54,
-        "reduced": 18
-      }
-    },
-    {
       "position": 15,
       "text": "וַתֵּרֶא",
       "lemma": "c/7200",
@@ -216,7 +221,9 @@
       "strongs": [
         "H7200"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 607,
         "ordinal": 49,

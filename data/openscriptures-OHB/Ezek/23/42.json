@@ -1,5 +1,5 @@
 {
-  "text": "וְקוֹל הָמוֹן שָׁלֵו בָהּ וְאֶל אֲנָשִׁים מֵרֹב אָדָם מוּבָאִים מִמִּדְבָּר וַיִּתְּנוּ צְמִידִים אֶל יְדֵיהֶן וַעֲטֶרֶת תִּפְאֶרֶת עַל רָאשֵׁיהֶן סובאים סָבָאִים",
+  "text": "וְקוֹל הָמוֹן שָׁלֵו בָהּ וְאֶל אֲנָשִׁים מֵרֹב אָדָם מוּבָאִים סובאים מִמִּדְבָּר וַיִּתְּנוּ צְמִידִים אֶל יְדֵיהֶן וַעֲטֶרֶת תִּפְאֶרֶת עַל רָאשֵׁיהֶן סָבָאִים",
   "words": [
     {
       "position": 1,
@@ -135,6 +135,23 @@
     },
     {
       "position": 10,
+      "text": "סובאים",
+      "lemma": "5433 b",
+      "morph": "HVqrmpa",
+      "strongs": [
+        "H5433"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 119,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
       "text": "מִמִּדְבָּר",
       "lemma": "m/4057 b",
       "morph": "HR/Ncmsa",
@@ -149,7 +166,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וַיִּתְּנוּ",
       "lemma": "c/5414",
       "morph": "HC/Vqw3mp",
@@ -164,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "צְמִידִים",
       "lemma": "6781 a",
       "morph": "HNcmpa",
@@ -179,7 +196,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יְדֵיהֶן",
       "lemma": "3027",
       "morph": "HNcbdc/Sp3fp",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וַעֲטֶרֶת",
       "lemma": "c/5850",
       "morph": "HC/Ncfsc",
@@ -224,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "תִּפְאֶרֶת",
       "lemma": "8597",
       "morph": "HNcfsa",
@@ -239,7 +256,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -254,7 +271,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "רָאשֵׁיהֶן",
       "lemma": "7218 a",
       "morph": "HNcmpc/Sp3fp",
@@ -269,18 +286,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "סובאים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 119,
-        "ordinal": 47,
-        "reduced": 20
-      }
-    },
-    {
       "position": 20,
       "text": "סָבָאִים",
       "lemma": "5433 b",
@@ -288,7 +293,9 @@
       "strongs": [
         "H5433"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 113,
         "ordinal": 41,

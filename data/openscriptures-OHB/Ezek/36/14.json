@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵן אָדָם לֹא תֹאכְלִי עוֹד לֹא עוֹד נְאֻם אֲדֹנָי יְהוִה וגויך וְגוֹיַיִךְ תכשלי תְשַׁכְּלִי",
+  "text": "לָכֵן אָדָם לֹא תֹאכְלִי עוֹד וגויך לֹא תכשלי עוֹד נְאֻם אֲדֹנָי יְהוִה וְגוֹיַיִךְ תְשַׁכְּלִי",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "וגויך",
+      "lemma": "c/1471 a",
+      "morph": "HC/Ncmsc/Sp2fs",
+      "strongs": [
+        "H1471"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -92,7 +109,24 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
+      "text": "תכשלי",
+      "lemma": "3782",
+      "morph": "HVpi2fs",
+      "strongs": [
+        "H3782"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 760,
+        "ordinal": 76,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
       "text": "עוֹד",
       "lemma": "5750",
       "morph": "HD",
@@ -107,7 +141,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "נְאֻם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -122,7 +156,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "אֲדֹנָי",
       "lemma": "136",
       "morph": "HNcmpc/Sp1cs",
@@ -137,7 +171,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "יְהוִה",
       "lemma": "3069",
       "morph": "HNp",
@@ -152,42 +186,20 @@
       }
     },
     {
-      "position": 11,
-      "text": "וגויך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 36,
-        "reduced": 18
-      }
-    },
-    {
-      "position": 12,
+      "position": 13,
       "text": "וְגוֹיַיִךְ",
       "lemma": "c/1471 a",
       "morph": "HC/Ncmpc/Sp2fs",
       "strongs": [
         "H1471"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 55,
         "ordinal": 46,
         "reduced": 19
-      }
-    },
-    {
-      "position": 13,
-      "text": "תכשלי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 760,
-        "ordinal": 76,
-        "reduced": 13
       }
     },
     {
@@ -198,7 +210,9 @@
       "strongs": [
         "H7921"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 760,
         "ordinal": 76,

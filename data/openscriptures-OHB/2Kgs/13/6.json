@@ -1,5 +1,5 @@
 {
-  "text": "אַךְ לֹא סָרוּ מֵחַטֹּאות בֵּית יָרָבְעָם אֲשֶׁר אֶת יִשְׂרָאֵל בָּהּ הָלָךְ וְגַם הָאֲשֵׁרָה עָמְדָה בְּשֹׁמְרוֹן החטי הֶחֱטִיא",
+  "text": "אַךְ לֹא סָרוּ מֵחַטֹּאות בֵּית יָרָבְעָם אֲשֶׁר החטי אֶת יִשְׂרָאֵל בָּהּ הָלָךְ וְגַם הָאֲשֵׁרָה עָמְדָה בְּשֹׁמְרוֹן הֶחֱטִיא",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,23 @@
     },
     {
       "position": 8,
+      "text": "החטי",
+      "lemma": "2398",
+      "morph": "HVhp3ms",
+      "strongs": [
+        "H2398"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בָּהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
@@ -149,7 +166,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הָלָךְ",
       "lemma": "1980",
       "morph": "HVqp3ms",
@@ -164,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְגַם",
       "lemma": "c/1571",
       "morph": "HC/Ta",
@@ -179,7 +196,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הָאֲשֵׁרָה",
       "lemma": "d/842",
       "morph": "HTd/Np",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עָמְדָה",
       "lemma": "5975",
       "morph": "HVqp3fs",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בְּשֹׁמְרוֹן",
       "lemma": "b/8111",
       "morph": "HR/Np",
@@ -224,18 +241,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "החטי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 32,
-        "ordinal": 32,
-        "reduced": 23
-      }
-    },
-    {
       "position": 17,
       "text": "הֶחֱטִיא",
       "lemma": "2398",
@@ -243,7 +248,9 @@
       "strongs": [
         "H2398"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 33,
         "ordinal": 33,

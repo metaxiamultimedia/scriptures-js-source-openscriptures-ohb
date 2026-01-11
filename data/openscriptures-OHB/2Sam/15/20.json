@@ -1,5 +1,5 @@
 {
-  "text": "תְּמוֹל בּוֹאֶךָ וְהַיּוֹם עִמָּנוּ לָלֶכֶת וַאֲנִי הוֹלֵךְ עַל אֲשֶׁר אֲנִי הוֹלֵךְ שׁוּב וְהָשֵׁב אֶת אַחֶיךָ עִמָּךְ חֶסֶד וֶאֱמֶת אנועך אֲנִיעֲךָ",
+  "text": "תְּמוֹל בּוֹאֶךָ וְהַיּוֹם אנועך עִמָּנוּ לָלֶכֶת וַאֲנִי הוֹלֵךְ עַל אֲשֶׁר אֲנִי הוֹלֵךְ שׁוּב וְהָשֵׁב אֶת אַחֶיךָ עִמָּךְ חֶסֶד וֶאֱמֶת אֲנִיעֲךָ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "אנועך",
+      "lemma": "5128",
+      "morph": "HVqi1cs/Sp2ms",
+      "strongs": [
+        "H5128"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 147,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
       "text": "עִמָּנוּ",
       "lemma": "5973 a",
       "morph": "HR/Sp1cp",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לָלֶכֶת",
       "lemma": "l/3212",
       "morph": "HR/Vqc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וַאֲנִי",
       "lemma": "c/589",
       "morph": "HC/Pp1cs",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הוֹלֵךְ",
       "lemma": "1980",
       "morph": "HVqrmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֲנִי",
       "lemma": "589",
       "morph": "HPp1cs",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הוֹלֵךְ",
       "lemma": "1980",
       "morph": "HVqrmsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "שׁוּב",
       "lemma": "7725",
       "morph": "HVqv2ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְהָשֵׁב",
       "lemma": "c/7725",
       "morph": "HC/Vhv2ms",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אַחֶיךָ",
       "lemma": "251",
       "morph": "HNcmpc/Sp2ms",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עִמָּךְ",
       "lemma": "5973 a",
       "morph": "HR/Sp2fs",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "חֶסֶד",
       "lemma": "2617 a",
       "morph": "HNcmsa",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וֶאֱמֶת",
       "lemma": "c/571",
       "morph": "HC/Ncfsa",
@@ -272,18 +289,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "אנועך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 147,
-        "ordinal": 48,
-        "reduced": 21
-      }
-    },
-    {
       "position": 20,
       "text": "אֲנִיעֲךָ",
       "lemma": "5128",
@@ -291,7 +296,9 @@
       "strongs": [
         "H5128"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 151,
         "ordinal": 52,

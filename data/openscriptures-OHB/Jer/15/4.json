@@ -1,5 +1,5 @@
 {
-  "text": "וּנְתַתִּים לְכֹל מַמְלְכוֹת הָאָרֶץ בִּגְלַל מְנַשֶּׁה בֶן יְחִזְקִיָּהוּ מֶלֶךְ יְהוּדָה עַל אֲשֶׁר עָשָׂה בִּירוּשָׁלִָם לזועה לְזַעֲוָה",
+  "text": "וּנְתַתִּים לזועה לְכֹל מַמְלְכוֹת הָאָרֶץ בִּגְלַל מְנַשֶּׁה בֶן יְחִזְקִיָּהוּ מֶלֶךְ יְהוּדָה עַל אֲשֶׁר עָשָׂה בִּירוּשָׁלִָם לְזַעֲוָה",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "לזועה",
+      "lemma": "l/2113",
+      "morph": "HR/Ncfsa",
+      "strongs": [
+        "H2113"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 118,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
       "text": "לְכֹל",
       "lemma": "l/3605",
       "morph": "HR/Ncmsc",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מַמְלְכוֹת",
       "lemma": "4467",
       "morph": "HNcfpc",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בִּגְלַל",
       "lemma": "b/1558",
       "morph": "HR/Ncmsc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מְנַשֶּׁה",
       "lemma": "4519",
       "morph": "HNp",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בֶן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יְחִזְקִיָּהוּ",
       "lemma": "2396",
       "morph": "HNp",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מֶלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsc",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יְהוּדָה",
       "lemma": "3063",
       "morph": "HNp",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עָשָׂה",
       "lemma": "6213 a",
       "morph": "HVqp3ms",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בִּירוּשָׁלִָם",
       "lemma": "b/3389",
       "morph": "HR/Np",
@@ -212,18 +229,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "לזועה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 118,
-        "ordinal": 46,
-        "reduced": 28
-      }
-    },
-    {
       "position": 16,
       "text": "לְזַעֲוָה",
       "lemma": "l/2189",
@@ -231,7 +236,9 @@
       "strongs": [
         "H2189"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 118,
         "ordinal": 46,

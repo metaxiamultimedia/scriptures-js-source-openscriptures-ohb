@@ -1,5 +1,5 @@
 {
-  "text": "אָמַר יְהוָה אִם לֹא לְטוֹב אִם לוֹא הִפְגַּעְתִּי בְךָ בְּעֵת רָעָה וּבְעֵת צָרָה אֶת הָאֹיֵב שרותך שֵׁרִיתִיךָ",
+  "text": "אָמַר יְהוָה אִם לֹא שרותך לְטוֹב אִם לוֹא הִפְגַּעְתִּי בְךָ בְּעֵת רָעָה וּבְעֵת צָרָה אֶת הָאֹיֵב שֵׁרִיתִיךָ",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "שרותך",
+      "lemma": "8293",
+      "morph": "HVqp1cs/Sp2ms",
+      "strongs": [
+        "H8293"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 926,
+        "ordinal": 80,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
       "text": "לְטוֹב",
       "lemma": "l/2896 b",
       "morph": "HR/Aamsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אִם",
       "lemma": "518 a",
       "morph": "HC",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לוֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הִפְגַּעְתִּי",
       "lemma": "6293",
       "morph": "HVhp1cs",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בְךָ",
       "lemma": "b",
       "morph": "HR/Sp2ms",
@@ -134,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בְּעֵת",
       "lemma": "b/6256",
       "morph": "HR/Ncbsc",
@@ -149,7 +166,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "רָעָה",
       "lemma": "7451 a",
       "morph": "HAafsa",
@@ -164,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וּבְעֵת",
       "lemma": "c/b/6256",
       "morph": "HC/R/Ncbsc",
@@ -179,7 +196,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "צָרָה",
       "lemma": "6869 b",
       "morph": "HNcfsa",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הָאֹיֵב",
       "lemma": "d/341",
       "morph": "HTd/Vqrmsa",
@@ -224,18 +241,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "שרותך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 926,
-        "ordinal": 80,
-        "reduced": 17
-      }
-    },
-    {
       "position": 17,
       "text": "שֵׁרִיתִיךָ",
       "lemma": "8281",
@@ -243,7 +248,9 @@
       "strongs": [
         "H8281"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 940,
         "ordinal": 94,

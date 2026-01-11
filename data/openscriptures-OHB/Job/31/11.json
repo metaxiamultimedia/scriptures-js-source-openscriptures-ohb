@@ -1,5 +1,5 @@
 {
-  "text": "כִּי זִמָּה עָוֺן פְּלִילִים הוא הִיא והיא וְהוּא",
+  "text": "כִּי הוא זִמָּה והיא עָוֺן פְּלִילִים הִיא וְהוּא",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "הוא",
+      "lemma": "1931",
+      "morph": "HPp3ms",
+      "strongs": [
+        "H1931"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 12,
+        "ordinal": 12,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
       "text": "זִמָּה",
       "lemma": "2154",
       "morph": "HNcfsa",
@@ -32,7 +49,24 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
+      "text": "והיא",
+      "lemma": "c/1931",
+      "morph": "HC/Pp3fs",
+      "strongs": [
+        "H1931"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 22,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
       "text": "עָוֺן",
       "lemma": "5771",
       "morph": "HNcbsa",
@@ -47,7 +81,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "פְּלִילִים",
       "lemma": "6414",
       "morph": "HNcmpa",
@@ -62,42 +96,20 @@
       }
     },
     {
-      "position": 5,
-      "text": "הוא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 12,
-        "ordinal": 12,
-        "reduced": 12
-      }
-    },
-    {
-      "position": 6,
+      "position": 7,
       "text": "הִיא",
       "lemma": "1931",
       "morph": "HPp3fs",
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 16,
         "ordinal": 16,
         "reduced": 7
-      }
-    },
-    {
-      "position": 7,
-      "text": "והיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 22,
-        "ordinal": 22,
-        "reduced": 13
       }
     },
     {
@@ -108,7 +120,9 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 18,
         "ordinal": 18,

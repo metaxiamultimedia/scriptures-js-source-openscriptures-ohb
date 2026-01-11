@@ -1,31 +1,38 @@
 {
-  "text": "אנתה אַנְתְּ הוּא מַלְכָּא דִּי רְבַית וּתְקֵפְתְּ וּרְבוּתָךְ רְבָת וּמְטָת לִשְׁמַיָּא וְשָׁלְטָנָךְ לְסוֹף אַרְעָא",
+  "text": "אַנְתְּ אנתה הוּא מַלְכָּא דִּי רְבַית וּתְקֵפְתְּ וּרְבוּתָךְ רְבָת וּמְטָת לִשְׁמַיָּא וְשָׁלְטָנָךְ לְסוֹף אַרְעָא",
   "words": [
     {
       "position": 1,
-      "text": "אנתה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 456,
-        "ordinal": 42,
-        "reduced": 15
-      }
-    },
-    {
-      "position": 2,
       "text": "אַנְתְּ",
       "lemma": "607",
       "morph": "APp2ms",
       "strongs": [
         "H607"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 451,
         "ordinal": 37,
         "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "אנתה",
+      "lemma": "607",
+      "morph": "APp2ms",
+      "strongs": [
+        "H607"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 456,
+        "ordinal": 42,
+        "reduced": 15
       }
     },
     {

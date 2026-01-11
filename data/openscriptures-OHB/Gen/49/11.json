@@ -1,5 +1,5 @@
 {
-  "text": "אֹסְרִי לַגֶּפֶן וְלַשֹּׂרֵקָה בְּנִי אֲתֹנוֹ כִּבֵּס בַּיַּיִן לְבֻשׁוֹ וּבְדַם עֲנָבִים עירה עִירוֹ סותה סוּתוֹ",
+  "text": "אֹסְרִי לַגֶּפֶן עירה וְלַשֹּׂרֵקָה בְּנִי אֲתֹנוֹ כִּבֵּס בַּיַּיִן לְבֻשׁוֹ וּבְדַם עֲנָבִים סותה עִירוֹ סוּתוֹ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "עירה",
+      "lemma": "5895",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H5895"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 285,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
       "text": "וְלַשֹּׂרֵקָה",
       "lemma": "c/l/8321 b",
       "morph": "HC/Rd/Ncfsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בְּנִי",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֲתֹנוֹ",
       "lemma": "860",
       "morph": "HNcfsc/Sp3ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כִּבֵּס",
       "lemma": "3526",
       "morph": "HVpp3ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בַּיַּיִן",
       "lemma": "b/3196",
       "morph": "HRd/Ncmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לְבֻשׁוֹ",
       "lemma": "3830",
       "morph": "HNcmsc/Sp3ms",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וּבְדַם",
       "lemma": "c/b/1818",
       "morph": "HC/R/Ncmsc",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עֲנָבִים",
       "lemma": "6025",
       "morph": "HNcmpa",
@@ -152,42 +169,37 @@
       }
     },
     {
-      "position": 11,
-      "text": "עירה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 12,
+      "text": "סותה",
+      "lemma": "5497",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H5497"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
-        "standard": 285,
-        "ordinal": 51,
-        "reduced": 15
+        "standard": 471,
+        "ordinal": 48,
+        "reduced": 21
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "עִירוֹ",
       "lemma": "5895",
       "morph": "HNcmsc/Sp3ms",
       "strongs": [
         "H5895"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 286,
         "ordinal": 52,
         "reduced": 16
-      }
-    },
-    {
-      "position": 13,
-      "text": "סותה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 471,
-        "ordinal": 48,
-        "reduced": 21
       }
     },
     {
@@ -198,7 +210,9 @@
       "strongs": [
         "H5497"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 472,
         "ordinal": 49,

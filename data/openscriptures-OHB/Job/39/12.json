@@ -1,5 +1,5 @@
 {
-  "text": "הֲתַאֲמִין בּוֹ כִּי זַרְעֶךָ וְגָרְנְךָ יֶאֱסֹף ישוב יָשִׁיב",
+  "text": "הֲתַאֲמִין בּוֹ כִּי ישוב זַרְעֶךָ וְגָרְנְךָ יֶאֱסֹף יָשִׁיב",
   "words": [
     {
       "position": 1,
@@ -45,6 +45,23 @@
     },
     {
       "position": 4,
+      "text": "ישוב",
+      "lemma": "7725",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 318,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
       "text": "זַרְעֶךָ",
       "lemma": "2233",
       "morph": "HNcmsc/Sp2ms",
@@ -59,7 +76,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְגָרְנְךָ",
       "lemma": "c/1637",
       "morph": "HC/Ncbsc/Sp2ms",
@@ -74,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יֶאֱסֹף",
       "lemma": "622",
       "morph": "HVqi3ms",
@@ -89,18 +106,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "ישוב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 318,
-        "ordinal": 39,
-        "reduced": 12
-      }
-    },
-    {
       "position": 8,
       "text": "יָשִׁיב",
       "lemma": "7725",
@@ -108,7 +113,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 322,
         "ordinal": 43,

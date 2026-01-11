@@ -1,5 +1,5 @@
 {
-  "text": "וַתְּהִי לָכֶם חָזוּת הַכֹּל כְּדִבְרֵי הַסֵּפֶר הֶחָתוּם אֲשֶׁר יִתְּנוּ אֹתוֹ אֶל יוֹדֵעַ לֵאמֹר קְרָא נָא זֶה וְאָמַר לֹא אוּכַל כִּי חָתוּם הוּא הספר סֵפֶר",
+  "text": "וַתְּהִי לָכֶם חָזוּת הַכֹּל כְּדִבְרֵי הַסֵּפֶר הֶחָתוּם אֲשֶׁר יִתְּנוּ אֹתוֹ אֶל יוֹדֵעַ הספר לֵאמֹר קְרָא נָא זֶה וְאָמַר לֹא אוּכַל כִּי חָתוּם הוּא סֵפֶר",
   "words": [
     {
       "position": 1,
@@ -180,6 +180,23 @@
     },
     {
       "position": 13,
+      "text": "הספר",
+      "lemma": "d/5612 a",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H5612"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 345,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
       "text": "לֵאמֹר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "קְרָא",
       "lemma": "7121",
       "morph": "HVqv2ms",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "נָא",
       "lemma": "4994",
       "morph": "HTe",
@@ -224,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "זֶה",
       "lemma": "2088",
       "morph": "HPdxms",
@@ -239,7 +256,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְאָמַר",
       "lemma": "c/559",
       "morph": "HC/Vqq3ms",
@@ -254,7 +271,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -269,7 +286,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אוּכַל",
       "lemma": "3201",
       "morph": "HVqi1cs",
@@ -284,7 +301,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -299,7 +316,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "חָתוּם",
       "lemma": "2856",
       "morph": "HVqsmsa",
@@ -314,7 +331,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "הוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -329,18 +346,6 @@
       }
     },
     {
-      "position": 23,
-      "text": "הספר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 345,
-        "ordinal": 57,
-        "reduced": 21
-      }
-    },
-    {
       "position": 24,
       "text": "סֵפֶר",
       "lemma": "5612 a",
@@ -348,7 +353,9 @@
       "strongs": [
         "H5612"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 340,
         "ordinal": 52,

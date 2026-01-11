@@ -1,5 +1,5 @@
 {
-  "text": "וְלֹא הוֹרִישׁ מְנַשֶּׁה אֶת בֵּית שְׁאָן וְאֶת בְּנוֹתֶיהָ וְאֶת תַּעְנַךְ וְאֶת בְּנֹתֶיהָ וְאֶת דוֹר וְאֶת בְּנוֹתֶיהָ וְאֶת יוֹשְׁבֵי יִבְלְעָם וְאֶת בְּנֹתֶיהָ וְאֶת יוֹשְׁבֵי מְגִדּוֹ וְאֶת בְּנוֹתֶיהָ וַיּוֹאֶל הַכְּנַעֲנִי לָשֶׁבֶת בָּאָרֶץ הַזֹּאת ישב יֹשְׁבֵי",
+  "text": "וְלֹא הוֹרִישׁ מְנַשֶּׁה אֶת בֵּית שְׁאָן וְאֶת בְּנוֹתֶיהָ וְאֶת תַּעְנַךְ וְאֶת בְּנֹתֶיהָ וְאֶת ישב דוֹר וְאֶת בְּנוֹתֶיהָ וְאֶת יוֹשְׁבֵי יִבְלְעָם וְאֶת בְּנֹתֶיהָ וְאֶת יוֹשְׁבֵי מְגִדּוֹ וְאֶת בְּנוֹתֶיהָ וַיּוֹאֶל הַכְּנַעֲנִי לָשֶׁבֶת בָּאָרֶץ הַזֹּאת יֹשְׁבֵי",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "ישב",
+      "lemma": "3427",
+      "morph": "HVqrmsc",
+      "strongs": [
+        "H3427"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 312,
+        "ordinal": 33,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
       "text": "דוֹר",
       "lemma": "1756",
       "morph": "HNp",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בְּנוֹתֶיהָ",
       "lemma": "1323",
       "morph": "HNcfpc/Sp3fs",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "יוֹשְׁבֵי",
       "lemma": "3427",
       "morph": "HVqrmpc",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "יִבְלְעָם",
       "lemma": "2991",
       "morph": "HNp",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "בְּנֹתֶיהָ",
       "lemma": "1323",
       "morph": "HNcfpc/Sp3fs",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -332,7 +349,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "יוֹשְׁבֵי",
       "lemma": "3427",
       "morph": "HVqrmpc",
@@ -347,7 +364,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "מְגִדּוֹ",
       "lemma": "4023",
       "morph": "HNp",
@@ -362,7 +379,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -377,7 +394,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "בְּנוֹתֶיהָ",
       "lemma": "1323",
       "morph": "HNcfpc/Sp3fs",
@@ -392,7 +409,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "וַיּוֹאֶל",
       "lemma": "c/2974",
       "morph": "HC/Vhw3ms",
@@ -407,7 +424,7 @@
       }
     },
     {
-      "position": 28,
+      "position": 29,
       "text": "הַכְּנַעֲנִי",
       "lemma": "d/3669 a",
       "morph": "HTd/Ngmsa",
@@ -422,7 +439,7 @@
       }
     },
     {
-      "position": 29,
+      "position": 30,
       "text": "לָשֶׁבֶת",
       "lemma": "l/3427",
       "morph": "HR/Vqc",
@@ -437,7 +454,7 @@
       }
     },
     {
-      "position": 30,
+      "position": 31,
       "text": "בָּאָרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -452,7 +469,7 @@
       }
     },
     {
-      "position": 31,
+      "position": 32,
       "text": "הַזֹּאת",
       "lemma": "d/2063",
       "morph": "HTd/Pdxfs",
@@ -467,18 +484,6 @@
       }
     },
     {
-      "position": 32,
-      "text": "ישב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 312,
-        "ordinal": 33,
-        "reduced": 6
-      }
-    },
-    {
       "position": 33,
       "text": "יֹשְׁבֵי",
       "lemma": "3427",
@@ -486,7 +491,9 @@
       "strongs": [
         "H3427"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 322,
         "ordinal": 43,

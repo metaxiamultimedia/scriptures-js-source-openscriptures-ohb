@@ -1,8 +1,25 @@
 {
-  "text": "לֹא תַעֲשֶׂה דָבָר אֵין חֵטְא מָוֶת כִּי כַּאֲשֶׁר יָקוּם אִישׁ עַל רֵעֵהוּ וּרְצָחוֹ נֶפֶשׁ כֵּן הַדָּבָר הַזֶּה ולנער וְלַנַּעֲרָה לנער לַנַּעֲרָה",
+  "text": "ולנער לֹא תַעֲשֶׂה דָבָר אֵין לנער חֵטְא מָוֶת כִּי כַּאֲשֶׁר יָקוּם אִישׁ עַל רֵעֵהוּ וּרְצָחוֹ נֶפֶשׁ כֵּן הַדָּבָר הַזֶּה וְלַנַּעֲרָה לַנַּעֲרָה",
   "words": [
     {
       "position": 1,
+      "text": "ולנער",
+      "lemma": "c/l/5291",
+      "morph": "HC/Rd/Ncfsa",
+      "strongs": [
+        "H5291"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 356,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "תַעֲשֶׂה",
       "lemma": "6213 a",
       "morph": "HVqi2ms",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "דָבָר",
       "lemma": "1697",
       "morph": "HNcmsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אֵין",
       "lemma": "369",
       "morph": "HTn",
@@ -62,7 +79,24 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
+      "text": "לנער",
+      "lemma": "l/5291",
+      "morph": "HRd/Ncfsa",
+      "strongs": [
+        "H5291"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 350,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
       "text": "חֵטְא",
       "lemma": "2399",
       "morph": "HNcmsc",
@@ -77,7 +111,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "מָוֶת",
       "lemma": "4194",
       "morph": "HNcmsa",
@@ -92,7 +126,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -107,7 +141,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "כַּאֲשֶׁר",
       "lemma": "k/834 d",
       "morph": "HR/Tr",
@@ -122,7 +156,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "יָקוּם",
       "lemma": "6965 b",
       "morph": "HVqi3ms",
@@ -137,7 +171,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "אִישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -152,7 +186,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -167,7 +201,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "רֵעֵהוּ",
       "lemma": "7453",
       "morph": "HNcmsc/Sp3ms",
@@ -182,7 +216,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "וּרְצָחוֹ",
       "lemma": "c/7523",
       "morph": "HC/Vqq3ms/Sp3ms",
@@ -197,7 +231,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "נֶפֶשׁ",
       "lemma": "5315",
       "morph": "HNcbsa",
@@ -212,7 +246,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "כֵּן",
       "lemma": "3651 c",
       "morph": "HTm",
@@ -227,7 +261,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "הַדָּבָר",
       "lemma": "d/1697",
       "morph": "HTd/Ncmsa",
@@ -242,7 +276,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "הַזֶּה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -257,42 +291,20 @@
       }
     },
     {
-      "position": 18,
-      "text": "ולנער",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 356,
-        "ordinal": 68,
-        "reduced": 23
-      }
-    },
-    {
-      "position": 19,
+      "position": 20,
       "text": "וְלַנַּעֲרָה",
       "lemma": "c/l/5291",
       "morph": "HC/Rd/Ncfsa",
       "strongs": [
         "H5291"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 361,
         "ordinal": 73,
         "reduced": 28
-      }
-    },
-    {
-      "position": 20,
-      "text": "לנער",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 350,
-        "ordinal": 62,
-        "reduced": 17
       }
     },
     {
@@ -303,7 +315,9 @@
       "strongs": [
         "H5291"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 355,
         "ordinal": 67,

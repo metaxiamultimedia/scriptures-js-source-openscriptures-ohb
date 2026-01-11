@@ -1,5 +1,5 @@
 {
-  "text": "וְהָעַמּוּדִים שְׁמֹנֶה עֶשְׂרֵה אַמָּה הָעַמֻּד הָאֶחָד וְחוּט שְׁתֵּים עֶשְׂרֵה אַמָּה יְסֻבֶּנּוּ וְעָבְיוֹ אַרְבַּע אַצְבָּעוֹת נָבוּב קומה קוֹמַת",
+  "text": "וְהָעַמּוּדִים שְׁמֹנֶה עֶשְׂרֵה אַמָּה קומה הָעַמֻּד הָאֶחָד וְחוּט שְׁתֵּים עֶשְׂרֵה אַמָּה יְסֻבֶּנּוּ וְעָבְיוֹ אַרְבַּע אַצְבָּעוֹת נָבוּב קוֹמַת",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "קומה",
+      "lemma": "6967",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H6967"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 151,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
       "text": "הָעַמֻּד",
       "lemma": "d/5982",
       "morph": "HTd/Ncmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הָאֶחָד",
       "lemma": "d/259",
       "morph": "HTd/Acmsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְחוּט",
       "lemma": "c/2339",
       "morph": "HC/Ncmsc",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "שְׁתֵּים",
       "lemma": "8147",
       "morph": "HAcfda",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "עֶשְׂרֵה",
       "lemma": "6240",
       "morph": "HAcfsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אַמָּה",
       "lemma": "520 a",
       "morph": "HNcfsa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְסֻבֶּנּוּ",
       "lemma": "5437",
       "morph": "HVqi3ms/Sp3ms",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְעָבְיוֹ",
       "lemma": "c/5672",
       "morph": "HC/Ncmsc/Sp3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אַרְבַּע",
       "lemma": "702",
       "morph": "HAcfsa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אַצְבָּעוֹת",
       "lemma": "676",
       "morph": "HNcfpa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "נָבוּב",
       "lemma": "5014",
       "morph": "HVqsmsa",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "קומה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 151,
-        "ordinal": 43,
-        "reduced": 16
-      }
-    },
-    {
       "position": 17,
       "text": "קוֹמַת",
       "lemma": "6967",
@@ -246,7 +251,9 @@
       "strongs": [
         "H6967"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 546,
         "ordinal": 60,

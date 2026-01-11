@@ -1,8 +1,25 @@
 {
-  "text": "עֲוֺנֹתֵינוּ לְנֶגְדֶּךָ עֲלֻמֵנוּ לִמְאוֹר פָּנֶיךָ שת שַׁתָּה",
+  "text": "שת עֲוֺנֹתֵינוּ לְנֶגְדֶּךָ עֲלֻמֵנוּ לִמְאוֹר פָּנֶיךָ שַׁתָּה",
   "words": [
     {
       "position": 1,
+      "text": "שת",
+      "lemma": "7896",
+      "morph": "HVqp2ms",
+      "strongs": [
+        "H7896"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 700,
+        "ordinal": 43,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
       "text": "עֲוֺנֹתֵינוּ",
       "lemma": "5771",
       "morph": "HNcbpc/Sp1cp",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "לְנֶגְדֶּךָ",
       "lemma": "l/5048",
       "morph": "HR/R/Sp2ms",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "עֲלֻמֵנוּ",
       "lemma": "5956",
       "morph": "HVqsmsc/Sp1cp",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לִמְאוֹר",
       "lemma": "l/3974",
       "morph": "HR/Ncmsc",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "פָּנֶיךָ",
       "lemma": "6440",
       "morph": "HNcbpc/Sp2ms",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "שת",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 700,
-        "ordinal": 43,
-        "reduced": 7
-      }
-    },
-    {
       "position": 7,
       "text": "שַׁתָּה",
       "lemma": "7896",
@@ -96,7 +101,9 @@
       "strongs": [
         "H7896"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 705,
         "ordinal": 48,

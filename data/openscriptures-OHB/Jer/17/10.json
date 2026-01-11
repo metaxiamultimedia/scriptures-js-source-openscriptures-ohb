@@ -1,5 +1,5 @@
 {
-  "text": "אֲנִי יְהוָה חֹקֵר לֵב בֹּחֵן כְּלָיוֹת וְלָתֵת לְאִישׁ כִּפְרִי מַעֲלָלָיו כדרכו כִּדְרָכָיו",
+  "text": "אֲנִי יְהוָה חֹקֵר לֵב בֹּחֵן כְּלָיוֹת וְלָתֵת לְאִישׁ כדרכו כִּפְרִי מַעֲלָלָיו כִּדְרָכָיו",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "כדרכו",
+      "lemma": "k/1870",
+      "morph": "HR/Ncbpc/Sp3ms",
+      "strongs": [
+        "H1870"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 250,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
       "text": "כִּפְרִי",
       "lemma": "k/6529",
       "morph": "HR/Ncmsc",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "מַעֲלָלָיו",
       "lemma": "4611",
       "morph": "HNcmpc/Sp3ms",
@@ -152,18 +169,6 @@
       }
     },
     {
-      "position": 11,
-      "text": "כדרכו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 250,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
       "position": 12,
       "text": "כִּדְרָכָיו",
       "lemma": "k/1870",
@@ -171,7 +176,9 @@
       "strongs": [
         "H1870"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 260,
         "ordinal": 62,

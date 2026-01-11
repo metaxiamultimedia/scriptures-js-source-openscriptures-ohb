@@ -1,5 +1,5 @@
 {
-  "text": "וְאִם לוֹא הַשְּׂחֹק הָיָה לְךָ יִשְׂרָאֵל אִם בְּגַנָּבִים כִּי מִדֵּי דְבָרֶיךָ בּוֹ תִּתְנוֹדָד נמצאה נִמְצָא",
+  "text": "וְאִם לוֹא הַשְּׂחֹק הָיָה לְךָ יִשְׂרָאֵל אִם בְּגַנָּבִים נמצאה כִּי מִדֵּי דְבָרֶיךָ בּוֹ תִּתְנוֹדָד נִמְצָא",
   "words": [
     {
       "position": 1,
@@ -120,6 +120,23 @@
     },
     {
       "position": 9,
+      "text": "נמצאה",
+      "lemma": "4672",
+      "morph": "HVNp3fs",
+      "strongs": [
+        "H4672"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 186,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -134,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "מִדֵּי",
       "lemma": "m/1767",
       "morph": "HR/Ncmsc",
@@ -149,7 +166,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "דְבָרֶיךָ",
       "lemma": "1697",
       "morph": "HNcmpc/Sp2ms",
@@ -164,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בּוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
@@ -176,7 +193,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "תִּתְנוֹדָד",
       "lemma": "5110",
       "morph": "HVri2ms",
@@ -191,18 +208,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "נמצאה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 186,
-        "ordinal": 51,
-        "reduced": 24
-      }
-    },
-    {
       "position": 15,
       "text": "נִמְצָא",
       "lemma": "4672",
@@ -210,7 +215,9 @@
       "strongs": [
         "H4672"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 181,
         "ordinal": 46,

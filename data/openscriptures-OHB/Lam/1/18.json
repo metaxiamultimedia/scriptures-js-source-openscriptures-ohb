@@ -1,5 +1,5 @@
 {
-  "text": "צַדִּיק הוּא יְהוָה כִּי פִיהוּ מָרִיתִי שִׁמְעוּ נָא כָל וּרְאוּ מַכְאֹבִי בְּתוּלֹתַי וּבַחוּרַי הָלְכוּ בַשֶּׁבִי עמים הָעַמִּים",
+  "text": "צַדִּיק הוּא יְהוָה כִּי פִיהוּ מָרִיתִי שִׁמְעוּ נָא כָל עמים וּרְאוּ מַכְאֹבִי בְּתוּלֹתַי וּבַחוּרַי הָלְכוּ בַשֶּׁבִי הָעַמִּים",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "עמים",
+      "lemma": "5971 a",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H5971"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 160,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
       "text": "וּרְאוּ",
       "lemma": "c/7200",
       "morph": "HC/Vqv2mp",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מַכְאֹבִי",
       "lemma": "4341",
       "morph": "HNcmsc/Sp1cs",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בְּתוּלֹתַי",
       "lemma": "1330",
       "morph": "HNcfpc/Sp1cs",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וּבַחוּרַי",
       "lemma": "c/970",
       "morph": "HC/Ncmpc/Sp1cs",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הָלְכוּ",
       "lemma": "1980",
       "morph": "HVqp3cp",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בַשֶּׁבִי",
       "lemma": "b/7628 a",
       "morph": "HRd/Ncbsa",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "עמים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 160,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
       "position": 17,
       "text": "הָעַמִּים",
       "lemma": "d/5971 a",
@@ -246,7 +251,9 @@
       "strongs": [
         "H5971"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 165,
         "ordinal": 57,

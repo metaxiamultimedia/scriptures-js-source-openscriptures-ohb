@@ -1,5 +1,5 @@
 {
-  "text": "יְהֹוָה אֶרֶךְ אַפַּיִם כֹּחַ וְנַקֵּה לֹא יְנַקֶּה יְהוָה בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ וְעָנָן אֲבַק רַגְלָיו וגדול וּגְדָל",
+  "text": "יְהֹוָה אֶרֶךְ אַפַּיִם וגדול כֹּחַ וְנַקֵּה לֹא יְנַקֶּה יְהוָה בְּסוּפָה וּבִשְׂעָרָה דַּרְכּוֹ וְעָנָן אֲבַק רַגְלָיו וּגְדָל",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "וגדול",
+      "lemma": "c/1419 a",
+      "morph": "HC/Aamsc",
+      "strongs": [
+        "H1419"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 31,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
       "text": "כֹּחַ",
       "lemma": "3581 b",
       "morph": "HNcmsa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְנַקֵּה",
       "lemma": "c/5352",
       "morph": "HC/Vpa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְנַקֶּה",
       "lemma": "5352",
       "morph": "HVpi3ms",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בְּסוּפָה",
       "lemma": "b/5492 a",
       "morph": "HR/Ncfsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וּבִשְׂעָרָה",
       "lemma": "c/b/8183",
       "morph": "HC/R/Ncfsa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "דַּרְכּוֹ",
       "lemma": "1870",
       "morph": "HNcbsc/Sp3ms",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְעָנָן",
       "lemma": "c/6051",
       "morph": "HC/Ncmsa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲבַק",
       "lemma": "80",
       "morph": "HNcmsc",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "רַגְלָיו",
       "lemma": "7272",
       "morph": "HNcfdc/Sp3ms",
@@ -209,18 +226,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "וגדול",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 49,
-        "ordinal": 31,
-        "reduced": 22
-      }
-    },
-    {
       "position": 16,
       "text": "וּגְדָל",
       "lemma": "c/1419 a",
@@ -228,7 +233,9 @@
       "strongs": [
         "H1419"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 43,
         "ordinal": 25,

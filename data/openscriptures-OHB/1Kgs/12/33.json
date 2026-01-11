@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעַל עַל הַמִּזְבֵּחַ אֲשֶׁר עָשָׂה בְּבֵית אֵל בַּחֲמִשָּׁה עָשָׂר יוֹם בַּחֹדֶשׁ הַשְּׁמִינִי בַּחֹדֶשׁ אֲשֶׁר בָּדָא וַיַּעַשׂ חָג לִבְנֵי יִשְׂרָאֵל וַיַּעַל עַל הַמִּזְבֵּחַ לְהַקְטִיר מלבד מִלִּבּוֹ",
+  "text": "וַיַּעַל עַל הַמִּזְבֵּחַ אֲשֶׁר עָשָׂה בְּבֵית אֵל בַּחֲמִשָּׁה עָשָׂר יוֹם בַּחֹדֶשׁ הַשְּׁמִינִי בַּחֹדֶשׁ אֲשֶׁר בָּדָא מלבד וַיַּעַשׂ חָג לִבְנֵי יִשְׂרָאֵל וַיַּעַל עַל הַמִּזְבֵּחַ לְהַקְטִיר מִלִּבּוֹ",
   "words": [
     {
       "position": 1,
@@ -228,6 +228,23 @@
     },
     {
       "position": 16,
+      "text": "מלבד",
+      "lemma": "m/l/905",
+      "morph": "HR/R/Ncmsa",
+      "strongs": [
+        "H905"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 76,
+        "ordinal": 31,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 17,
       "text": "וַיַּעַשׂ",
       "lemma": "c/6213 a",
       "morph": "HC/Vqw3ms",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "חָג",
       "lemma": "2282",
       "morph": "HNcmsa",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לִבְנֵי",
       "lemma": "l/1121 a",
       "morph": "HR/Ncmpc",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וַיַּעַל",
       "lemma": "c/5927",
       "morph": "HC/Vhw3ms",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "הַמִּזְבֵּחַ",
       "lemma": "d/4196",
       "morph": "HTd/Ncmsa",
@@ -332,7 +349,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "לְהַקְטִיר",
       "lemma": "l/6999 a",
       "morph": "HR/Vhc",
@@ -347,18 +364,6 @@
       }
     },
     {
-      "position": 24,
-      "text": "מלבד",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 76,
-        "ordinal": 31,
-        "reduced": 13
-      }
-    },
-    {
       "position": 25,
       "text": "מִלִּבּוֹ",
       "lemma": "m/3820",
@@ -366,7 +371,9 @@
       "strongs": [
         "H3820"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 78,
         "ordinal": 33,

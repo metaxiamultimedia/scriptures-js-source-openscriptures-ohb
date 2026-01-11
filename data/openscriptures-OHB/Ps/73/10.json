@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵן עַמּוֹ הֲלֹם וּמֵי מָלֵא יִמָּצוּ לָמוֹ ישיב יָשׁוּב",
+  "text": "לָכֵן ישיב עַמּוֹ הֲלֹם וּמֵי מָלֵא יִמָּצוּ לָמוֹ יָשׁוּב",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "ישיב",
+      "lemma": "7725",
+      "morph": "HVhi3ms",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 322,
+        "ordinal": 43,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
       "text": "עַמּוֹ",
       "lemma": "5971 a",
       "morph": "HNcmsc/Sp3ms",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "הֲלֹם",
       "lemma": "1988",
       "morph": "HD",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וּמֵי",
       "lemma": "c/4325",
       "morph": "HC/Ncmpc",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מָלֵא",
       "lemma": "4392",
       "morph": "HAamsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִמָּצוּ",
       "lemma": "4680",
       "morph": "HVNi3mp",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לָמוֹ",
       "lemma": "l",
       "morph": "HR/Sp3mp",
@@ -104,18 +121,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "ישיב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 322,
-        "ordinal": 43,
-        "reduced": 7
-      }
-    },
-    {
       "position": 9,
       "text": "יָשׁוּב",
       "lemma": "7725",
@@ -123,7 +128,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 318,
         "ordinal": 39,

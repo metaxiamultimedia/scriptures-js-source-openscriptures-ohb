@@ -1,5 +1,5 @@
 {
-  "text": "וּבְגִבְעוֹן יָשְׁבוּ אֲבִי גִבְעוֹן וְשֵׁם אִשְׁתּוֹ מַעֲכָה יעואל יְעִיאֵל",
+  "text": "וּבְגִבְעוֹן יָשְׁבוּ אֲבִי גִבְעוֹן יעואל וְשֵׁם אִשְׁתּוֹ מַעֲכָה יְעִיאֵל",
   "words": [
     {
       "position": 1,
@@ -60,6 +60,23 @@
     },
     {
       "position": 5,
+      "text": "יעואל",
+      "lemma": "3273",
+      "morph": "HNp",
+      "strongs": [
+        "H3273"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 117,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
       "text": "וְשֵׁם",
       "lemma": "c/8034",
       "morph": "HC/Ncmsc",
@@ -74,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אִשְׁתּוֹ",
       "lemma": "802",
       "morph": "HNcfsc/Sp3ms",
@@ -89,7 +106,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מַעֲכָה",
       "lemma": "4601",
       "morph": "HNp",
@@ -104,18 +121,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "יעואל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 117,
-        "ordinal": 45,
-        "reduced": 18
-      }
-    },
-    {
       "position": 9,
       "text": "יְעִיאֵל",
       "lemma": "3273",
@@ -123,7 +128,9 @@
       "strongs": [
         "H3273"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 121,
         "ordinal": 49,

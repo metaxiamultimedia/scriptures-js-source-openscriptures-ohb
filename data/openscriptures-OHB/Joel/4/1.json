@@ -1,27 +1,17 @@
 {
-  "text": "אשוב אָשִׁיב כִּי הִנֵּה בַּיָּמִים הָהֵמָּה וּבָעֵת הַהִיא אֲשֶׁר אֶת שְׁבוּת יְהוּדָה וִירוּשָׁלִָם",
+  "text": "אָשִׁיב כִּי הִנֵּה בַּיָּמִים הָהֵמָּה וּבָעֵת הַהִיא אֲשֶׁר אשוב אֶת שְׁבוּת יְהוּדָה וִירוּשָׁלִָם",
   "words": [
     {
       "position": 1,
-      "text": "אשוב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 309,
-        "ordinal": 30,
-        "reduced": 12
-      }
-    },
-    {
-      "position": 2,
       "text": "אָשִׁיב",
       "lemma": "7725",
       "morph": "HVhi1cs",
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 313,
         "ordinal": 34,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "הִנֵּה",
       "lemma": "2009",
       "morph": "HTm",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "בַּיָּמִים",
       "lemma": "b/3117",
       "morph": "HRd/Ncmpa",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "הָהֵמָּה",
       "lemma": "d/1992",
       "morph": "HTd/Pdxmp",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "וּבָעֵת",
       "lemma": "c/b/6256",
       "morph": "HC/Rd/Ncbsa",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "הַהִיא",
       "lemma": "d/1931",
       "morph": "HTd/Pp3fs",
@@ -119,7 +109,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -131,6 +121,23 @@
         "standard": 501,
         "ordinal": 42,
         "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "אשוב",
+      "lemma": "7725",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 309,
+        "ordinal": 30,
+        "reduced": 12
       }
     },
     {

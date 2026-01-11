@@ -1,5 +1,5 @@
 {
-  "text": "וָאֲחַשְּׁבָה לָדַעַת זֹאת עָמָל בְעֵינָי היא הוּא",
+  "text": "וָאֲחַשְּׁבָה לָדַעַת זֹאת עָמָל היא בְעֵינָי הוּא",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "היא",
+      "lemma": "1931",
+      "morph": "HPp3fs",
+      "strongs": [
+        "H1931"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 16,
+        "ordinal": 16,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
       "text": "בְעֵינָי",
       "lemma": "b/5869 a",
       "morph": "HR/Ncbdc/Sp1cs",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "היא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 16,
-        "ordinal": 16,
-        "reduced": 7
-      }
-    },
-    {
       "position": 7,
       "text": "הוּא",
       "lemma": "1931",
@@ -96,7 +101,9 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 12,
         "ordinal": 12,

@@ -1,28 +1,35 @@
 {
-  "text": "לא לוֹ אַחֲרִישׁ בַּדָּיו וּדְבַר גְּבוּרוֹת וְחִין עֶרְכּוֹ",
+  "text": "לוֹ לא אַחֲרִישׁ בַּדָּיו וּדְבַר גְּבוּרוֹת וְחִין עֶרְכּוֹ",
   "words": [
     {
       "position": 1,
-      "text": "לא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
-      "position": 2,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
         "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
       }
     },
     {

@@ -1,27 +1,17 @@
 {
-  "text": "פרסיא פָּרְסָאָה וְדָנִיֵּאל דְּנָה הַצְלַח בְּמַלְכוּת דָּרְיָוֶשׁ וּבְמַלְכוּת כּוֹרֶשׁ",
+  "text": "פָּרְסָאָה וְדָנִיֵּאל דְּנָה הַצְלַח בְּמַלְכוּת דָּרְיָוֶשׁ וּבְמַלְכוּת כּוֹרֶשׁ פרסיא",
   "words": [
     {
       "position": 1,
-      "text": "פרסיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 351,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
-      "position": 2,
       "text": "פָּרְסָאָה",
       "lemma": "6543",
       "morph": "ANgmsd/Td",
       "strongs": [
         "H6543"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 346,
         "ordinal": 58,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "וְדָנִיֵּאל",
       "lemma": "c/1841",
       "morph": "AC/Np",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "דְּנָה",
       "lemma": "1836",
       "morph": "APdxms",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "הַצְלַח",
       "lemma": "6744",
       "morph": "AVhp3ms",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "בְּמַלְכוּת",
       "lemma": "b/4437",
       "morph": "AR/Ncfsc",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "דָּרְיָוֶשׁ",
       "lemma": "1868",
       "morph": "ANp",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "וּבְמַלְכוּת",
       "lemma": "c/b/4437",
       "morph": "AC/R/Ncfsc",
@@ -119,7 +109,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "כּוֹרֶשׁ",
       "lemma": "3567",
       "morph": "ANp",
@@ -131,6 +121,23 @@
         "standard": 526,
         "ordinal": 58,
         "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "פרסיא",
+      "lemma": "6543",
+      "morph": "ANgmsd/Td",
+      "strongs": [
+        "H6543"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 351,
+        "ordinal": 63,
+        "reduced": 18
       }
     }
   ],

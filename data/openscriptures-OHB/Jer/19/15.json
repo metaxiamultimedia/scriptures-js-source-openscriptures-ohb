@@ -1,5 +1,5 @@
 {
-  "text": "כֹּה אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל הִנְנִי אֶל הָעִיר הַזֹּאת וְעַל כָּל עָרֶיהָ אֵת כָּל הָרָעָה אֲשֶׁר דִּבַּרְתִּי עָלֶיהָ כִּי הִקְשׁוּ אֶת עָרְפָּם לְבִלְתִּי שְׁמוֹעַ אֶת דְּבָרָי מבי מֵבִיא",
+  "text": "כֹּה אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל הִנְנִי מבי אֶל הָעִיר הַזֹּאת וְעַל כָּל עָרֶיהָ אֵת כָּל הָרָעָה אֲשֶׁר דִּבַּרְתִּי עָלֶיהָ כִּי הִקְשׁוּ אֶת עָרְפָּם לְבִלְתִּי שְׁמוֹעַ אֶת דְּבָרָי מֵבִיא",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,23 @@
     },
     {
       "position": 8,
+      "text": "מבי",
+      "lemma": "935",
+      "morph": "HVhrmsa",
+      "strongs": [
+        "H935"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 25,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הָעִיר",
       "lemma": "d/5892 b",
       "morph": "HTd/Ncfsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הַזֹּאת",
       "lemma": "d/2063",
       "morph": "HTd/Pdxfs",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְעַל",
       "lemma": "c/5921 a",
       "morph": "HC/R",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עָרֶיהָ",
       "lemma": "5892 b",
       "morph": "HNcfpc/Sp3fs",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֵת",
       "lemma": "853",
       "morph": "HTo",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הָרָעָה",
       "lemma": "d/7451 c",
       "morph": "HTd/Ncfsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "דִּבַּרְתִּי",
       "lemma": "1696",
       "morph": "HVpp1cs",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עָלֶיהָ",
       "lemma": "5921 a",
       "morph": "HR/Sp3fs",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "הִקְשׁוּ",
       "lemma": "7185",
       "morph": "HVhp3cp",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -332,7 +349,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "עָרְפָּם",
       "lemma": "6203",
       "morph": "HNcmsc/Sp3mp",
@@ -347,7 +364,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "לְבִלְתִּי",
       "lemma": "l/1115",
       "morph": "HR/C",
@@ -362,7 +379,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "שְׁמוֹעַ",
       "lemma": "8085",
       "morph": "HVqc",
@@ -377,7 +394,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -392,7 +409,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "דְּבָרָי",
       "lemma": "1697",
       "morph": "HNcmpc/Sp1cs",
@@ -407,18 +424,6 @@
       }
     },
     {
-      "position": 28,
-      "text": "מבי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 25,
-        "reduced": 7
-      }
-    },
-    {
       "position": 29,
       "text": "מֵבִיא",
       "lemma": "935",
@@ -426,7 +431,9 @@
       "strongs": [
         "H935"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 53,
         "ordinal": 26,

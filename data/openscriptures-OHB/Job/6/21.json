@@ -1,5 +1,5 @@
 {
-  "text": "כִּי עַתָּה הֱיִיתֶם תִּרְאוּ חֲתַת וַתִּירָאוּ לא לוֹ",
+  "text": "כִּי עַתָּה הֱיִיתֶם לא תִּרְאוּ חֲתַת וַתִּירָאוּ לוֹ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
       "text": "תִּרְאוּ",
       "lemma": "7200",
       "morph": "HVqi2mp",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "חֲתַת",
       "lemma": "2866",
       "morph": "HNcmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וַתִּירָאוּ",
       "lemma": "c/3372",
       "morph": "HC/Vqw2mp",
@@ -92,23 +109,13 @@
       }
     },
     {
-      "position": 7,
-      "text": "לא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
       "position": 8,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

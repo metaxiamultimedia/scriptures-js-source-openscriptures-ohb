@@ -1,27 +1,17 @@
 {
-  "text": "ושביליך וּשְׁבִילְךָ בַּיָּם דַּרְכֶּךָ בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ",
+  "text": "וּשְׁבִילְךָ בַּיָּם דַּרְכֶּךָ ושביליך בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ",
   "words": [
     {
       "position": 1,
-      "text": "ושביליך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 378,
-        "ordinal": 72,
-        "reduced": 18
-      }
-    },
-    {
-      "position": 2,
       "text": "וּשְׁבִילְךָ",
       "lemma": "c/7635",
       "morph": "HC/Ncmsc/Sp2ms",
       "strongs": [
         "H7635"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 368,
         "ordinal": 62,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "בַּיָּם",
       "lemma": "b/3220",
       "morph": "HRd/Ncmsa",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "דַּרְכֶּךָ",
       "lemma": "1870",
       "morph": "HNcbsc/Sp2ms",
@@ -56,6 +46,23 @@
         "standard": 244,
         "ordinal": 46,
         "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ושביליך",
+      "lemma": "c/7635",
+      "morph": "HC/Ncmpc/Sp2ms",
+      "strongs": [
+        "H7635"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 378,
+        "ordinal": 72,
+        "reduced": 18
       }
     },
     {

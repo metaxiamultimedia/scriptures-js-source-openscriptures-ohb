@@ -1,5 +1,5 @@
 {
-  "text": "אֲבֹתֵינוּ חָטְאוּ עֲוֺנֹתֵיהֶם סָבָלְנוּ אינם וְאֵינָם אנחנו וַאֲנַחְנוּ",
+  "text": "אֲבֹתֵינוּ חָטְאוּ אינם אנחנו עֲוֺנֹתֵיהֶם סָבָלְנוּ וְאֵינָם וַאֲנַחְנוּ",
   "words": [
     {
       "position": 1,
@@ -30,6 +30,40 @@
     },
     {
       "position": 3,
+      "text": "אינם",
+      "lemma": "369",
+      "morph": "HTn/Sp3mp",
+      "strongs": [
+        "H369"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 101,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "אנחנו",
+      "lemma": "587",
+      "morph": "HPp1cp",
+      "strongs": [
+        "H587"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 115,
+        "ordinal": 43,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
       "text": "עֲוֺנֹתֵיהֶם",
       "lemma": "5771",
       "morph": "HNcbpc/Sp3mp",
@@ -44,7 +78,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "סָבָלְנוּ",
       "lemma": "5445",
       "morph": "HVqp1cp",
@@ -59,42 +93,20 @@
       }
     },
     {
-      "position": 5,
-      "text": "אינם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 101,
-        "ordinal": 38,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 6,
+      "position": 7,
       "text": "וְאֵינָם",
       "lemma": "c/369",
       "morph": "HC/Tn/Sp3mp",
       "strongs": [
         "H369"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 107,
         "ordinal": 44,
         "reduced": 17
-      }
-    },
-    {
-      "position": 7,
-      "text": "אנחנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 115,
-        "ordinal": 43,
-        "reduced": 25
       }
     },
     {
@@ -105,7 +117,9 @@
       "strongs": [
         "H587"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 121,
         "ordinal": 49,

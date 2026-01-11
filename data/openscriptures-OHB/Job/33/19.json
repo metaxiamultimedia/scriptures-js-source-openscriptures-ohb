@@ -1,5 +1,5 @@
 {
-  "text": "וְהוּכַח בְּמַכְאוֹב עַל מִשְׁכָּבוֹ עֲצָמָיו אֵתָן וריב וְרוֹב",
+  "text": "וְהוּכַח בְּמַכְאוֹב עַל מִשְׁכָּבוֹ וריב עֲצָמָיו אֵתָן וְרוֹב",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "וריב",
+      "lemma": "c/7379",
+      "morph": "HC/Ncbsc",
+      "strongs": [
+        "H7379"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 218,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
       "text": "עֲצָמָיו",
       "lemma": "6106",
       "morph": "HNcfpc/Sp3ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֵתָן",
       "lemma": "386",
       "morph": "HAamsa",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "וריב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 218,
-        "ordinal": 38,
-        "reduced": 11
-      }
-    },
-    {
       "position": 8,
       "text": "וְרוֹב",
       "lemma": "c/7230",
@@ -111,7 +116,9 @@
       "strongs": [
         "H7230"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 214,
         "ordinal": 34,

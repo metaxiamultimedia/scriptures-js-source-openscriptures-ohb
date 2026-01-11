@@ -1,5 +1,5 @@
 {
-  "text": "יַחְפֹּץ זְנָבוֹ כְמוֹ אָרֶז גִּידֵי יְשֹׂרָגוּ פחדו פַחֲדָיו",
+  "text": "יַחְפֹּץ זְנָבוֹ כְמוֹ אָרֶז גִּידֵי פחדו יְשֹׂרָגוּ פַחֲדָיו",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "פחדו",
+      "lemma": "6344",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H6344"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 98,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
       "text": "יְשֹׂרָגוּ",
       "lemma": "8276",
       "morph": "HVPi3mp",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "פחדו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 98,
-        "ordinal": 35,
-        "reduced": 26
-      }
-    },
-    {
       "position": 8,
       "text": "פַחֲדָיו",
       "lemma": "6344",
@@ -111,7 +116,9 @@
       "strongs": [
         "H6344"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 108,
         "ordinal": 45,

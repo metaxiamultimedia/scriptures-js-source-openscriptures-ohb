@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמְרוּ הָעֵצִים לַגָּפֶן לְכִי אַתְּ עָלֵינוּ מלוכי מָלְכִי",
+  "text": "וַיֹּאמְרוּ הָעֵצִים לַגָּפֶן לְכִי אַתְּ מלוכי עָלֵינוּ מָלְכִי",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "מלוכי",
+      "lemma": "4427 a",
+      "morph": "HVqv2fs",
+      "strongs": [
+        "H4427"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 106,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
       "text": "עָלֵינוּ",
       "lemma": "5921 a",
       "morph": "HR/Sp1cp",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "מלוכי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 106,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
       "position": 8,
       "text": "מָלְכִי",
       "lemma": "4427 a",
@@ -111,7 +116,9 @@
       "strongs": [
         "H4427"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 100,
         "ordinal": 46,

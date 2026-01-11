@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעַשׂ חוּרָם אֶת הַסִּירוֹת וְאֶת הַיָּעִים וְאֶת הַמִּזְרָקוֹת וַיְכַל לַעֲשׂוֹת אֶת הַמְּלָאכָה אֲשֶׁר עָשָׂה לַמֶּלֶךְ שְׁלֹמֹה בְּבֵית הָאֱלֹהִים חירם חוּרָם",
+  "text": "וַיַּעַשׂ חוּרָם אֶת הַסִּירוֹת וְאֶת הַיָּעִים וְאֶת הַמִּזְרָקוֹת וַיְכַל חירם לַעֲשׂוֹת אֶת הַמְּלָאכָה אֲשֶׁר עָשָׂה לַמֶּלֶךְ שְׁלֹמֹה בְּבֵית הָאֱלֹהִים חוּרָם",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "חירם",
+      "lemma": "2438",
+      "morph": "HNp",
+      "strongs": [
+        "H2438"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 258,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
       "text": "לַעֲשׂוֹת",
       "lemma": "l/6213 a",
       "morph": "HR/Vqc",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַמְּלָאכָה",
       "lemma": "d/4399",
       "morph": "HTd/Ncfsa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עָשָׂה",
       "lemma": "6213 a",
       "morph": "HVqp3ms",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לַמֶּלֶךְ",
       "lemma": "l/4428",
       "morph": "HRd/Ncmsa",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "שְׁלֹמֹה",
       "lemma": "8010",
       "morph": "HNp",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בְּבֵית",
       "lemma": "b/1004 b",
       "morph": "HR/Ncmsc",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "הָאֱלֹהִים",
       "lemma": "d/430",
       "morph": "HTd/Ncmpa",
@@ -272,18 +289,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "חירם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 258,
-        "ordinal": 51,
-        "reduced": 15
-      }
-    },
-    {
       "position": 20,
       "text": "חוּרָם",
       "lemma": "2361",
@@ -291,7 +296,9 @@
       "strongs": [
         "H2361"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 254,
         "ordinal": 47,

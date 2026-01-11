@@ -1,5 +1,5 @@
 {
-  "text": "כִּי גַּם פְּעָמִים רַבּוֹת יָדַע לִבֶּךָ אֲשֶׁר גַּם קִלַּלְתָּ אֲחֵרִים את אַתָּה",
+  "text": "כִּי גַּם פְּעָמִים רַבּוֹת יָדַע לִבֶּךָ אֲשֶׁר גַּם את קִלַּלְתָּ אֲחֵרִים אַתָּה",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "את",
+      "lemma": "859 c",
+      "morph": "HPp2ms",
+      "strongs": [
+        "H859"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 401,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 10,
       "text": "קִלַּלְתָּ",
       "lemma": "7043",
       "morph": "HVpp2ms",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֲחֵרִים",
       "lemma": "312",
       "morph": "HAampa",
@@ -152,18 +169,6 @@
       }
     },
     {
-      "position": 11,
-      "text": "את",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
-      }
-    },
-    {
       "position": 12,
       "text": "אַתָּה",
       "lemma": "859 c",
@@ -171,7 +176,9 @@
       "strongs": [
         "H859"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 406,
         "ordinal": 28,

@@ -1,5 +1,5 @@
 {
-  "text": "וְלֹא אָמְרוּ בִלְבָבָם נִירָא נָא אֶת יְהוָה אֱלֹהֵינוּ הַנֹּתֵן גֶּשֶׁם וּמַלְקוֹשׁ בְּעִתּוֹ שְׁבֻעוֹת חֻקּוֹת קָצִיר יִשְׁמָר לָנוּ וירה יוֹרֶה",
+  "text": "וְלֹא אָמְרוּ בִלְבָבָם נִירָא נָא אֶת יְהוָה אֱלֹהֵינוּ הַנֹּתֵן גֶּשֶׁם וירה וּמַלְקוֹשׁ בְּעִתּוֹ שְׁבֻעוֹת חֻקּוֹת קָצִיר יִשְׁמָר לָנוּ יוֹרֶה",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "וירה",
+      "lemma": "c/3138",
+      "morph": "HC/Ncmsa",
+      "strongs": [
+        "H3138"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 221,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
       "text": "וּמַלְקוֹשׁ",
       "lemma": "c/4456",
       "morph": "HC/Ncmsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בְּעִתּוֹ",
       "lemma": "b/6256",
       "morph": "HR/Ncbsc/Sp3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "שְׁבֻעוֹת",
       "lemma": "7620",
       "morph": "HNcmpc",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "חֻקּוֹת",
       "lemma": "2708",
       "morph": "HNcbpc",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "קָצִיר",
       "lemma": "7105 a",
       "morph": "HNcmsa",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "יִשְׁמָר",
       "lemma": "8104",
       "morph": "HVqi3ms",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לָנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
@@ -254,18 +271,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "וירה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 221,
-        "ordinal": 41,
-        "reduced": 14
-      }
-    },
-    {
       "position": 19,
       "text": "יוֹרֶה",
       "lemma": "3138",
@@ -273,7 +278,9 @@
       "strongs": [
         "H3138"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 221,
         "ordinal": 41,

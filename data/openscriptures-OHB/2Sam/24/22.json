@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר אֲרַוְנָה אֶל דָּוִד יִקַּח וְיַעַל אֲדֹנִי הַמֶּלֶךְ הַטּוֹב רְאֵה הַבָּקָר לָעֹלָה וְהַמֹּרִגִּים וּכְלֵי הַבָּקָר לָעֵצִים בעינו בְּעֵינָיו",
+  "text": "וַיֹּאמֶר אֲרַוְנָה אֶל דָּוִד יִקַּח וְיַעַל אֲדֹנִי הַמֶּלֶךְ הַטּוֹב בעינו רְאֵה הַבָּקָר לָעֹלָה וְהַמֹּרִגִּים וּכְלֵי הַבָּקָר לָעֵצִים בְּעֵינָיו",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "בעינו",
+      "lemma": "b/5869 a",
+      "morph": "HR/Ncbdc/Sp3ms",
+      "strongs": [
+        "H5869"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 138,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
       "text": "רְאֵה",
       "lemma": "7200",
       "morph": "HVqv2ms",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַבָּקָר",
       "lemma": "d/1241",
       "morph": "HTd/Ncbsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לָעֹלָה",
       "lemma": "l/5930 a",
       "morph": "HRd/Ncfsa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְהַמֹּרִגִּים",
       "lemma": "c/d/4173",
       "morph": "HC/Td/Ncmpa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וּכְלֵי",
       "lemma": "c/3627",
       "morph": "HC/Ncmpc",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַבָּקָר",
       "lemma": "d/1241",
       "morph": "HTd/Ncbsa",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לָעֵצִים",
       "lemma": "l/6086",
       "morph": "HRd/Ncmpa",
@@ -242,18 +259,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "בעינו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 138,
-        "ordinal": 48,
-        "reduced": 21
-      }
-    },
-    {
       "position": 18,
       "text": "בְּעֵינָיו",
       "lemma": "b/5869 a",
@@ -261,7 +266,9 @@
       "strongs": [
         "H5869"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 148,
         "ordinal": 58,

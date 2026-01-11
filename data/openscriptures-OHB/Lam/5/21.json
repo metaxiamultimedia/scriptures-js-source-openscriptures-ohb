@@ -1,5 +1,5 @@
 {
-  "text": "הֲשִׁיבֵנוּ יְהוָה אֵלֶיךָ חַדֵּשׁ יָמֵינוּ כְּקֶדֶם ונשוב וְנָשׁוּבָה",
+  "text": "הֲשִׁיבֵנוּ יְהוָה אֵלֶיךָ ונשוב חַדֵּשׁ יָמֵינוּ כְּקֶדֶם וְנָשׁוּבָה",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "ונשוב",
+      "lemma": "c/7725",
+      "morph": "HC/Vqi1cp",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 364,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
       "text": "חַדֵּשׁ",
       "lemma": "2318",
       "morph": "HVpv2ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יָמֵינוּ",
       "lemma": "3117",
       "morph": "HNcmpc/Sp1cp",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כְּקֶדֶם",
       "lemma": "k/6924 a",
       "morph": "HR/Ncmsa",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "ונשוב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 364,
-        "ordinal": 49,
-        "reduced": 22
-      }
-    },
-    {
       "position": 8,
       "text": "וְנָשׁוּבָה",
       "lemma": "c/7725",
@@ -111,7 +116,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 369,
         "ordinal": 54,

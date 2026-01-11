@@ -1,5 +1,5 @@
 {
-  "text": "אֵיךְ לֹא עֻזְּבָה עִיר קִרְיַת מְשׂוֹשִׂי תהלה תְּהִלָּת",
+  "text": "אֵיךְ לֹא עֻזְּבָה עִיר תהלה קִרְיַת מְשׂוֹשִׂי תְּהִלָּת",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "תהלה",
+      "lemma": "8416",
+      "morph": "HNcfsa",
+      "strongs": [
+        "H8416"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 440,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
       "text": "קִרְיַת",
       "lemma": "7151",
       "morph": "HNcfsc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מְשׂוֹשִׂי",
       "lemma": "4885",
       "morph": "HNcmsc/Sp1cs",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "תהלה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 440,
-        "ordinal": 44,
-        "reduced": 17
-      }
-    },
-    {
       "position": 8,
       "text": "תְּהִלָּת",
       "lemma": "8416",
@@ -111,7 +116,9 @@
       "strongs": [
         "H8416"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 835,
         "ordinal": 61,

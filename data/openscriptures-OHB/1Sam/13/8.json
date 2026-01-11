@@ -1,8 +1,25 @@
 {
-  "text": "שִׁבְעַת יָמִים לַמּוֹעֵד אֲשֶׁר שְׁמוּאֵל וְלֹא בָא שְׁמוּאֵל הַגִּלְגָּל וַיָּפֶץ הָעָם מֵעָלָיו וייחל וַיּוֹחֶל",
+  "text": "וייחל שִׁבְעַת יָמִים לַמּוֹעֵד אֲשֶׁר שְׁמוּאֵל וְלֹא בָא שְׁמוּאֵל הַגִּלְגָּל וַיָּפֶץ הָעָם מֵעָלָיו וַיּוֹחֶל",
   "words": [
     {
       "position": 1,
+      "text": "וייחל",
+      "lemma": "c/3176",
+      "morph": "HC/VNw3ms",
+      "strongs": [
+        "H3176"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
       "text": "שִׁבְעַת",
       "lemma": "7651",
       "morph": "HAcmsc",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "יָמִים",
       "lemma": "3117",
       "morph": "HNcmpa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "לַמּוֹעֵד",
       "lemma": "l/4150",
       "morph": "HRd/Ncmsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "שְׁמוּאֵל",
       "lemma": "8050",
       "morph": "HNp",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בָא",
       "lemma": "935",
       "morph": "HVqp3ms",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "שְׁמוּאֵל",
       "lemma": "8050",
       "morph": "HNp",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַגִּלְגָּל",
       "lemma": "d/1537",
       "morph": "HTd/Np",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וַיָּפֶץ",
       "lemma": "c/6327 a",
       "morph": "HC/Vhw3ms",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הָעָם",
       "lemma": "d/5971 a",
       "morph": "HTd/Ncmsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מֵעָלָיו",
       "lemma": "m/5921 a",
       "morph": "HR/R/Sp3ms",
@@ -182,18 +199,6 @@
       }
     },
     {
-      "position": 13,
-      "text": "וייחל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 64,
-        "ordinal": 46,
-        "reduced": 19
-      }
-    },
-    {
       "position": 14,
       "text": "וַיּוֹחֶל",
       "lemma": "c/3176",
@@ -201,7 +206,9 @@
       "strongs": [
         "H3176"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 60,
         "ordinal": 42,

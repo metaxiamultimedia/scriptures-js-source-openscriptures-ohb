@@ -1,5 +1,5 @@
 {
-  "text": "וֶעֱזוּז נוֹרְאֹתֶיךָ יֹאמֵרוּ אֲסַפְּרֶנָּה וגדולתיך וּגְדוּלָּתְךָ",
+  "text": "וֶעֱזוּז נוֹרְאֹתֶיךָ יֹאמֵרוּ וגדולתיך אֲסַפְּרֶנָּה וּגְדוּלָּתְךָ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "וגדולתיך",
+      "lemma": "c/1420",
+      "morph": "HC/Ncfpc/Sp2ms",
+      "strongs": [
+        "H1420"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 479,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
       "text": "אֲסַפְּרֶנָּה",
       "lemma": "5608 a",
       "morph": "HVpi1cs/Sp3fs",
@@ -62,18 +79,6 @@
       }
     },
     {
-      "position": 5,
-      "text": "וגדולתיך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 479,
-        "ordinal": 74,
-        "reduced": 29
-      }
-    },
-    {
       "position": 6,
       "text": "וּגְדוּלָּתְךָ",
       "lemma": "c/1420",
@@ -81,7 +86,9 @@
       "strongs": [
         "H1420"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 469,
         "ordinal": 64,

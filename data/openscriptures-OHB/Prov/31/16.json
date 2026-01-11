@@ -1,5 +1,5 @@
 {
-  "text": "זָמְמָה שָׂדֶה וַתִּקָּחֵהוּ מִפְּרִי כַפֶּיהָ כָּרֶם נטע נָטְעָה",
+  "text": "זָמְמָה שָׂדֶה וַתִּקָּחֵהוּ מִפְּרִי כַפֶּיהָ נטע כָּרֶם נָטְעָה",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "נטע",
+      "lemma": "5193",
+      "morph": "HVqp3ms",
+      "strongs": [
+        "H5193"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 129,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
       "text": "כָּרֶם",
       "lemma": "3754",
       "morph": "HNcbsa",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "נטע",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 129,
-        "ordinal": 39,
-        "reduced": 21
-      }
-    },
-    {
       "position": 8,
       "text": "נָטְעָה",
       "lemma": "5193",
@@ -111,7 +116,9 @@
       "strongs": [
         "H5193"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 134,
         "ordinal": 44,

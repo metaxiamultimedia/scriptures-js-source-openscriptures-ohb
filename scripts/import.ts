@@ -156,6 +156,7 @@ function parseOsis(xml: string): ParsedVerse[] {
         const [book, chap, num] = parts;
         const words: ParsedVerse['words'] = [];
         let pos = 1;
+        let isInsideQere = false;
 
         function extractWords(content: unknown): void {
           if (!content) return;
@@ -189,10 +190,15 @@ function parseOsis(xml: string): ParsedVerse[] {
             const elem = content as Record<string, unknown>;
 
             if (elem['#text']) {
-              // Skip <seg> elements (type="x-pe", "x-samekh", "x-sof-pasuq", etc.)
-              // These are paragraph markers and punctuation, not words
-              if (elem['@_type']) {
-                return;
+              const elemType = elem['@_type'] as string | undefined;
+
+              // Skip <seg> elements with specific types (paragraph markers and punctuation)
+              // But do NOT skip word/reading elements: x-ketiv, x-qere
+              if (elemType && elemType.startsWith('x-')) {
+                // Allow ketiv and qere types through - they contain valid word data
+                if (elemType !== 'x-ketiv' && elemType !== 'x-qere') {
+                  return;
+                }
               }
 
               const rawText = String(elem['#text']);
@@ -205,19 +211,78 @@ function parseOsis(xml: string): ParsedVerse[] {
                 for (const piece of text.split(/\s+/).filter(Boolean)) {
                   // Skip maqqef-only entries (punctuation, not words)
                   if (piece === MAQQEF) continue;
+
+                  // Build metadata for ketiv/qere variants
+                  const metadata: Record<string, unknown> = {};
+                  if (elemType === 'x-ketiv') {
+                    metadata.isKetiv = true;
+                  }
+                  if (isInsideQere) {
+                    metadata.isQere = true;
+                  }
+
                   words.push({
                     position: pos++,
                     text: piece,
                     lemma: lemma || null,
                     morph: morph || null,
                     strongs: strongs.length > 0 ? strongs : undefined,
-                    metadata: {},
+                    metadata,
                   });
                 }
               }
             }
 
             for (const [key, value] of Object.entries(elem)) {
+              // Skip catchWord (redundant copy of ketiv text)
+              if (key === 'catchWord') {
+                continue;
+              }
+              // Handle rdg elements specially - only process x-qere, skip x-accent
+              if (key === 'rdg') {
+                const rdgValue = value as Record<string, unknown> | Record<string, unknown>[];
+                const rdgArray = Array.isArray(rdgValue) ? rdgValue : [rdgValue];
+                for (const rdg of rdgArray) {
+                  if (rdg && typeof rdg === 'object') {
+                    const rdgType = (rdg as Record<string, unknown>)['@_type'] as string | undefined;
+                    // Only process x-qere readings (skip x-accent which are just accent variants)
+                    if (rdgType === 'x-qere') {
+                      const prevIsInsideQere = isInsideQere;
+                      isInsideQere = true;
+                      extractWords(rdg);
+                      isInsideQere = prevIsInsideQere;
+                    }
+                  }
+                }
+                continue;
+              }
+              // Skip note elements but process their rdg children above
+              if (key === 'note') {
+                const noteValue = value as Record<string, unknown> | Record<string, unknown>[];
+                const noteArray = Array.isArray(noteValue) ? noteValue : [noteValue];
+                for (const note of noteArray) {
+                  if (note && typeof note === 'object') {
+                    // Process rdg inside note
+                    const noteObj = note as Record<string, unknown>;
+                    if (noteObj['rdg']) {
+                      const rdgValue = noteObj['rdg'] as Record<string, unknown> | Record<string, unknown>[];
+                      const rdgArray = Array.isArray(rdgValue) ? rdgValue : [rdgValue];
+                      for (const rdg of rdgArray) {
+                        if (rdg && typeof rdg === 'object') {
+                          const rdgType = (rdg as Record<string, unknown>)['@_type'] as string | undefined;
+                          if (rdgType === 'x-qere') {
+                            const prevIsInsideQere = isInsideQere;
+                            isInsideQere = true;
+                            extractWords(rdg);
+                            isInsideQere = prevIsInsideQere;
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+                continue;
+              }
               if (!key.startsWith('@_') && key !== '#text') {
                 extractWords(value);
               }

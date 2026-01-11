@@ -1,5 +1,5 @@
 {
-  "text": "הִנֵּה חָכָם אַתָּה כָּל סָתוּם לֹא עֲמָמוּךָ מדנאל מִדָּנִיֵּאל",
+  "text": "הִנֵּה חָכָם אַתָּה מדנאל כָּל סָתוּם לֹא עֲמָמוּךָ מִדָּנִיֵּאל",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "מדנאל",
+      "lemma": "m/1840",
+      "morph": "HR/Np",
+      "strongs": [
+        "H1840"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 125,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "סָתוּם",
       "lemma": "5640 a",
       "morph": "HVqsmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עֲמָמוּךָ",
       "lemma": "6004",
       "morph": "HVqp3cp/Sp2ms",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "מדנאל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 125,
-        "ordinal": 44,
-        "reduced": 17
-      }
-    },
-    {
       "position": 9,
       "text": "מִדָּנִיֵּאל",
       "lemma": "m/1840",
@@ -126,7 +131,9 @@
       "strongs": [
         "H1840"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 135,
         "ordinal": 54,

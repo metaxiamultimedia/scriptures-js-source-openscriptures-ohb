@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמַר יְהוָה מִסִּינַי בָּא וְזָרַח מִשֵּׂעִיר לָמוֹ הוֹפִיעַ מֵהַר פָּארָן וְאָתָה מֵרִבְבֹת קֹדֶשׁ מִימִינוֹ לָמוֹ אשדת",
+  "text": "וַיֹּאמַר יְהוָה מִסִּינַי בָּא וְזָרַח מִשֵּׂעִיר לָמוֹ הוֹפִיעַ מֵהַר פָּארָן וְאָתָה מֵרִבְבֹת קֹדֶשׁ מִימִינוֹ אשדת לָמוֹ אֵשׁ דָּת",
   "words": [
     {
       "position": 1,
@@ -210,6 +210,23 @@
     },
     {
       "position": 15,
+      "text": "אשדת",
+      "lemma": "799",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H799"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 705,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
       "text": "לָמוֹ",
       "lemma": "l",
       "morph": "HR/Sp3mp",
@@ -221,21 +238,43 @@
       }
     },
     {
-      "position": 16,
-      "text": "אשדת",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 17,
+      "text": "אֵשׁ",
+      "lemma": "784",
+      "morph": "HNcbsc",
+      "strongs": [
+        "H784"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
-        "standard": 705,
-        "ordinal": 48,
-        "reduced": 12
+        "standard": 301,
+        "ordinal": 22,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 18,
+      "text": "דָּת",
+      "lemma": "1881",
+      "morph": "HNcfsa",
+      "strongs": [
+        "H1881"
+      ],
+      "metadata": {
+        "isQere": true
+      },
+      "gematria": {
+        "standard": 404,
+        "ordinal": 26,
+        "reduced": 8
       }
     }
   ],
   "gematria": {
-    "standard": 4517,
-    "ordinal": 719,
-    "reduced": 242
+    "standard": 5222,
+    "ordinal": 767,
+    "reduced": 254
   }
 }

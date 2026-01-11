@@ -1,5 +1,5 @@
 {
-  "text": "כִּי יִמְצָא אִישׁ בְתוּלָה אֲשֶׁר לֹא אֹרָשָׂה וּתְפָשָׂהּ וְשָׁכַב עִמָּהּ וְנִמְצָאוּ נער נַעֲרָה",
+  "text": "כִּי יִמְצָא אִישׁ נער בְתוּלָה אֲשֶׁר לֹא אֹרָשָׂה וּתְפָשָׂהּ וְשָׁכַב עִמָּהּ וְנִמְצָאוּ נַעֲרָה",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "נער",
+      "lemma": "5291",
+      "morph": "HNcfsa",
+      "strongs": [
+        "H5291"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 320,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
       "text": "בְתוּלָה",
       "lemma": "1330",
       "morph": "HNcfsa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֹרָשָׂה",
       "lemma": "781",
       "morph": "HVPp3fs",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּתְפָשָׂהּ",
       "lemma": "c/8610",
       "morph": "HC/Vqq3ms/Sp3fs",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְשָׁכַב",
       "lemma": "c/7901",
       "morph": "HC/Vqq3ms",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עִמָּהּ",
       "lemma": "5973 a",
       "morph": "HR/Sp3fs",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְנִמְצָאוּ",
       "lemma": "c/4672",
       "morph": "HC/VNq3cp",
@@ -167,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "נער",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 320,
-        "ordinal": 50,
-        "reduced": 14
-      }
-    },
-    {
       "position": 13,
       "text": "נַעֲרָה",
       "lemma": "5291",
@@ -186,7 +191,9 @@
       "strongs": [
         "H5291"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 325,
         "ordinal": 55,

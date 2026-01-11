@@ -1,31 +1,38 @@
 {
-  "text": "ידעת יָדַעְתִּי כִּי יַעֲשֶׂה יְהוָה דִּין עָנִי מִשְׁפַּט אֶבְיֹנִים",
+  "text": "יָדַעְתִּי ידעת כִּי יַעֲשֶׂה יְהוָה דִּין עָנִי מִשְׁפַּט אֶבְיֹנִים",
   "words": [
     {
       "position": 1,
-      "text": "ידעת",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 484,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
-      "position": 2,
       "text": "יָדַעְתִּי",
       "lemma": "3045",
       "morph": "HVqp1cs",
       "strongs": [
         "H3045"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 494,
         "ordinal": 62,
         "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "ידעת",
+      "lemma": "3045",
+      "morph": "HVqp2ms",
+      "strongs": [
+        "H3045"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 484,
+        "ordinal": 52,
+        "reduced": 16
       }
     },
     {

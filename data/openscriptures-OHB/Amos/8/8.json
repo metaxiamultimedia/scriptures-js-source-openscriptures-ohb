@@ -1,5 +1,5 @@
 {
-  "text": "הַעַל זֹאת לֹא תִרְגַּז הָאָרֶץ וְאָבַל כָּל יוֹשֵׁב בָּהּ וְעָלְתָה כָאֹר כֻּלָּהּ וְנִגְרְשָׁה כִּיאוֹר מִצְרָיִם ונשקה וְנִשְׁקְעָה",
+  "text": "הַעַל זֹאת לֹא תִרְגַּז הָאָרֶץ וְאָבַל כָּל יוֹשֵׁב בָּהּ וְעָלְתָה כָאֹר כֻּלָּהּ וְנִגְרְשָׁה ונשקה כִּיאוֹר מִצְרָיִם וְנִשְׁקְעָה",
   "words": [
     {
       "position": 1,
@@ -192,6 +192,23 @@
     },
     {
       "position": 14,
+      "text": "ונשקה",
+      "lemma": "c/8248",
+      "morph": "HC/VNq3fs",
+      "strongs": [
+        "H8248"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 461,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
       "text": "כִּיאוֹר",
       "lemma": "k/2975",
       "morph": "HR/Np",
@@ -206,7 +223,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "מִצְרָיִם",
       "lemma": "4714",
       "morph": "HNp",
@@ -221,18 +238,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "ונשקה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 461,
-        "ordinal": 65,
-        "reduced": 20
-      }
-    },
-    {
       "position": 17,
       "text": "וְנִשְׁקְעָה",
       "lemma": "c/8257",
@@ -240,7 +245,9 @@
       "strongs": [
         "H8257"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 531,
         "ordinal": 81,

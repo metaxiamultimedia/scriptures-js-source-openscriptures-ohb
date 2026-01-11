@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר שִׁמְשׁוֹן אֶל הַנַּעַר הַמַּחֲזִיק בְּיָדוֹ הַנִּיחָה אוֹתִי אֶת הָעַמֻּדִים אֲשֶׁר הַבַּיִת נָכוֹן עֲלֵיהֶם וְאֶשָּׁעֵן עֲלֵיהֶם והימשני וַהֲמִשֵׁנִי",
+  "text": "וַיֹּאמֶר שִׁמְשׁוֹן אֶל הַנַּעַר הַמַּחֲזִיק בְּיָדוֹ הַנִּיחָה אוֹתִי והימשני אֶת הָעַמֻּדִים אֲשֶׁר הַבַּיִת נָכוֹן עֲלֵיהֶם וְאֶשָּׁעֵן עֲלֵיהֶם וַהֲמִשֵׁנִי",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "והימשני",
+      "lemma": "c/3237",
+      "morph": "HC/Vhv2ms/Sp1cs",
+      "strongs": [
+        "H3237"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 421,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הָעַמֻּדִים",
       "lemma": "d/5982",
       "morph": "HTd/Ncmpa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַבַּיִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "נָכוֹן",
       "lemma": "3559 a",
       "morph": "HVNrmsa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עֲלֵיהֶם",
       "lemma": "5921 a",
       "morph": "HR/Sp3mp",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְאֶשָּׁעֵן",
       "lemma": "c/8172",
       "morph": "HC/VNi1cs",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עֲלֵיהֶם",
       "lemma": "5921 a",
       "morph": "HR/Sp3mp",
@@ -242,18 +259,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "והימשני",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 421,
-        "ordinal": 79,
-        "reduced": 25
-      }
-    },
-    {
       "position": 18,
       "text": "וַהֲמִשֵׁנִי",
       "lemma": "c/4184",
@@ -261,7 +266,9 @@
       "strongs": [
         "H4184"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 411,
         "ordinal": 69,

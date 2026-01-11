@@ -1,8 +1,25 @@
 {
-  "text": "לְפָנָיו לֶאֱכֹל וַיֹּאמֶר לֹא אֹכַל עַד אִם דִּבַּרְתִּי דְּבָרָי וַיֹּאמֶר דַּבֵּר ויישם וַיּוּשַׂם",
+  "text": "ויישם לְפָנָיו לֶאֱכֹל וַיֹּאמֶר לֹא אֹכַל עַד אִם דִּבַּרְתִּי דְּבָרָי וַיֹּאמֶר דַּבֵּר וַיּוּשַׂם",
   "words": [
     {
       "position": 1,
+      "text": "ויישם",
+      "lemma": "c/3455",
+      "morph": "HC/VQw3ms",
+      "strongs": [
+        "H3455"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 366,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
       "text": "לְפָנָיו",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc/Sp3ms",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "לֶאֱכֹל",
       "lemma": "l/398",
       "morph": "HR/Vqc",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וַיֹּאמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֹכַל",
       "lemma": "398",
       "morph": "HVqi1cs",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אִם",
       "lemma": "518 a",
       "morph": "HC",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "דִּבַּרְתִּי",
       "lemma": "1696",
       "morph": "HVpp1cs",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "דְּבָרָי",
       "lemma": "1697",
       "morph": "HNcmpc/Sp1cs",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וַיֹּאמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "דַּבֵּר",
       "lemma": "1696",
       "morph": "HVpv2ms",
@@ -167,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "ויישם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 366,
-        "ordinal": 60,
-        "reduced": 15
-      }
-    },
-    {
       "position": 13,
       "text": "וַיּוּשַׂם",
       "lemma": "c/7760 a",
@@ -186,7 +191,9 @@
       "strongs": [
         "H7760"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 362,
         "ordinal": 56,

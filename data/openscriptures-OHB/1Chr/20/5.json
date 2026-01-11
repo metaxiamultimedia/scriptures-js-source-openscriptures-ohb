@@ -1,5 +1,5 @@
 {
-  "text": "וַתְּהִי עוֹד מִלְחָמָה אֶת פְּלִשְׁתִּים וַיַּךְ אֶלְחָנָן בֶּן אֶת לַחְמִי אֲחִי גָּלְיָת הַגִּתִּי וְעֵץ חֲנִיתוֹ כִּמְנוֹר אֹרְגִים יעור יָעִיר",
+  "text": "וַתְּהִי עוֹד מִלְחָמָה אֶת פְּלִשְׁתִּים וַיַּךְ אֶלְחָנָן בֶּן יעור אֶת לַחְמִי אֲחִי גָּלְיָת הַגִּתִּי וְעֵץ חֲנִיתוֹ כִּמְנוֹר אֹרְגִים יָעִיר",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "יעור",
+      "lemma": "3265",
+      "morph": "HNp",
+      "strongs": [
+        "H3265"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 286,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לַחְמִי",
       "lemma": "3902",
       "morph": "HNp",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֲחִי",
       "lemma": "251",
       "morph": "HNcmsc",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "גָּלְיָת",
       "lemma": "1555",
       "morph": "HNp",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הַגִּתִּי",
       "lemma": "d/1663",
       "morph": "HTd/Ngmsa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְעֵץ",
       "lemma": "c/6086",
       "morph": "HC/Ncmsc",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "חֲנִיתוֹ",
       "lemma": "2595",
       "morph": "HNcfsc/Sp3ms",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "כִּמְנוֹר",
       "lemma": "k/4500",
       "morph": "HR/Ncmsc",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֹרְגִים",
       "lemma": "707",
       "morph": "HVqrmpa",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "יעור",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 286,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
       "position": 19,
       "text": "יָעִיר",
       "lemma": "3265",
@@ -276,7 +281,9 @@
       "strongs": [
         "H3265"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 290,
         "ordinal": 56,

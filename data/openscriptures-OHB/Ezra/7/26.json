@@ -1,5 +1,5 @@
 {
-  "text": "וְכָל דִּי לָא לֶהֱוֵא עָבֵד דָּתָא דִי אֱלָהָךְ וְדָתָא דִּי מַלְכָּא אָסְפַּרְנָא דִּינָה לֶהֱוֵא מִתְעֲבֵד מִנֵּהּ הֵן לְמוֹת הֵן הֵן לַעֲנָשׁ נִכְסִין וְלֶאֱסוּרִין לשרשו לִשְׁרֹשִׁי",
+  "text": "וְכָל דִּי לָא לֶהֱוֵא עָבֵד דָּתָא דִי אֱלָהָךְ וְדָתָא דִּי מַלְכָּא אָסְפַּרְנָא דִּינָה לֶהֱוֵא מִתְעֲבֵד מִנֵּהּ הֵן לְמוֹת הֵן לשרשו הֵן לַעֲנָשׁ נִכְסִין וְלֶאֱסוּרִין לִשְׁרֹשִׁי",
   "words": [
     {
       "position": 1,
@@ -288,6 +288,23 @@
     },
     {
       "position": 20,
+      "text": "לשרשו",
+      "lemma": "l/8332",
+      "morph": "AR/Ncfsa",
+      "strongs": [
+        "H8332"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 836,
+        "ordinal": 80,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 21,
       "text": "הֵן",
       "lemma": "2006 a",
       "morph": "AC",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "לַעֲנָשׁ",
       "lemma": "l/6065",
       "morph": "AR/Ncmsc",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "נִכְסִין",
       "lemma": "5232",
       "morph": "ANcmpa",
@@ -332,7 +349,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "וְלֶאֱסוּרִין",
       "lemma": "c/l/613",
       "morph": "AC/R/Ncmpa",
@@ -347,18 +364,6 @@
       }
     },
     {
-      "position": 24,
-      "text": "לשרשו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 836,
-        "ordinal": 80,
-        "reduced": 17
-      }
-    },
-    {
       "position": 25,
       "text": "לִשְׁרֹשִׁי",
       "lemma": "l/8332",
@@ -366,7 +371,9 @@
       "strongs": [
         "H8332"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 840,
         "ordinal": 84,

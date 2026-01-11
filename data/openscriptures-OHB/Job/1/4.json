@@ -1,5 +1,5 @@
 {
-  "text": "וְהָלְכוּ בָנָיו וְעָשׂוּ מִשְׁתֶּה בֵּית אִישׁ יוֹמוֹ וְשָׁלְחוּ וְקָרְאוּ לִשְׁלֹשֶׁת לֶאֱכֹל וְלִשְׁתּוֹת עִמָּהֶם אחיתיהם אַחְיוֹתֵיהֶם",
+  "text": "וְהָלְכוּ בָנָיו וְעָשׂוּ מִשְׁתֶּה בֵּית אִישׁ יוֹמוֹ וְשָׁלְחוּ וְקָרְאוּ לִשְׁלֹשֶׁת אחיתיהם לֶאֱכֹל וְלִשְׁתּוֹת עִמָּהֶם אַחְיוֹתֵיהֶם",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "אחיתיהם",
+      "lemma": "269",
+      "morph": "HNcfpc/Sp3mp",
+      "strongs": [
+        "H269"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 474,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 12,
       "text": "לֶאֱכֹל",
       "lemma": "l/398",
       "morph": "HR/Vqc",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְלִשְׁתּוֹת",
       "lemma": "c/l/8354",
       "morph": "HC/R/Vqc",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עִמָּהֶם",
       "lemma": "5973 a",
       "morph": "HR/Sp3mp",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "אחיתיהם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 474,
-        "ordinal": 69,
-        "reduced": 24
-      }
-    },
-    {
       "position": 15,
       "text": "אַחְיוֹתֵיהֶם",
       "lemma": "269",
@@ -216,7 +221,9 @@
       "strongs": [
         "H269"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 480,
         "ordinal": 75,

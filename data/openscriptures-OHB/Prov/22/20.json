@@ -1,5 +1,5 @@
 {
-  "text": "הֲלֹא כָתַבְתִּי לְךָ בְּמוֹעֵצֹת וָדָעַת שלשום שָׁלִישִׁים",
+  "text": "הֲלֹא כָתַבְתִּי לְךָ שלשום בְּמוֹעֵצֹת וָדָעַת שָׁלִישִׁים",
   "words": [
     {
       "position": 1,
@@ -45,6 +45,23 @@
     },
     {
       "position": 4,
+      "text": "שלשום",
+      "lemma": "8032",
+      "morph": "HD",
+      "strongs": [
+        "H8032"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 676,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
       "text": "בְּמוֹעֵצֹת",
       "lemma": "b/4156",
       "morph": "HR/Ncfpa",
@@ -59,7 +76,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וָדָעַת",
       "lemma": "c/1847",
       "morph": "HC/Ncfsa",
@@ -74,18 +91,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "שלשום",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 676,
-        "ordinal": 73,
-        "reduced": 19
-      }
-    },
-    {
       "position": 7,
       "text": "שָׁלִישִׁים",
       "lemma": "7991 c",
@@ -93,7 +98,9 @@
       "strongs": [
         "H7991"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 690,
         "ordinal": 87,

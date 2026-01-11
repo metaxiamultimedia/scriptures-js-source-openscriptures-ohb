@@ -1,5 +1,5 @@
 {
-  "text": "וְאַתָּה יְהוָה יָדַעְתָּ אֶת כָּל עֲצָתָם עָלַי לַמָּוֶת אַל תְּכַפֵּר עַל עֲוֺנָם וְחַטָּאתָם מִלְּפָנֶיךָ אַל תֶּמְחִי מֻכְשָׁלִים לְפָנֶיךָ בְּעֵת אַפְּךָ עֲשֵׂה בָהֶם והיו וְיִהְיוּ",
+  "text": "וְאַתָּה יְהוָה יָדַעְתָּ אֶת כָּל עֲצָתָם עָלַי לַמָּוֶת אַל תְּכַפֵּר עַל עֲוֺנָם וְחַטָּאתָם מִלְּפָנֶיךָ אַל תֶּמְחִי והיו מֻכְשָׁלִים לְפָנֶיךָ בְּעֵת אַפְּךָ עֲשֵׂה בָהֶם וְיִהְיוּ",
   "words": [
     {
       "position": 1,
@@ -243,6 +243,23 @@
     },
     {
       "position": 17,
+      "text": "והיו",
+      "lemma": "c/1961",
+      "morph": "HC/Vqq3cp",
+      "strongs": [
+        "H1961"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 27,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
       "text": "מֻכְשָׁלִים",
       "lemma": "3782",
       "morph": "HVHsmpa",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לְפָנֶיךָ",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc/Sp2ms",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "בְּעֵת",
       "lemma": "b/6256",
       "morph": "HR/Ncbsc",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אַפְּךָ",
       "lemma": "639",
       "morph": "HNcmsc/Sp2ms",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "עֲשֵׂה",
       "lemma": "6213 a",
       "morph": "HVqv2ms",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "בָהֶם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
@@ -329,18 +346,6 @@
       }
     },
     {
-      "position": 23,
-      "text": "והיו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 27,
-        "ordinal": 27,
-        "reduced": 18
-      }
-    },
-    {
       "position": 24,
       "text": "וְיִהְיוּ",
       "lemma": "c/1961",
@@ -348,7 +353,9 @@
       "strongs": [
         "H1961"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 37,
         "ordinal": 37,

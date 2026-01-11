@@ -1,27 +1,17 @@
 {
-  "text": "נובי נֵיבָי חָרִיף עֲנָתוֹת",
+  "text": "נֵיבָי חָרִיף עֲנָתוֹת נובי",
   "words": [
     {
       "position": 1,
-      "text": "נובי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 68,
-        "ordinal": 32,
-        "reduced": 14
-      }
-    },
-    {
-      "position": 2,
       "text": "נֵיבָי",
       "lemma": "5109",
       "morph": "HNp",
       "strongs": [
         "H5109"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 72,
         "ordinal": 36,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "חָרִיף",
       "lemma": "2756",
       "morph": "HNp",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "עֲנָתוֹת",
       "lemma": "6068",
       "morph": "HNp",
@@ -56,6 +46,23 @@
         "standard": 926,
         "ordinal": 80,
         "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "נובי",
+      "lemma": "5109",
+      "morph": "HNp",
+      "strongs": [
+        "H5109"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 68,
+        "ordinal": 32,
+        "reduced": 14
       }
     }
   ],

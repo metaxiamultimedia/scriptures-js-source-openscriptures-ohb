@@ -1,27 +1,17 @@
 {
-  "text": "חצו חִצָּיו יִמָּאֲסוּ כְמוֹ מַיִם יִתְהַלְּכוּ לָמוֹ יִדְרֹךְ כְּמוֹ יִתְמֹלָלוּ",
+  "text": "חִצָּיו יִמָּאֲסוּ כְמוֹ מַיִם יִתְהַלְּכוּ לָמוֹ יִדְרֹךְ חצו כְּמוֹ יִתְמֹלָלוּ",
   "words": [
     {
       "position": 1,
-      "text": "חצו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 104,
-        "ordinal": 32,
-        "reduced": 23
-      }
-    },
-    {
-      "position": 2,
       "text": "חִצָּיו",
       "lemma": "2671",
       "morph": "HNcmpc/Sp3ms",
       "strongs": [
         "H2671"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 114,
         "ordinal": 42,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יִמָּאֲסוּ",
       "lemma": "3988 b",
       "morph": "HVNi3mp",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "כְמוֹ",
       "lemma": "3644",
       "morph": "HR",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "מַיִם",
       "lemma": "4325",
       "morph": "HNcmpa",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "יִתְהַלְּכוּ",
       "lemma": "1980",
       "morph": "HVti3mp",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "לָמוֹ",
       "lemma": "l",
       "morph": "HR/Sp3mp",
@@ -101,7 +91,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "יִדְרֹךְ",
       "lemma": "1869",
       "morph": "HVqi3ms",
@@ -113,6 +103,23 @@
         "standard": 234,
         "ordinal": 45,
         "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "חצו",
+      "lemma": "2671",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2671"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 104,
+        "ordinal": 32,
+        "reduced": 23
       }
     },
     {

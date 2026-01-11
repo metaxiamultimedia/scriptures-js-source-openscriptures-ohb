@@ -1,5 +1,5 @@
 {
-  "text": "וּמִבְּנֵי בִגְוַי עוּתַי וְעִמּוֹ שִׁבְעִים הַזְּכָרִים וזבוד וְזַכּוּר",
+  "text": "וּמִבְּנֵי בִגְוַי עוּתַי וזבוד וְעִמּוֹ שִׁבְעִים הַזְּכָרִים וְזַכּוּר",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "וזבוד",
+      "lemma": "c/2072",
+      "morph": "HC/Np",
+      "strongs": [
+        "H2072"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 25,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
       "text": "וְעִמּוֹ",
       "lemma": "c/5973 a",
       "morph": "HC/R/Sp3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "שִׁבְעִים",
       "lemma": "7657",
       "morph": "HAcbpa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַזְּכָרִים",
       "lemma": "d/2145",
       "morph": "HTd/Ncmpa",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "וזבוד",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 25,
-        "ordinal": 25,
-        "reduced": 25
-      }
-    },
-    {
       "position": 8,
       "text": "וְזַכּוּר",
       "lemma": "c/2139",
@@ -111,7 +116,9 @@
       "strongs": [
         "H2139"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 239,
         "ordinal": 50,

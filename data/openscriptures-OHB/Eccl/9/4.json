@@ -1,5 +1,5 @@
 {
-  "text": "כִּי מִי אֲשֶׁר אֶל כָּל הַחַיִּים יֵשׁ בִּטָּחוֹן כִּי לְכֶלֶב חַי הוּא טוֹב מִן הָאַרְיֵה הַמֵּת יבחר יְחֻבַּר",
+  "text": "כִּי מִי אֲשֶׁר יבחר אֶל כָּל הַחַיִּים יֵשׁ בִּטָּחוֹן כִּי לְכֶלֶב חַי הוּא טוֹב מִן הָאַרְיֵה הַמֵּת יְחֻבַּר",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "יבחר",
+      "lemma": "977",
+      "morph": "HVPi3ms",
+      "strongs": [
+        "H977"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 220,
+        "ordinal": 40,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַחַיִּים",
       "lemma": "d/2416 a",
       "morph": "HTd/Aampa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יֵשׁ",
       "lemma": "3426",
       "morph": "HTm",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בִּטָּחוֹן",
       "lemma": "986",
       "morph": "HNcmsa",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְכֶלֶב",
       "lemma": "l/3611",
       "morph": "HR/Ncmsa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "חַי",
       "lemma": "2416 a",
       "morph": "HAamsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "טוֹב",
       "lemma": "2896 a",
       "morph": "HAamsa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הָאַרְיֵה",
       "lemma": "d/738 b",
       "morph": "HTd/Ncmsa",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַמֵּת",
       "lemma": "d/4191",
       "morph": "HTd/Vqrmsa",
@@ -242,18 +259,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "יבחר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 220,
-        "ordinal": 40,
-        "reduced": 13
-      }
-    },
-    {
       "position": 18,
       "text": "יְחֻבַּר",
       "lemma": "2266",
@@ -261,7 +266,9 @@
       "strongs": [
         "H2266"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 220,
         "ordinal": 40,

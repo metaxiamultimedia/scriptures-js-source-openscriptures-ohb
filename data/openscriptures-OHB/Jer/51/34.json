@@ -1,8 +1,42 @@
 {
-  "text": "נְבוּכַדְרֶאצַּר מֶלֶךְ בָּבֶל כְּלִי רִיק כַּתַּנִּין מִלָּא כְרֵשׂוֹ מֵעֲדָנָי אכלנו אֲכָלַנִי הממנו הֲמָמַנִי הציגנו הִצִּיגַנִי בלענו בְּלָעַנִי הדיחנו הֱדִיחָנִי",
+  "text": "אכלנו הממנו נְבוּכַדְרֶאצַּר מֶלֶךְ בָּבֶל הציגנו כְּלִי רִיק בלענו כַּתַּנִּין מִלָּא כְרֵשׂוֹ מֵעֲדָנָי הדיחנו אֲכָלַנִי הֲמָמַנִי הִצִּיגַנִי בְּלָעַנִי הֱדִיחָנִי",
   "words": [
     {
       "position": 1,
+      "text": "אכלנו",
+      "lemma": "398",
+      "morph": "HVqp3ms/Sp1cp",
+      "strongs": [
+        "H398"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 107,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "הממנו",
+      "lemma": "2000",
+      "morph": "HVqp3ms/Sp1cp",
+      "strongs": [
+        "H2000"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 141,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
       "text": "נְבוּכַדְרֶאצַּר",
       "lemma": "5019",
       "morph": "HNp",
@@ -17,7 +51,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 4,
       "text": "מֶלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsc",
@@ -32,7 +66,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 5,
       "text": "בָּבֶל",
       "lemma": "894",
       "morph": "HNp",
@@ -47,7 +81,24 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
+      "text": "הציגנו",
+      "lemma": "3322",
+      "morph": "HVhp3ms/Sp1cp",
+      "strongs": [
+        "H3322"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 164,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
       "text": "כְּלִי",
       "lemma": "3627",
       "morph": "HNcmsc",
@@ -62,7 +113,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 8,
       "text": "רִיק",
       "lemma": "7385",
       "morph": "HNcmsa",
@@ -77,7 +128,24 @@
       }
     },
     {
-      "position": 6,
+      "position": 9,
+      "text": "בלענו",
+      "lemma": "1104",
+      "morph": "HVqp3ms/Sp1cp",
+      "strongs": [
+        "H1104"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 158,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
       "text": "כַּתַּנִּין",
       "lemma": "k/8577 b",
       "morph": "HRd/Ncmsa",
@@ -92,7 +160,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 11,
       "text": "מִלָּא",
       "lemma": "4390",
       "morph": "HVpp3ms",
@@ -107,7 +175,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 12,
       "text": "כְרֵשׂוֹ",
       "lemma": "3770",
       "morph": "HNcfsc/Sp3ms",
@@ -122,7 +190,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 13,
       "text": "מֵעֲדָנָי",
       "lemma": "m/5730 a",
       "morph": "HR/Ncmpc/Sp1cs",
@@ -137,26 +205,33 @@
       }
     },
     {
-      "position": 10,
-      "text": "אכלנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 14,
+      "text": "הדיחנו",
+      "lemma": "1740",
+      "morph": "HVhp3ms/Sp1cp",
+      "strongs": [
+        "H1740"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
-        "standard": 107,
-        "ordinal": 44,
-        "reduced": 17
+        "standard": 83,
+        "ordinal": 47,
+        "reduced": 29
       }
     },
     {
-      "position": 11,
+      "position": 15,
       "text": "אֲכָלַנִי",
       "lemma": "398",
       "morph": "HVqp3ms/Sp1cs",
       "strongs": [
         "H398"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 111,
         "ordinal": 48,
@@ -164,26 +239,16 @@
       }
     },
     {
-      "position": 12,
-      "text": "הממנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 141,
-        "ordinal": 51,
-        "reduced": 24
-      }
-    },
-    {
-      "position": 13,
+      "position": 16,
       "text": "הֲמָמַנִי",
       "lemma": "2000",
       "morph": "HVqp3ms/Sp1cs",
       "strongs": [
         "H2000"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 145,
         "ordinal": 55,
@@ -191,26 +256,16 @@
       }
     },
     {
-      "position": 14,
-      "text": "הציגנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 164,
-        "ordinal": 56,
-        "reduced": 29
-      }
-    },
-    {
-      "position": 15,
+      "position": 17,
       "text": "הִצִּיגַנִי",
       "lemma": "3322",
       "morph": "HVhp3ms/Sp1cs",
       "strongs": [
         "H3322"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 168,
         "ordinal": 60,
@@ -218,42 +273,20 @@
       }
     },
     {
-      "position": 16,
-      "text": "בלענו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 158,
-        "ordinal": 50,
-        "reduced": 23
-      }
-    },
-    {
-      "position": 17,
+      "position": 18,
       "text": "בְּלָעַנִי",
       "lemma": "1104",
       "morph": "HVqp3ms/Sp1cs",
       "strongs": [
         "H1104"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 162,
         "ordinal": 54,
         "reduced": 18
-      }
-    },
-    {
-      "position": 18,
-      "text": "הדיחנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 83,
-        "ordinal": 47,
-        "reduced": 29
       }
     },
     {
@@ -264,7 +297,9 @@
       "strongs": [
         "H1740"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 87,
         "ordinal": 51,

@@ -1,31 +1,38 @@
 {
-  "text": "אזכיר אֶזְכּוֹר מַעַלְלֵי יָהּ כִּי אֶזְכְּרָה מִקֶּדֶם פִּלְאֶךָ",
+  "text": "אֶזְכּוֹר אזכיר מַעַלְלֵי יָהּ כִּי אֶזְכְּרָה מִקֶּדֶם פִּלְאֶךָ",
   "words": [
     {
       "position": 1,
-      "text": "אזכיר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 238,
-        "ordinal": 49,
-        "reduced": 13
-      }
-    },
-    {
-      "position": 2,
       "text": "אֶזְכּוֹר",
       "lemma": "2142",
       "morph": "HVqi1cs",
       "strongs": [
         "H2142"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 234,
         "ordinal": 45,
         "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "אזכיר",
+      "lemma": "2142",
+      "morph": "HVhi1cs",
+      "strongs": [
+        "H2142"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 238,
+        "ordinal": 49,
+        "reduced": 13
       }
     },
     {

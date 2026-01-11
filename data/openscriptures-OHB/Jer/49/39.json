@@ -1,5 +1,5 @@
 {
-  "text": "וְהָיָה בְּאַחֲרִית הַיָּמִים אֶת עֵילָם נְאֻם יְהוָה אשוב אָשִׁיב שבית שְׁבוּת",
+  "text": "וְהָיָה בְּאַחֲרִית הַיָּמִים אשוב אֶת שבית עֵילָם נְאֻם יְהוָה אָשִׁיב שְׁבוּת",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "אשוב",
+      "lemma": "7725",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 309,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -62,7 +79,24 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
+      "text": "שבית",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 712,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
       "text": "עֵילָם",
       "lemma": "5867 a",
       "morph": "HNp",
@@ -77,7 +111,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "נְאֻם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -92,7 +126,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -107,42 +141,20 @@
       }
     },
     {
-      "position": 8,
-      "text": "אשוב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 309,
-        "ordinal": 30,
-        "reduced": 12
-      }
-    },
-    {
-      "position": 9,
+      "position": 10,
       "text": "אָשִׁיב",
       "lemma": "7725",
       "morph": "HVhi1cs",
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 313,
         "ordinal": 34,
         "reduced": 7
-      }
-    },
-    {
-      "position": 10,
-      "text": "שבית",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 712,
-        "ordinal": 55,
-        "reduced": 10
       }
     },
     {
@@ -153,7 +165,9 @@
       "strongs": [
         "H7622"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 708,
         "ordinal": 51,

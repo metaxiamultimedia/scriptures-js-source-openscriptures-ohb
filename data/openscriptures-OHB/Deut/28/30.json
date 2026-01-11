@@ -1,5 +1,5 @@
 {
-  "text": "אִשָּׁה תְאָרֵשׂ וְאִישׁ אַחֵר בַּיִת תִּבְנֶה וְלֹא תֵשֵׁב בּוֹ כֶּרֶם תִּטַּע וְלֹא תְחַלְּלֶּנּוּ ישגלנה יִשְׁכָּבֶנָּה",
+  "text": "אִשָּׁה תְאָרֵשׂ וְאִישׁ אַחֵר ישגלנה בַּיִת תִּבְנֶה וְלֹא תֵשֵׁב בּוֹ כֶּרֶם תִּטַּע וְלֹא תְחַלְּלֶּנּוּ יִשְׁכָּבֶנָּה",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "ישגלנה",
+      "lemma": "7693",
+      "morph": "HVqi3ms/Sp3fs",
+      "strongs": [
+        "H7693"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 398,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
       "text": "בַּיִת",
       "lemma": "1004 b",
       "morph": "HNcmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תִּבְנֶה",
       "lemma": "1129",
       "morph": "HVqi2ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תֵשֵׁב",
       "lemma": "3427",
       "morph": "HVqi2ms",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בּוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
@@ -134,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "כֶּרֶם",
       "lemma": "3754",
       "morph": "HNcbsa",
@@ -149,7 +166,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "תִּטַּע",
       "lemma": "5193",
       "morph": "HVqi2ms",
@@ -164,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -179,7 +196,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "תְחַלְּלֶּנּוּ",
       "lemma": "2490 c",
       "morph": "HVpi2ms/Sp3ms",
@@ -194,18 +211,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "ישגלנה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 398,
-        "ordinal": 65,
-        "reduced": 20
-      }
-    },
-    {
       "position": 15,
       "text": "יִשְׁכָּבֶנָּה",
       "lemma": "7901",
@@ -213,7 +218,9 @@
       "strongs": [
         "H7901"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 387,
         "ordinal": 63,

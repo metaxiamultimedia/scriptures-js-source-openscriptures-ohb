@@ -1,5 +1,5 @@
 {
-  "text": "וְלֹא שָׁמְעוּ וְלֹא הִטּוּ אֶת אָזְנָם וַיַּקְשׁוּ אֶת עָרְפָּם לְבִלְתִּי וּלְבִלְתִּי קַחַת מוּסָר שומע שְׁמוֹעַ",
+  "text": "וְלֹא שָׁמְעוּ וְלֹא הִטּוּ אֶת אָזְנָם וַיַּקְשׁוּ אֶת עָרְפָּם לְבִלְתִּי שומע וּלְבִלְתִּי קַחַת מוּסָר שְׁמוֹעַ",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "שומע",
+      "lemma": "8085",
+      "morph": "HVqrmsa",
+      "strongs": [
+        "H8085"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 416,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
       "text": "וּלְבִלְתִּי",
       "lemma": "c/l/1115",
       "morph": "HC/R/Tn",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "קַחַת",
       "lemma": "3947",
       "morph": "HVqc",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מוּסָר",
       "lemma": "4148",
       "morph": "HNcmsa",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "שומע",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 416,
-        "ordinal": 56,
-        "reduced": 20
-      }
-    },
-    {
       "position": 15,
       "text": "שְׁמוֹעַ",
       "lemma": "8085",
@@ -216,7 +221,9 @@
       "strongs": [
         "H8085"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 416,
         "ordinal": 56,

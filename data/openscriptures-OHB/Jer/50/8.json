@@ -1,5 +1,5 @@
 {
-  "text": "נֻדוּ מִתּוֹךְ בָּבֶל וּמֵאֶרֶץ כַּשְׂדִּים וִהְיוּ כְּעַתּוּדִים לִפְנֵי צֹאן יצאו צֵאוּ",
+  "text": "נֻדוּ מִתּוֹךְ בָּבֶל וּמֵאֶרֶץ כַּשְׂדִּים יצאו וִהְיוּ כְּעַתּוּדִים לִפְנֵי צֹאן צֵאוּ",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "יצאו",
+      "lemma": "3318",
+      "morph": "HVqp3cp",
+      "strongs": [
+        "H3318"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 107,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
       "text": "וִהְיוּ",
       "lemma": "c/1961",
       "morph": "HC/Vqv2mp",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כְּעַתּוּדִים",
       "lemma": "k/6260",
       "morph": "HR/Ncmpa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לִפְנֵי",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "צֹאן",
       "lemma": "6629",
       "morph": "HNcbsa",
@@ -137,18 +154,6 @@
       }
     },
     {
-      "position": 10,
-      "text": "יצאו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 107,
-        "ordinal": 35,
-        "reduced": 17
-      }
-    },
-    {
       "position": 11,
       "text": "צֵאוּ",
       "lemma": "3318",
@@ -156,7 +161,9 @@
       "strongs": [
         "H3318"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 97,
         "ordinal": 25,

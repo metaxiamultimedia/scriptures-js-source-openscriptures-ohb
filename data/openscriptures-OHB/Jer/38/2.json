@@ -1,5 +1,5 @@
 {
-  "text": "כֹּה אָמַר יְהוָה הַיֹּשֵׁב בָּעִיר הַזֹּאת יָמוּת בַּחֶרֶב בָּרָעָב וּבַדָּבֶר וְהַיֹּצֵא אֶל הַכַּשְׂדִּים וְהָיְתָה לּוֹ נַפְשׁוֹ לְשָׁלָל וָחָי יחיה וְחָיָה",
+  "text": "כֹּה אָמַר יְהוָה הַיֹּשֵׁב בָּעִיר הַזֹּאת יָמוּת בַּחֶרֶב בָּרָעָב וּבַדָּבֶר וְהַיֹּצֵא אֶל הַכַּשְׂדִּים יחיה וְהָיְתָה לּוֹ נַפְשׁוֹ לְשָׁלָל וָחָי וְחָיָה",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "יחיה",
+      "lemma": "2421",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H2421"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
       "text": "וְהָיְתָה",
       "lemma": "c/1961",
       "morph": "HC/Vqq3fs",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לּוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -224,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "נַפְשׁוֹ",
       "lemma": "5315",
       "morph": "HNcbsc/Sp3ms",
@@ -239,7 +256,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לְשָׁלָל",
       "lemma": "l/7998",
       "morph": "HR/Ncmsa",
@@ -254,7 +271,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וָחָי",
       "lemma": "c/2421",
       "morph": "HC/Vqq3ms",
@@ -269,18 +286,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "יחיה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 33,
-        "ordinal": 33,
-        "reduced": 15
-      }
-    },
-    {
       "position": 20,
       "text": "וְחָיָה",
       "lemma": "c/2421",
@@ -288,7 +293,9 @@
       "strongs": [
         "H2421"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 29,
         "ordinal": 29,

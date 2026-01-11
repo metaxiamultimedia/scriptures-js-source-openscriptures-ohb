@@ -1,27 +1,17 @@
 {
-  "text": "כקסום כִּקְסָם וְהָיָה לָהֶם שָׁוְא בְּעֵינֵיהֶם שְׁבֻעֵי שְׁבֻעוֹת לָהֶם וְהוּא מַזְכִּיר עָוֺן לְהִתָּפֵשׂ",
+  "text": "כִּקְסָם וְהָיָה לָהֶם כקסום שָׁוְא בְּעֵינֵיהֶם שְׁבֻעֵי שְׁבֻעוֹת לָהֶם וְהוּא מַזְכִּיר עָוֺן לְהִתָּפֵשׂ",
   "words": [
     {
       "position": 1,
-      "text": "כקסום",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 226,
-        "ordinal": 64,
-        "reduced": 19
-      }
-    },
-    {
-      "position": 2,
       "text": "כִּקְסָם",
       "lemma": "k/7080",
       "morph": "HR/Ncmsc",
       "strongs": [
         "H7080"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 220,
         "ordinal": 58,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "וְהָיָה",
       "lemma": "c/1961",
       "morph": "HC/Vqq3ms",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
@@ -53,6 +43,23 @@
         "standard": 75,
         "ordinal": 30,
         "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "כקסום",
+      "lemma": "k/7080",
+      "morph": "HR/Vqc",
+      "strongs": [
+        "H7080"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 226,
+        "ordinal": 64,
+        "reduced": 19
       }
     },
     {

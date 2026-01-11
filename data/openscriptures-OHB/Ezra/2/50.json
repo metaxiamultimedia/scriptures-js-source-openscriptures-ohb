@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי אַסְנָה בְנֵי בְּנֵי מעינים מְעוּנִים נפיסים נְפוּסִים",
+  "text": "בְּנֵי אַסְנָה בְנֵי מעינים בְּנֵי נפיסים מְעוּנִים נְפוּסִים",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "מעינים",
+      "lemma": "4586",
+      "morph": "HNgmpa",
+      "strongs": [
+        "H4586"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 220,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -62,42 +79,37 @@
       }
     },
     {
-      "position": 5,
-      "text": "מעינים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 6,
+      "text": "נפיסים",
+      "lemma": "5304",
+      "morph": "HNgmpa",
+      "strongs": [
+        "H5304"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
-        "standard": 220,
-        "ordinal": 76,
-        "reduced": 22
+        "standard": 250,
+        "ordinal": 79,
+        "reduced": 25
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מְעוּנִים",
       "lemma": "4586",
       "morph": "HNgmpa",
       "strongs": [
         "H4586"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 216,
         "ordinal": 72,
         "reduced": 27
-      }
-    },
-    {
-      "position": 7,
-      "text": "נפיסים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 250,
-        "ordinal": 79,
-        "reduced": 25
       }
     },
     {
@@ -108,7 +120,9 @@
       "strongs": [
         "H5304"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 246,
         "ordinal": 75,

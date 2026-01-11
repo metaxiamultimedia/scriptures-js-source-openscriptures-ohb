@@ -1,5 +1,5 @@
 {
-  "text": "וְעַתָּה פֹה נְאֻם יְהוָה כִּי לֻקַּח עַמִּי חִנָּם יְהֵילִילוּ נְאֻם יְהוָה וְתָמִיד כָּל הַיּוֹם שְׁמִי מִנֹּאָץ מי־לי מַה לִּי משלו מֹשְׁלָיו",
+  "text": "וְעַתָּה מי לי פֹה נְאֻם יְהוָה כִּי לֻקַּח עַמִּי חִנָּם משלו יְהֵילִילוּ נְאֻם יְהוָה וְתָמִיד כָּל הַיּוֹם שְׁמִי מִנֹּאָץ מַה לִּי מֹשְׁלָיו",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,37 @@
     },
     {
       "position": 2,
+      "text": "מי",
+      "lemma": "4100",
+      "morph": "HTi",
+      "strongs": [
+        "H4100"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "לי",
+      "lemma": "l",
+      "morph": "HR/Sp1cs",
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 22,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
       "text": "פֹה",
       "lemma": "6311",
       "morph": "HD",
@@ -32,7 +63,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 5,
       "text": "נְאֻם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -47,7 +78,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -62,7 +93,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -77,7 +108,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "לֻקַּח",
       "lemma": "3947",
       "morph": "HVPp3ms",
@@ -92,7 +123,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "עַמִּי",
       "lemma": "5971 a",
       "morph": "HNcmsc/Sp1cs",
@@ -107,7 +138,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "חִנָּם",
       "lemma": "2600",
       "morph": "HD",
@@ -122,7 +153,24 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
+      "text": "משלו",
+      "lemma": "4910",
+      "morph": "HVqrmsc/Sp3ms",
+      "strongs": [
+        "H4910"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 376,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
       "text": "יְהֵילִילוּ",
       "lemma": "3213",
       "morph": "HVhi3mp",
@@ -137,7 +185,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 13,
       "text": "נְאֻם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -152,7 +200,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 14,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -167,7 +215,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 15,
       "text": "וְתָמִיד",
       "lemma": "c/8548",
       "morph": "HC/Ncmsa",
@@ -182,7 +230,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 16,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -197,7 +245,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 17,
       "text": "הַיּוֹם",
       "lemma": "d/3117",
       "morph": "HTd/Ncmsa",
@@ -212,7 +260,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 18,
       "text": "שְׁמִי",
       "lemma": "8034",
       "morph": "HNcmsc/Sp1cs",
@@ -227,7 +275,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 19,
       "text": "מִנֹּאָץ",
       "lemma": "5006",
       "morph": "HVrsmsa",
@@ -242,26 +290,16 @@
       }
     },
     {
-      "position": 17,
-      "text": "מי־לי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 45,
-        "reduced": 9
-      }
-    },
-    {
-      "position": 18,
+      "position": 20,
       "text": "מַה",
       "lemma": "4100",
       "morph": "HTi",
       "strongs": [
         "H4100"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 45,
         "ordinal": 18,
@@ -269,11 +307,13 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "לִּי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -281,26 +321,16 @@
       }
     },
     {
-      "position": 20,
-      "text": "משלו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 376,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
-      "position": 21,
+      "position": 22,
       "text": "מֹשְׁלָיו",
       "lemma": "4910",
       "morph": "HVqrmpc/Sp3ms",
       "strongs": [
         "H4910"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 386,
         "ordinal": 62,

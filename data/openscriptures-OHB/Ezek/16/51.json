@@ -1,5 +1,5 @@
 {
-  "text": "וְשֹׁמְרוֹן כַּחֲצִי חַטֹּאתַיִךְ לֹא חָטָאָה וַתַּרְבִּי אֶת תּוֹעֲבוֹתַיִךְ מֵהֵנָּה וַתְּצַדְּקִי אֶת בְּכָל תּוֹעֲבוֹתַיִךְ אֲשֶׁר אחותך אֲחוֹתַיִךְ עשיתי עָשִׂית",
+  "text": "וְשֹׁמְרוֹן כַּחֲצִי חַטֹּאתַיִךְ לֹא חָטָאָה וַתַּרְבִּי אֶת תּוֹעֲבוֹתַיִךְ מֵהֵנָּה וַתְּצַדְּקִי אֶת אחותך בְּכָל תּוֹעֲבוֹתַיִךְ אֲשֶׁר עשיתי אֲחוֹתַיִךְ עָשִׂית",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "אחותך",
+      "lemma": "269",
+      "morph": "HNcfsc/Sp2fs",
+      "strongs": [
+        "H269"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 435,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
       "text": "בְּכָל",
       "lemma": "b/3605",
       "morph": "HR/Ncmsc",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "תּוֹעֲבוֹתַיִךְ",
       "lemma": "8441",
       "morph": "HNcfpc/Sp2fs",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -212,42 +229,37 @@
       }
     },
     {
-      "position": 15,
-      "text": "אחותך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 16,
+      "text": "עשיתי",
+      "lemma": "6213 a",
+      "morph": "HVqp2fs",
+      "strongs": [
+        "H6213"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
-        "standard": 435,
-        "ordinal": 48,
-        "reduced": 21
+        "standard": 790,
+        "ordinal": 79,
+        "reduced": 16
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֲחוֹתַיִךְ",
       "lemma": "269",
       "morph": "HNcfpc/Sp2fs",
       "strongs": [
         "H269"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 445,
         "ordinal": 58,
         "reduced": 22
-      }
-    },
-    {
-      "position": 17,
-      "text": "עשיתי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 790,
-        "ordinal": 79,
-        "reduced": 16
       }
     },
     {
@@ -258,7 +270,9 @@
       "strongs": [
         "H6213"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 780,
         "ordinal": 69,

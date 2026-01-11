@@ -1,5 +1,5 @@
 {
-  "text": "יְדִיעַ לֶהֱוֵא לְמַלְכָּא דִּי יְהוּדָיֵא דִּי סְלִקוּ מִן לְוָתָךְ עֲלֶינָא אֲתוֹ לִירוּשְׁלֶם קִרְיְתָא מָרָדְתָּא בָּנַיִן וְאֻשַּׁיָּא יַחִיטוּ ובאישתא וּבִישְׁתָּא ושורי וְשׁוּרַיָּא אשכללו שַׁכְלִילוּ",
+  "text": "יְדִיעַ לֶהֱוֵא לְמַלְכָּא דִּי יְהוּדָיֵא דִּי סְלִקוּ מִן לְוָתָךְ עֲלֶינָא אֲתוֹ לִירוּשְׁלֶם קִרְיְתָא מָרָדְתָּא ובאישתא בָּנַיִן ושורי אשכללו וְאֻשַּׁיָּא יַחִיטוּ וּבִישְׁתָּא וְשׁוּרַיָּא שַׁכְלִילוּ",
   "words": [
     {
       "position": 1,
@@ -213,6 +213,23 @@
     },
     {
       "position": 15,
+      "text": "ובאישתא",
+      "lemma": "c/873",
+      "morph": "AC/Aafsd/Td",
+      "strongs": [
+        "H873"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 720,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
       "text": "בָּנַיִן",
       "lemma": "1124",
       "morph": "AVqrmpa",
@@ -227,7 +244,41 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
+      "text": "ושורי",
+      "lemma": "c/7792",
+      "morph": "AC/Ncmpc",
+      "strongs": [
+        "H7792"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 522,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "אשכללו",
+      "lemma": "3635 a",
+      "morph": "AVvi3mp",
+      "strongs": [
+        "H3635"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 387,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
       "text": "וְאֻשַּׁיָּא",
       "lemma": "c/787",
       "morph": "AC/Ncmpd/Td",
@@ -242,7 +293,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 20,
       "text": "יַחִיטוּ",
       "lemma": "2338",
       "morph": "AVai3mp",
@@ -257,26 +308,16 @@
       }
     },
     {
-      "position": 18,
-      "text": "ובאישתא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 720,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
-      "position": 19,
+      "position": 21,
       "text": "וּבִישְׁתָּא",
       "lemma": "c/873",
       "morph": "AC/Aafsd/Td",
       "strongs": [
         "H873"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 719,
         "ordinal": 62,
@@ -284,42 +325,20 @@
       }
     },
     {
-      "position": 20,
-      "text": "ושורי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 522,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
-      "position": 21,
+      "position": 22,
       "text": "וְשׁוּרַיָּא",
       "lemma": "c/7792",
       "morph": "AC/Ncmpd/Td",
       "strongs": [
         "H7792"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 523,
         "ordinal": 64,
         "reduced": 19
-      }
-    },
-    {
-      "position": 22,
-      "text": "אשכללו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 387,
-        "ordinal": 63,
-        "reduced": 18
       }
     },
     {
@@ -330,7 +349,9 @@
       "strongs": [
         "H3635"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 396,
         "ordinal": 72,

@@ -1,5 +1,5 @@
 {
-  "text": "כִּי כֹה אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל כַּד הַקֶּמַח לֹא תִכְלָה וְצַפַּחַת הַשֶּׁמֶן לֹא תֶחְסָר עַד יוֹם יְהוָה גֶּשֶׁם עַל פְּנֵי הָאֲדָמָה תתן תֵּת",
+  "text": "כִּי כֹה אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל כַּד הַקֶּמַח לֹא תִכְלָה וְצַפַּחַת הַשֶּׁמֶן לֹא תֶחְסָר עַד יוֹם תתן יְהוָה גֶּשֶׁם עַל פְּנֵי הָאֲדָמָה תֵּת",
   "words": [
     {
       "position": 1,
@@ -243,6 +243,23 @@
     },
     {
       "position": 17,
+      "text": "תתן",
+      "lemma": "5414",
+      "morph": "HVqc",
+      "strongs": [
+        "H5414"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 850,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "גֶּשֶׁם",
       "lemma": "1653",
       "morph": "HNcmsa",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "פְּנֵי",
       "lemma": "6440",
       "morph": "HNcbpc",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "הָאֲדָמָה",
       "lemma": "d/127",
       "morph": "HTd/Ncfsa",
@@ -317,18 +334,6 @@
       }
     },
     {
-      "position": 22,
-      "text": "תתן",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 850,
-        "ordinal": 58,
-        "reduced": 13
-      }
-    },
-    {
       "position": 23,
       "text": "תֵּת",
       "lemma": "5414",
@@ -336,7 +341,9 @@
       "strongs": [
         "H5414"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 800,
         "ordinal": 44,

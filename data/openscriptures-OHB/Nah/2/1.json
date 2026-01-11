@@ -1,27 +1,17 @@
 {
-  "text": "לעבור לַעֲבָר הִנֵּה עַל הֶהָרִים רַגְלֵי מְבַשֵּׂר מַשְׁמִיעַ שָׁלוֹם חָגִּי יְהוּדָה חַגַּיִךְ שַׁלְּמִי נְדָרָיִךְ כִּי לֹא יוֹסִיף עוֹד בָּךְ בְּלִיַּעַל כֻּלֹּה נִכְרָת",
+  "text": "לַעֲבָר הִנֵּה עַל הֶהָרִים רַגְלֵי מְבַשֵּׂר מַשְׁמִיעַ שָׁלוֹם חָגִּי יְהוּדָה חַגַּיִךְ שַׁלְּמִי נְדָרָיִךְ כִּי לֹא יוֹסִיף עוֹד לעבור בָּךְ בְּלִיַּעַל כֻּלֹּה נִכְרָת",
   "words": [
     {
       "position": 1,
-      "text": "לעבור",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 308,
-        "ordinal": 56,
-        "reduced": 20
-      }
-    },
-    {
-      "position": 2,
       "text": "לַעֲבָר",
       "lemma": "l/5674 a",
       "morph": "HR/Vqc",
       "strongs": [
         "H5674"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 302,
         "ordinal": 50,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "הִנֵּה",
       "lemma": "2009",
       "morph": "HTm",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "הֶהָרִים",
       "lemma": "d/2022",
       "morph": "HTd/Ncmpa",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "רַגְלֵי",
       "lemma": "7272",
       "morph": "HNcfdc",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "מְבַשֵּׂר",
       "lemma": "1319",
       "morph": "HVprmsa",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "מַשְׁמִיעַ",
       "lemma": "8085",
       "morph": "HVhrmsa",
@@ -119,7 +109,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "שָׁלוֹם",
       "lemma": "7965",
       "morph": "HNcmsa",
@@ -134,7 +124,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 9,
       "text": "חָגִּי",
       "lemma": "2287",
       "morph": "HVqv2fs",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 10,
       "text": "יְהוּדָה",
       "lemma": "3063",
       "morph": "HNp",
@@ -164,7 +154,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 11,
       "text": "חַגַּיִךְ",
       "lemma": "2282",
       "morph": "HNcmpc/Sp2fs",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 12,
       "text": "שַׁלְּמִי",
       "lemma": "7999 a",
       "morph": "HVpv2fs",
@@ -194,7 +184,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 13,
       "text": "נְדָרָיִךְ",
       "lemma": "5088",
       "morph": "HNcmpc/Sp2fs",
@@ -209,7 +199,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 14,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -224,7 +214,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 15,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -239,7 +229,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 16,
       "text": "יוֹסִיף",
       "lemma": "3254",
       "morph": "HVhi3ms",
@@ -254,7 +244,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 17,
       "text": "עוֹד",
       "lemma": "5750",
       "morph": "HD",
@@ -266,6 +256,23 @@
         "standard": 80,
         "ordinal": 26,
         "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "לעבור",
+      "lemma": "l/5674 a",
+      "morph": "HR/Vqc",
+      "strongs": [
+        "H5674"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 308,
+        "ordinal": 56,
+        "reduced": 20
       }
     },
     {

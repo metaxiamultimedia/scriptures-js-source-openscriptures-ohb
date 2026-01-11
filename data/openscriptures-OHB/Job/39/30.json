@@ -1,8 +1,25 @@
 {
-  "text": "יְעַלְעוּ דָם וּבַאֲשֶׁר חֲלָלִים שָׁם הוּא ואפרחו וְאֶפְרֹחָיו",
+  "text": "ואפרחו יְעַלְעוּ דָם וּבַאֲשֶׁר חֲלָלִים שָׁם הוּא וְאֶפְרֹחָיו",
   "words": [
     {
       "position": 1,
+      "text": "ואפרחו",
+      "lemma": "c/667",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H667"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 301,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
       "text": "יְעַלְעוּ",
       "lemma": "5966",
       "morph": "HVpi3mp",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "דָם",
       "lemma": "1818",
       "morph": "HNcmsa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וּבַאֲשֶׁר",
       "lemma": "c/b/834 b",
       "morph": "HC/R/Tr",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "חֲלָלִים",
       "lemma": "2491 a",
       "morph": "HAampa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "שָׁם",
       "lemma": "8033",
       "morph": "HD",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "ואפרחו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 301,
-        "ordinal": 58,
-        "reduced": 31
-      }
-    },
-    {
       "position": 8,
       "text": "וְאֶפְרֹחָיו",
       "lemma": "c/667",
@@ -111,7 +116,9 @@
       "strongs": [
         "H667"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 311,
         "ordinal": 68,

@@ -1,5 +1,5 @@
 {
-  "text": "עַל צַוָּארֵנוּ נִרְדָּפְנוּ יָגַעְנוּ הוּנַח לָנוּ לא וְלֹא",
+  "text": "עַל צַוָּארֵנוּ נִרְדָּפְנוּ יָגַעְנוּ לא הוּנַח לָנוּ וְלֹא",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
       "text": "הוּנַח",
       "lemma": "5117",
       "morph": "HVHp3ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לָנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
@@ -89,18 +106,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "לא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
       "position": 8,
       "text": "וְלֹא",
       "lemma": "c/3808",
@@ -108,7 +113,9 @@
       "strongs": [
         "H3808"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 37,
         "ordinal": 19,

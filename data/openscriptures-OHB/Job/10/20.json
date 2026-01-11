@@ -1,5 +1,5 @@
 {
-  "text": "הֲלֹא מְעַט יָמַי מִמֶּנִּי וְאַבְלִיגָה מְּעָט יחדל וַחֲדָל ישית וְשִׁית",
+  "text": "הֲלֹא מְעַט יָמַי יחדל ישית מִמֶּנִּי וְאַבְלִיגָה מְּעָט וַחֲדָל וְשִׁית",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,40 @@
     },
     {
       "position": 4,
+      "text": "יחדל",
+      "lemma": "2308",
+      "morph": "HVqj3ms",
+      "strongs": [
+        "H2308"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ישית",
+      "lemma": "7896",
+      "morph": "HVqj3ms",
+      "strongs": [
+        "H7896"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 720,
+        "ordinal": 63,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
       "text": "מִמֶּנִּי",
       "lemma": "4480 a",
       "morph": "HR/Sp1cs",
@@ -62,7 +96,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "וְאַבְלִיגָה",
       "lemma": "c/1082",
       "morph": "HC/Vhh1cs",
@@ -77,7 +111,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "מְּעָט",
       "lemma": "4592",
       "morph": "HD",
@@ -92,42 +126,20 @@
       }
     },
     {
-      "position": 7,
-      "text": "יחדל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 34,
-        "reduced": 16
-      }
-    },
-    {
-      "position": 8,
+      "position": 9,
       "text": "וַחֲדָל",
       "lemma": "c/2308",
       "morph": "HC/Vqv2ms",
       "strongs": [
         "H2308"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 48,
         "ordinal": 30,
         "reduced": 21
-      }
-    },
-    {
-      "position": 9,
-      "text": "ישית",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 720,
-        "ordinal": 63,
-        "reduced": 9
       }
     },
     {
@@ -138,7 +150,9 @@
       "strongs": [
         "H7896"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 716,
         "ordinal": 59,

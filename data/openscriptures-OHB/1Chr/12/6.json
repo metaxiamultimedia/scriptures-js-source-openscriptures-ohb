@@ -1,27 +1,17 @@
 {
-  "text": "החריפי הַחֲרוּפִי אֶלְעוּזַי וִירִימוֹת וּבְעַלְיָה וּשְׁמַרְיָהוּ וּשְׁפַטְיָהוּ",
+  "text": "הַחֲרוּפִי אֶלְעוּזַי וִירִימוֹת וּבְעַלְיָה וּשְׁמַרְיָהוּ וּשְׁפַטְיָהוּ החריפי",
   "words": [
     {
       "position": 1,
-      "text": "החריפי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 313,
-        "ordinal": 70,
-        "reduced": 25
-      }
-    },
-    {
-      "position": 2,
       "text": "הַחֲרוּפִי",
       "lemma": "d/2741",
       "morph": "HTd/Ngmsa",
       "strongs": [
         "H2741"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 309,
         "ordinal": 66,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "אֶלְעוּזַי",
       "lemma": "498",
       "morph": "HNp",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "וִירִימוֹת",
       "lemma": "c/3406",
       "morph": "HC/Np",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "וּבְעַלְיָה",
       "lemma": "c/1183",
       "morph": "HC/Np",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "וּשְׁמַרְיָהוּ",
       "lemma": "c/8114",
       "morph": "HC/Np",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "וּשְׁפַטְיָהוּ",
       "lemma": "c/8203",
       "morph": "HC/Np",
@@ -101,6 +91,23 @@
         "standard": 416,
         "ordinal": 74,
         "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "החריפי",
+      "lemma": "d/2741",
+      "morph": "HTd/Ngmsa",
+      "strongs": [
+        "H2741"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 313,
+        "ordinal": 70,
+        "reduced": 25
       }
     }
   ],

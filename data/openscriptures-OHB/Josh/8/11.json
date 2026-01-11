@@ -1,5 +1,5 @@
 {
-  "text": "וְכָל הָעָם הַמִּלְחָמָה אֲשֶׁר אִתּוֹ עָלוּ וַיִּגְּשׁוּ וַיָּבֹאוּ נֶגֶד הָעִיר וַיַּחֲנוּ מִצְּפוֹן לָעַי וְהַגַּי וּבֵין הָעָי בינו בֵּינָיו",
+  "text": "וְכָל הָעָם הַמִּלְחָמָה אֲשֶׁר אִתּוֹ עָלוּ וַיִּגְּשׁוּ וַיָּבֹאוּ נֶגֶד הָעִיר וַיַּחֲנוּ מִצְּפוֹן לָעַי וְהַגַּי בינו וּבֵין הָעָי בֵּינָיו",
   "words": [
     {
       "position": 1,
@@ -213,6 +213,23 @@
     },
     {
       "position": 15,
+      "text": "בינו",
+      "lemma": "996",
+      "morph": "HR/Sp3ms",
+      "strongs": [
+        "H996"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 68,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
       "text": "וּבֵין",
       "lemma": "c/996",
       "morph": "HC/R",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הָעָי",
       "lemma": "d/5857",
       "morph": "HTd/Np",
@@ -242,18 +259,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "בינו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 68,
-        "ordinal": 32,
-        "reduced": 14
-      }
-    },
-    {
       "position": 18,
       "text": "בֵּינָיו",
       "lemma": "996",
@@ -261,7 +266,9 @@
       "strongs": [
         "H996"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 78,
         "ordinal": 42,

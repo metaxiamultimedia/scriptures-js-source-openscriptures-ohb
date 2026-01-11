@@ -1,5 +1,5 @@
 {
-  "text": "הֵעֵז אִישׁ רָשָׁע בְּפָנָיו וְיָשָׁר הוּא יכין יָבִין דרכיו דַּרְכּוֹ",
+  "text": "הֵעֵז אִישׁ רָשָׁע בְּפָנָיו וְיָשָׁר הוּא יכין דרכיו יָבִין דַּרְכּוֹ",
   "words": [
     {
       "position": 1,
@@ -94,9 +94,14 @@
     {
       "position": 7,
       "text": "יכין",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "3559 a",
+      "morph": "HVhi3ms",
+      "strongs": [
+        "H3559"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 90,
         "ordinal": 45,
@@ -105,29 +110,36 @@
     },
     {
       "position": 8,
+      "text": "דרכיו",
+      "lemma": "1870",
+      "morph": "HNcbpc/Sp3ms",
+      "strongs": [
+        "H1870"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 240,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
       "text": "יָבִין",
       "lemma": "995",
       "morph": "HVqi3ms",
       "strongs": [
         "H995"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 72,
         "ordinal": 36,
         "reduced": 9
-      }
-    },
-    {
-      "position": 9,
-      "text": "דרכיו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 240,
-        "ordinal": 51,
-        "reduced": 15
       }
     },
     {
@@ -138,7 +150,9 @@
       "strongs": [
         "H1870"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 230,
         "ordinal": 41,

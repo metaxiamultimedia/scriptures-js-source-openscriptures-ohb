@@ -1,5 +1,5 @@
 {
-  "text": "קֹרֵא דָגַר וְלֹא יָלָד עֹשֶׂה עֹשֶׁר וְלֹא בְמִשְׁפָּט בַּחֲצִי יַעַזְבֶנּוּ וּבְאַחֲרִיתוֹ יִהְיֶה נָבָל ימו יָמָיו",
+  "text": "קֹרֵא דָגַר וְלֹא יָלָד עֹשֶׂה עֹשֶׁר וְלֹא בְמִשְׁפָּט בַּחֲצִי ימו יַעַזְבֶנּוּ וּבְאַחֲרִיתוֹ יִהְיֶה נָבָל יָמָיו",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "ימו",
+      "lemma": "3117",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H3117"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
       "text": "יַעַזְבֶנּוּ",
       "lemma": "5800 a",
       "morph": "HVqi3ms/Sp3ms",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וּבְאַחֲרִיתוֹ",
       "lemma": "c/b/319",
       "morph": "HC/R/Ncfsc/Sp3ms",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יִהְיֶה",
       "lemma": "1961",
       "morph": "HVqi3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "נָבָל",
       "lemma": "5036",
       "morph": "HAamsa",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "ימו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 29,
-        "reduced": 11
-      }
-    },
-    {
       "position": 15,
       "text": "יָמָיו",
       "lemma": "3117",
@@ -216,7 +221,9 @@
       "strongs": [
         "H3117"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 66,
         "ordinal": 39,

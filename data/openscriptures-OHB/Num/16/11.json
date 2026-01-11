@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵן אַתָּה וְכָל עֲדָתְךָ הַנֹּעָדִים עַל יְהוָה וְאַהֲרֹן מַה הוּא כִּי עָלָיו תלונו תַלִּינוּ",
+  "text": "לָכֵן אַתָּה וְכָל עֲדָתְךָ הַנֹּעָדִים עַל יְהוָה וְאַהֲרֹן מַה הוּא כִּי תלונו עָלָיו תַלִּינוּ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "תלונו",
+      "lemma": "3885 b",
+      "morph": "HVhi2mp",
+      "strongs": [
+        "H3885"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 492,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
       "text": "עָלָיו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -182,18 +199,6 @@
       }
     },
     {
-      "position": 13,
-      "text": "תלונו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 492,
-        "ordinal": 60,
-        "reduced": 24
-      }
-    },
-    {
       "position": 14,
       "text": "תַלִּינוּ",
       "lemma": "3885 b",
@@ -201,7 +206,9 @@
       "strongs": [
         "H3885"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 496,
         "ordinal": 64,

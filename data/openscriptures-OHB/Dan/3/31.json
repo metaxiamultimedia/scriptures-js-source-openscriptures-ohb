@@ -1,27 +1,17 @@
 {
-  "text": "דארין דָיְרִין נְבוּכַדְנֶצַּר מַלְכָּא לְכָל עַמְמַיָּא אֻמַיָּא וְלִשָּׁנַיָּא דִּי בְּכָל אַרְעָא שְׁלָמְכוֹן יִשְׂגֵּא",
+  "text": "דָיְרִין נְבוּכַדְנֶצַּר מַלְכָּא לְכָל עַמְמַיָּא אֻמַיָּא וְלִשָּׁנַיָּא דִּי דארין בְּכָל אַרְעָא שְׁלָמְכוֹן יִשְׂגֵּא",
   "words": [
     {
       "position": 1,
-      "text": "דארין",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 265,
-        "ordinal": 49,
-        "reduced": 13
-      }
-    },
-    {
-      "position": 2,
       "text": "דָיְרִין",
       "lemma": "1753",
       "morph": "AVqrmpa",
       "strongs": [
         "H1753"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 274,
         "ordinal": 58,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "נְבוּכַדְנֶצַּר",
       "lemma": "5020",
       "morph": "ANp",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "מַלְכָּא",
       "lemma": "4430",
       "morph": "ANcmsd/Td",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "לְכָל",
       "lemma": "l/3606",
       "morph": "AR/Ncmsc",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "עַמְמַיָּא",
       "lemma": "5972",
       "morph": "ANcmpd/Td",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "אֻמַיָּא",
       "lemma": "524",
       "morph": "ANcfpd/Td",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "וְלִשָּׁנַיָּא",
       "lemma": "c/3961",
       "morph": "AC/Ncmpd/Td",
@@ -119,7 +109,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -131,6 +121,23 @@
         "standard": 14,
         "ordinal": 14,
         "reduced": 5
+      }
+    },
+    {
+      "position": 9,
+      "text": "דארין",
+      "lemma": "1753",
+      "morph": "AVqrmpa",
+      "strongs": [
+        "H1753"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 265,
+        "ordinal": 49,
+        "reduced": 13
       }
     },
     {

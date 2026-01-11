@@ -1,5 +1,5 @@
 {
-  "text": "וָאֶקַּח אֶת אֲבִיכֶם אֶת אַבְרָהָם מֵעֵבֶר הַנָּהָר וָאוֹלֵךְ אוֹתוֹ בְּכָל אֶרֶץ כְּנָעַן אֶת זַרְעוֹ וָאֶתֶּן לוֹ אֶת יִצְחָק וארב וָאַרְבֶּה",
+  "text": "וָאֶקַּח אֶת אֲבִיכֶם אֶת אַבְרָהָם מֵעֵבֶר הַנָּהָר וָאוֹלֵךְ אוֹתוֹ בְּכָל אֶרֶץ כְּנָעַן וארב אֶת זַרְעוֹ וָאֶתֶּן לוֹ אֶת יִצְחָק וָאַרְבֶּה",
   "words": [
     {
       "position": 1,
@@ -177,6 +177,23 @@
     },
     {
       "position": 13,
+      "text": "וארב",
+      "lemma": "c/7235 a",
+      "morph": "HC/Vhw1cs",
+      "strongs": [
+        "H7235"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 209,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -191,7 +208,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "זַרְעוֹ",
       "lemma": "2233",
       "morph": "HNcmsc/Sp3ms",
@@ -206,7 +223,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וָאֶתֶּן",
       "lemma": "c/5414",
       "morph": "HC/Vqw1cs",
@@ -221,7 +238,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -233,7 +250,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -248,7 +265,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "יִצְחָק",
       "lemma": "3327",
       "morph": "HNp",
@@ -263,18 +280,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "וארב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 209,
-        "ordinal": 29,
-        "reduced": 11
-      }
-    },
-    {
       "position": 20,
       "text": "וָאַרְבֶּה",
       "lemma": "c/7235 a",
@@ -282,7 +287,9 @@
       "strongs": [
         "H7235"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 214,
         "ordinal": 34,

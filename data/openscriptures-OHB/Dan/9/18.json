@@ -1,5 +1,5 @@
 {
-  "text": "הַטֵּה אֱלֹהַי אָזְנְךָ וּשֲׁמָע עֵינֶיךָ וּרְאֵה שֹׁמְמֹתֵינוּ וְהָעִיר אֲשֶׁר נִקְרָא שִׁמְךָ עָלֶיהָ כִּי לֹא עַל צִדְקֹתֵינוּ אֲנַחְנוּ מַפִּילִים תַּחֲנוּנֵינוּ לְפָנֶיךָ כִּי עַל רַחֲמֶיךָ הָרַבִּים פקחה פְּקַח",
+  "text": "הַטֵּה אֱלֹהַי אָזְנְךָ וּשֲׁמָע פקחה עֵינֶיךָ וּרְאֵה שֹׁמְמֹתֵינוּ וְהָעִיר אֲשֶׁר נִקְרָא שִׁמְךָ עָלֶיהָ כִּי לֹא עַל צִדְקֹתֵינוּ אֲנַחְנוּ מַפִּילִים תַּחֲנוּנֵינוּ לְפָנֶיךָ כִּי עַל רַחֲמֶיךָ הָרַבִּים פְּקַח",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "פקחה",
+      "lemma": "6491",
+      "morph": "HVqv2ms/Sh",
+      "strongs": [
+        "H6491"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 193,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
       "text": "עֵינֶיךָ",
       "lemma": "5869 a",
       "morph": "HNcbdc/Sp2ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וּרְאֵה",
       "lemma": "c/7200",
       "morph": "HC/Vqv2ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שֹׁמְמֹתֵינוּ",
       "lemma": "8077 a",
       "morph": "HVqrfpc/Sp1cp",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְהָעִיר",
       "lemma": "c/d/5892 b",
       "morph": "HC/Td/Ncfsa",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "נִקְרָא",
       "lemma": "7121",
       "morph": "HVNp3ms",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "שִׁמְךָ",
       "lemma": "8034",
       "morph": "HNcmsc/Sp2ms",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "עָלֶיהָ",
       "lemma": "5921 a",
       "morph": "HR/Sp3fs",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "צִדְקֹתֵינוּ",
       "lemma": "6666",
       "morph": "HNcfpc/Sp1cp",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֲנַחְנוּ",
       "lemma": "587",
       "morph": "HPp1cp",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "מַפִּילִים",
       "lemma": "5307",
       "morph": "HVhrmpa",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "תַּחֲנוּנֵינוּ",
       "lemma": "8469",
       "morph": "HNcmpc/Sp1cp",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לְפָנֶיךָ",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc/Sp2ms",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -332,7 +349,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "רַחֲמֶיךָ",
       "lemma": "7356 b",
       "morph": "HNcmpc/Sp2ms",
@@ -347,7 +364,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "הָרַבִּים",
       "lemma": "d/7227 a",
       "morph": "HTd/Aampa",
@@ -362,18 +379,6 @@
       }
     },
     {
-      "position": 25,
-      "text": "פקחה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 193,
-        "ordinal": 49,
-        "reduced": 22
-      }
-    },
-    {
       "position": 26,
       "text": "פְּקַח",
       "lemma": "6491",
@@ -381,7 +386,9 @@
       "strongs": [
         "H6491"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 188,
         "ordinal": 44,

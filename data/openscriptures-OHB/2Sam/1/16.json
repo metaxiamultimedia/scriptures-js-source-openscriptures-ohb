@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר אֵלָיו דָּוִד עַל רֹאשֶׁךָ כִּי פִיךָ עָנָה בְךָ לֵאמֹר אָנֹכִי מֹתַתִּי אֶת מְשִׁיחַ יְהוָה דמיך דָּמְךָ",
+  "text": "וַיֹּאמֶר אֵלָיו דָּוִד דמיך עַל רֹאשֶׁךָ כִּי פִיךָ עָנָה בְךָ לֵאמֹר אָנֹכִי מֹתַתִּי אֶת מְשִׁיחַ יְהוָה דָּמְךָ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "דמיך",
+      "lemma": "1818",
+      "morph": "HNcmpc/Sp2ms",
+      "strongs": [
+        "H1818"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רֹאשֶׁךָ",
       "lemma": "7218 a",
       "morph": "HNcmsc/Sp2ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "פִיךָ",
       "lemma": "6310",
       "morph": "HNcmsc/Sp2ms",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עָנָה",
       "lemma": "6030 b",
       "morph": "HVqp3ms",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בְךָ",
       "lemma": "b",
       "morph": "HR/Sp2ms",
@@ -134,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לֵאמֹר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
@@ -149,7 +166,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אָנֹכִי",
       "lemma": "595",
       "morph": "HPp1cs",
@@ -164,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מֹתַתִּי",
       "lemma": "4191",
       "morph": "HVop1cs",
@@ -179,7 +196,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -194,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מְשִׁיחַ",
       "lemma": "4899",
       "morph": "HNcmsc",
@@ -209,7 +226,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -224,18 +241,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "דמיך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 74,
-        "ordinal": 38,
-        "reduced": 11
-      }
-    },
-    {
       "position": 17,
       "text": "דָּמְךָ",
       "lemma": "1818",
@@ -243,7 +248,9 @@
       "strongs": [
         "H1818"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 64,
         "ordinal": 28,

@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר בֹּעַז בְּיוֹם קְנוֹתְךָ הַשָּׂדֶה מִיַּד נָעֳמִי וּמֵאֵת רוּת הַמּוֹאֲבִיָּה אֵשֶׁת הַמֵּת לְהָקִים שֵׁם הַמֵּת עַל נַחֲלָתוֹ קניתי קָנִיתָה",
+  "text": "וַיֹּאמֶר בֹּעַז בְּיוֹם קְנוֹתְךָ הַשָּׂדֶה מִיַּד נָעֳמִי וּמֵאֵת רוּת הַמּוֹאֲבִיָּה אֵשֶׁת הַמֵּת קניתי לְהָקִים שֵׁם הַמֵּת עַל נַחֲלָתוֹ קָנִיתָה",
   "words": [
     {
       "position": 1,
@@ -183,6 +183,23 @@
     },
     {
       "position": 13,
+      "text": "קניתי",
+      "lemma": "7069",
+      "morph": "HVqp1cs",
+      "strongs": [
+        "H7069"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 570,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
       "text": "לְהָקִים",
       "lemma": "l/6965 b",
       "morph": "HR/Vhc",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שֵׁם",
       "lemma": "8034",
       "morph": "HNcmsc",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַמֵּת",
       "lemma": "d/4191",
       "morph": "HTd/Vqrmsa",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "נַחֲלָתוֹ",
       "lemma": "5159",
       "morph": "HNcfsc/Sp3ms",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "קניתי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 570,
-        "ordinal": 75,
-        "reduced": 12
-      }
-    },
-    {
       "position": 19,
       "text": "קָנִיתָה",
       "lemma": "7069",
@@ -276,7 +281,9 @@
       "strongs": [
         "H7069"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 565,
         "ordinal": 70,

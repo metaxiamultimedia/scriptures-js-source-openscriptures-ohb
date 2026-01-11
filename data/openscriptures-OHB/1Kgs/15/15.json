@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֵא אֶת קָדְשֵׁי אָבִיו בֵּית יְהוָה כֶּסֶף וְזָהָב וְכֵלִים וקדשו וְקָדְשֵׁי",
+  "text": "וַיָּבֵא אֶת קָדְשֵׁי אָבִיו וקדשו בֵּית יְהוָה כֶּסֶף וְזָהָב וְכֵלִים וְקָדְשֵׁי",
   "words": [
     {
       "position": 1,
@@ -60,6 +60,23 @@
     },
     {
       "position": 5,
+      "text": "וקדשו",
+      "lemma": "c/6944",
+      "morph": "HC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H6944"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 416,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
       "text": "בֵּית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -74,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -89,7 +106,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כֶּסֶף",
       "lemma": "3701",
       "morph": "HNcmsa",
@@ -104,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְזָהָב",
       "lemma": "c/2091",
       "morph": "HC/Ncmsa",
@@ -119,7 +136,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְכֵלִים",
       "lemma": "c/3627",
       "morph": "HC/Ncmpa",
@@ -134,18 +151,6 @@
       }
     },
     {
-      "position": 10,
-      "text": "וקדשו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 416,
-        "ordinal": 56,
-        "reduced": 20
-      }
-    },
-    {
       "position": 11,
       "text": "וְקָדְשֵׁי",
       "lemma": "c/6944",
@@ -153,7 +158,9 @@
       "strongs": [
         "H6944"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 420,
         "ordinal": 60,

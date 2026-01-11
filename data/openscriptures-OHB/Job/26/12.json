@@ -1,5 +1,5 @@
 {
-  "text": "בְּכֹחוֹ רָגַע הַיָּם מָחַץ רָהַב ובתובנתו וּבִתְבוּנָתוֹ",
+  "text": "בְּכֹחוֹ רָגַע הַיָּם ובתובנתו מָחַץ רָהַב וּבִתְבוּנָתוֹ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "ובתובנתו",
+      "lemma": "c/b/8394",
+      "morph": "HC/R/Ncfsc/Sp3ms",
+      "strongs": [
+        "H8394"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 872,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
       "text": "מָחַץ",
       "lemma": "4272",
       "morph": "HVqp3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רָהַב",
       "lemma": "7293",
       "morph": "HNp",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "ובתובנתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 872,
-        "ordinal": 80,
-        "reduced": 35
-      }
-    },
-    {
       "position": 7,
       "text": "וּבִתְבוּנָתוֹ",
       "lemma": "c/b/8394",
@@ -96,7 +101,9 @@
       "strongs": [
         "H8394"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 872,
         "ordinal": 80,

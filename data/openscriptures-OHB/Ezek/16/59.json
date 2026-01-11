@@ -1,5 +1,5 @@
 {
-  "text": "כִּי כֹה אָמַר אֲדֹנָי יְהוִה אוֹתָךְ כַּאֲשֶׁר עָשִׂית אֲשֶׁר בָּזִית אָלָה לְהָפֵר בְּרִית ועשית וְעָשִׂיתִי",
+  "text": "כִּי כֹה אָמַר אֲדֹנָי יְהוִה ועשית אוֹתָךְ כַּאֲשֶׁר עָשִׂית אֲשֶׁר בָּזִית אָלָה לְהָפֵר בְּרִית וְעָשִׂיתִי",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "ועשית",
+      "lemma": "c/6213 a",
+      "morph": "HC/Vqq2fs",
+      "strongs": [
+        "H6213"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 786,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
       "text": "אוֹתָךְ",
       "lemma": "853",
       "morph": "HTo/Sp2fs",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כַּאֲשֶׁר",
       "lemma": "k/834 d",
       "morph": "HR/Tr",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עָשִׂית",
       "lemma": "6213 a",
       "morph": "HVqp2fs",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בָּזִית",
       "lemma": "959",
       "morph": "HVqp2fs",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אָלָה",
       "lemma": "423",
       "morph": "HNcfsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לְהָפֵר",
       "lemma": "l/6565 a",
       "morph": "HR/Vhc",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בְּרִית",
       "lemma": "1285",
       "morph": "HNcfsa",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "ועשית",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 786,
-        "ordinal": 75,
-        "reduced": 21
-      }
-    },
-    {
       "position": 15,
       "text": "וְעָשִׂיתִי",
       "lemma": "c/6213 a",
@@ -216,7 +221,9 @@
       "strongs": [
         "H6213"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 796,
         "ordinal": 85,

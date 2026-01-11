@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּשׁוּבוּ אַחֲרֵי כֵן וַיָּשִׁבוּ אֶת הָעֲבָדִים וְאֶת הַשְּׁפָחוֹת אֲשֶׁר שִׁלְּחוּ חָפְשִׁים לַעֲבָדִים וְלִשְׁפָחוֹת ויכבישום וַיִּכְבְּשׁוּם",
+  "text": "וַיָּשׁוּבוּ אַחֲרֵי כֵן וַיָּשִׁבוּ אֶת הָעֲבָדִים וְאֶת הַשְּׁפָחוֹת אֲשֶׁר שִׁלְּחוּ חָפְשִׁים ויכבישום לַעֲבָדִים וְלִשְׁפָחוֹת וַיִּכְבְּשׁוּם",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "ויכבישום",
+      "lemma": "c/3533",
+      "morph": "HC/Vhw3mp/Sp3mp",
+      "strongs": [
+        "H3533"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 394,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
       "text": "לַעֲבָדִים",
       "lemma": "l/5650",
       "morph": "HR/Ncmpa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְלִשְׁפָחוֹת",
       "lemma": "c/l/8198",
       "morph": "HC/R/Ncfpa",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "ויכבישום",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 394,
-        "ordinal": 79,
-        "reduced": 25
-      }
-    },
-    {
       "position": 15,
       "text": "וַיִּכְבְּשׁוּם",
       "lemma": "c/3533",
@@ -216,7 +221,9 @@
       "strongs": [
         "H3533"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 384,
         "ordinal": 69,

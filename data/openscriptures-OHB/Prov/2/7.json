@@ -1,8 +1,25 @@
 {
-  "text": "לַיְשָׁרִים תּוּשִׁיָּה מָגֵן לְהֹלְכֵי תֹם וצפן יִצְפֹּן",
+  "text": "וצפן לַיְשָׁרִים תּוּשִׁיָּה מָגֵן לְהֹלְכֵי תֹם יִצְפֹּן",
   "words": [
     {
       "position": 1,
+      "text": "וצפן",
+      "lemma": "c/6845",
+      "morph": "HC/Vqq3ms",
+      "strongs": [
+        "H6845"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 226,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
       "text": "לַיְשָׁרִים",
       "lemma": "l/3477",
       "morph": "HRd/Aampa",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "תּוּשִׁיָּה",
       "lemma": "8454",
       "morph": "HNcfsa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מָגֵן",
       "lemma": "4043",
       "morph": "HNcbsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לְהֹלְכֵי",
       "lemma": "l/1980",
       "morph": "HR/Vqrmpc",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "תֹם",
       "lemma": "8537",
       "morph": "HNcmsa",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "וצפן",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 226,
-        "ordinal": 55,
-        "reduced": 28
-      }
-    },
-    {
       "position": 7,
       "text": "יִצְפֹּן",
       "lemma": "6845",
@@ -96,7 +101,9 @@
       "strongs": [
         "H6845"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 230,
         "ordinal": 59,

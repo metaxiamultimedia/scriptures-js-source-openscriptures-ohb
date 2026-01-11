@@ -1,5 +1,5 @@
 {
-  "text": "רְדִי מִכָּבוֹד בַצָּמָא יֹשֶׁבֶת בַּת דִּיבוֹן כִּי שֹׁדֵד מוֹאָב עָלָה בָךְ שִׁחֵת מִבְצָרָיִךְ ישבי וּשְׁבִי",
+  "text": "רְדִי מִכָּבוֹד ישבי בַצָּמָא יֹשֶׁבֶת בַּת דִּיבוֹן כִּי שֹׁדֵד מוֹאָב עָלָה בָךְ שִׁחֵת מִבְצָרָיִךְ וּשְׁבִי",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "ישבי",
+      "lemma": "3427",
+      "morph": "HVqrmpc",
+      "strongs": [
+        "H3427"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 322,
+        "ordinal": 43,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
       "text": "בַצָּמָא",
       "lemma": "b/6772",
       "morph": "HRd/Ncmsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יֹשֶׁבֶת",
       "lemma": "3427",
       "morph": "HVqrfsa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בַּת",
       "lemma": "1323",
       "morph": "HNcfsc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "דִּיבוֹן",
       "lemma": "1769",
       "morph": "HNp",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "שֹׁדֵד",
       "lemma": "7703",
       "morph": "HVqrmsc",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מוֹאָב",
       "lemma": "4124",
       "morph": "HNp",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עָלָה",
       "lemma": "5927",
       "morph": "HVqp3ms",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בָךְ",
       "lemma": "b",
       "morph": "HR/Sp2fs",
@@ -164,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "שִׁחֵת",
       "lemma": "7843",
       "morph": "HVpp3ms",
@@ -179,7 +196,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מִבְצָרָיִךְ",
       "lemma": "4013",
       "morph": "HNcmpc/Sp2fs",
@@ -194,18 +211,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "ישבי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 322,
-        "ordinal": 43,
-        "reduced": 7
-      }
-    },
-    {
       "position": 15,
       "text": "וּשְׁבִי",
       "lemma": "c/3427",
@@ -213,7 +218,9 @@
       "strongs": [
         "H3427"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 318,
         "ordinal": 39,

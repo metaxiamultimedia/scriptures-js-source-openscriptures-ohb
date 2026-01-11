@@ -1,5 +1,5 @@
 {
-  "text": "דֹּב אֹרֵב הוּא לִי בְּמִסְתָּרִים אריה אֲרִי",
+  "text": "דֹּב אֹרֵב הוּא לִי אריה בְּמִסְתָּרִים אֲרִי",
   "words": [
     {
       "position": 1,
@@ -60,6 +60,23 @@
     },
     {
       "position": 5,
+      "text": "אריה",
+      "lemma": "738 a",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H738"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 216,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
       "text": "בְּמִסְתָּרִים",
       "lemma": "b/4565",
       "morph": "HR/Ncmpa",
@@ -74,18 +91,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "אריה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 216,
-        "ordinal": 36,
-        "reduced": 9
-      }
-    },
-    {
       "position": 7,
       "text": "אֲרִי",
       "lemma": "738 a",
@@ -93,7 +98,9 @@
       "strongs": [
         "H738"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 211,
         "ordinal": 31,

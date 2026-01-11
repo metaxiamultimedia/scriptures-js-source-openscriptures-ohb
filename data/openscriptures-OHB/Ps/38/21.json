@@ -1,27 +1,17 @@
 {
-  "text": "רדופי רָדְפִי וּמְשַׁלְּמֵי רָעָה תַּחַת טוֹבָה יִשְׂטְנוּנִי תַּחַת טוֹב",
+  "text": "רָדְפִי וּמְשַׁלְּמֵי רָעָה תַּחַת טוֹבָה יִשְׂטְנוּנִי תַּחַת רדופי טוֹב",
   "words": [
     {
       "position": 1,
-      "text": "רדופי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 300,
-        "ordinal": 57,
-        "reduced": 21
-      }
-    },
-    {
-      "position": 2,
       "text": "רָדְפִי",
       "lemma": "7291",
       "morph": "HVqc/Sp1cs",
       "strongs": [
         "H7291"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 294,
         "ordinal": 51,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "וּמְשַׁלְּמֵי",
       "lemma": "c/7999 a",
       "morph": "HC/Vprmpc",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "רָעָה",
       "lemma": "7451 c",
       "morph": "HNcfsa",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "תַּחַת",
       "lemma": "8478",
       "morph": "HR",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "טוֹבָה",
       "lemma": "2896 c",
       "morph": "HAafsa",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "יִשְׂטְנוּנִי",
       "lemma": "7853",
       "morph": "HVqi3mp/Sp1cs",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "תַּחַת",
       "lemma": "8478",
       "morph": "HR",
@@ -116,6 +106,23 @@
         "standard": 808,
         "ordinal": 52,
         "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "רדופי",
+      "lemma": "7291",
+      "morph": "HVqc/Sp1cs",
+      "strongs": [
+        "H7291"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 300,
+        "ordinal": 57,
+        "reduced": 21
       }
     },
     {

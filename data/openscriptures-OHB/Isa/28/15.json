@@ -1,5 +1,5 @@
 {
-  "text": "כִּי אֲמַרְתֶּם כָּרַתְנוּ בְרִית אֶת מָוֶת וְעִם שְׁאוֹל עָשִׂינוּ חֹזֶה שׁוֹטֵף כִּי לֹא יְבוֹאֵנוּ כִּי שַׂמְנוּ כָזָב מַחְסֵנוּ וּבַשֶּׁקֶר נִסְתָּרְנוּ שיט שׁוֹט עבר יַעֲבֹר",
+  "text": "כִּי אֲמַרְתֶּם כָּרַתְנוּ בְרִית אֶת מָוֶת וְעִם שְׁאוֹל עָשִׂינוּ חֹזֶה שיט שׁוֹטֵף כִּי עבר לֹא יְבוֹאֵנוּ כִּי שַׂמְנוּ כָזָב מַחְסֵנוּ וּבַשֶּׁקֶר נִסְתָּרְנוּ שׁוֹט יַעֲבֹר",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "שיט",
+      "lemma": "7885",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H7885"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 319,
+        "ordinal": 40,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
       "text": "שׁוֹטֵף",
       "lemma": "7857",
       "morph": "HVqrmsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -182,7 +199,24 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
+      "text": "עבר",
+      "lemma": "5674 a",
+      "morph": "HVqp3ms",
+      "strongs": [
+        "H5674"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 272,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -197,7 +231,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "יְבוֹאֵנוּ",
       "lemma": "935",
       "morph": "HVqi3ms/Sp1cp",
@@ -212,7 +246,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -227,7 +261,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "שַׂמְנוּ",
       "lemma": "7760 a",
       "morph": "HVqp1cp",
@@ -242,7 +276,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "כָזָב",
       "lemma": "3577",
       "morph": "HNcmsa",
@@ -257,7 +291,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "מַחְסֵנוּ",
       "lemma": "4268",
       "morph": "HNcmsc/Sp1cp",
@@ -272,7 +306,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "וּבַשֶּׁקֶר",
       "lemma": "c/b/8267",
       "morph": "HC/Rd/Ncmsa",
@@ -287,7 +321,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "נִסְתָּרְנוּ",
       "lemma": "5641",
       "morph": "HVNp1cp",
@@ -302,42 +336,20 @@
       }
     },
     {
-      "position": 21,
-      "text": "שיט",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 319,
-        "ordinal": 40,
-        "reduced": 13
-      }
-    },
-    {
-      "position": 22,
+      "position": 23,
       "text": "שׁוֹט",
       "lemma": "7752",
       "morph": "HNcmsa",
       "strongs": [
         "H7752"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 315,
         "ordinal": 36,
         "reduced": 18
-      }
-    },
-    {
-      "position": 23,
-      "text": "עבר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 272,
-        "ordinal": 38,
-        "reduced": 11
       }
     },
     {
@@ -348,7 +360,9 @@
       "strongs": [
         "H5674"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 282,
         "ordinal": 48,
