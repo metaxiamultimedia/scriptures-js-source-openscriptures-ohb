@@ -189,10 +189,15 @@ function parseOsis(xml: string): ParsedVerse[] {
             const elem = content as Record<string, unknown>;
 
             if (elem['#text']) {
-              // Skip <seg> elements (type="x-pe", "x-samekh", "x-sof-pasuq", etc.)
-              // These are paragraph markers and punctuation, not words
-              if (elem['@_type']) {
-                return;
+              const elemType = elem['@_type'] as string | undefined;
+
+              // Skip <seg> elements with specific types (paragraph markers and punctuation)
+              // But do NOT skip <w> elements with type="x-ketiv" - they are valid words
+              if (elemType && !elemType.startsWith('x-ketiv')) {
+                // Skip segment types like x-pe, x-samekh, x-sof-pasuq, x-maqqef, etc.
+                if (elemType.startsWith('x-')) {
+                  return;
+                }
               }
 
               const rawText = String(elem['#text']);
@@ -218,6 +223,10 @@ function parseOsis(xml: string): ParsedVerse[] {
             }
 
             for (const [key, value] of Object.entries(elem)) {
+              // Skip note elements and their children entirely
+              if (key === 'note' || key === 'catchWord' || key === 'rdg') {
+                continue;
+              }
               if (!key.startsWith('@_') && key !== '#text') {
                 extractWords(value);
               }
