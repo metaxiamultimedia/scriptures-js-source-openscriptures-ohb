@@ -1,9 +1,9 @@
 {
-  "text": "כָּל הַחַיָּה אֲשֶׁר אִתְּךָ מִכָּל בָּשָׂר בָּעוֹף וּבַבְּהֵמָה וּבְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ אִתָּךְ וְשָׁרְצוּ בָאָרֶץ וּפָרוּ וְרָבוּ עַל הָאָרֶץ הוצא הַיְצֵא",
+  "text": "כָּל הַחַיָּה אֲשֶׁר אִתְּךָ מִכָּל בָּשָׂר בָּעוֹף וּבַבְּהֵמָה וּבְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ הוצא אִתָּךְ וְשָׁרְצוּ בָאָרֶץ וּפָרוּ וְרָבוּ עַל הָאָרֶץ הַיְצֵא",
   "words": [
     {
       "position": 1,
-      "text": "כָּל",
+      "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
       "strongs": [
@@ -18,7 +18,7 @@
     },
     {
       "position": 2,
-      "text": "הַחַיָּה",
+      "text": "הַחַיָּה",
       "lemma": "d/2416 c",
       "morph": "HTd/Ncfsa",
       "strongs": [
@@ -33,7 +33,7 @@
     },
     {
       "position": 3,
-      "text": "אֲשֶׁר",
+      "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
       "strongs": [
@@ -48,7 +48,7 @@
     },
     {
       "position": 4,
-      "text": "אִתְּךָ",
+      "text": "אִתְּךָ",
       "lemma": "854",
       "morph": "HR/Sp2ms",
       "strongs": [
@@ -63,7 +63,7 @@
     },
     {
       "position": 5,
-      "text": "מִכָּל",
+      "text": "מִכָּל",
       "lemma": "m/3605",
       "morph": "HR/Ncmsc",
       "strongs": [
@@ -78,7 +78,7 @@
     },
     {
       "position": 6,
-      "text": "בָּשָׂר",
+      "text": "בָּשָׂר",
       "lemma": "1320",
       "morph": "HNcmsa",
       "strongs": [
@@ -93,7 +93,7 @@
     },
     {
       "position": 7,
-      "text": "בָּעוֹף",
+      "text": "בָּעוֹף",
       "lemma": "b/5775",
       "morph": "HRd/Ncmsa",
       "strongs": [
@@ -108,7 +108,7 @@
     },
     {
       "position": 8,
-      "text": "וּבַבְּהֵמָה",
+      "text": "וּבַבְּהֵמָה",
       "lemma": "c/b/929",
       "morph": "HC/Rd/Ncfsa",
       "strongs": [
@@ -198,7 +198,24 @@
     },
     {
       "position": 14,
-      "text": "אִתָּךְ",
+      "text": "הוצא",
+      "lemma": "3318",
+      "morph": "HVhv2ms",
+      "strongs": [
+        "H3318"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 102,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "אִתָּךְ",
       "lemma": "854",
       "morph": "HR/Sp2fs",
       "strongs": [
@@ -212,8 +229,8 @@
       }
     },
     {
-      "position": 15,
-      "text": "וְשָׁרְצוּ",
+      "position": 16,
+      "text": "וְשָׁרְצוּ",
       "lemma": "c/8317",
       "morph": "HC/Vqq3cp",
       "strongs": [
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בָאָרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וּפָרוּ",
       "lemma": "c/6509",
       "morph": "HC/Vqq3cp",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וְרָבוּ",
       "lemma": "c/7235 a",
       "morph": "HC/Vqq3cp",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -302,18 +319,6 @@
       }
     },
     {
-      "position": 21,
-      "text": "הוצא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 102,
-        "ordinal": 30,
-        "reduced": 21
-      }
-    },
-    {
       "position": 22,
       "text": "הַיְצֵא",
       "lemma": "3318",
@@ -321,7 +326,9 @@
       "strongs": [
         "H3318"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 106,
         "ordinal": 34,

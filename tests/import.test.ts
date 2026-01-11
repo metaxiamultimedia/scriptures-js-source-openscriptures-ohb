@@ -494,53 +494,77 @@ describe('import script parsing - old vs new behavior', () => {
   });
 });
 
-describe('actual data verification - documenting the bug', () => {
-  it('Genesis 8:17 - current data has null lemma (the bug)', async () => {
+describe('actual data verification - strict assertions', () => {
+  it('Genesis 8:17 - should have NO null lemmas after fix', async () => {
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '8', '17.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
-    try {
-      const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+    const nullLemmaWords = data.words.filter(
+      (w: { lemma: string | null }) => w.lemma === null
+    );
 
-      const nullLemmaWords = data.words.filter(
-        (w: { lemma: string | null }) => w.lemma === null
+    if (nullLemmaWords.length > 0) {
+      console.log('FAIL: Genesis 8:17 still has null lemma words:',
+        nullLemmaWords.map((w: { text: string; position: number }) => `pos ${w.position}: ${w.text}`)
       );
-
-      console.log(`Genesis 8:17 has ${nullLemmaWords.length} words with null lemma`);
-      if (nullLemmaWords.length > 0) {
-        console.log('Null lemma words:', nullLemmaWords.map((w: { text: string; position: number }) =>
-          `pos ${w.position}: ${w.text}`
-        ));
-      }
-
-      // Document current state - after re-import this should be 0
-      // For now just log for visibility
-      expect(data.words.length).toBeGreaterThan(0);
-    } catch {
-      console.log('Skipping actual data test - file not found');
     }
+
+    // STRICT: After re-import with fix, there should be NO null lemmas
+    expect(nullLemmaWords).toHaveLength(0);
   });
 
-  it('Exodus 20:2 - current data has null lemma words (the bug)', async () => {
+  it('Genesis 8:17 - should have ketiv word with isKetiv metadata', async () => {
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '8', '17.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    // Find ketiv word (הוצא - written form)
+    const ketivWord = data.words.find(
+      (w: { metadata?: { isKetiv?: boolean } }) => w.metadata?.isKetiv === true
+    );
+
+    expect(ketivWord).toBeDefined();
+    expect(ketivWord.text).toBe('הוצא');
+    expect(ketivWord.lemma).toBe('3318');
+  });
+
+  it('Genesis 8:17 - should have qere word with isQere metadata', async () => {
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '8', '17.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    // Find qere word (הַיְצֵא - read form)
+    const qereWord = data.words.find(
+      (w: { metadata?: { isQere?: boolean } }) => w.metadata?.isQere === true
+    );
+
+    expect(qereWord).toBeDefined();
+    expect(qereWord.text).toBe('הַיְצֵא');
+    expect(qereWord.lemma).toBe('3318');
+  });
+
+  it('Exodus 20:2 - should have NO null lemmas after fix', async () => {
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Exod', '20', '2.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
-    try {
-      const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+    const nullLemmaWords = data.words.filter(
+      (w: { lemma: string | null }) => w.lemma === null
+    );
 
-      const nullLemmaWords = data.words.filter(
-        (w: { lemma: string | null }) => w.lemma === null
+    if (nullLemmaWords.length > 0) {
+      console.log('FAIL: Exodus 20:2 still has null lemma words:',
+        nullLemmaWords.map((w: { text: string; position: number }) => `pos ${w.position}: ${w.text}`)
       );
-
-      console.log(`Exodus 20:2 has ${nullLemmaWords.length} words with null lemma`);
-      if (nullLemmaWords.length > 0) {
-        console.log('Null lemma words:', nullLemmaWords.map((w: { text: string; position: number }) =>
-          `pos ${w.position}: ${w.text}`
-        ));
-      }
-
-      // Document current state - after re-import this should be 0
-      expect(data.words.length).toBeGreaterThan(0);
-    } catch {
-      console.log('Skipping actual data test - file not found');
     }
+
+    // STRICT: After re-import with fix, there should be NO null lemmas
+    expect(nullLemmaWords).toHaveLength(0);
+  });
+
+  it('Exodus 20:2 - should NOT have duplicate words from alternative notes', async () => {
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Exod', '20', '2.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    // The verse should have exactly 9 words (no duplicates from notes)
+    // אָנֹכִי יְהוָה אֱלֹהֶיךָ אֲשֶׁר הוֹצֵאתִיךָ מֵאֶרֶץ מִצְרַיִם מִבֵּית עֲבָדִים
+    expect(data.words.length).toBe(9);
   });
 });
