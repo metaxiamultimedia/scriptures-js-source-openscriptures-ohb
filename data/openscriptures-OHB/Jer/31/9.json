@@ -186,7 +186,9 @@
       "text": "בָּהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -243,6 +245,9 @@
       "text": "לְאָב",
       "lemma": "l/1",
       "morph": "HR/Ncmsa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 33,

@@ -36,7 +36,9 @@
       "text": "בָּם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 15,
@@ -198,6 +200,9 @@
       "text": "אֲבוֹתָם",
       "lemma": "1",
       "morph": "HNcmpc/Sp3mp",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 449,

@@ -156,6 +156,9 @@
       "text": "אַבְנֵי",
       "lemma": "68",
       "morph": "HNcfpc",
+      "strongs": [
+        "H68"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 63,
@@ -273,7 +276,9 @@
       "text": "בָּם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 15,

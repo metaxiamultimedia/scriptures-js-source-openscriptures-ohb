@@ -51,6 +51,9 @@
       "text": "אָבִיהָ",
       "lemma": "1",
       "morph": "HNcmsc/Sp3fs",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 18,
@@ -78,7 +81,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

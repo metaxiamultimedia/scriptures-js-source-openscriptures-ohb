@@ -53,6 +53,9 @@
       "text": "וְאִנְבֵּהּ",
       "lemma": "c/4",
       "morph": "AC/Ncmsc/Sp3ms",
+      "strongs": [
+        "H4"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 64,
@@ -110,7 +113,9 @@
       "text": "בֵהּ",
       "lemma": "b",
       "morph": "AR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,

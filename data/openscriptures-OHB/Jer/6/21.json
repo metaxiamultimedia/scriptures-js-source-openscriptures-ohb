@@ -171,7 +171,9 @@
       "text": "בָם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 15,
@@ -183,6 +185,9 @@
       "text": "אָבוֹת",
       "lemma": "1",
       "morph": "HNcmpa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 409,
@@ -255,6 +260,9 @@
       "text": "יאבדו",
       "lemma": "6",
       "morph": "HVqi3mp",
+      "strongs": [
+        "H6"
+      ],
       "metadata": {
         "isKetiv": true
       },
@@ -269,6 +277,9 @@
       "text": "וְאָבָדוּ",
       "lemma": "c/6",
       "morph": "HC/Vqq3cp",
+      "strongs": [
+        "H6"
+      ],
       "metadata": {
         "isQere": true
       },

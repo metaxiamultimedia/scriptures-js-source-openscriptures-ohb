@@ -96,7 +96,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -291,7 +293,8 @@
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
-        "isQere": true
+        "isQere": true,
+        "isPrefixOnly": true
       },
       "gematria": {
         "standard": 36,

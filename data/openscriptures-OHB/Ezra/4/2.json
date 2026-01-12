@@ -81,6 +81,9 @@
       "text": "הָאָבוֹת",
       "lemma": "d/1",
       "morph": "HTd/Ncmpa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 414,
@@ -108,7 +111,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,
@@ -165,7 +170,9 @@
       "text": "כָכֶם",
       "lemma": "k",
       "morph": "HR/Sp2mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 80,
         "ordinal": 35,
@@ -375,7 +382,8 @@
       "lemma": "c/l",
       "morph": "HC/R/Sp3ms",
       "metadata": {
-        "isQere": true
+        "isQere": true,
+        "isPrefixOnly": true
       },
       "gematria": {
         "standard": 42,

@@ -51,6 +51,9 @@
       "text": "אֶבְיוֹנִים",
       "lemma": "34",
       "morph": "HAampa",
+      "strongs": [
+        "H34"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 119,
@@ -168,7 +171,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

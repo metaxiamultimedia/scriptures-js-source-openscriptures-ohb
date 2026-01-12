@@ -21,6 +21,9 @@
       "text": "אָב",
       "lemma": "1",
       "morph": "HNcmsa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 3,
@@ -48,7 +51,9 @@
       "text": "בָךְ",
       "lemma": "b",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 22,
         "ordinal": 13,
@@ -105,7 +110,9 @@
       "text": "בָךְ",
       "lemma": "b",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 22,
         "ordinal": 13,

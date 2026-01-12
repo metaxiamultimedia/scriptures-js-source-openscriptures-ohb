@@ -66,6 +66,9 @@
       "text": "לַאֲבִי",
       "lemma": "l/1",
       "morph": "HR/Ncmsc",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 43,
@@ -125,7 +128,9 @@
       "text": "וְלוֹ",
       "lemma": "c/l",
       "morph": "HC/R/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 24,

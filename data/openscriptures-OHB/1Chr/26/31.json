@@ -81,6 +81,9 @@
       "text": "לְאָבוֹת",
       "lemma": "l/1",
       "morph": "HR/Ncmpa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 439,
@@ -183,7 +186,9 @@
       "text": "בָהֶם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 47,
         "ordinal": 20,

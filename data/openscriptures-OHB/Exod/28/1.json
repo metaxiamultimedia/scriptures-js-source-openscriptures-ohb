@@ -201,7 +201,9 @@
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -243,6 +245,9 @@
       "text": "וַאֲבִיהוּא",
       "lemma": "c/30",
       "morph": "HC/Np",
+      "strongs": [
+        "H30"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 31,

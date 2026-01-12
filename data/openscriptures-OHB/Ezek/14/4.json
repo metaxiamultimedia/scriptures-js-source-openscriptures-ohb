@@ -456,7 +456,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -469,7 +471,8 @@
       "lemma": "b",
       "morph": "HR/Sp3fs",
       "metadata": {
-        "isKetiv": true
+        "isKetiv": true,
+        "isPrefixOnly": true
       },
       "gematria": {
         "standard": 7,

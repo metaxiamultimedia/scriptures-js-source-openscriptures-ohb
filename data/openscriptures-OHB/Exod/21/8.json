@@ -218,7 +218,9 @@
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -231,7 +233,8 @@
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
-        "isQere": true
+        "isQere": true,
+        "isPrefixOnly": true
       },
       "gematria": {
         "standard": 36,

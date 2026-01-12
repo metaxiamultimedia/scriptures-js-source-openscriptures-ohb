@@ -36,6 +36,9 @@
       "text": "אֲבִישׁוּר",
       "lemma": "51",
       "morph": "HNp",
+      "strongs": [
+        "H51"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 519,
@@ -48,6 +51,9 @@
       "text": "אֲבִיהָיִל",
       "lemma": "32",
       "morph": "HNp",
+      "strongs": [
+        "H32"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 58,
@@ -75,7 +81,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

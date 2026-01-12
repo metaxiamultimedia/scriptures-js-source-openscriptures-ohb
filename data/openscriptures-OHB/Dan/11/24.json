@@ -126,6 +126,9 @@
       "text": "אֲבֹתָיו",
       "lemma": "1",
       "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 419,
@@ -138,6 +141,9 @@
       "text": "וַאֲבוֹת",
       "lemma": "c/1",
       "morph": "HC/Ncmpc",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 415,
@@ -150,6 +156,9 @@
       "text": "אֲבֹתָיו",
       "lemma": "1",
       "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 419,
@@ -207,7 +216,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,

@@ -156,6 +156,9 @@
       "text": "אֲבֹתֵיכֶם",
       "lemma": "1",
       "morph": "HNcmpc/Sp2mp",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 473,
@@ -273,7 +276,9 @@
       "text": "לָנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 86,
         "ordinal": 32,

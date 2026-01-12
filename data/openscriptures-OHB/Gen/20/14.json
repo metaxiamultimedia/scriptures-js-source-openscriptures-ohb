@@ -21,6 +21,9 @@
       "text": "אֲבִימֶלֶךְ",
       "lemma": "40",
       "morph": "HNp",
+      "strongs": [
+        "H40"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 103,
@@ -108,6 +111,9 @@
       "text": "לְאַבְרָהָם",
       "lemma": "l/85",
       "morph": "HR/Np",
+      "strongs": [
+        "H85"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 278,
@@ -135,7 +141,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

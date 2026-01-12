@@ -21,6 +21,9 @@
       "text": "אַבִּירִים",
       "lemma": "47",
       "morph": "HAampa",
+      "strongs": [
+        "H47"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 263,
@@ -93,7 +96,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,

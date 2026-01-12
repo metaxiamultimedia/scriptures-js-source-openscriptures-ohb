@@ -186,6 +186,9 @@
       "text": "הָאָבִיב",
       "lemma": "d/24",
       "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H24"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 20,
@@ -213,7 +216,9 @@
       "text": "בוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 8,
         "ordinal": 8,

@@ -126,7 +126,9 @@
       "text": "בִּי",
       "lemma": "b",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 12,
         "ordinal": 12,
@@ -138,6 +140,9 @@
       "text": "מֵאָבִיךְ",
       "lemma": "m/1",
       "morph": "HR/Ncmsc/Sp2fs",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 73,

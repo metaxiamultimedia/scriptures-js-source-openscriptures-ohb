@@ -126,7 +126,9 @@
       "text": "לְךָ",
       "lemma": "l",
       "morph": "HR/Sp2ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -199,7 +201,8 @@
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
-        "isKetiv": true
+        "isKetiv": true,
+        "isPrefixOnly": true
       },
       "gematria": {
         "standard": 36,

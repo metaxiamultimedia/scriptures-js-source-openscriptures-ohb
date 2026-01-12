@@ -36,6 +36,9 @@
       "text": "אַבְשָׁלוֹם",
       "lemma": "53",
       "morph": "HNp",
+      "strongs": [
+        "H53"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 379,
@@ -168,7 +171,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,

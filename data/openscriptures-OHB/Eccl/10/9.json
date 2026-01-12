@@ -21,6 +21,9 @@
       "text": "אֲבָנִים",
       "lemma": "68",
       "morph": "HNcfpa",
+      "strongs": [
+        "H68"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 103,
@@ -48,7 +51,9 @@
       "text": "בָּהֶם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 47,
         "ordinal": 20,
@@ -105,7 +110,9 @@
       "text": "בָּם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 15,

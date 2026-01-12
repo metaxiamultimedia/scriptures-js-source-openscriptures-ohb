@@ -36,7 +36,9 @@
       "text": "בְךָ",
       "lemma": "b",
       "morph": "HR/Sp2ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 22,
         "ordinal": 13,
@@ -48,6 +50,9 @@
       "text": "אֶבְיוֹן",
       "lemma": "34",
       "morph": "HAamsa",
+      "strongs": [
+        "H34"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 69,
@@ -195,7 +200,9 @@
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -342,6 +349,9 @@
       "text": "הָאֶבְיוֹן",
       "lemma": "d/34",
       "morph": "HTd/Aamsa",
+      "strongs": [
+        "H34"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 74,

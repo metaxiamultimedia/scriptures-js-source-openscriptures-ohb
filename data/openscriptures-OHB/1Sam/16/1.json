@@ -111,6 +111,9 @@
       "text": "מִתְאַבֵּל",
       "lemma": "56",
       "morph": "HVtrmsa",
+      "strongs": [
+        "H56"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 473,
@@ -408,7 +411,9 @@
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,

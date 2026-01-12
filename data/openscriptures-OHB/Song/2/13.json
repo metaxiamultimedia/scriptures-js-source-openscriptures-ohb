@@ -188,7 +188,9 @@
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -201,7 +203,8 @@
       "lemma": "l",
       "morph": "HR/Sp2fs",
       "metadata": {
-        "isQere": true
+        "isQere": true,
+        "isPrefixOnly": true
       },
       "gematria": {
         "standard": 50,

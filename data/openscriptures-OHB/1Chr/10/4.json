@@ -126,7 +126,9 @@
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -213,7 +215,9 @@
       "text": "בִי",
       "lemma": "b",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 12,
         "ordinal": 12,
@@ -240,6 +244,9 @@
       "text": "אָבָה",
       "lemma": "14",
       "morph": "HVqp3ms",
+      "strongs": [
+        "H14"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 8,
