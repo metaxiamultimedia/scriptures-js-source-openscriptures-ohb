@@ -1,27 +1,17 @@
 {
-  "text": "עללין עָלִּין כשדיא כַּשְׂדָּאֵי בֵּאדַיִן חַרְטֻמַיָּא אָשְׁפַיָּא וְגָזְרַיָּא וְחֶלְמָא אָמַר אֲנָה קֳדָמֵיהוֹן וּפִשְׁרֵהּ לָא מְהוֹדְעִין לִי",
+  "text": "עָלִּין כַּשְׂדָּאֵי בֵּאדַיִן עללין חַרְטֻמַיָּא אָשְׁפַיָּא כשדיא וְגָזְרַיָּא וְחֶלְמָא אָמַר אֲנָה קֳדָמֵיהוֹן וּפִשְׁרֵהּ לָא מְהוֹדְעִין לִי",
   "words": [
     {
       "position": 1,
-      "text": "עללין",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 190,
-        "ordinal": 64,
-        "reduced": 19
-      }
-    },
-    {
-      "position": 2,
       "text": "עָלִּין",
       "lemma": "5954",
       "morph": "AVqrmpa",
       "strongs": [
         "H5954"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 160,
         "ordinal": 52,
@@ -29,26 +19,16 @@
       }
     },
     {
-      "position": 3,
-      "text": "כשדיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 335,
-        "ordinal": 47,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 4,
+      "position": 2,
       "text": "כַּשְׂדָּאֵי",
       "lemma": "3779",
       "morph": "ANgmsc/Sp1cs",
       "strongs": [
         "H3779"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 335,
         "ordinal": 47,
@@ -56,7 +36,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 3,
       "text": "בֵּאדַיִן",
       "lemma": "b/116",
       "morph": "AR/D",
@@ -71,7 +51,24 @@
       }
     },
     {
-      "position": 6,
+      "position": 4,
+      "text": "עללין",
+      "lemma": "5954",
+      "morph": "AVqrmpa",
+      "strongs": [
+        "H5954"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 190,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
       "text": "חַרְטֻמַיָּא",
       "lemma": "2749",
       "morph": "ANcmpd/Td",
@@ -86,7 +83,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "אָשְׁפַיָּא",
       "lemma": "826",
       "morph": "ANcmpd/Td",
@@ -98,6 +95,23 @@
         "standard": 392,
         "ordinal": 50,
         "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "כשדיא",
+      "lemma": "3779",
+      "morph": "ANgmpd/Td",
+      "strongs": [
+        "H3779"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 335,
+        "ordinal": 47,
+        "reduced": 11
       }
     },
     {
@@ -225,7 +239,9 @@
       "text": "לִי",
       "lemma": "l",
       "morph": "AR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,

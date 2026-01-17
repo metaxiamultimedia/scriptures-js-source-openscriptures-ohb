@@ -1,5 +1,5 @@
 {
-  "text": "וּבְשׁוּב צַדִּיק מִצִּדְקָתוֹ וְעָשָׂה עָוֶל כְּכֹל הַתּוֹעֵבוֹת אֲשֶׁר עָשָׂה הָרָשָׁע יַעֲשֶׂה וָחָי כָּל אֲשֶׁר עָשָׂה לֹא תִזָּכַרְנָה בְּמַעֲלוֹ אֲשֶׁר מָעַל וּבְחַטָּאתוֹ אֲשֶׁר חָטָא בָּם יָמוּת צדקתו צִדְקֹתָיו",
+  "text": "וּבְשׁוּב צַדִּיק מִצִּדְקָתוֹ וְעָשָׂה עָוֶל כְּכֹל הַתּוֹעֵבוֹת אֲשֶׁר עָשָׂה הָרָשָׁע יַעֲשֶׂה וָחָי כָּל צדקתו אֲשֶׁר עָשָׂה לֹא תִזָּכַרְנָה בְּמַעֲלוֹ אֲשֶׁר מָעַל וּבְחַטָּאתוֹ אֲשֶׁר חָטָא בָּם יָמוּת צִדְקֹתָיו",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "צדקתו",
+      "lemma": "6666",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H6666"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 600,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עָשָׂה",
       "lemma": "6213 a",
       "morph": "HVqp3ms",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "תִזָּכַרְנָה",
       "lemma": "2142",
       "morph": "HVNi3fp",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בְּמַעֲלוֹ",
       "lemma": "b/4604",
       "morph": "HR/Ncmsc/Sp3ms",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "מָעַל",
       "lemma": "4603",
       "morph": "HVqp3ms",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "וּבְחַטָּאתוֹ",
       "lemma": "c/b/2403 b",
       "morph": "HC/R/Ncfsc/Sp3ms",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -332,7 +349,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "חָטָא",
       "lemma": "2398",
       "morph": "HVqp3ms",
@@ -347,11 +364,13 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "בָּם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 15,
@@ -359,7 +378,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "יָמוּת",
       "lemma": "4191",
       "morph": "HVqi3ms",
@@ -374,18 +393,6 @@
       }
     },
     {
-      "position": 26,
-      "text": "צדקתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 600,
-        "ordinal": 69,
-        "reduced": 24
-      }
-    },
-    {
       "position": 27,
       "text": "צִדְקֹתָיו",
       "lemma": "6666",
@@ -393,7 +400,9 @@
       "strongs": [
         "H6666"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 610,
         "ordinal": 79,

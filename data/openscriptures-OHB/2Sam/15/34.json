@@ -66,6 +66,9 @@
       "text": "לְאַבְשָׁלוֹם",
       "lemma": "l/53",
       "morph": "HR/Np",
+      "strongs": [
+        "H53"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 409,
@@ -153,6 +156,9 @@
       "text": "אָבִיךָ",
       "lemma": "1",
       "morph": "HNcmsc/Sp2ms",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 33,
@@ -255,7 +261,9 @@
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,

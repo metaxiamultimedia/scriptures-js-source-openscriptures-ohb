@@ -51,7 +51,9 @@
       "text": "לָהּ",
       "lemma": "l",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 35,
         "ordinal": 17,
@@ -93,7 +95,9 @@
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -240,6 +244,9 @@
       "text": "אָּבִיךְ",
       "lemma": "1",
       "morph": "HNcmsc/Sp2fs",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 33,

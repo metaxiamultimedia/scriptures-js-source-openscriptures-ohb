@@ -1,8 +1,25 @@
 {
-  "text": "לוֹ תּוֹרָתִי כְּמוֹ זָר נֶחְשָׁבוּ אכתוב אֶכְתָּב רבו רֻבֵּי",
+  "text": "אכתוב לוֹ רבו תּוֹרָתִי כְּמוֹ זָר נֶחְשָׁבוּ אֶכְתָּב רֻבֵּי",
   "words": [
     {
       "position": 1,
+      "text": "אכתוב",
+      "lemma": "3789",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H3789"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 429,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
       "text": "לוֹ",
       "lemma": "l/3789",
       "morph": "HR/Sp3ms",
@@ -17,7 +34,24 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
+      "text": "רבו",
+      "lemma": "7239",
+      "morph": "HNcbsc",
+      "strongs": [
+        "H7239"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 208,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
       "text": "תּוֹרָתִי",
       "lemma": "8451",
       "morph": "HNcfsc/Sp1cs",
@@ -32,7 +66,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 5,
       "text": "כְּמוֹ",
       "lemma": "3644",
       "morph": "HR",
@@ -47,7 +81,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "זָר",
       "lemma": "2114 a",
       "morph": "HAamsa",
@@ -62,7 +96,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "נֶחְשָׁבוּ",
       "lemma": "2803",
       "morph": "HVNp3cp",
@@ -77,42 +111,20 @@
       }
     },
     {
-      "position": 6,
-      "text": "אכתוב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 429,
-        "ordinal": 42,
-        "reduced": 15
-      }
-    },
-    {
-      "position": 7,
+      "position": 8,
       "text": "אֶכְתָּב",
       "lemma": "3789",
       "morph": "HVqi1cs",
       "strongs": [
         "H3789"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 423,
         "ordinal": 36,
         "reduced": 9
-      }
-    },
-    {
-      "position": 8,
-      "text": "רבו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 208,
-        "ordinal": 28,
-        "reduced": 10
       }
     },
     {
@@ -123,7 +135,9 @@
       "strongs": [
         "H7230"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 212,
         "ordinal": 32,

@@ -1,5 +1,5 @@
 {
-  "text": "יַעַן אֲשֶׁר עָשׂוּ נְבָלָה בְּיִשְׂרָאֵל וַיְנַאֲפוּ אֶת נְשֵׁי רֵעֵיהֶם וַיְדַבְּרוּ דָבָר בִּשְׁמִי שֶׁקֶר אֲשֶׁר לוֹא צִוִּיתִם וְאָנֹכִי וָעֵד נְאֻם יְהוָה הוידע הַיּוֹדֵעַ",
+  "text": "יַעַן אֲשֶׁר עָשׂוּ נְבָלָה בְּיִשְׂרָאֵל וַיְנַאֲפוּ אֶת נְשֵׁי רֵעֵיהֶם וַיְדַבְּרוּ דָבָר בִּשְׁמִי שֶׁקֶר אֲשֶׁר לוֹא צִוִּיתִם וְאָנֹכִי הו ידע וָעֵד נְאֻם יְהוָה הַיּוֹדֵעַ",
   "words": [
     {
       "position": 1,
@@ -258,6 +258,40 @@
     },
     {
       "position": 18,
+      "text": "הו",
+      "lemma": "1931",
+      "morph": "HPp3ms",
+      "strongs": [
+        "H1931"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 11,
+        "ordinal": 11,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ידע",
+      "lemma": "3045",
+      "morph": "HVqrmsa",
+      "strongs": [
+        "H3045"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 84,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
       "text": "וָעֵד",
       "lemma": "c/5707",
       "morph": "HC/Ncmsa",
@@ -272,7 +306,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "נְאֻם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -287,7 +321,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -302,26 +336,16 @@
       }
     },
     {
-      "position": 21,
-      "text": "הוידע",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 95,
-        "ordinal": 41,
-        "reduced": 23
-      }
-    },
-    {
-      "position": 22,
+      "position": 23,
       "text": "הַיּוֹדֵעַ",
       "lemma": "d/3045",
       "morph": "HTd/Vqrmsa",
       "strongs": [
         "H3045"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 95,
         "ordinal": 41,

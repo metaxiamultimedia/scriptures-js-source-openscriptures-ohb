@@ -1,5 +1,5 @@
 {
-  "text": "רְאוּ אָנֹכִי מִתְמַהְמֵהַּ הַמִּדְבָּר עַד בּוֹא דָבָר מֵעִמָּכֶם לְהַגִּיד לִי בעברות בְּעַרְבוֹת",
+  "text": "רְאוּ אָנֹכִי מִתְמַהְמֵהַּ בעברות הַמִּדְבָּר עַד בּוֹא דָבָר מֵעִמָּכֶם לְהַגִּיד לִי בְּעַרְבוֹת",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "בעברות",
+      "lemma": "b/5679",
+      "morph": "HR/Ncfpc",
+      "strongs": [
+        "H5679"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 680,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
       "text": "הַמִּדְבָּר",
       "lemma": "d/4057 b",
       "morph": "HTd/Ncmsa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בּוֹא",
       "lemma": "935",
       "morph": "HVqc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "דָבָר",
       "lemma": "1697",
       "morph": "HNcmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מֵעִמָּכֶם",
       "lemma": "m/5973 b",
       "morph": "HR/R/Sp2mp",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לְהַגִּיד",
       "lemma": "l/5046",
       "morph": "HR/Vhc",
@@ -137,27 +154,17 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
         "reduced": 4
-      }
-    },
-    {
-      "position": 11,
-      "text": "בעברות",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 680,
-        "ordinal": 68,
-        "reduced": 23
       }
     },
     {
@@ -168,7 +175,9 @@
       "strongs": [
         "H6160"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 680,
         "ordinal": 68,

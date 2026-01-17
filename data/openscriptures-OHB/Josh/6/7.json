@@ -1,8 +1,25 @@
 {
-  "text": "אֶל הָעָם עִבְרוּ וְסֹבּוּ אֶת הָעִיר וְהֶחָלוּץ יַעֲבֹר לִפְנֵי אֲרוֹן יְהוָה ויאמרו וַיֹּאמֶר",
+  "text": "ויאמרו אֶל הָעָם עִבְרוּ וְסֹבּוּ אֶת הָעִיר וְהֶחָלוּץ יַעֲבֹר לִפְנֵי אֲרוֹן יְהוָה וַיֹּאמֶר",
   "words": [
     {
       "position": 1,
+      "text": "ויאמרו",
+      "lemma": "c/559",
+      "morph": "HC/Vqw3mp",
+      "strongs": [
+        "H559"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 263,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "הָעָם",
       "lemma": "d/5971 a",
       "morph": "HTd/Ncmsa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "עִבְרוּ",
       "lemma": "5674 a",
       "morph": "HVqv2mp",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְסֹבּוּ",
       "lemma": "c/5437",
       "morph": "HC/Vqv2mp",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הָעִיר",
       "lemma": "d/5892 b",
       "morph": "HTd/Ncfsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְהֶחָלוּץ",
       "lemma": "c/d/2502 b",
       "morph": "HC/Td/Vqsmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יַעֲבֹר",
       "lemma": "5674 a",
       "morph": "HVqi3ms",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לִפְנֵי",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֲרוֹן",
       "lemma": "727",
       "morph": "HNcbsc",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -167,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "ויאמרו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 263,
-        "ordinal": 56,
-        "reduced": 20
-      }
-    },
-    {
       "position": 13,
       "text": "וַיֹּאמֶר",
       "lemma": "c/559",
@@ -186,7 +191,9 @@
       "strongs": [
         "H559"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 257,
         "ordinal": 50,

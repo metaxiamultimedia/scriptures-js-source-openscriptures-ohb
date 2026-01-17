@@ -1,5 +1,5 @@
 {
-  "text": "שֶׁשׁ הֵנָּה שָׂנֵא יְהוָה וְשֶׁבַע נַפְשׁוֹ תועבות תּוֹעֲבַת",
+  "text": "שֶׁשׁ הֵנָּה שָׂנֵא יְהוָה וְשֶׁבַע תועבות נַפְשׁוֹ תּוֹעֲבַת",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "תועבות",
+      "lemma": "8441",
+      "morph": "HNcfpc",
+      "strongs": [
+        "H8441"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 884,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
       "text": "נַפְשׁוֹ",
       "lemma": "5315",
       "morph": "HNcbsc/Sp3ms",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "תועבות",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 884,
-        "ordinal": 74,
-        "reduced": 29
-      }
-    },
-    {
       "position": 8,
       "text": "תּוֹעֲבַת",
       "lemma": "8441",
@@ -111,7 +116,9 @@
       "strongs": [
         "H8441"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 878,
         "ordinal": 68,

@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּוָּעַץ אֲמַצְיָהוּ מֶלֶךְ יְהוּדָה וַיִּשְׁלַח אֶל יוֹאָשׁ בֶּן יְהוֹאָחָז בֶּן יֵהוּא מֶלֶךְ יִשְׂרָאֵל לֵאמֹר נִתְרָאֶה פָנִים לך לְכָה",
+  "text": "וַיִּוָּעַץ אֲמַצְיָהוּ מֶלֶךְ יְהוּדָה וַיִּשְׁלַח אֶל יוֹאָשׁ בֶּן יְהוֹאָחָז בֶּן יֵהוּא מֶלֶךְ יִשְׂרָאֵל לֵאמֹר לך נִתְרָאֶה פָנִים לְכָה",
   "words": [
     {
       "position": 1,
@@ -213,6 +213,21 @@
     },
     {
       "position": 15,
+      "text": "לך",
+      "lemma": "l",
+      "morph": "HVqv2ms",
+      "metadata": {
+        "isKetiv": true,
+        "isPrefixOnly": true
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 16,
       "text": "נִתְרָאֶה",
       "lemma": "7200",
       "morph": "HVth1cp",
@@ -227,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "פָנִים",
       "lemma": "6440",
       "morph": "HNcbpa",
@@ -242,18 +257,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "לך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
-      }
-    },
-    {
       "position": 18,
       "text": "לְכָה",
       "lemma": "1980",
@@ -261,7 +264,9 @@
       "strongs": [
         "H1980"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 55,
         "ordinal": 28,

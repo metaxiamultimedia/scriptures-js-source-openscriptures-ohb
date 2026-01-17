@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּפְנוּ יְהוּדָה וְהִנֵּה לָהֶם הַמִּלְחָמָה פָּנִים וְאָחוֹר וַיִּצְעֲקוּ לַיהוָה וְהַכֹּהֲנִים בַּחֲצֹצְרוֹת מחצצרים מַחְצְרִים",
+  "text": "וַיִּפְנוּ יְהוּדָה וְהִנֵּה לָהֶם הַמִּלְחָמָה פָּנִים וְאָחוֹר וַיִּצְעֲקוּ לַיהוָה וְהַכֹּהֲנִים מחצצרים בַּחֲצֹצְרוֹת מַחְצְרִים",
   "words": [
     {
       "position": 1,
@@ -51,7 +51,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,
@@ -150,6 +152,23 @@
     },
     {
       "position": 11,
+      "text": "מחצצרים",
+      "lemma": "2690",
+      "morph": "HVhrmpa",
+      "strongs": [
+        "H2690"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 478,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 12,
       "text": "בַּחֲצֹצְרוֹת",
       "lemma": "b/2689",
       "morph": "HR/Ncfpa",
@@ -164,18 +183,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "מחצצרים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 478,
-        "ordinal": 100,
-        "reduced": 37
-      }
-    },
-    {
       "position": 13,
       "text": "מַחְצְרִים",
       "lemma": "2690",
@@ -183,7 +190,9 @@
       "strongs": [
         "H2690"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 388,
         "ordinal": 82,

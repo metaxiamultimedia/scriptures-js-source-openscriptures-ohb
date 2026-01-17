@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעַזְבוּ אֶת כָּל מִצְוֺת יְהוָה אֱלֹהֵיהֶם וַיַּעֲשׂוּ לָהֶם מַסֵּכָה עֲגָלִים וַיַּעֲשׂוּ אֲשֵׁירָה וַיִּשְׁתַּחֲווּ לְכָל צְבָא הַשָּׁמַיִם וַיַּעַבְדוּ אֶת הַבָּעַל שנים שְׁנֵי",
+  "text": "וַיַּעַזְבוּ אֶת כָּל מִצְוֺת יְהוָה אֱלֹהֵיהֶם וַיַּעֲשׂוּ לָהֶם מַסֵּכָה שנים עֲגָלִים וַיַּעֲשׂוּ אֲשֵׁירָה וַיִּשְׁתַּחֲווּ לְכָל צְבָא הַשָּׁמַיִם וַיַּעַבְדוּ אֶת הַבָּעַל שְׁנֵי",
   "words": [
     {
       "position": 1,
@@ -111,7 +111,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,
@@ -135,6 +137,23 @@
     },
     {
       "position": 10,
+      "text": "שנים",
+      "lemma": "8147",
+      "morph": "HAcmda",
+      "strongs": [
+        "H8147"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 400,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
       "text": "עֲגָלִים",
       "lemma": "5695",
       "morph": "HNcmpa",
@@ -149,7 +168,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וַיַּעֲשׂוּ",
       "lemma": "c/6213 a",
       "morph": "HC/Vqw3mp",
@@ -164,7 +183,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֲשֵׁירָה",
       "lemma": "842",
       "morph": "HNp",
@@ -179,7 +198,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וַיִּשְׁתַּחֲווּ",
       "lemma": "c/7812",
       "morph": "HC/Vtw3mp",
@@ -194,7 +213,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "לְכָל",
       "lemma": "l/3605",
       "morph": "HR/Ncmsc",
@@ -209,7 +228,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "צְבָא",
       "lemma": "6635 a",
       "morph": "HNcbsc",
@@ -224,7 +243,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַשָּׁמַיִם",
       "lemma": "d/8064",
       "morph": "HTd/Ncmpa",
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וַיַּעַבְדוּ",
       "lemma": "c/5647",
       "morph": "HC/Vqw3mp",
@@ -254,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -269,7 +288,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הַבָּעַל",
       "lemma": "d/1168 a",
       "morph": "HTd/Np",
@@ -284,18 +303,6 @@
       }
     },
     {
-      "position": 20,
-      "text": "שנים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 400,
-        "ordinal": 58,
-        "reduced": 13
-      }
-    },
-    {
       "position": 21,
       "text": "שְׁנֵי",
       "lemma": "8147",
@@ -303,7 +310,9 @@
       "strongs": [
         "H8147"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 360,
         "ordinal": 45,

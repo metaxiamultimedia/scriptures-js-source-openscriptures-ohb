@@ -1,5 +1,5 @@
 {
-  "text": "כִּי אָמַר בְּכֹחַ יָדִי עָשִׂיתִי וּבְחָכְמָתִי כִּי נְבֻנוֹתִי וְאָסִיר גְּבוּלֹת עַמִּים שׁוֹשֵׂתִי וְאוֹרִיד כַּאבִּיר יוֹשְׁבִים ועתידתיהם וַעֲתוּדוֹתֵיהֶם",
+  "text": "כִּי אָמַר בְּכֹחַ יָדִי עָשִׂיתִי וּבְחָכְמָתִי כִּי נְבֻנוֹתִי וְאָסִיר גְּבוּלֹת עַמִּים ועתידתיהם שׁוֹשֵׂתִי וְאוֹרִיד כַּאבִּיר יוֹשְׁבִים וַעֲתוּדוֹתֵיהֶם",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "ועתידתיהם",
+      "lemma": "c/6264",
+      "morph": "HC/Aampc/Sp3mp",
+      "strongs": [
+        "H6264"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 945,
+        "ordinal": 108,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 13,
       "text": "שׁוֹשֵׂתִי",
       "lemma": "8154",
       "morph": "HVmp1cs",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְאוֹרִיד",
       "lemma": "c/3381",
       "morph": "HC/Vhi1cs",
@@ -197,10 +214,13 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כַּאבִּיר",
       "lemma": "k/47",
       "morph": "HR/Aamsa",
+      "strongs": [
+        "H47"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 233,
@@ -209,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יוֹשְׁבִים",
       "lemma": "3427",
       "morph": "HVqrmpa",
@@ -224,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "ועתידתיהם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 945,
-        "ordinal": 108,
-        "reduced": 36
-      }
-    },
-    {
       "position": 17,
       "text": "וַעֲתוּדוֹתֵיהֶם",
       "lemma": "c/6264",
@@ -243,7 +251,9 @@
       "strongs": [
         "H6264"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 947,
         "ordinal": 110,

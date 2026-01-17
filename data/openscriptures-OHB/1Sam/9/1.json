@@ -1,5 +1,5 @@
 {
-  "text": "וַיְהִי אִישׁ וּשְׁמוֹ קִישׁ בֶּן אֲבִיאֵל בֶּן צְרוֹר בֶּן בְּכוֹרַת בֶּן אֲפִיחַ בֶּן אִישׁ יְמִינִי גִּבּוֹר חָיִל מבן־ימין מִבִּנְיָמִין",
+  "text": "וַיְהִי אִישׁ מבן ימין וּשְׁמוֹ קִישׁ בֶּן אֲבִיאֵל בֶּן צְרוֹר בֶּן בְּכוֹרַת בֶּן אֲפִיחַ בֶּן אִישׁ יְמִינִי גִּבּוֹר חָיִל מִבִּנְיָמִין",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,40 @@
     },
     {
       "position": 3,
+      "text": "מבן",
+      "lemma": "m/1121 a",
+      "morph": "HR/Np",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 92,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ימין",
+      "lemma": "3225",
+      "morph": "HNp",
+      "strongs": [
+        "H3225"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 110,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
       "text": "וּשְׁמוֹ",
       "lemma": "c/8034",
       "morph": "HC/Ncmsc/Sp3ms",
@@ -47,7 +81,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 6,
       "text": "קִישׁ",
       "lemma": "7027",
       "morph": "HNp",
@@ -59,33 +93,6 @@
         "standard": 410,
         "ordinal": 50,
         "reduced": 5
-      }
-    },
-    {
-      "position": 5,
-      "text": "בֶּן",
-      "lemma": "1121 a",
-      "morph": "HNcmsc",
-      "strongs": [
-        "H1121"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 16,
-        "reduced": 7
-      }
-    },
-    {
-      "position": 6,
-      "text": "אֲבִיאֵל",
-      "lemma": "22",
-      "morph": "HNp",
-      "metadata": {},
-      "gematria": {
-        "standard": 44,
-        "ordinal": 26,
-        "reduced": 8
       }
     },
     {
@@ -105,17 +112,17 @@
     },
     {
       "position": 8,
-      "text": "צְרוֹר",
-      "lemma": "6872 c",
+      "text": "אֲבִיאֵל",
+      "lemma": "22",
       "morph": "HNp",
       "strongs": [
-        "H6872"
+        "H22"
       ],
       "metadata": {},
       "gematria": {
-        "standard": 496,
-        "ordinal": 64,
-        "reduced": 19
+        "standard": 44,
+        "ordinal": 26,
+        "reduced": 8
       }
     },
     {
@@ -135,17 +142,17 @@
     },
     {
       "position": 10,
-      "text": "בְּכוֹרַת",
-      "lemma": "1064",
+      "text": "צְרוֹר",
+      "lemma": "6872 c",
       "morph": "HNp",
       "strongs": [
-        "H1064"
+        "H6872"
       ],
       "metadata": {},
       "gematria": {
-        "standard": 628,
-        "ordinal": 61,
-        "reduced": 16
+        "standard": 496,
+        "ordinal": 64,
+        "reduced": 19
       }
     },
     {
@@ -165,17 +172,17 @@
     },
     {
       "position": 12,
-      "text": "אֲפִיחַ",
-      "lemma": "647",
+      "text": "בְּכוֹרַת",
+      "lemma": "1064",
       "morph": "HNp",
       "strongs": [
-        "H647"
+        "H1064"
       ],
       "metadata": {},
       "gematria": {
-        "standard": 99,
-        "ordinal": 36,
-        "reduced": 18
+        "standard": 628,
+        "ordinal": 61,
+        "reduced": 16
       }
     },
     {
@@ -195,6 +202,36 @@
     },
     {
       "position": 14,
+      "text": "אֲפִיחַ",
+      "lemma": "647",
+      "morph": "HNp",
+      "strongs": [
+        "H647"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
+      "text": "בֶּן",
+      "lemma": "1121 a",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 16,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
       "text": "אִישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -209,7 +246,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "יְמִינִי",
       "lemma": "3227 b",
       "morph": "HNgmsa",
@@ -224,7 +261,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "גִּבּוֹר",
       "lemma": "1368",
       "morph": "HAamsc",
@@ -239,7 +276,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "חָיִל",
       "lemma": "2428",
       "morph": "HNcmsa",
@@ -254,26 +291,16 @@
       }
     },
     {
-      "position": 18,
-      "text": "מבן־ימין",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 202,
-        "ordinal": 76,
-        "reduced": 22
-      }
-    },
-    {
-      "position": 19,
+      "position": 20,
       "text": "מִבִּנְיָמִין",
       "lemma": "m/1144",
       "morph": "HR/Np",
       "strongs": [
         "H1144"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 202,
         "ordinal": 76,

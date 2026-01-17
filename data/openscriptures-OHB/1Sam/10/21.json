@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּקְרֵב אֶת שֵׁבֶט בִּנְיָמִן וַתִּלָּכֵד מִשְׁפַּחַת הַמַּטְרִי וַיִּלָּכֵד שָׁאוּל בֶּן קִישׁ וַיְבַקְשֻׁהוּ וְלֹא נִמְצָא למשפחתו לְמִשְׁפְּחֹתָיו",
+  "text": "וַיַּקְרֵב אֶת שֵׁבֶט בִּנְיָמִן למשפחתו וַתִּלָּכֵד מִשְׁפַּחַת הַמַּטְרִי וַיִּלָּכֵד שָׁאוּל בֶּן קִישׁ וַיְבַקְשֻׁהוּ וְלֹא נִמְצָא לְמִשְׁפְּחֹתָיו",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "למשפחתו",
+      "lemma": "l/4940",
+      "morph": "HR/Ncfpc/Sp3ms",
+      "strongs": [
+        "H4940"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 864,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
       "text": "וַתִּלָּכֵד",
       "lemma": "c/3920",
       "morph": "HC/VNw3fs",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מִשְׁפַּחַת",
       "lemma": "4940",
       "morph": "HNcfsc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַמַּטְרִי",
       "lemma": "d/4309",
       "morph": "HTd/Ngmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וַיִּלָּכֵד",
       "lemma": "c/3920",
       "morph": "HC/VNw3ms",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "שָׁאוּל",
       "lemma": "7586",
       "morph": "HNp",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "קִישׁ",
       "lemma": "7027",
       "morph": "HNp",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וַיְבַקְשֻׁהוּ",
       "lemma": "c/1245",
       "morph": "HC/Vpw3mp/Sp3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "נִמְצָא",
       "lemma": "4672",
       "morph": "HVNp3ms",
@@ -212,18 +229,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "למשפחתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 864,
-        "ordinal": 99,
-        "reduced": 36
-      }
-    },
-    {
       "position": 16,
       "text": "לְמִשְׁפְּחֹתָיו",
       "lemma": "l/4940",
@@ -231,7 +236,9 @@
       "strongs": [
         "H4940"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 874,
         "ordinal": 109,

@@ -1,5 +1,5 @@
 {
-  "text": "וְיוֹאָב אֶל כָּל הַצָּבָא יִשְׂרָאֵל וּבְנָיָה בֶּן יְהוֹיָדָע עַל וְעַל הַפְּלֵתִי הכרי הַכְּרֵתִי",
+  "text": "וְיוֹאָב אֶל כָּל הַצָּבָא יִשְׂרָאֵל וּבְנָיָה בֶּן יְהוֹיָדָע עַל הכרי וְעַל הַפְּלֵתִי הַכְּרֵתִי",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "הכרי",
+      "lemma": "d/3746",
+      "morph": "HTd/Ngmsa",
+      "strongs": [
+        "H3746"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 235,
+        "ordinal": 46,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
       "text": "וְעַל",
       "lemma": "c/5921 a",
       "morph": "HC/R",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַפְּלֵתִי",
       "lemma": "d/6432",
       "morph": "HTd/Ngmsa",
@@ -167,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "הכרי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 235,
-        "ordinal": 46,
-        "reduced": 10
-      }
-    },
-    {
       "position": 13,
       "text": "הַכְּרֵתִי",
       "lemma": "d/3774",
@@ -186,7 +191,9 @@
       "strongs": [
         "H3774"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 635,
         "ordinal": 68,

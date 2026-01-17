@@ -1,5 +1,5 @@
 {
-  "text": "שׁוּבָה יְהוָה אֶת כַּאֲפִיקִים בַּנֶּגֶב שבותנו שְׁבִיתֵנוּ",
+  "text": "שׁוּבָה יְהוָה אֶת שבותנו כַּאֲפִיקִים בַּנֶּגֶב שְׁבִיתֵנוּ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "שבותנו",
+      "lemma": "7622",
+      "morph": "HNcfsc/Sp1cp",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 764,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
       "text": "כַּאֲפִיקִים",
       "lemma": "k/650",
       "morph": "HR/Ncmpa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בַּנֶּגֶב",
       "lemma": "b/5045",
       "morph": "HRd/Ncmsa",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "שבותנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 764,
-        "ordinal": 71,
-        "reduced": 26
-      }
-    },
-    {
       "position": 7,
       "text": "שְׁבִיתֵנוּ",
       "lemma": "7622",
@@ -96,7 +101,9 @@
       "strongs": [
         "H7622"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 768,
         "ordinal": 75,

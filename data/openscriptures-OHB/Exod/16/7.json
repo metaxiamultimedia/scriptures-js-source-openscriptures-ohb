@@ -1,5 +1,5 @@
 {
-  "text": "וּבֹקֶר וּרְאִיתֶם אֶת כְּבוֹד יְהוָה בְּשָׁמְעוֹ אֶת תְּלֻנֹּתֵיכֶם עַל יְהוָה וְנַחְנוּ מָה כִּי עָלֵינוּ תלונו תַלִּינוּ",
+  "text": "וּבֹקֶר וּרְאִיתֶם אֶת כְּבוֹד יְהוָה בְּשָׁמְעוֹ אֶת תְּלֻנֹּתֵיכֶם עַל יְהוָה וְנַחְנוּ מָה כִּי תלונו עָלֵינוּ תַלִּינוּ",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "תלונו",
+      "lemma": "3885 b",
+      "morph": "HVNi2mp",
+      "strongs": [
+        "H3885"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 492,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
       "text": "עָלֵינוּ",
       "lemma": "5921 a",
       "morph": "HR/Sp1cp",
@@ -212,18 +229,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "תלונו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 492,
-        "ordinal": 60,
-        "reduced": 24
-      }
-    },
-    {
       "position": 16,
       "text": "תַלִּינוּ",
       "lemma": "3885 b",
@@ -231,7 +236,9 @@
       "strongs": [
         "H3885"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 496,
         "ordinal": 64,

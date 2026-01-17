@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּשְׁלְחוּ וַיִּקְרְאוּ לוֹ יָרָבְעָם וְכָל קְהַל יִשְׂרָאֵל וַיְדַבְּרוּ אֶל רְחַבְעָם לֵאמֹר ויבאו וַיָּבֹא",
+  "text": "וַיִּשְׁלְחוּ וַיִּקְרְאוּ לוֹ ויבאו יָרָבְעָם וְכָל קְהַל יִשְׂרָאֵל וַיְדַבְּרוּ אֶל רְחַבְעָם לֵאמֹר וַיָּבֹא",
   "words": [
     {
       "position": 1,
@@ -36,7 +36,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -45,6 +47,23 @@
     },
     {
       "position": 4,
+      "text": "ויבאו",
+      "lemma": "c/935",
+      "morph": "HC/Vqw3mp",
+      "strongs": [
+        "H935"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
       "text": "יָרָבְעָם",
       "lemma": "3379",
       "morph": "HNp",
@@ -59,7 +78,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -74,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "קְהַל",
       "lemma": "6951",
       "morph": "HNcmsc",
@@ -89,7 +108,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -104,7 +123,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וַיְדַבְּרוּ",
       "lemma": "c/1696",
       "morph": "HC/Vpw3mp",
@@ -119,7 +138,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -134,7 +153,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "רְחַבְעָם",
       "lemma": "7346",
       "morph": "HNp",
@@ -149,7 +168,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לֵאמֹר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
@@ -164,18 +183,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "ויבאו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 25,
-        "ordinal": 25,
-        "reduced": 16
-      }
-    },
-    {
       "position": 13,
       "text": "וַיָּבֹא",
       "lemma": "c/935",
@@ -183,7 +190,9 @@
       "strongs": [
         "H935"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 19,
         "ordinal": 19,

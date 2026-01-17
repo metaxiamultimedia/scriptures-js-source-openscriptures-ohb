@@ -35,8 +35,7 @@ const BOOKS = [
 const SOURCE_DIR = join(ROOT_DIR, 'source');
 const DATA_DIR = join(ROOT_DIR, 'data', 'openscriptures-OHB');
 
-// Strong's number regex
-const STRONGS_RE = /(?:strongs?:)?([HGhg]?\d{3,5})/g;
+const STRONGS_RE = /(?:strongs?:)?([HGhg]?\d{1,5})/g;
 
 interface WordEntry {
   position: number;
@@ -75,7 +74,7 @@ function extractStrongs(value: string | null, wordText?: string): string[] {
     if (token[0] && 'HGhg'.includes(token[0])) {
       prefix = token[0].toUpperCase();
     }
-    const digits = token.match(/\d{3,5}/);
+    const digits = token.match(/\d{1,5}/);
     if (!digits) continue;
 
     // Default to Hebrew for this source
@@ -348,13 +347,18 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
     if (isTextualCriticalNote(w, gematria)) continue;
     if (isParagraphMarker(w)) continue;
 
+    const metadata: Record<string, unknown> = { ...w.metadata };
+    if (w.lemma && !/\d/.test(w.lemma)) {
+      metadata.isPrefixOnly = true;
+    }
+
     filteredWords.push({
       position: position++,
       text: w.text,
       lemma: w.lemma,
       morph: w.morph,
       strongs: w.strongs,
-      metadata: w.metadata,
+      metadata,
       gematria,
     });
   }

@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֹא גָד אֶל דָּוִד בַּיּוֹם הַהוּא וַיֹּאמֶר לוֹ עֲלֵה הָקֵם לַיהוָה מִזְבֵּחַ בְּגֹרֶן הַיְבֻסִי ארניה אֲרַוְנָה",
+  "text": "וַיָּבֹא גָד אֶל דָּוִד בַּיּוֹם הַהוּא וַיֹּאמֶר לוֹ עֲלֵה הָקֵם לַיהוָה מִזְבֵּחַ בְּגֹרֶן ארניה הַיְבֻסִי אֲרַוְנָה",
   "words": [
     {
       "position": 1,
@@ -111,7 +111,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -195,6 +197,23 @@
     },
     {
       "position": 14,
+      "text": "ארניה",
+      "lemma": "728",
+      "morph": "HNp",
+      "strongs": [
+        "H728"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 266,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
       "text": "הַיְבֻסִי",
       "lemma": "d/2983",
       "morph": "HTd/Ngmsa",
@@ -209,18 +228,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "ארניה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 266,
-        "ordinal": 50,
-        "reduced": 14
-      }
-    },
-    {
       "position": 16,
       "text": "אֲרַוְנָה",
       "lemma": "728",
@@ -228,7 +235,9 @@
       "strongs": [
         "H728"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 262,
         "ordinal": 46,

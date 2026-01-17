@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר לוֹ חָלִילָה לֹא תָמוּת הִנֵּה אָבִי דָּבָר גָּדוֹל אוֹ דָּבָר קָטֹן וְלֹא יִגְלֶה אֶת אָזְנִי וּמַדּוּעַ יַסְתִּיר אָבִי מִמֶּנִּי אֶת הַדָּבָר הַזֶּה אֵין זֹאת לו־עשה לֹא יַעֲשֶׂה",
+  "text": "וַיֹּאמֶר לוֹ חָלִילָה לֹא תָמוּת הִנֵּה לו עשה אָבִי דָּבָר גָּדוֹל אוֹ דָּבָר קָטֹן וְלֹא יִגְלֶה אֶת אָזְנִי וּמַדּוּעַ יַסְתִּיר אָבִי מִמֶּנִּי אֶת הַדָּבָר הַזֶּה אֵין זֹאת לֹא יַעֲשֶׂה",
   "words": [
     {
       "position": 1,
@@ -21,7 +21,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -90,9 +92,44 @@
     },
     {
       "position": 7,
+      "text": "לו",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "metadata": {
+        "isKetiv": true,
+        "isPrefixOnly": true
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "עשה",
+      "lemma": "6213 a",
+      "morph": "HVqp3ms",
+      "strongs": [
+        "H6213"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 375,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
       "text": "אָבִי",
       "lemma": "1",
       "morph": "HNcmsc/Sp1cs",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 13,
@@ -101,7 +138,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "דָּבָר",
       "lemma": "1697",
       "morph": "HNcmsa",
@@ -116,7 +153,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "גָּדוֹל",
       "lemma": "1419 a",
       "morph": "HAamsa",
@@ -131,7 +168,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "אוֹ",
       "lemma": "176 a",
       "morph": "HC",
@@ -146,7 +183,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "דָּבָר",
       "lemma": "1697",
       "morph": "HNcmsa",
@@ -161,7 +198,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "קָטֹן",
       "lemma": "6996 b",
       "morph": "HAamsa",
@@ -176,7 +213,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -191,7 +228,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "יִגְלֶה",
       "lemma": "1540",
       "morph": "HVqi3ms",
@@ -206,7 +243,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -221,7 +258,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "אָזְנִי",
       "lemma": "241",
       "morph": "HNcfsc/Sp1cs",
@@ -236,7 +273,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "וּמַדּוּעַ",
       "lemma": "c/4069",
       "morph": "HC/Ti",
@@ -251,7 +288,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 20,
       "text": "יַסְתִּיר",
       "lemma": "5641",
       "morph": "HVhi3ms",
@@ -266,10 +303,13 @@
       }
     },
     {
-      "position": 19,
+      "position": 21,
       "text": "אָבִי",
       "lemma": "1",
       "morph": "HNcmsc/Sp1cs",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 13,
@@ -278,7 +318,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "מִמֶּנִּי",
       "lemma": "4480 a",
       "morph": "HR/Sp1cs",
@@ -293,7 +333,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 23,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -308,7 +348,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 24,
       "text": "הַדָּבָר",
       "lemma": "d/1697",
       "morph": "HTd/Ncmsa",
@@ -323,7 +363,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 25,
       "text": "הַזֶּה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -338,7 +378,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 26,
       "text": "אֵין",
       "lemma": "369",
       "morph": "HTn",
@@ -353,7 +393,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 27,
       "text": "זֹאת",
       "lemma": "2063",
       "morph": "HPdxfs",
@@ -368,26 +408,16 @@
       }
     },
     {
-      "position": 26,
-      "text": "לו־עשה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 411,
-        "ordinal": 60,
-        "reduced": 24
-      }
-    },
-    {
-      "position": 27,
+      "position": 28,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
       "strongs": [
         "H3808"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 31,
         "ordinal": 13,
@@ -395,14 +425,16 @@
       }
     },
     {
-      "position": 28,
+      "position": 29,
       "text": "יַעֲשֶׂה",
       "lemma": "6213 a",
       "morph": "HVqi3ms",
       "strongs": [
         "H6213"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 385,
         "ordinal": 52,

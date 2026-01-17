@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵן כֹּה אָמַר יְהוָה שַׁבְתִּי לִירוּשָׁלִַם בְּרַחֲמִים בֵּיתִי יִבָּנֶה בָּהּ נְאֻם יְהוָה צְבָאוֹת יִנָּטֶה עַל יְרוּשָׁלִָם וקוה וְקָו",
+  "text": "לָכֵן כֹּה אָמַר יְהוָה שַׁבְתִּי לִירוּשָׁלִַם בְּרַחֲמִים בֵּיתִי יִבָּנֶה בָּהּ נְאֻם יְהוָה צְבָאוֹת וקוה יִנָּטֶה עַל יְרוּשָׁלִָם וְקָו",
   "words": [
     {
       "position": 1,
@@ -141,7 +141,9 @@
       "text": "בָּהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -195,6 +197,23 @@
     },
     {
       "position": 14,
+      "text": "וקוה",
+      "lemma": "c/6961",
+      "morph": "HC/Ncmsa",
+      "strongs": [
+        "H6961"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 117,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
       "text": "יִנָּטֶה",
       "lemma": "5186",
       "morph": "HVNi3ms",
@@ -209,7 +228,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -224,7 +243,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "יְרוּשָׁלִָם",
       "lemma": "3389",
       "morph": "HNp",
@@ -239,18 +258,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "וקוה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 117,
-        "ordinal": 36,
-        "reduced": 18
-      }
-    },
-    {
       "position": 18,
       "text": "וְקָו",
       "lemma": "c/6957 b",
@@ -258,7 +265,9 @@
       "strongs": [
         "H6957"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 112,
         "ordinal": 31,

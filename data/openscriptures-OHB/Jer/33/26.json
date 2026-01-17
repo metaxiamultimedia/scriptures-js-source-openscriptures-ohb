@@ -1,5 +1,5 @@
 {
-  "text": "גַּם זֶרַע יַעֲקוֹב וְדָוִד עַבְדִּי אֶמְאַס מִקַּחַת מִזַּרְעוֹ מֹשְׁלִים אֶל זֶרַע אַבְרָהָם יִשְׂחָק וְיַעֲקֹב כִּי אֶת שְׁבוּתָם וְרִחַמְתִּים אשוב אָשִׁיב",
+  "text": "גַּם זֶרַע יַעֲקוֹב וְדָוִד עַבְדִּי אֶמְאַס מִקַּחַת מִזַּרְעוֹ מֹשְׁלִים אֶל זֶרַע אַבְרָהָם יִשְׂחָק וְיַעֲקֹב כִּי אשוב אֶת שְׁבוּתָם וְרִחַמְתִּים אָשִׁיב",
   "words": [
     {
       "position": 1,
@@ -171,6 +171,9 @@
       "text": "אַבְרָהָם",
       "lemma": "85",
       "morph": "HNp",
+      "strongs": [
+        "H85"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 248,
@@ -225,6 +228,23 @@
     },
     {
       "position": 16,
+      "text": "אשוב",
+      "lemma": "7725",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 309,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -239,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "שְׁבוּתָם",
       "lemma": "7622",
       "morph": "HNcfsc/Sp3mp",
@@ -254,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וְרִחַמְתִּים",
       "lemma": "c/7355",
       "morph": "HC/Vpq1cs/Sp3mp",
@@ -269,18 +289,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "אשוב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 309,
-        "ordinal": 30,
-        "reduced": 12
-      }
-    },
-    {
       "position": 20,
       "text": "אָשִׁיב",
       "lemma": "7725",
@@ -288,7 +296,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 313,
         "ordinal": 34,

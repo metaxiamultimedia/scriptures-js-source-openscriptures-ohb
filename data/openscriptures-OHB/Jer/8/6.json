@@ -1,5 +1,5 @@
 {
-  "text": "הִקְשַׁבְתִּי וָאֶשְׁמָע לוֹא כֵן יְדַבֵּרוּ אֵין אִישׁ נִחָם עַל רָעָתוֹ לֵאמֹר מֶה עָשִׂיתִי כֻּלֹּה שָׁב כְּסוּס שׁוֹטֵף בַּמִּלְחָמָה במרצותם בִּמְרוּצָתָם",
+  "text": "הִקְשַׁבְתִּי וָאֶשְׁמָע לוֹא כֵן יְדַבֵּרוּ אֵין אִישׁ נִחָם עַל רָעָתוֹ לֵאמֹר מֶה עָשִׂיתִי כֻּלֹּה שָׁב במרצותם כְּסוּס שׁוֹטֵף בַּמִּלְחָמָה בִּמְרוּצָתָם",
   "words": [
     {
       "position": 1,
@@ -228,6 +228,23 @@
     },
     {
       "position": 16,
+      "text": "במרצותם",
+      "lemma": "b/4794",
+      "morph": "HR/Ncfpc/Sp3mp",
+      "strongs": [
+        "H4794"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 778,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 17,
       "text": "כְּסוּס",
       "lemma": "k/5483 b",
       "morph": "HR/Ncmsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "שׁוֹטֵף",
       "lemma": "7857",
       "morph": "HVqrmsa",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בַּמִּלְחָמָה",
       "lemma": "b/4421",
       "morph": "HRd/Ncfsa",
@@ -272,18 +289,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "במרצותם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 778,
-        "ordinal": 94,
-        "reduced": 31
-      }
-    },
-    {
       "position": 20,
       "text": "בִּמְרוּצָתָם",
       "lemma": "b/4794",
@@ -291,7 +296,9 @@
       "strongs": [
         "H4794"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 778,
         "ordinal": 94,

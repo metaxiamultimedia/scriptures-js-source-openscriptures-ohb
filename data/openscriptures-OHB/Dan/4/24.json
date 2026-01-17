@@ -1,27 +1,17 @@
 {
-  "text": "עליך עֲלָךְ וחטיך וַחֲטָאָךְ לָהֵן מַלְכָּא מִלְכִּי יִשְׁפַּר בְּצִדְקָה פְרֻק וַעֲוָיָתָךְ בְּמִחַן עֲנָיִן הֵן תֶּהֱוֵא אַרְכָה לִשְׁלֵוְתָךְ",
+  "text": "עֲלָךְ וַחֲטָאָךְ לָהֵן מַלְכָּא מִלְכִּי יִשְׁפַּר עליך וחטיך בְּצִדְקָה פְרֻק וַעֲוָיָתָךְ בְּמִחַן עֲנָיִן הֵן תֶּהֱוֵא אַרְכָה לִשְׁלֵוְתָךְ",
   "words": [
     {
       "position": 1,
-      "text": "עליך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 130,
-        "ordinal": 49,
-        "reduced": 13
-      }
-    },
-    {
-      "position": 2,
       "text": "עֲלָךְ",
       "lemma": "5922",
       "morph": "AR/Sp2ms",
       "strongs": [
         "H5922"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 120,
         "ordinal": 39,
@@ -29,26 +19,16 @@
       }
     },
     {
-      "position": 3,
-      "text": "וחטיך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 53,
-        "ordinal": 44,
-        "reduced": 26
-      }
-    },
-    {
-      "position": 4,
+      "position": 2,
       "text": "וַחֲטָאָךְ",
       "lemma": "c/2408",
       "morph": "AC/Ncmsc/Sp2ms",
       "strongs": [
         "H2408"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 44,
         "ordinal": 35,
@@ -56,7 +36,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 3,
       "text": "לָהֵן",
       "lemma": "3861",
       "morph": "AC",
@@ -71,7 +51,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 4,
       "text": "מַלְכָּא",
       "lemma": "4430",
       "morph": "ANcmsd/Td",
@@ -86,7 +66,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 5,
       "text": "מִלְכִּי",
       "lemma": "4431",
       "morph": "ANcmsc/Sp1cs",
@@ -101,7 +81,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 6,
       "text": "יִשְׁפַּר",
       "lemma": "8232",
       "morph": "AVqi3ms",
@@ -113,6 +93,40 @@
         "standard": 590,
         "ordinal": 68,
         "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "עליך",
+      "lemma": "5922",
+      "morph": "AR/Sp2ms",
+      "strongs": [
+        "H5922"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 130,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "וחטיך",
+      "lemma": "c/2408",
+      "morph": "AC/Ncmsc/Sp2ms",
+      "strongs": [
+        "H2408"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 44,
+        "reduced": 26
       }
     },
     {

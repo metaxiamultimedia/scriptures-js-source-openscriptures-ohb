@@ -214,9 +214,12 @@
     {
       "position": 15,
       "text": "בה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "b",
+      "morph": "HR/Sp3fs",
+      "metadata": {
+        "isKetiv": true,
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -228,7 +231,10 @@
       "text": "בָּם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isQere": true,
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 15,

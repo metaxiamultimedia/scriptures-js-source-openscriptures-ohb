@@ -1,5 +1,5 @@
 {
-  "text": "זְכֹר יְהוָה מֶה הָיָה לָנוּ וּרְאֵה אֶת חֶרְפָּתֵנוּ הביט הַבִּיטָה",
+  "text": "זְכֹר יְהוָה מֶה הָיָה לָנוּ הביט וּרְאֵה אֶת חֶרְפָּתֵנוּ הַבִּיטָה",
   "words": [
     {
       "position": 1,
@@ -66,7 +66,9 @@
       "text": "לָנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 86,
         "ordinal": 32,
@@ -75,6 +77,23 @@
     },
     {
       "position": 6,
+      "text": "הביט",
+      "lemma": "5027",
+      "morph": "HVhv2ms",
+      "strongs": [
+        "H5027"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 26,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
       "text": "וּרְאֵה",
       "lemma": "c/7200",
       "morph": "HC/Vqv2ms",
@@ -89,7 +108,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -104,7 +123,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "חֶרְפָּתֵנוּ",
       "lemma": "2781",
       "morph": "HNcfsc/Sp1cp",
@@ -119,18 +138,6 @@
       }
     },
     {
-      "position": 9,
-      "text": "הביט",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
-      }
-    },
-    {
       "position": 10,
       "text": "הַבִּיטָה",
       "lemma": "5027",
@@ -138,7 +145,9 @@
       "strongs": [
         "H5027"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 31,
         "ordinal": 31,

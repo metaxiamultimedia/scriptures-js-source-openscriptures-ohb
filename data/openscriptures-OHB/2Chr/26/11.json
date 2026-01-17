@@ -1,5 +1,5 @@
 {
-  "text": "וַיְהִי לְעֻזִּיָּהוּ חַיִל עֹשֵׂה מִלְחָמָה יוֹצְאֵי צָבָא לִגְדוּד בְּמִסְפַּר פְּקֻדָּתָם בְּיַד הַסּוֹפֵר וּמַעֲשֵׂיָהוּ הַשּׁוֹטֵר עַל יַד חֲנַנְיָהוּ מִשָּׂרֵי הַמֶּלֶךְ יעואל יְעִיאֵל",
+  "text": "וַיְהִי לְעֻזִּיָּהוּ חַיִל עֹשֵׂה מִלְחָמָה יוֹצְאֵי צָבָא לִגְדוּד בְּמִסְפַּר פְּקֻדָּתָם בְּיַד יעואל הַסּוֹפֵר וּמַעֲשֵׂיָהוּ הַשּׁוֹטֵר עַל יַד חֲנַנְיָהוּ מִשָּׂרֵי הַמֶּלֶךְ יְעִיאֵל",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "יעואל",
+      "lemma": "3273",
+      "morph": "HNp",
+      "strongs": [
+        "H3273"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 117,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
       "text": "הַסּוֹפֵר",
       "lemma": "d/5608 b",
       "morph": "HTd/Ncmsa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וּמַעֲשֵׂיָהוּ",
       "lemma": "c/4641",
       "morph": "HC/Np",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הַשּׁוֹטֵר",
       "lemma": "d/7860",
       "morph": "HTd/Vqrmsa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "יַד",
       "lemma": "3027",
       "morph": "HNcbsc",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "חֲנַנְיָהוּ",
       "lemma": "2608 a",
       "morph": "HNp",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "מִשָּׂרֵי",
       "lemma": "m/8269",
       "morph": "HR/Ncmpc",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הַמֶּלֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -287,18 +304,6 @@
       }
     },
     {
-      "position": 20,
-      "text": "יעואל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 117,
-        "ordinal": 45,
-        "reduced": 18
-      }
-    },
-    {
       "position": 21,
       "text": "יְעִיאֵל",
       "lemma": "3273",
@@ -306,7 +311,9 @@
       "strongs": [
         "H3273"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 121,
         "ordinal": 49,

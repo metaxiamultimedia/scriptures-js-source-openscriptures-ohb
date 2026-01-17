@@ -1,5 +1,5 @@
 {
-  "text": "בְּבֹאָם הַכֹּהֲנִים וְלֹא יֵצְאוּ מֵהַקֹּדֶשׁ אֶל הֶחָצֵר הַחִיצוֹנָה וְשָׁם יַנִּיחוּ בִגְדֵיהֶם אֲשֶׁר יְשָׁרְתוּ בָהֶן כִּי קֹדֶשׁ הֵנָּה בְּגָדִים אֲחֵרִים וְקָרְבוּ אֶל אֲשֶׁר לָעָם ילבשו וְלָבְשׁוּ",
+  "text": "בְּבֹאָם הַכֹּהֲנִים וְלֹא יֵצְאוּ מֵהַקֹּדֶשׁ אֶל הֶחָצֵר הַחִיצוֹנָה וְשָׁם יַנִּיחוּ בִגְדֵיהֶם אֲשֶׁר יְשָׁרְתוּ בָהֶן כִּי קֹדֶשׁ הֵנָּה ילבשו בְּגָדִים אֲחֵרִים וְקָרְבוּ אֶל אֲשֶׁר לָעָם וְלָבְשׁוּ",
   "words": [
     {
       "position": 1,
@@ -201,7 +201,9 @@
       "text": "בָהֶן",
       "lemma": "b",
       "morph": "HR/Sp3fp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 57,
         "ordinal": 21,
@@ -255,6 +257,23 @@
     },
     {
       "position": 18,
+      "text": "ילבשו",
+      "lemma": "3847",
+      "morph": "HVqi3mp",
+      "strongs": [
+        "H3847"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 348,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
       "text": "בְּגָדִים",
       "lemma": "899 b",
       "morph": "HNcmpa",
@@ -269,7 +288,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אֲחֵרִים",
       "lemma": "312",
       "morph": "HAampa",
@@ -284,7 +303,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וְקָרְבוּ",
       "lemma": "c/7126",
       "morph": "HC/Vqq3cp",
@@ -299,7 +318,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -314,7 +333,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -329,7 +348,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "לָעָם",
       "lemma": "l/5971 a",
       "morph": "HRd/Ncmsa",
@@ -344,18 +363,6 @@
       }
     },
     {
-      "position": 24,
-      "text": "ילבשו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 348,
-        "ordinal": 51,
-        "reduced": 15
-      }
-    },
-    {
       "position": 25,
       "text": "וְלָבְשׁוּ",
       "lemma": "c/3847",
@@ -363,7 +370,9 @@
       "strongs": [
         "H3847"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 344,
         "ordinal": 47,

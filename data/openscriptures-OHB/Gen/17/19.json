@@ -36,6 +36,9 @@
       "text": "אֲבָל",
       "lemma": "61",
       "morph": "HD",
+      "strongs": [
+        "H61"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 33,
@@ -93,7 +96,9 @@
       "text": "לְךָ",
       "lemma": "l",
       "morph": "HR/Sp2ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,

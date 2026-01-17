@@ -1,5 +1,5 @@
 {
-  "text": "וְאִם לֹא יִגָּאֵל עַד מְלֹאת לוֹ שָׁנָה תְמִימָה וְקָם הַבַּיִת אֲשֶׁר בָּעִיר אֲשֶׁר חֹמָה לַצְּמִיתֻת לַקֹּנֶה אֹתוֹ לְדֹרֹתָיו לֹא יֵצֵא בַּיֹּבֵל לא לוֹ",
+  "text": "וְאִם לֹא יִגָּאֵל עַד מְלֹאת לוֹ שָׁנָה תְמִימָה וְקָם הַבַּיִת אֲשֶׁר בָּעִיר אֲשֶׁר לא חֹמָה לַצְּמִיתֻת לַקֹּנֶה אֹתוֹ לְדֹרֹתָיו לֹא יֵצֵא בַּיֹּבֵל לוֹ",
   "words": [
     {
       "position": 1,
@@ -81,7 +81,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -195,6 +197,23 @@
     },
     {
       "position": 14,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
       "text": "חֹמָה",
       "lemma": "2346",
       "morph": "HNcfsa",
@@ -209,7 +228,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לַצְּמִיתֻת",
       "lemma": "l/6783",
       "morph": "HRd/Ncfsa",
@@ -224,7 +243,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לַקֹּנֶה",
       "lemma": "l/7069",
       "morph": "HRd/Vqrmsa",
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֹתוֹ",
       "lemma": "853",
       "morph": "HTo/Sp3ms",
@@ -254,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לְדֹרֹתָיו",
       "lemma": "l/1755",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -269,7 +288,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -284,7 +303,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "יֵצֵא",
       "lemma": "3318",
       "morph": "HVqi3ms",
@@ -299,7 +318,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "בַּיֹּבֵל",
       "lemma": "b/3104",
       "morph": "HRd/Ncmsa",
@@ -314,23 +333,14 @@
       }
     },
     {
-      "position": 22,
-      "text": "לא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
       "position": 23,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isQere": true,
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

@@ -1,5 +1,5 @@
 {
-  "text": "הַצִּיבִי לָךְ צִיֻּנִים שִׂמִי לָךְ תַּמְרוּרִים שִׁתִי לִבֵּךְ לַמְסִלָּה דֶּרֶךְ שׁוּבִי בְּתוּלַת יִשְׂרָאֵל שֻׁבִי אֶל עָרַיִךְ אֵלֶּה הלכתי הָלָכְתְּ",
+  "text": "הַצִּיבִי לָךְ צִיֻּנִים שִׂמִי לָךְ תַּמְרוּרִים שִׁתִי לִבֵּךְ לַמְסִלָּה דֶּרֶךְ הלכתי שׁוּבִי בְּתוּלַת יִשְׂרָאֵל שֻׁבִי אֶל עָרַיִךְ אֵלֶּה הָלָכְתְּ",
   "words": [
     {
       "position": 1,
@@ -21,7 +21,9 @@
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -63,7 +65,9 @@
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -147,6 +151,23 @@
     },
     {
       "position": 11,
+      "text": "הלכתי",
+      "lemma": "1980",
+      "morph": "HVqp2fs",
+      "strongs": [
+        "H1980"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 465,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
       "text": "שׁוּבִי",
       "lemma": "7725",
       "morph": "HVqv2fs",
@@ -161,7 +182,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בְּתוּלַת",
       "lemma": "1330",
       "morph": "HNcfsc",
@@ -176,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -191,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שֻׁבִי",
       "lemma": "7725",
       "morph": "HVqv2fs",
@@ -206,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -221,7 +242,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עָרַיִךְ",
       "lemma": "5892 b",
       "morph": "HNcfpc/Sp2fs",
@@ -236,7 +257,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֵלֶּה",
       "lemma": "428",
       "morph": "HPdxcp",
@@ -251,18 +272,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "הלכתי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 465,
-        "ordinal": 60,
-        "reduced": 15
-      }
-    },
-    {
       "position": 19,
       "text": "הָלָכְתְּ",
       "lemma": "1980",
@@ -270,7 +279,9 @@
       "strongs": [
         "H1980"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 455,
         "ordinal": 50,

@@ -1,5 +1,5 @@
 {
-  "text": "וְהַמַּלְאָךְ אֲשֶׁר הָלַךְ לִקְרֹא מִיכָיְהוּ דִּבֶּר אֵלָיו לֵאמֹר הִנֵּה נָא דִּבְרֵי הַנְּבִיאִים פֶּה אֶחָד טוֹב אֶל הַמֶּלֶךְ יְהִי נָא כִּדְבַר אַחַד מֵהֶם וְדִבַּרְתָּ טּוֹב דבריך דְבָרְךָ",
+  "text": "וְהַמַּלְאָךְ אֲשֶׁר הָלַךְ לִקְרֹא מִיכָיְהוּ דִּבֶּר אֵלָיו לֵאמֹר הִנֵּה נָא דִּבְרֵי הַנְּבִיאִים פֶּה אֶחָד טוֹב אֶל הַמֶּלֶךְ יְהִי נָא דבריך כִּדְבַר אַחַד מֵהֶם וְדִבַּרְתָּ טּוֹב דְבָרְךָ",
   "words": [
     {
       "position": 1,
@@ -288,6 +288,23 @@
     },
     {
       "position": 20,
+      "text": "דבריך",
+      "lemma": "1697",
+      "morph": "HNcmpc/Sp2ms",
+      "strongs": [
+        "H1697"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 236,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
       "text": "כִּדְבַר",
       "lemma": "k/1697",
       "morph": "HR/Ncmsc",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אַחַד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -317,11 +334,13 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "מֵהֶם",
       "lemma": "m",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 85,
         "ordinal": 31,
@@ -329,7 +348,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "וְדִבַּרְתָּ",
       "lemma": "c/1696",
       "morph": "HC/Vpp2ms",
@@ -344,7 +363,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "טּוֹב",
       "lemma": "2896 a",
       "morph": "HAamsa",
@@ -359,18 +378,6 @@
       }
     },
     {
-      "position": 25,
-      "text": "דבריך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 236,
-        "ordinal": 47,
-        "reduced": 11
-      }
-    },
-    {
       "position": 26,
       "text": "דְבָרְךָ",
       "lemma": "1697",
@@ -378,7 +385,9 @@
       "strongs": [
         "H1697"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 226,
         "ordinal": 37,

@@ -1,27 +1,17 @@
 {
-  "text": "חסדו חַסְדִּי אֱלֹהֵי יְקַדְּמֵנִי אֱלֹהִים יַרְאֵנִי בְשֹׁרְרָי",
+  "text": "חַסְדִּי אֱלֹהֵי חסדו יְקַדְּמֵנִי אֱלֹהִים יַרְאֵנִי בְשֹׁרְרָי",
   "words": [
     {
       "position": 1,
-      "text": "חסדו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 78,
-        "ordinal": 33,
-        "reduced": 24
-      }
-    },
-    {
-      "position": 2,
       "text": "חַסְדִּי",
       "lemma": "2617 a",
       "morph": "HNcmsc/Sp1cs",
       "strongs": [
         "H2617"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 82,
         "ordinal": 37,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "אֱלֹהֵי",
       "lemma": "430",
       "morph": "HNcmpc",
@@ -41,6 +31,23 @@
         "standard": 46,
         "ordinal": 28,
         "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "חסדו",
+      "lemma": "2617 a",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2617"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 78,
+        "ordinal": 33,
+        "reduced": 24
       }
     },
     {

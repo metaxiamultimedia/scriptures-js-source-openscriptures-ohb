@@ -1,5 +1,5 @@
 {
-  "text": "הַנֶּפֶשׁ הַחֹטֵאת הִיא תָמוּת בֵּן לֹא יִשָּׂא בַּעֲוֺן הָאָב וְאָב לֹא יִשָּׂא בַּעֲוֺן הַבֵּן צִדְקַת הַצַּדִּיק עָלָיו תִּהְיֶה וְרִשְׁעַת עָלָיו תִּהְיֶה רשע הָרָשָׁע",
+  "text": "הַנֶּפֶשׁ הַחֹטֵאת הִיא תָמוּת בֵּן לֹא יִשָּׂא בַּעֲוֺן הָאָב וְאָב לֹא יִשָּׂא בַּעֲוֺן הַבֵּן צִדְקַת הַצַּדִּיק עָלָיו תִּהְיֶה וְרִשְׁעַת רשע עָלָיו תִּהְיֶה הָרָשָׁע",
   "words": [
     {
       "position": 1,
@@ -126,6 +126,9 @@
       "text": "הָאָב",
       "lemma": "d/1",
       "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 8,
@@ -138,6 +141,9 @@
       "text": "וְאָב",
       "lemma": "c/1",
       "morph": "HC/Ncmsa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 9,
@@ -282,6 +288,23 @@
     },
     {
       "position": 20,
+      "text": "רשע",
+      "lemma": "7563",
+      "morph": "HAamsa",
+      "strongs": [
+        "H7563"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 570,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 21,
       "text": "עָלָיו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -296,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "תִּהְיֶה",
       "lemma": "1961",
       "morph": "HVqi3fs",
@@ -311,18 +334,6 @@
       }
     },
     {
-      "position": 22,
-      "text": "רשע",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 570,
-        "ordinal": 57,
-        "reduced": 12
-      }
-    },
-    {
       "position": 23,
       "text": "הָרָשָׁע",
       "lemma": "d/7563",
@@ -330,7 +341,9 @@
       "strongs": [
         "H7563"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 575,
         "ordinal": 62,

@@ -1,5 +1,5 @@
 {
-  "text": "מֹשֵׁל בִּגְבוּרָתוֹ עוֹלָם עֵינָיו בַּגּוֹיִם תִּצְפֶּינָה הַסּוֹרְרִים אַל לָמוֹ סֶלָה ירימו יָרוּמוּ",
+  "text": "מֹשֵׁל בִּגְבוּרָתוֹ עוֹלָם עֵינָיו בַּגּוֹיִם תִּצְפֶּינָה הַסּוֹרְרִים אַל ירימו לָמוֹ סֶלָה יָרוּמוּ",
   "words": [
     {
       "position": 1,
@@ -123,10 +123,29 @@
     },
     {
       "position": 9,
+      "text": "ירימו",
+      "lemma": "7311 a",
+      "morph": "HVhj3mp",
+      "strongs": [
+        "H7311"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 266,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
       "text": "לָמוֹ",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 76,
         "ordinal": 31,
@@ -134,7 +153,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "סֶלָה",
       "lemma": "5542",
       "morph": "HTj",
@@ -149,18 +168,6 @@
       }
     },
     {
-      "position": 11,
-      "text": "ירימו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 266,
-        "ordinal": 59,
-        "reduced": 14
-      }
-    },
-    {
       "position": 12,
       "text": "יָרוּמוּ",
       "lemma": "7311 a",
@@ -168,7 +175,9 @@
       "strongs": [
         "H7311"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 262,
         "ordinal": 55,

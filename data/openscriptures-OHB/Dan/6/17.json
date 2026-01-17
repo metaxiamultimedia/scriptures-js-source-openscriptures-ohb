@@ -1,27 +1,17 @@
 {
-  "text": "אנתה אַנְתְּ בֵּאדַיִן מַלְכָּא אֲמַר וְהַיְתִיו לְדָנִיֵּאל וּרְמוֹ לְגֻבָּא דִּי אַרְיָוָתָא עָנֵה מַלְכָּא וְאָמַר לְדָנִיֵּאל אֱלָהָךְ דִּי פָּלַח לֵהּ בִּתְדִירָא הוּא יְשֵׁיזְבִנָּךְ",
+  "text": "אַנְתְּ בֵּאדַיִן מַלְכָּא אֲמַר וְהַיְתִיו לְדָנִיֵּאל וּרְמוֹ לְגֻבָּא דִּי אַרְיָוָתָא עָנֵה מַלְכָּא וְאָמַר לְדָנִיֵּאל אֱלָהָךְ דִּי אנתה פָּלַח לֵהּ בִּתְדִירָא הוּא יְשֵׁיזְבִנָּךְ",
   "words": [
     {
       "position": 1,
-      "text": "אנתה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 456,
-        "ordinal": 42,
-        "reduced": 15
-      }
-    },
-    {
-      "position": 2,
       "text": "אַנְתְּ",
       "lemma": "607",
       "morph": "APp2ms",
       "strongs": [
         "H607"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 451,
         "ordinal": 37,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "בֵּאדַיִן",
       "lemma": "b/116",
       "morph": "AR/D",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "מַלְכָּא",
       "lemma": "4430",
       "morph": "ANcmsd/Td",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "אֲמַר",
       "lemma": "560",
       "morph": "AVqp3ms",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "וְהַיְתִיו",
       "lemma": "c/858",
       "morph": "AC/Vhp3mp",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "לְדָנִיֵּאל",
       "lemma": "l/1841",
       "morph": "ATo/Np",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "וּרְמוֹ",
       "lemma": "c/7412",
       "morph": "AC/Vqp3mp",
@@ -119,7 +109,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "לְגֻבָּא",
       "lemma": "l/1358",
       "morph": "AR/Ncmsd/Td",
@@ -134,7 +124,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 9,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 10,
       "text": "אַרְיָוָתָא",
       "lemma": "744",
       "morph": "ANcmpd/Td",
@@ -164,7 +154,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 11,
       "text": "עָנֵה",
       "lemma": "6032",
       "morph": "AVqrmsa",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 12,
       "text": "מַלְכָּא",
       "lemma": "4430",
       "morph": "ANcmsd/Td",
@@ -194,7 +184,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 13,
       "text": "וְאָמַר",
       "lemma": "c/560",
       "morph": "AC/Vqrmsa",
@@ -209,7 +199,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 14,
       "text": "לְדָנִיֵּאל",
       "lemma": "l/1841",
       "morph": "AR/Np",
@@ -224,7 +214,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 15,
       "text": "אֱלָהָךְ",
       "lemma": "426",
       "morph": "ANcmsc/Sp2ms",
@@ -239,7 +229,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 16,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -251,6 +241,23 @@
         "standard": 14,
         "ordinal": 14,
         "reduced": 5
+      }
+    },
+    {
+      "position": 17,
+      "text": "אנתה",
+      "lemma": "607",
+      "morph": "APp2ms",
+      "strongs": [
+        "H607"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 456,
+        "ordinal": 42,
+        "reduced": 15
       }
     },
     {
@@ -273,7 +280,9 @@
       "text": "לֵהּ",
       "lemma": "l",
       "morph": "ATo/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 35,
         "ordinal": 17,

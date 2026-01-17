@@ -306,7 +306,9 @@
       "text": "לְהוֹן",
       "lemma": "l",
       "morph": "AR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 91,
         "ordinal": 37,
@@ -318,6 +320,9 @@
       "text": "וְאַבְנָא",
       "lemma": "c/69",
       "morph": "AC/Ncfsd/Td",
+      "strongs": [
+        "H69"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 60,

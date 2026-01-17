@@ -1,5 +1,5 @@
 {
-  "text": "וּבַקְבֻּקְיָה אֲחֵיהֶם לְנֶגְדָּם לְמִשְׁמָרוֹת וענו וְעֻנִּי",
+  "text": "וּבַקְבֻּקְיָה וענו אֲחֵיהֶם לְנֶגְדָּם לְמִשְׁמָרוֹת וְעֻנִּי",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "וענו",
+      "lemma": "c/6042",
+      "morph": "HC/Np",
+      "strongs": [
+        "H6042"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 132,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
       "text": "אֲחֵיהֶם",
       "lemma": "251",
       "morph": "HNcmpc/Sp3mp",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "לְנֶגְדָּם",
       "lemma": "l/5048",
       "morph": "HR/R/Sp3mp",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לְמִשְׁמָרוֹת",
       "lemma": "l/4931",
       "morph": "HR/Ncfpa",
@@ -62,18 +79,6 @@
       }
     },
     {
-      "position": 5,
-      "text": "וענו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 132,
-        "ordinal": 42,
-        "reduced": 24
-      }
-    },
-    {
       "position": 6,
       "text": "וְעֻנִּי",
       "lemma": "c/6042",
@@ -81,7 +86,9 @@
       "strongs": [
         "H6042"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 136,
         "ordinal": 46,

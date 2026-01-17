@@ -1,5 +1,5 @@
 {
-  "text": "יִכֶל בְּשָׂרוֹ מֵרֹאִי עַצְמוֹתָיו לֹא רֻאּוּ ושפי וְשֻׁפּוּ",
+  "text": "יִכֶל בְּשָׂרוֹ מֵרֹאִי ושפי עַצְמוֹתָיו לֹא רֻאּוּ וְשֻׁפּוּ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "ושפי",
+      "lemma": "c/8205",
+      "morph": "HC/Ncmsc",
+      "strongs": [
+        "H8205"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 396,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
       "text": "עַצְמוֹתָיו",
       "lemma": "6106",
       "morph": "HNcfpc/Sp3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "רֻאּוּ",
       "lemma": "7200",
       "morph": "HVQp3cp",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "ושפי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 396,
-        "ordinal": 54,
-        "reduced": 18
-      }
-    },
-    {
       "position": 8,
       "text": "וְשֻׁפּוּ",
       "lemma": "c/8192",
@@ -111,7 +116,9 @@
       "strongs": [
         "H8192"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 392,
         "ordinal": 50,

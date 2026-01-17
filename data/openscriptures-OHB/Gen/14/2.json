@@ -1,5 +1,5 @@
 {
-  "text": "עָשׂוּ מִלְחָמָה אֶת בֶּרַע מֶלֶךְ סְדֹם וְאֶת בִּרְשַׁע מֶלֶךְ עֲמֹרָה שִׁנְאָב מֶלֶךְ אַדְמָה וְשֶׁמְאֵבֶר מֶלֶךְ וּמֶלֶךְ בֶּלַע הִיא צֹעַר צביים צְבוֹיִים",
+  "text": "עָשׂוּ מִלְחָמָה אֶת בֶּרַע מֶלֶךְ סְדֹם וְאֶת בִּרְשַׁע מֶלֶךְ עֲמֹרָה שִׁנְאָב מֶלֶךְ אַדְמָה וְשֶׁמְאֵבֶר מֶלֶךְ צביים וּמֶלֶךְ בֶּלַע הִיא צֹעַר צְבוֹיִים",
   "words": [
     {
       "position": 1,
@@ -228,6 +228,23 @@
     },
     {
       "position": 16,
+      "text": "צביים",
+      "lemma": "6636",
+      "morph": "HNp",
+      "strongs": [
+        "H6636"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 152,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
       "text": "וּמֶלֶךְ",
       "lemma": "c/4428",
       "morph": "HC/Ncmsc",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בֶּלַע",
       "lemma": "1106 b",
       "morph": "HNp",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "הִיא",
       "lemma": "1931",
       "morph": "HPp3fs",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "צֹעַר",
       "lemma": "6820",
       "morph": "HNp",
@@ -287,18 +304,6 @@
       }
     },
     {
-      "position": 20,
-      "text": "צביים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 152,
-        "ordinal": 53,
-        "reduced": 17
-      }
-    },
-    {
       "position": 21,
       "text": "צְבוֹיִים",
       "lemma": "6636",
@@ -306,7 +311,9 @@
       "strongs": [
         "H6636"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 158,
         "ordinal": 59,

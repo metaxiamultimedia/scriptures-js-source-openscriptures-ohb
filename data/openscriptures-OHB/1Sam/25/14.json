@@ -6,6 +6,9 @@
       "text": "וְלַאֲבִיגַיִל",
       "lemma": "c/l/26",
       "morph": "HC/R/Np",
+      "strongs": [
+        "H26"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 92,
@@ -258,7 +261,9 @@
       "text": "בָּהֶם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 47,
         "ordinal": 20,

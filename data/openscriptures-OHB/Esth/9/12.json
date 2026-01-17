@@ -126,6 +126,9 @@
       "text": "וְאַבֵּד",
       "lemma": "c/6",
       "morph": "HC/Vpa",
+      "strongs": [
+        "H6"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 13,
@@ -363,7 +366,9 @@
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,

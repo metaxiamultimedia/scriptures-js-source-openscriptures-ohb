@@ -96,6 +96,9 @@
       "text": "בָּאַבְנֵט",
       "lemma": "b/73",
       "morph": "HRd/Ncmsa",
+      "strongs": [
+        "H73"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 64,
@@ -303,7 +306,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -315,7 +320,9 @@
       "text": "בּוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 8,
         "ordinal": 8,

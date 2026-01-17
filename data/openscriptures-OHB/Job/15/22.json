@@ -1,5 +1,5 @@
 {
-  "text": "לֹא יַאֲמִין שׁוּב מִנִּי חֹשֶׁךְ הוּא אֱלֵי חָרֶב וצפו וְצָפוּי",
+  "text": "לֹא יַאֲמִין שׁוּב מִנִּי חֹשֶׁךְ וצפו הוּא אֱלֵי חָרֶב וְצָפוּי",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "וצפו",
+      "lemma": "c/6822",
+      "morph": "HC/Vqsmsa",
+      "strongs": [
+        "H6822"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 182,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
       "text": "הוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֱלֵי",
       "lemma": "413",
       "morph": "HR",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "חָרֶב",
       "lemma": "2719",
       "morph": "HNcfsa",
@@ -122,18 +139,6 @@
       }
     },
     {
-      "position": 9,
-      "text": "וצפו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 182,
-        "ordinal": 47,
-        "reduced": 29
-      }
-    },
-    {
       "position": 10,
       "text": "וְצָפוּי",
       "lemma": "c/6822",
@@ -141,7 +146,9 @@
       "strongs": [
         "H6822"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 192,
         "ordinal": 57,

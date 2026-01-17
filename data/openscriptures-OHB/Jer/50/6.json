@@ -1,5 +1,5 @@
 {
-  "text": "צֹאן אֹבְדוֹת עַמִּי רֹעֵיהֶם הִתְעוּם הָרִים מֵהַר אֶל גִּבְעָה הָלָכוּ שָׁכְחוּ רִבְצָם היה הָיוּ שובבים שׁוֹבְבוּם",
+  "text": "צֹאן אֹבְדוֹת היה עַמִּי רֹעֵיהֶם הִתְעוּם הָרִים שובבים מֵהַר אֶל גִּבְעָה הָלָכוּ שָׁכְחוּ רִבְצָם הָיוּ שׁוֹבְבוּם",
   "words": [
     {
       "position": 1,
@@ -21,6 +21,9 @@
       "text": "אֹבְדוֹת",
       "lemma": "6",
       "morph": "HVqrfpa",
+      "strongs": [
+        "H6"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 413,
@@ -30,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "היה",
+      "lemma": "1961",
+      "morph": "HVqp3ms",
+      "strongs": [
+        "H1961"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
       "text": "עַמִּי",
       "lemma": "5971 a",
       "morph": "HNcmsc/Sp1cs",
@@ -44,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "רֹעֵיהֶם",
       "lemma": "7462 b",
       "morph": "HVqrmpc/Sp3mp",
@@ -59,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "הִתְעוּם",
       "lemma": "8582",
       "morph": "HVhp3cp/Sp3mp",
@@ -74,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הָרִים",
       "lemma": "2022",
       "morph": "HNcmpa",
@@ -89,7 +109,24 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
+      "text": "שובבים",
+      "lemma": "7726",
+      "morph": "HAampa",
+      "strongs": [
+        "H7726"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 360,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
       "text": "מֵהַר",
       "lemma": "m/2022",
       "morph": "HR/Ncmsa",
@@ -104,7 +141,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -119,7 +156,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "גִּבְעָה",
       "lemma": "1389",
       "morph": "HNcfsa",
@@ -134,7 +171,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "הָלָכוּ",
       "lemma": "1980",
       "morph": "HVqp3cp",
@@ -149,7 +186,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "שָׁכְחוּ",
       "lemma": "7911",
       "morph": "HVqp3cp",
@@ -164,7 +201,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "רִבְצָם",
       "lemma": "7258",
       "morph": "HNcmsc/Sp3mp",
@@ -179,42 +216,20 @@
       }
     },
     {
-      "position": 13,
-      "text": "היה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 20,
-        "ordinal": 20,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 14,
+      "position": 15,
       "text": "הָיוּ",
       "lemma": "1961",
       "morph": "HVqp3cp",
       "strongs": [
         "H1961"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 21,
         "ordinal": 21,
         "reduced": 12
-      }
-    },
-    {
-      "position": 15,
-      "text": "שובבים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 360,
-        "ordinal": 54,
-        "reduced": 18
       }
     },
     {
@@ -225,7 +240,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 356,
         "ordinal": 50,

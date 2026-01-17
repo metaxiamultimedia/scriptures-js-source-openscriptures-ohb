@@ -1,5 +1,5 @@
 {
-  "text": "וְעַתָּה כִּי אָמְנָם כִּי גֹאֵל אָנֹכִי וְגַם יֵשׁ גֹּאֵל קָרוֹב מִמֶּנִּי אם",
+  "text": "וְעַתָּה כִּי אָמְנָם כִּי אם גֹאֵל אָנֹכִי וְגַם יֵשׁ גֹּאֵל קָרוֹב מִמֶּנִּי",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "אם",
+      "lemma": "518 a",
+      "morph": "HC",
+      "strongs": [
+        "H518"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 6,
       "text": "גֹאֵל",
       "lemma": "1350 a",
       "morph": "HVqrmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אָנֹכִי",
       "lemma": "595",
       "morph": "HPp1cs",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְגַם",
       "lemma": "c/1571",
       "morph": "HC/Ta",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יֵשׁ",
       "lemma": "3426",
       "morph": "HTm",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "גֹּאֵל",
       "lemma": "1350 a",
       "morph": "HVqrmsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "קָרוֹב",
       "lemma": "7138",
       "morph": "HAamsa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מִמֶּנִּי",
       "lemma": "4480 a",
       "morph": "HR/Sp1cs",
@@ -164,18 +181,6 @@
         "standard": 140,
         "ordinal": 50,
         "reduced": 14
-      }
-    },
-    {
-      "position": 12,
-      "text": "אם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 41,
-        "ordinal": 14,
-        "reduced": 5
       }
     }
   ],

@@ -171,6 +171,9 @@
       "text": "אֲבוּהִי",
       "lemma": "2",
       "morph": "ANcmsc/Sp3ms",
+      "strongs": [
+        "H2"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 24,
@@ -258,7 +261,9 @@
       "text": "בְּהוֹן",
       "lemma": "b",
       "morph": "AR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 63,
         "ordinal": 27,

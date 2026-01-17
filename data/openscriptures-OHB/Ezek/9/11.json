@@ -1,5 +1,5 @@
 {
-  "text": "וְהִנֵּה הָאִישׁ לְבֻשׁ הַבַּדִּים אֲשֶׁר הַקֶּסֶת בְּמָתְנָיו מֵשִׁיב דָּבָר לֵאמֹר עָשִׂיתִי צִוִּיתָנִי כאשר",
+  "text": "וְהִנֵּה הָאִישׁ לְבֻשׁ הַבַּדִּים אֲשֶׁר הַקֶּסֶת בְּמָתְנָיו מֵשִׁיב דָּבָר לֵאמֹר עָשִׂיתִי כאשר צִוִּיתָנִי כְּכֹל אֲשֶׁר",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "כאשר",
+      "lemma": "k/834 d",
+      "morph": "HR/Tr",
+      "strongs": [
+        "H834"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 521,
+        "ordinal": 53,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
       "text": "צִוִּיתָנִי",
       "lemma": "6680",
       "morph": "HVpp2ms/Sp1cs",
@@ -182,21 +199,43 @@
       }
     },
     {
-      "position": 13,
-      "text": "כאשר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 14,
+      "text": "כְּכֹל",
+      "lemma": "k/3605",
+      "morph": "HR/Ncmsa",
+      "strongs": [
+        "H3605"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
-        "standard": 521,
-        "ordinal": 53,
-        "reduced": 8
+        "standard": 70,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "אֲשֶׁר",
+      "lemma": "834 a",
+      "morph": "HTr",
+      "strongs": [
+        "H834"
+      ],
+      "metadata": {
+        "isQere": true
+      },
+      "gematria": {
+        "standard": 501,
+        "ordinal": 42,
+        "reduced": 6
       }
     }
   ],
   "gematria": {
-    "standard": 5055,
-    "ordinal": 636,
-    "reduced": 177
+    "standard": 5626,
+    "ordinal": 712,
+    "reduced": 190
   }
 }

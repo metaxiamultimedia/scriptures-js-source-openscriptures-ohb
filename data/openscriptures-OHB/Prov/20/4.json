@@ -1,5 +1,5 @@
 {
-  "text": "מֵחֹרֶף עָצֵל לֹא יַחֲרֹשׁ בַּקָּצִיר וָאָיִן ישאל וְשָׁאַל",
+  "text": "מֵחֹרֶף עָצֵל לֹא יַחֲרֹשׁ ישאל בַּקָּצִיר וָאָיִן וְשָׁאַל",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "ישאל",
+      "lemma": "7592",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H7592"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 341,
+        "ordinal": 44,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
       "text": "בַּקָּצִיר",
       "lemma": "b/7105 a",
       "morph": "HRd/Ncmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וָאָיִן",
       "lemma": "c/369",
       "morph": "HC/Tn",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "ישאל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 341,
-        "ordinal": 44,
-        "reduced": 8
-      }
-    },
-    {
       "position": 8,
       "text": "וְשָׁאַל",
       "lemma": "c/7592",
@@ -111,7 +116,9 @@
       "strongs": [
         "H7592"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 337,
         "ordinal": 40,

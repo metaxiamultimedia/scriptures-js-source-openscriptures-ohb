@@ -81,7 +81,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -181,9 +183,14 @@
     {
       "position": 13,
       "text": "ברבבתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "b/7233",
+      "morph": "HR/Ncfpc/Sp3ms",
+      "strongs": [
+        "H7233"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 612,
         "ordinal": 54,
@@ -198,7 +205,9 @@
       "strongs": [
         "H7233"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 622,
         "ordinal": 64,

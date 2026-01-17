@@ -1,5 +1,5 @@
 {
-  "text": "מַה שֶּׁהָיָה כְּבָר נִקְרָא שְׁמוֹ וְנוֹדָע אֲשֶׁר הוּא אָדָם וְלֹא יוּכַל לָדִין עִם מִמֶּנּוּ שהתקיף שֶׁתַּקִּיף",
+  "text": "מַה שֶּׁהָיָה כְּבָר נִקְרָא שְׁמוֹ וְנוֹדָע אֲשֶׁר הוּא אָדָם וְלֹא יוּכַל לָדִין עִם שהתקיף מִמֶּנּוּ שֶׁתַּקִּיף",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "שהתקיף",
+      "lemma": "s/8630",
+      "morph": "HTr/Vhc",
+      "strongs": [
+        "H8630"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 895,
+        "ordinal": 94,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
       "text": "מִמֶּנּוּ",
       "lemma": "4480 a",
       "morph": "HR/Sp3ms",
@@ -212,18 +229,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "שהתקיף",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 895,
-        "ordinal": 94,
-        "reduced": 22
-      }
-    },
-    {
       "position": 16,
       "text": "שֶׁתַּקִּיף",
       "lemma": "s/8623",
@@ -231,7 +236,9 @@
       "strongs": [
         "H8623"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 890,
         "ordinal": 89,

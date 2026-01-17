@@ -1,27 +1,17 @@
 {
-  "text": "יד יְדֵי הפקדים הַמֻּפְקָדִים וְנָתְנוּ אֶת הַכֶּסֶף הַמְתֻכָּן עַל עֹשֵׂי הַמְּלָאכָה בֵּית יְהוָה וַיּוֹצִיאֻהוּ לְחָרָשֵׁי הָעֵץ וְלַבֹּנִים הָעֹשִׂים בֵּית יְהוָה",
+  "text": "יְדֵי הַמֻּפְקָדִים וְנָתְנוּ אֶת הַכֶּסֶף הַמְתֻכָּן עַל יד עֹשֵׂי הַמְּלָאכָה הפקדים בֵּית יְהוָה וַיּוֹצִיאֻהוּ לְחָרָשֵׁי הָעֵץ וְלַבֹּנִים הָעֹשִׂים בֵּית יְהוָה",
   "words": [
     {
       "position": 1,
-      "text": "יד",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 14,
-        "ordinal": 14,
-        "reduced": 5
-      }
-    },
-    {
-      "position": 2,
       "text": "יְדֵי",
       "lemma": "3027",
       "morph": "HNcbdc",
       "strongs": [
         "H3027"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 24,
         "ordinal": 24,
@@ -29,26 +19,16 @@
       }
     },
     {
-      "position": 3,
-      "text": "הפקדים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 239,
-        "ordinal": 68,
-        "reduced": 23
-      }
-    },
-    {
-      "position": 4,
+      "position": 2,
       "text": "הַמֻּפְקָדִים",
       "lemma": "d/6485 a",
       "morph": "HTd/VHsmpa",
       "strongs": [
         "H6485"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 279,
         "ordinal": 81,
@@ -56,7 +36,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 3,
       "text": "וְנָתְנוּ",
       "lemma": "c/5414",
       "morph": "HC/Vqp3cp",
@@ -71,7 +51,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 4,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -86,7 +66,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 5,
       "text": "הַכֶּסֶף",
       "lemma": "d/3701",
       "morph": "HTd/Ncmsa",
@@ -101,7 +81,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 6,
       "text": "הַמְתֻכָּן",
       "lemma": "d/8505",
       "morph": "HTd/VPsmsa",
@@ -116,7 +96,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 7,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -131,7 +111,24 @@
       }
     },
     {
-      "position": 10,
+      "position": 8,
+      "text": "יד",
+      "lemma": "3027",
+      "morph": "HNcbsc",
+      "strongs": [
+        "H3027"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 14,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 9,
       "text": "עֹשֵׂי",
       "lemma": "6213 a",
       "morph": "HVqrmpc",
@@ -146,7 +143,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 10,
       "text": "הַמְּלָאכָה",
       "lemma": "d/4399",
       "morph": "HTd/Ncfsa",
@@ -158,6 +155,23 @@
         "standard": 101,
         "ordinal": 47,
         "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "הפקדים",
+      "lemma": "d/6485 a",
+      "morph": "HTd/Vqsmpa",
+      "strongs": [
+        "H6485"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 239,
+        "ordinal": 68,
+        "reduced": 23
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "text": "וַאֲמַר לֵהּ מָאנַיָּא שֵׂא אֵזֶל אֲחֵת הִמּוֹ בְּהֵיכְלָא דִּי בִירוּשְׁלֶם וּבֵית אֱלָהָא יִתְבְּנֵא עַל אַתְרֵהּ אלה אֵל",
+  "text": "וַאֲמַר לֵהּ אלה מָאנַיָּא שֵׂא אֵזֶל אֲחֵת הִמּוֹ בְּהֵיכְלָא דִּי בִירוּשְׁלֶם וּבֵית אֱלָהָא יִתְבְּנֵא עַל אַתְרֵהּ אֵל",
   "words": [
     {
       "position": 1,
@@ -21,7 +21,9 @@
       "text": "לֵהּ",
       "lemma": "l",
       "morph": "AR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 35,
         "ordinal": 17,
@@ -30,6 +32,23 @@
     },
     {
       "position": 3,
+      "text": "אלה",
+      "lemma": "412",
+      "morph": "APdxcp",
+      "strongs": [
+        "H412"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
       "text": "מָאנַיָּא",
       "lemma": "3984",
       "morph": "ANcmpd/Td",
@@ -44,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "שֵׂא",
       "lemma": "5376",
       "morph": "AVqv2ms",
@@ -59,7 +78,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֵזֶל",
       "lemma": "236",
       "morph": "AVqv2ms",
@@ -74,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֲחֵת",
       "lemma": "5182",
       "morph": "AVav2ms",
@@ -89,7 +108,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הִמּוֹ",
       "lemma": "1994",
       "morph": "APp3mp",
@@ -104,7 +123,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְּהֵיכְלָא",
       "lemma": "b/1965",
       "morph": "AR/Ncmsd/Td",
@@ -119,7 +138,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -134,7 +153,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בִירוּשְׁלֶם",
       "lemma": "b/3390",
       "morph": "AR/Np",
@@ -149,7 +168,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וּבֵית",
       "lemma": "c/1005",
       "morph": "AC/Ncmsc",
@@ -164,7 +183,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֱלָהָא",
       "lemma": "426",
       "morph": "ANcmsd/Td",
@@ -179,7 +198,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יִתְבְּנֵא",
       "lemma": "1124",
       "morph": "AVui3ms",
@@ -194,7 +213,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עַל",
       "lemma": "5922",
       "morph": "AR",
@@ -209,7 +228,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אַתְרֵהּ",
       "lemma": "870",
       "morph": "ANcmsc/Sp3ms",
@@ -224,18 +243,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "אלה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
-      }
-    },
-    {
       "position": 17,
       "text": "אֵל",
       "lemma": "412",
@@ -243,7 +250,9 @@
       "strongs": [
         "H412"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 31,
         "ordinal": 13,

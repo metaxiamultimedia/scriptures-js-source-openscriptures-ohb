@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵי שָׁמֶר אֲחִי וַאֲרָם ורוהגה וְרָהְגָּה יחבה וְחֻבָּה",
+  "text": "וּבְנֵי שָׁמֶר אֲחִי ורוהגה יחבה וַאֲרָם וְרָהְגָּה וְחֻבָּה",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,40 @@
     },
     {
       "position": 4,
+      "text": "ורוהגה",
+      "lemma": "c/7303",
+      "morph": "HC/Np",
+      "strongs": [
+        "H7303"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 225,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "יחבה",
+      "lemma": "3160",
+      "morph": "HNp",
+      "strongs": [
+        "H3160"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
       "text": "וַאֲרָם",
       "lemma": "c/758",
       "morph": "HC/Np",
@@ -62,42 +96,20 @@
       }
     },
     {
-      "position": 5,
-      "text": "ורוהגה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 225,
-        "ordinal": 45,
-        "reduced": 27
-      }
-    },
-    {
-      "position": 6,
+      "position": 7,
       "text": "וְרָהְגָּה",
       "lemma": "c/7303",
       "morph": "HC/Np",
       "strongs": [
         "H7303"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 219,
         "ordinal": 39,
         "reduced": 21
-      }
-    },
-    {
-      "position": 7,
-      "text": "יחבה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 25,
-        "ordinal": 25,
-        "reduced": 16
       }
     },
     {
@@ -108,7 +120,9 @@
       "strongs": [
         "H3160"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 21,
         "ordinal": 21,

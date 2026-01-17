@@ -1,5 +1,5 @@
 {
-  "text": "פֶּרֶה לִמֻּד מִדְבָּר בְּאַוַּת שָׁאֲפָה רוּחַ תַּאֲנָתָהּ מִי יְשִׁיבֶנָּה כָּל מְבַקְשֶׁיהָ לֹא יִיעָפוּ בְּחָדְשָׁהּ יִמְצָאוּנְהָ נפשו נַפְשָׁהּ",
+  "text": "פֶּרֶה לִמֻּד מִדְבָּר בְּאַוַּת נפשו שָׁאֲפָה רוּחַ תַּאֲנָתָהּ מִי יְשִׁיבֶנָּה כָּל מְבַקְשֶׁיהָ לֹא יִיעָפוּ בְּחָדְשָׁהּ יִמְצָאוּנְהָ נַפְשָׁהּ",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "נפשו",
+      "lemma": "5315",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H5315"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 436,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
       "text": "שָׁאֲפָה",
       "lemma": "7602 a",
       "morph": "HVqp3fs",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "רוּחַ",
       "lemma": "7307",
       "morph": "HNcbsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תַּאֲנָתָהּ",
       "lemma": "8385 a",
       "morph": "HNcfsc/Sp3fs",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִי",
       "lemma": "4310",
       "morph": "HTi",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יְשִׁיבֶנָּה",
       "lemma": "7725",
       "morph": "HVhi3ms/Sp3fs",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מְבַקְשֶׁיהָ",
       "lemma": "1245",
       "morph": "HVprmpc/Sp3fs",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יִיעָפוּ",
       "lemma": "3286",
       "morph": "HVqi3mp",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּחָדְשָׁהּ",
       "lemma": "b/2320",
       "morph": "HR/Ncmsc/Sp3fs",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יִמְצָאוּנְהָ",
       "lemma": "4672",
       "morph": "HVqi3mp/Sp3fs",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "נפשו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 436,
-        "ordinal": 58,
-        "reduced": 22
-      }
-    },
-    {
       "position": 17,
       "text": "נַפְשָׁהּ",
       "lemma": "5315",
@@ -246,7 +251,9 @@
       "strongs": [
         "H5315"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 435,
         "ordinal": 57,

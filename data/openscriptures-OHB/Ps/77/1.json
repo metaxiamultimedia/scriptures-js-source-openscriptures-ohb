@@ -1,5 +1,5 @@
 {
-  "text": "לַמְנַצֵּחַ עַל לְאָסָף מִזְמוֹר ידיתון יְדוּתוּן",
+  "text": "לַמְנַצֵּחַ עַל ידיתון לְאָסָף מִזְמוֹר יְדוּתוּן",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "ידיתון",
+      "lemma": "3038",
+      "morph": "HNp",
+      "strongs": [
+        "H3038"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 480,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
       "text": "לְאָסָף",
       "lemma": "l/623",
       "morph": "HR/Np",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "מִזְמוֹר",
       "lemma": "4210",
       "morph": "HNcmsa",
@@ -62,18 +79,6 @@
       }
     },
     {
-      "position": 5,
-      "text": "ידיתון",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 480,
-        "ordinal": 66,
-        "reduced": 21
-      }
-    },
-    {
       "position": 6,
       "text": "יְדוּתוּן",
       "lemma": "3038",
@@ -81,7 +86,9 @@
       "strongs": [
         "H3038"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 476,
         "ordinal": 62,

@@ -1,12 +1,17 @@
 {
-  "text": "בצחחיים בַּצְּחִיחִים וָאַעֲמִיד מִתַּחְתִּיּוֹת לַמָּקוֹם מֵאַחֲרֵי לַחוֹמָה וָאַעֲמִיד אֶת הָעָם לְמִשְׁפָּחוֹת עִם חַרְבֹתֵיהֶם רָמְחֵיהֶם וְקַשְּׁתֹתֵיהֶם",
+  "text": "בַּצְּחִיחִים וָאַעֲמִיד מִתַּחְתִּיּוֹת לַמָּקוֹם מֵאַחֲרֵי לַחוֹמָה בצחחיים וָאַעֲמִיד אֶת הָעָם לְמִשְׁפָּחוֹת עִם חַרְבֹתֵיהֶם רָמְחֵיהֶם וְקַשְּׁתֹתֵיהֶם",
   "words": [
     {
       "position": 1,
-      "text": "בצחחיים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "text": "בַּצְּחִיחִים",
+      "lemma": "b/6706",
+      "morph": "HRd/Ncmpa",
+      "strongs": [
+        "H6706"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 168,
         "ordinal": 69,
@@ -15,21 +20,6 @@
     },
     {
       "position": 2,
-      "text": "בַּצְּחִיחִים",
-      "lemma": "b/6706",
-      "morph": "HRd/Ncmpa",
-      "strongs": [
-        "H6706"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 168,
-        "ordinal": 69,
-        "reduced": 33
-      }
-    },
-    {
-      "position": 3,
       "text": "וָאַעֲמִיד",
       "lemma": "c/5975",
       "morph": "HC/Vhw1cs",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "מִתַּחְתִּיּוֹת",
       "lemma": "m/8482",
       "morph": "HR/Aafpa",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "לַמָּקוֹם",
       "lemma": "l/4725",
       "morph": "HRd/Ncmsa",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "מֵאַחֲרֵי",
       "lemma": "m/310 a",
       "morph": "HR/R",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "לַחוֹמָה",
       "lemma": "l/2346",
       "morph": "HRd/Ncfsa",
@@ -101,6 +91,23 @@
         "standard": 89,
         "ordinal": 44,
         "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "בצחחיים",
+      "lemma": "b/6708",
+      "morph": "HRd/Ncmpa",
+      "strongs": [
+        "H6708"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 168,
+        "ordinal": 69,
+        "reduced": 33
       }
     },
     {

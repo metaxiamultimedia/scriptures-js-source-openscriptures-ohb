@@ -1,8 +1,25 @@
 {
-  "text": "שְׁתֵּים עֶשְׂרֵה אֹרֶךְ בִּשְׁתֵּים עֶשְׂרֵה רֹחַב רָבוּעַ אֶל אַרְבַּעַת רְבָעָיו והאראיל וְהָאֲרִיאֵל",
+  "text": "והאראיל שְׁתֵּים עֶשְׂרֵה אֹרֶךְ בִּשְׁתֵּים עֶשְׂרֵה רֹחַב רָבוּעַ אֶל אַרְבַּעַת רְבָעָיו וְהָאֲרִיאֵל",
   "words": [
     {
       "position": 1,
+      "text": "והאראיל",
+      "lemma": "c/d/741",
+      "morph": "HC/Td/Ncmsa",
+      "strongs": [
+        "H741"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 253,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
       "text": "שְׁתֵּים",
       "lemma": "8147",
       "morph": "HAcfda",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "עֶשְׂרֵה",
       "lemma": "6240",
       "morph": "HAcfsa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "אֹרֶךְ",
       "lemma": "753",
       "morph": "HNcmsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בִּשְׁתֵּים",
       "lemma": "b/8147",
       "morph": "HR/Acfda",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עֶשְׂרֵה",
       "lemma": "6240",
       "morph": "HAcfsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "רֹחַב",
       "lemma": "7341",
       "morph": "HNcmsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רָבוּעַ",
       "lemma": "7251",
       "morph": "HVqsmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אַרְבַּעַת",
       "lemma": "702",
       "morph": "HAcmsc",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "רְבָעָיו",
       "lemma": "7253",
       "morph": "HNcmpc/Sp3ms",
@@ -152,18 +169,6 @@
       }
     },
     {
-      "position": 11,
-      "text": "והאראיל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 253,
-        "ordinal": 55,
-        "reduced": 19
-      }
-    },
-    {
       "position": 12,
       "text": "וְהָאֲרִיאֵל",
       "lemma": "c/d/741",
@@ -171,7 +176,9 @@
       "strongs": [
         "H741"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 253,
         "ordinal": 55,

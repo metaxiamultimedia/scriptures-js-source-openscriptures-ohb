@@ -1,5 +1,5 @@
 {
-  "text": "מִפְּרִי פִי אִישׁ יִשְׂבַּע טוֹב וּגְמוּל יְדֵי אָדָם לוֹ ישוב יָשִׁיב",
+  "text": "מִפְּרִי פִי אִישׁ יִשְׂבַּע טוֹב וּגְמוּל יְדֵי אָדָם ישוב לוֹ יָשִׁיב",
   "words": [
     {
       "position": 1,
@@ -123,26 +123,33 @@
     },
     {
       "position": 9,
-      "text": "לוֹ",
-      "lemma": "l",
-      "morph": "HR/Sp3ms",
-      "metadata": {},
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
-      }
-    },
-    {
-      "position": 10,
       "text": "ישוב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "7725",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 318,
         "ordinal": 39,
         "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "לוֹ",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 18,
+        "reduced": 9
       }
     },
     {
@@ -153,7 +160,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 322,
         "ordinal": 43,

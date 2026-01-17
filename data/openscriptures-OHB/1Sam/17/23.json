@@ -1,5 +1,5 @@
 {
-  "text": "וְהוּא מְדַבֵּר עִמָּם וְהִנֵּה אִישׁ הַבֵּנַיִם עוֹלֶה גָּלְיָת הַפְּלִשְׁתִּי שְׁמוֹ מִגַּת פְּלִשְׁתִּים וַיְדַבֵּר כַּדְּבָרִים הָאֵלֶּה וַיִּשְׁמַע דָּוִד ממערות מִמַּעַרְכוֹת",
+  "text": "וְהוּא מְדַבֵּר עִמָּם וְהִנֵּה אִישׁ הַבֵּנַיִם עוֹלֶה גָּלְיָת הַפְּלִשְׁתִּי שְׁמוֹ מִגַּת ממערות פְּלִשְׁתִּים וַיְדַבֵּר כַּדְּבָרִים הָאֵלֶּה וַיִּשְׁמַע דָּוִד מִמַּעַרְכוֹת",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "ממערות",
+      "lemma": "m/4630",
+      "morph": "HR/Ncfpc",
+      "strongs": [
+        "H4630"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 756,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
       "text": "פְּלִשְׁתִּים",
       "lemma": "6430",
       "morph": "HNgmpa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וַיְדַבֵּר",
       "lemma": "c/1696",
       "morph": "HC/Vpw3ms",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כַּדְּבָרִים",
       "lemma": "k/1697",
       "morph": "HRd/Ncmpa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הָאֵלֶּה",
       "lemma": "d/428",
       "morph": "HTd/Pdxcp",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וַיִּשְׁמַע",
       "lemma": "c/8085",
       "morph": "HC/Vqw3ms",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "דָּוִד",
       "lemma": "1732",
       "morph": "HNp",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "ממערות",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 756,
-        "ordinal": 90,
-        "reduced": 27
-      }
-    },
-    {
       "position": 19,
       "text": "מִמַּעַרְכוֹת",
       "lemma": "m/4634",
@@ -276,7 +281,9 @@
       "strongs": [
         "H4634"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 776,
         "ordinal": 101,

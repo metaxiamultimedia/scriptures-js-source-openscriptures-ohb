@@ -1,5 +1,5 @@
 {
-  "text": "וְאָהֳלִיבָמָה יָלְדָה אֶת וְאֶת יַעְלָם וְאֶת קֹרַח אֵלֶּה בְּנֵי עֵשָׂו אֲשֶׁר יֻלְּדוּ לוֹ בְּאֶרֶץ כְּנָעַן יעיש יְעוּשׁ",
+  "text": "וְאָהֳלִיבָמָה יָלְדָה אֶת יעיש וְאֶת יַעְלָם וְאֶת קֹרַח אֵלֶּה בְּנֵי עֵשָׂו אֲשֶׁר יֻלְּדוּ לוֹ בְּאֶרֶץ כְּנָעַן יְעוּשׁ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "יעיש",
+      "lemma": "3274",
+      "morph": "HNp",
+      "strongs": [
+        "H3274"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 390,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יַעְלָם",
       "lemma": "3281",
       "morph": "HNp",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "קֹרַח",
       "lemma": "7141",
       "morph": "HNp",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֵלֶּה",
       "lemma": "428",
       "morph": "HPdxcp",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עֵשָׂו",
       "lemma": "6215",
       "morph": "HNp",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יֻלְּדוּ",
       "lemma": "3205",
       "morph": "HVPp3cp",
@@ -182,11 +199,13 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -194,7 +213,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּאֶרֶץ",
       "lemma": "b/776",
       "morph": "HR/Ncbsc",
@@ -209,7 +228,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "כְּנָעַן",
       "lemma": "3667 a",
       "morph": "HNp",
@@ -224,18 +243,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "יעיש",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 390,
-        "ordinal": 57,
-        "reduced": 12
-      }
-    },
-    {
       "position": 17,
       "text": "יְעוּשׁ",
       "lemma": "3266",
@@ -243,7 +250,9 @@
       "strongs": [
         "H3266"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 386,
         "ordinal": 53,

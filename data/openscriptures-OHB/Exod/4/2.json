@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר אֵלָיו יְהוָה בְיָדֶךָ וַיֹּאמֶר מַטֶּה מזה מַה זֶּה",
+  "text": "וַיֹּאמֶר אֵלָיו יְהוָה מזה בְיָדֶךָ וַיֹּאמֶר מַטֶּה מַה זֶּה",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "מזה",
+      "lemma": "m/2088",
+      "morph": "HTi/Pdxms",
+      "strongs": [
+        "H2088"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
       "text": "בְיָדֶךָ",
       "lemma": "b/3027",
       "morph": "HR/Ncbsc/Sp2ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וַיֹּאמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מַטֶּה",
       "lemma": "4294",
       "morph": "HNcmsa",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "מזה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 25,
-        "reduced": 16
-      }
-    },
-    {
       "position": 8,
       "text": "מַה",
       "lemma": "4100",
@@ -111,7 +116,9 @@
       "strongs": [
         "H4100"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 45,
         "ordinal": 18,
@@ -126,7 +133,9 @@
       "strongs": [
         "H2088"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 12,
         "ordinal": 12,

@@ -1,5 +1,5 @@
 {
-  "text": "וְאֵלֶּה הָיוּ בְּנֵי אָהֳלִיבָמָה בַת עֲנָה בַּת צִבְעוֹן אֵשֶׁת עֵשָׂו וַתֵּלֶד לְעֵשָׂו אֶת וְאֶת יַעְלָם וְאֶת קֹרַח יעיש יְעוּשׁ",
+  "text": "וְאֵלֶּה הָיוּ בְּנֵי אָהֳלִיבָמָה בַת עֲנָה בַּת צִבְעוֹן אֵשֶׁת עֵשָׂו וַתֵּלֶד לְעֵשָׂו אֶת יעיש וְאֶת יַעְלָם וְאֶת קֹרַח יְעוּשׁ",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "יעיש",
+      "lemma": "3274",
+      "morph": "HNp",
+      "strongs": [
+        "H3274"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 390,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יַעְלָם",
       "lemma": "3281",
       "morph": "HNp",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "קֹרַח",
       "lemma": "7141",
       "morph": "HNp",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "יעיש",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 390,
-        "ordinal": 57,
-        "reduced": 12
-      }
-    },
-    {
       "position": 19,
       "text": "יְעוּשׁ",
       "lemma": "3266",
@@ -276,7 +281,9 @@
       "strongs": [
         "H3266"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 386,
         "ordinal": 53,

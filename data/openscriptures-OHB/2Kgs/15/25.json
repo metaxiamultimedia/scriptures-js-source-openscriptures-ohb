@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּקְשֹׁר עָלָיו פֶּקַח בֶּן רְמַלְיָהוּ שָׁלִישׁוֹ וַיַּכֵּהוּ בְשֹׁמְרוֹן בְּאַרְמוֹן בֵּית אֶת אַרְגֹּב וְאֶת הָאַרְיֵה וְעִמּוֹ חֲמִשִּׁים אִישׁ מִבְּנֵי גִלְעָדִים וַיְמִיתֵהוּ וַיִּמְלֹךְ תַּחְתָּיו מלך הַמֶּלֶךְ",
+  "text": "וַיִּקְשֹׁר עָלָיו פֶּקַח בֶּן רְמַלְיָהוּ שָׁלִישׁוֹ וַיַּכֵּהוּ בְשֹׁמְרוֹן בְּאַרְמוֹן בֵּית מלך אֶת אַרְגֹּב וְאֶת הָאַרְיֵה וְעִמּוֹ חֲמִשִּׁים אִישׁ מִבְּנֵי גִלְעָדִים וַיְמִיתֵהוּ וַיִּמְלֹךְ תַּחְתָּיו הַמֶּלֶךְ",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "מלך",
+      "lemma": "4428",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H4428"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 90,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
       "text": "אֶת",
       "lemma": "854",
       "morph": "HR",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אַרְגֹּב",
       "lemma": "709",
       "morph": "HNp",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְאֶת",
       "lemma": "c/854",
       "morph": "HC/R",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הָאַרְיֵה",
       "lemma": "d/745",
       "morph": "HTd/Np",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְעִמּוֹ",
       "lemma": "c/5973 a",
       "morph": "HC/R/Sp3ms",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "חֲמִשִּׁים",
       "lemma": "2572",
       "morph": "HAcbpa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אִישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "מִבְּנֵי",
       "lemma": "m/1121 a",
       "morph": "HR/Ncmpc",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "גִלְעָדִים",
       "lemma": "1569",
       "morph": "HNgmpa",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וַיְמִיתֵהוּ",
       "lemma": "c/4191",
       "morph": "HC/Vhw3ms/Sp3ms",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "וַיִּמְלֹךְ",
       "lemma": "c/4427 a",
       "morph": "HC/Vqw3ms",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "תַּחְתָּיו",
       "lemma": "8478",
       "morph": "HR/Sp3ms",
@@ -332,18 +349,6 @@
       }
     },
     {
-      "position": 23,
-      "text": "מלך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 36,
-        "reduced": 9
-      }
-    },
-    {
       "position": 24,
       "text": "הַמֶּלֶךְ",
       "lemma": "d/4428",
@@ -351,7 +356,9 @@
       "strongs": [
         "H4428"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 95,
         "ordinal": 41,

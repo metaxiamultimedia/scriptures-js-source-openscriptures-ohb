@@ -1,5 +1,5 @@
 {
-  "text": "כֵּן אֲמַר חֵיוְתָא רְבִיעָיְתָא מַלְכוּ תֶּהֱוֵא בְאַרְעָא דִּי תִשְׁנֵא מִן כָּל מַלְכְוָתָא וְתֵאכֻל כָּל אַרְעָא וּתְדוּשִׁנַּהּ וְתַדְּקִנַּהּ רביעיא רְבִיעָאָה",
+  "text": "כֵּן אֲמַר חֵיוְתָא רְבִיעָיְתָא מַלְכוּ רביעיא תֶּהֱוֵא בְאַרְעָא דִּי תִשְׁנֵא מִן כָּל מַלְכְוָתָא וְתֵאכֻל כָּל אַרְעָא וּתְדוּשִׁנַּהּ וְתַדְּקִנַּהּ רְבִיעָאָה",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "רביעיא",
+      "lemma": "7244",
+      "morph": "AAomsd/Td",
+      "strongs": [
+        "H7244"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 293,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
       "text": "תֶּהֱוֵא",
       "lemma": "1934",
       "morph": "AVqi3fs",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בְאַרְעָא",
       "lemma": "b/772",
       "morph": "AR/Ncfsd/Td",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "ATr",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "תִשְׁנֵא",
       "lemma": "8133",
       "morph": "AVqi3fs",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "כָּל",
       "lemma": "3606",
       "morph": "AVqi3fs",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מַלְכְוָתָא",
       "lemma": "4437",
       "morph": "ANcfpd/Td",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְתֵאכֻל",
       "lemma": "c/399",
       "morph": "AC/Vqi3fs",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כָּל",
       "lemma": "3606",
       "morph": "ANcmsc",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אַרְעָא",
       "lemma": "772",
       "morph": "ANcfsd/Td",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וּתְדוּשִׁנַּהּ",
       "lemma": "c/1759",
       "morph": "AC/Vqi3fs/Sp3fs",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְתַדְּקִנַּהּ",
       "lemma": "c/1855",
       "morph": "AC/Vai3fs/Sp3fs",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "רביעיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 293,
-        "ordinal": 59,
-        "reduced": 14
-      }
-    },
-    {
       "position": 19,
       "text": "רְבִיעָאָה",
       "lemma": "7244",
@@ -276,7 +281,9 @@
       "strongs": [
         "H7244"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 288,
         "ordinal": 54,

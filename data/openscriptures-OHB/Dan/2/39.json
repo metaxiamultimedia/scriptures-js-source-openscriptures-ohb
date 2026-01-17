@@ -1,5 +1,5 @@
 {
-  "text": "וּבָתְרָךְ תְּקוּם מַלְכוּ אָחֳרִי מִנָּךְ וּמַלְכוּ אָחֳרִי דִּי נְחָשָׁא דִּי תִשְׁלַט בְּכָל אַרְעָא ארעא אֲרַע תליתיא תְלִיתָאָה",
+  "text": "וּבָתְרָךְ תְּקוּם מַלְכוּ אָחֳרִי ארעא מִנָּךְ וּמַלְכוּ תליתיא אָחֳרִי דִּי נְחָשָׁא דִּי תִשְׁלַט בְּכָל אַרְעָא אֲרַע תְלִיתָאָה",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "ארעא",
+      "lemma": "772",
+      "morph": "ANcfsc/Sd",
+      "strongs": [
+        "H772"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 272,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
       "text": "מִנָּךְ",
       "lemma": "4481",
       "morph": "AR/Sp2ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וּמַלְכוּ",
       "lemma": "c/4437",
       "morph": "AC/Ncfsa",
@@ -92,7 +109,24 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
+      "text": "תליתיא",
+      "lemma": "8523 b",
+      "morph": "AAobsd",
+      "strongs": [
+        "H8523"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 851,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
       "text": "אָחֳרִי",
       "lemma": "317",
       "morph": "AAafsa",
@@ -104,36 +138,6 @@
         "standard": 219,
         "ordinal": 39,
         "reduced": 12
-      }
-    },
-    {
-      "position": 8,
-      "text": "דִּי",
-      "lemma": "1768",
-      "morph": "ATr",
-      "strongs": [
-        "H1768"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 14,
-        "ordinal": 14,
-        "reduced": 5
-      }
-    },
-    {
-      "position": 9,
-      "text": "נְחָשָׁא",
-      "lemma": "5174",
-      "morph": "ANcmsd/Td",
-      "strongs": [
-        "H5174"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 359,
-        "ordinal": 44,
-        "reduced": 17
       }
     },
     {
@@ -153,6 +157,36 @@
     },
     {
       "position": 11,
+      "text": "נְחָשָׁא",
+      "lemma": "5174",
+      "morph": "ANcmsd/Td",
+      "strongs": [
+        "H5174"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 359,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "דִּי",
+      "lemma": "1768",
+      "morph": "ATr",
+      "strongs": [
+        "H1768"
+      ],
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 13,
       "text": "תִשְׁלַט",
       "lemma": "7981",
       "morph": "AVqi3fs",
@@ -167,7 +201,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "בְּכָל",
       "lemma": "b/3606",
       "morph": "AR/Ncmsc",
@@ -182,7 +216,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "אַרְעָא",
       "lemma": "772",
       "morph": "ANcfsd/Td",
@@ -197,42 +231,20 @@
       }
     },
     {
-      "position": 14,
-      "text": "ארעא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 272,
-        "ordinal": 38,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 15,
+      "position": 16,
       "text": "אֲרַע",
       "lemma": "772",
       "morph": "ANcfsd",
       "strongs": [
         "H772"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 271,
         "ordinal": 37,
         "reduced": 10
-      }
-    },
-    {
-      "position": 16,
-      "text": "תליתיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 851,
-        "ordinal": 77,
-        "reduced": 14
       }
     },
     {
@@ -243,7 +255,9 @@
       "strongs": [
         "H8523"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 846,
         "ordinal": 72,

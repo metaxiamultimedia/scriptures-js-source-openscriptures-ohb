@@ -1,5 +1,5 @@
 {
-  "text": "פֶּחָם לְגֶחָלִים וְעֵצִים לְאֵשׁ וְאִישׁ לְחַרְחַר רִיב מדונים מִדְיָנִים",
+  "text": "פֶּחָם לְגֶחָלִים וְעֵצִים לְאֵשׁ וְאִישׁ מדונים לְחַרְחַר רִיב מִדְיָנִים",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "מדונים",
+      "lemma": "4066",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H4066"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 150,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
       "text": "לְחַרְחַר",
       "lemma": "l/2787",
       "morph": "HR/Vlc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רִיב",
       "lemma": "7379",
       "morph": "HNcbsa",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "מדונים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 60,
-        "reduced": 24
-      }
-    },
-    {
       "position": 9,
       "text": "מִדְיָנִים",
       "lemma": "4079",
@@ -126,7 +131,9 @@
       "strongs": [
         "H4079"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 154,
         "ordinal": 64,

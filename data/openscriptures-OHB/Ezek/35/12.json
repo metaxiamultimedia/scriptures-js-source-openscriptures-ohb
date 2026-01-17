@@ -1,5 +1,5 @@
 {
-  "text": "וְיָדַעְתָּ כִּי אֲנִי יְהוָה שָׁמַעְתִּי אֶת כָּל נָאָצוֹתֶיךָ אֲשֶׁר אָמַרְתָּ עַל הָרֵי יִשְׂרָאֵל לֵאמֹר לָנוּ נִתְּנוּ לְאָכְלָה שממה שָׁמֵמוּ",
+  "text": "וְיָדַעְתָּ כִּי אֲנִי יְהוָה שָׁמַעְתִּי אֶת כָּל נָאָצוֹתֶיךָ אֲשֶׁר אָמַרְתָּ עַל הָרֵי יִשְׂרָאֵל לֵאמֹר שממה לָנוּ נִתְּנוּ לְאָכְלָה שָׁמֵמוּ",
   "words": [
     {
       "position": 1,
@@ -213,10 +213,29 @@
     },
     {
       "position": 15,
+      "text": "שממה",
+      "lemma": "8074",
+      "morph": "HVqp3fs",
+      "strongs": [
+        "H8074"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 385,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
       "text": "לָנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 86,
         "ordinal": 32,
@@ -224,7 +243,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "נִתְּנוּ",
       "lemma": "5414",
       "morph": "HVNp3cp",
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לְאָכְלָה",
       "lemma": "l/402",
       "morph": "HR/Ncfsa",
@@ -254,18 +273,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "שממה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 385,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
       "position": 19,
       "text": "שָׁמֵמוּ",
       "lemma": "8074",
@@ -273,7 +280,9 @@
       "strongs": [
         "H8074"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 386,
         "ordinal": 53,

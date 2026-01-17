@@ -1,27 +1,17 @@
 {
-  "text": "ואת וְאַתָּה וְנַפְשִׁי נִבְהֲלָה מְאֹד יְהוָה עַד מָתָי",
+  "text": "וְאַתָּה וְנַפְשִׁי נִבְהֲלָה מְאֹד ואת יְהוָה עַד מָתָי",
   "words": [
     {
       "position": 1,
-      "text": "ואת",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 407,
-        "ordinal": 29,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 2,
       "text": "וְאַתָּה",
       "lemma": "c/859 c",
       "morph": "HC/Pp2ms",
       "strongs": [
         "H859"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 412,
         "ordinal": 34,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "וְנַפְשִׁי",
       "lemma": "c/5315",
       "morph": "HC/Ncbsc/Sp1cs",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "נִבְהֲלָה",
       "lemma": "926",
       "morph": "HVNp3fs",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "מְאֹד",
       "lemma": "3966",
       "morph": "HD",
@@ -71,6 +61,23 @@
         "standard": 45,
         "ordinal": 18,
         "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ואת",
+      "lemma": "c/859 c",
+      "morph": "HC/Pp2ms",
+      "strongs": [
+        "H859"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 407,
+        "ordinal": 29,
+        "reduced": 11
       }
     },
     {

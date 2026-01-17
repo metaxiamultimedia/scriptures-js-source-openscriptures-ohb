@@ -1,5 +1,5 @@
 {
-  "text": "קִדַּמְתִּי בַנֶּשֶׁף וָאֲשַׁוֵּעָה יִחָלְתִּי לדבריך לִדְבָרְךָ",
+  "text": "קִדַּמְתִּי בַנֶּשֶׁף וָאֲשַׁוֵּעָה לדבריך יִחָלְתִּי לִדְבָרְךָ",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "לדבריך",
+      "lemma": "l/1697",
+      "morph": "HR/Ncmpc/Sp2ms",
+      "strongs": [
+        "H1697"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 266,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
       "text": "יִחָלְתִּי",
       "lemma": "3176",
       "morph": "HVpp1cs",
@@ -62,18 +79,6 @@
       }
     },
     {
-      "position": 5,
-      "text": "לדבריך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 266,
-        "ordinal": 59,
-        "reduced": 14
-      }
-    },
-    {
       "position": 6,
       "text": "לִדְבָרְךָ",
       "lemma": "l/1697",
@@ -81,7 +86,9 @@
       "strongs": [
         "H1697"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 256,
         "ordinal": 49,

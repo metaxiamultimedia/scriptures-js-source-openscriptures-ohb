@@ -1,5 +1,5 @@
 {
-  "text": "בָּעֵת הַהִיא הֵשִׁיב רְצִין מֶלֶךְ אֲרָם אֶת אֵילַת לַאֲרָם וַיְנַשֵּׁל אֶת הַיְהוּדִים מֵאֵילוֹת בָּאוּ אֵילַת וַיֵּשְׁבוּ שָׁם עַד הַיּוֹם הַזֶּה וארמים וַאֲדוֹמִים",
+  "text": "בָּעֵת הַהִיא הֵשִׁיב רְצִין מֶלֶךְ אֲרָם אֶת אֵילַת לַאֲרָם וַיְנַשֵּׁל אֶת הַיְהוּדִים מֵאֵילוֹת וארמים בָּאוּ אֵילַת וַיֵּשְׁבוּ שָׁם עַד הַיּוֹם הַזֶּה וַאֲדוֹמִים",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "וארמים",
+      "lemma": "c/726",
+      "morph": "HC/Ngmpa",
+      "strongs": [
+        "H726"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 297,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
       "text": "בָּאוּ",
       "lemma": "935",
       "morph": "HVqp3cp",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֵילַת",
       "lemma": "359 a",
       "morph": "HNp",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וַיֵּשְׁבוּ",
       "lemma": "c/3427",
       "morph": "HC/Vqw3mp",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "שָׁם",
       "lemma": "8033",
       "morph": "HD",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הַיּוֹם",
       "lemma": "d/3117",
       "morph": "HTd/Ncmsa",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "הַזֶּה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -302,18 +319,6 @@
       }
     },
     {
-      "position": 21,
-      "text": "וארמים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 297,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
       "position": 22,
       "text": "וַאֲדוֹמִים",
       "lemma": "c/130",
@@ -321,7 +326,9 @@
       "strongs": [
         "H130"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 107,
         "ordinal": 53,

@@ -1,5 +1,5 @@
 {
-  "text": "וְאֵלֶּה מִדּוֹתֶיהָ פְּאַת צָפוֹן חֲמֵשׁ מֵאוֹת וְאַרְבַּעַת אֲלָפִים וּפְאַת נֶגֶב חֲמֵשׁ מֵאוֹת וְאַרְבַּעַת אֲלָפִים וּמִפְּאַת קָדִים חֲמֵשׁ מֵאוֹת וְאַרְבַּעַת אֲלָפִים וּפְאַת יָמָּה חֲמֵשׁ מֵאוֹת וְאַרְבַּעַת אֲלָפִים חמש",
+  "text": "וְאֵלֶּה מִדּוֹתֶיהָ פְּאַת צָפוֹן חֲמֵשׁ מֵאוֹת וְאַרְבַּעַת אֲלָפִים וּפְאַת נֶגֶב חֲמֵשׁ חמש מֵאוֹת וְאַרְבַּעַת אֲלָפִים וּמִפְּאַת קָדִים חֲמֵשׁ מֵאוֹת וְאַרְבַּעַת אֲלָפִים וּפְאַת יָמָּה חֲמֵשׁ מֵאוֹת וְאַרְבַּעַת אֲלָפִים",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "חמש",
+      "lemma": "2568",
+      "morph": "HAcfsa",
+      "strongs": [
+        "H2568"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 348,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
       "text": "מֵאוֹת",
       "lemma": "3967",
       "morph": "HAcbpa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְאַרְבַּעַת",
       "lemma": "c/702",
       "morph": "HC/Acmsc",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֲלָפִים",
       "lemma": "505",
       "morph": "HAcbpa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וּמִפְּאַת",
       "lemma": "c/m/6285",
       "morph": "HC/R/Ncfsc",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "קָדִים",
       "lemma": "6921",
       "morph": "HNcmsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "חֲמֵשׁ",
       "lemma": "2568",
       "morph": "HAcfsa",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "מֵאוֹת",
       "lemma": "3967",
       "morph": "HAcbpa",
@@ -272,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וְאַרְבַּעַת",
       "lemma": "c/702",
       "morph": "HC/Acmsc",
@@ -287,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אֲלָפִים",
       "lemma": "505",
       "morph": "HAcbpa",
@@ -302,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "וּפְאַת",
       "lemma": "c/6285",
       "morph": "HC/Ncfsc",
@@ -317,7 +334,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "יָמָּה",
       "lemma": "3220",
       "morph": "HNcmsa/Sd",
@@ -332,7 +349,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "חֲמֵשׁ",
       "lemma": "2568",
       "morph": "HAcfsa",
@@ -347,7 +364,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "מֵאוֹת",
       "lemma": "3967",
       "morph": "HAcbpa",
@@ -362,7 +379,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "וְאַרְבַּעַת",
       "lemma": "c/702",
       "morph": "HC/Acmsc",
@@ -377,7 +394,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "אֲלָפִים",
       "lemma": "505",
       "morph": "HAcbpa",
@@ -389,18 +406,6 @@
         "standard": 161,
         "ordinal": 53,
         "reduced": 17
-      }
-    },
-    {
-      "position": 27,
-      "text": "חמש",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 348,
-        "ordinal": 42,
-        "reduced": 15
       }
     }
   ],

@@ -1,27 +1,17 @@
 {
-  "text": "הושר הַיְשַׁר יְהוָה נְחֵנִי בְצִדְקָתֶךָ לְמַעַן שׁוֹרְרָי לְפָנַי דַּרְכֶּךָ",
+  "text": "הַיְשַׁר יְהוָה נְחֵנִי בְצִדְקָתֶךָ לְמַעַן שׁוֹרְרָי הושר לְפָנַי דַּרְכֶּךָ",
   "words": [
     {
       "position": 1,
-      "text": "הושר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 511,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
-      "position": 2,
       "text": "הַיְשַׁר",
       "lemma": "3474",
       "morph": "HVhv2ms",
       "strongs": [
         "H3474"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 515,
         "ordinal": 56,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "נְחֵנִי",
       "lemma": "5148",
       "morph": "HVqv2ms/Sp1cs",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "בְצִדְקָתֶךָ",
       "lemma": "b/6666",
       "morph": "HR/Ncfsc/Sp2ms",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "לְמַעַן",
       "lemma": "4616",
       "morph": "HR",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "שׁוֹרְרָי",
       "lemma": "8324",
       "morph": "HNcmpc/Sp1cs",
@@ -101,6 +91,23 @@
         "standard": 716,
         "ordinal": 77,
         "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "הושר",
+      "lemma": "3474",
+      "morph": "HVhv2ms",
+      "strongs": [
+        "H3474"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 511,
+        "ordinal": 52,
+        "reduced": 16
       }
     },
     {

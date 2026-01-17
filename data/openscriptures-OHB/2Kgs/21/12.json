@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵן כֹּה אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל הִנְנִי מֵבִיא רָעָה עַל יְרוּשָׁלִַם וִיהוּדָה אֲשֶׁר כָּל תִּצַּלְנָה שְׁתֵּי אָזְנָיו שמעיו שֹׁמְעָהּ",
+  "text": "לָכֵן כֹּה אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל הִנְנִי מֵבִיא רָעָה עַל יְרוּשָׁלִַם וִיהוּדָה אֲשֶׁר כָּל שמעיו תִּצַּלְנָה שְׁתֵּי אָזְנָיו שֹׁמְעָהּ",
   "words": [
     {
       "position": 1,
@@ -213,6 +213,23 @@
     },
     {
       "position": 15,
+      "text": "שמעיו",
+      "lemma": "8085",
+      "morph": "HVqrmpc/Sp3ms",
+      "strongs": [
+        "H8085"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 426,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
       "text": "תִּצַּלְנָה",
       "lemma": "6750",
       "morph": "HVqi3fp",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "שְׁתֵּי",
       "lemma": "8147",
       "morph": "HAcfdc",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אָזְנָיו",
       "lemma": "241",
       "morph": "HNcfdc/Sp3ms",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "שמעיו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 426,
-        "ordinal": 66,
-        "reduced": 21
-      }
-    },
-    {
       "position": 19,
       "text": "שֹׁמְעָהּ",
       "lemma": "8085",
@@ -276,7 +281,9 @@
       "strongs": [
         "H8085"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 415,
         "ordinal": 55,

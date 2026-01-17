@@ -1,5 +1,5 @@
 {
-  "text": "וּשְׁאֵרִיתוֹ לְאֵל עָשָׂה לְפִסְלוֹ לוֹ וְיִשְׁתַּחוּ וְיִתְפַּלֵּל אֵלָיו וְיֹאמַר הַצִּילֵנִי כִּי אֵלִי אָתָּה יסגוד יִסְגָּד",
+  "text": "וּשְׁאֵרִיתוֹ לְאֵל עָשָׂה לְפִסְלוֹ יסגוד לוֹ וְיִשְׁתַּחוּ וְיִתְפַּלֵּל אֵלָיו וְיֹאמַר הַצִּילֵנִי כִּי אֵלִי אָתָּה יִסְגָּד",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "יסגוד",
+      "lemma": "5456",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H5456"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 83,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
       "text": "לוֹ",
       "lemma": "l/5456",
       "morph": "HR/Sp3ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְיִשְׁתַּחוּ",
       "lemma": "c/7812",
       "morph": "HC/Vvi3ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְיִתְפַּלֵּל",
       "lemma": "c/6419",
       "morph": "HC/Vti3ms",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֵלָיו",
       "lemma": "413",
       "morph": "HR/Sp3ms",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְיֹאמַר",
       "lemma": "c/559",
       "morph": "HC/Vqi3ms",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הַצִּילֵנִי",
       "lemma": "5337",
       "morph": "HVhv2ms/Sp1cs",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֵלִי",
       "lemma": "410",
       "morph": "HNcmsc/Sp1cs",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אָתָּה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "יסגוד",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 83,
-        "ordinal": 38,
-        "reduced": 20
-      }
-    },
-    {
       "position": 15,
       "text": "יִסְגָּד",
       "lemma": "5456",
@@ -216,7 +221,9 @@
       "strongs": [
         "H5456"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 77,
         "ordinal": 32,

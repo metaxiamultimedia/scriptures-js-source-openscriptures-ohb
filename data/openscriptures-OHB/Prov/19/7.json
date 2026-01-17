@@ -1,5 +1,5 @@
 {
-  "text": "כָּל אֲחֵי רָשׁ שְׂנֵאֻהוּ אַף כִּי מְרֵעֵהוּ רָחֲקוּ מִמֶּנּוּ מְרַדֵּף אֲמָרִים הֵמָּה לא לוֹ",
+  "text": "כָּל אֲחֵי רָשׁ שְׂנֵאֻהוּ אַף כִּי מְרֵעֵהוּ רָחֲקוּ מִמֶּנּוּ מְרַדֵּף אֲמָרִים לא הֵמָּה לוֹ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
       "text": "הֵמָּה",
       "lemma": "1992",
       "morph": "HPp3mp",
@@ -182,23 +199,14 @@
       }
     },
     {
-      "position": 13,
-      "text": "לא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
       "position": 14,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isQere": true,
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

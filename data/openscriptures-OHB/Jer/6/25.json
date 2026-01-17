@@ -1,5 +1,5 @@
 {
-  "text": "אַל הַשָּׂדֶה וּבַדֶּרֶךְ אַל כִּי חֶרֶב לְאֹיֵב מָגוֹר מִסָּבִיב תצאי תֵּצְאוּ תלכי תֵּלֵכוּ",
+  "text": "אַל תצאי הַשָּׂדֶה וּבַדֶּרֶךְ אַל תלכי כִּי חֶרֶב לְאֹיֵב מָגוֹר מִסָּבִיב תֵּצְאוּ תֵּלֵכוּ",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "תצאי",
+      "lemma": "3318",
+      "morph": "HVqj2fs",
+      "strongs": [
+        "H3318"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 501,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
       "text": "הַשָּׂדֶה",
       "lemma": "d/7704 b",
       "morph": "HTd/Ncmsa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וּבַדֶּרֶךְ",
       "lemma": "c/b/1870",
       "morph": "HC/Rd/Ncbsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אַל",
       "lemma": "408",
       "morph": "HTn",
@@ -62,7 +79,24 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
+      "text": "תלכי",
+      "lemma": "3212",
+      "morph": "HVqj2fs",
+      "strongs": [
+        "H3212"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 460,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -77,7 +111,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "חֶרֶב",
       "lemma": "2719",
       "morph": "HNcfsa",
@@ -92,7 +126,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "לְאֹיֵב",
       "lemma": "l/341",
       "morph": "HR/Vqrmsa",
@@ -107,7 +141,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "מָגוֹר",
       "lemma": "4032",
       "morph": "HNcmsa",
@@ -122,7 +156,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "מִסָּבִיב",
       "lemma": "m/5439",
       "morph": "HR/Ncbsa",
@@ -137,42 +171,20 @@
       }
     },
     {
-      "position": 10,
-      "text": "תצאי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 51,
-        "reduced": 15
-      }
-    },
-    {
-      "position": 11,
+      "position": 12,
       "text": "תֵּצְאוּ",
       "lemma": "3318",
       "morph": "HVqj2mp",
       "strongs": [
         "H3318"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 497,
         "ordinal": 47,
         "reduced": 20
-      }
-    },
-    {
-      "position": 12,
-      "text": "תלכי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 460,
-        "ordinal": 55,
-        "reduced": 10
       }
     },
     {
@@ -183,7 +195,9 @@
       "strongs": [
         "H1980"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 456,
         "ordinal": 51,

@@ -1,5 +1,5 @@
 {
-  "text": "וַתֵּלֶךְ תָּמָר בֵּית אַמְנוֹן אָחִיהָ וְהוּא שֹׁכֵב וַתִּקַּח אֶת הַבָּצֵק וַתְּלַבֵּב לְעֵינָיו וַתְּבַשֵּׁל אֶת הַלְּבִבוֹת ותלוש וַתָּלָשׁ",
+  "text": "וַתֵּלֶךְ תָּמָר בֵּית אַמְנוֹן אָחִיהָ וְהוּא שֹׁכֵב וַתִּקַּח אֶת הַבָּצֵק ותלוש וַתְּלַבֵּב לְעֵינָיו וַתְּבַשֵּׁל אֶת הַלְּבִבוֹת וַתָּלָשׁ",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "ותלוש",
+      "lemma": "c/3888",
+      "morph": "HC/Vqw3fs",
+      "strongs": [
+        "H3888"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 742,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
       "text": "וַתְּלַבֵּב",
       "lemma": "c/3823 b",
       "morph": "HC/Vpw3fs",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לְעֵינָיו",
       "lemma": "l/5869 a",
       "morph": "HR/Ncbdc/Sp3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וַתְּבַשֵּׁל",
       "lemma": "c/1310",
       "morph": "HC/Vpw3fs",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַלְּבִבוֹת",
       "lemma": "d/3834",
       "morph": "HTd/Ncfpa",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "ותלוש",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 742,
-        "ordinal": 67,
-        "reduced": 22
-      }
-    },
-    {
       "position": 17,
       "text": "וַתָּלָשׁ",
       "lemma": "c/3888",
@@ -246,7 +251,9 @@
       "strongs": [
         "H3888"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 736,
         "ordinal": 61,

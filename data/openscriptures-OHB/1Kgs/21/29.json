@@ -1,5 +1,5 @@
 {
-  "text": "הֲרָאִיתָ כִּי נִכְנַע אַחְאָב מִלְּפָנָי יַעַן כִּי נִכְנַע מִפָּנַי לֹא הָרָעָה בְּיָמָיו בִּימֵי בְנוֹ אָבִיא הָרָעָה עַל בֵּיתוֹ אבי אָבִיא",
+  "text": "הֲרָאִיתָ כִּי נִכְנַע אַחְאָב מִלְּפָנָי יַעַן כִּי נִכְנַע מִפָּנַי לֹא אבי הָרָעָה בְּיָמָיו בִּימֵי בְנוֹ אָבִיא הָרָעָה עַל בֵּיתוֹ אָבִיא",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "אבי",
+      "lemma": "935",
+      "morph": "HVhi1cs",
+      "strongs": [
+        "H935"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
       "text": "הָרָעָה",
       "lemma": "d/7451 c",
       "morph": "HTd/Ncfsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בְּיָמָיו",
       "lemma": "b/3117",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בִּימֵי",
       "lemma": "b/3117",
       "morph": "HR/Ncmpc",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְנוֹ",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp3ms",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אָבִיא",
       "lemma": "935",
       "morph": "HVhi1cs",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הָרָעָה",
       "lemma": "d/7451 c",
       "morph": "HTd/Ncfsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -257,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בֵּיתוֹ",
       "lemma": "1004 b",
       "morph": "HNcmsc/Sp3ms",
@@ -272,18 +289,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "אבי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 13,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
       "position": 20,
       "text": "אָבִיא",
       "lemma": "935",
@@ -291,7 +296,9 @@
       "strongs": [
         "H935"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 14,
         "ordinal": 14,

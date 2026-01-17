@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמֶר לִי מִי אָתָּה אֵלָיו עֲמָלֵקִי אָנֹכִי ויאמר וָאֹמַר",
+  "text": "וַיֹּאמֶר לִי מִי אָתָּה ויאמר אֵלָיו עֲמָלֵקִי אָנֹכִי וָאֹמַר",
   "words": [
     {
       "position": 1,
@@ -21,7 +21,9 @@
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -60,6 +62,23 @@
     },
     {
       "position": 5,
+      "text": "ויאמר",
+      "lemma": "c/559",
+      "morph": "HC/Vqw3ms",
+      "strongs": [
+        "H559"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 257,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
       "text": "אֵלָיו",
       "lemma": "413",
       "morph": "HR/Sp3ms",
@@ -74,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עֲמָלֵקִי",
       "lemma": "6003",
       "morph": "HNgmsa",
@@ -89,7 +108,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אָנֹכִי",
       "lemma": "595",
       "morph": "HPp1cs",
@@ -104,18 +123,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "ויאמר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 257,
-        "ordinal": 50,
-        "reduced": 14
-      }
-    },
-    {
       "position": 9,
       "text": "וָאֹמַר",
       "lemma": "c/559",
@@ -123,7 +130,9 @@
       "strongs": [
         "H559"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 247,
         "ordinal": 40,

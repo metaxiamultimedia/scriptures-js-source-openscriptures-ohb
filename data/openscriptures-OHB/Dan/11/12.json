@@ -1,5 +1,5 @@
 {
-  "text": "וְנִשָּׂא הֶהָמוֹן לְבָבוֹ וְהִפִּיל רִבֹּאוֹת וְלֹא יָעוֹז ירום וְרָם",
+  "text": "וְנִשָּׂא הֶהָמוֹן ירום לְבָבוֹ וְהִפִּיל רִבֹּאוֹת וְלֹא יָעוֹז וְרָם",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "ירום",
+      "lemma": "7311 a",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H7311"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 256,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
       "text": "לְבָבוֹ",
       "lemma": "3824",
       "morph": "HNcmsc/Sp3ms",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְהִפִּיל",
       "lemma": "c/5307",
       "morph": "HC/Vhp3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רִבֹּאוֹת",
       "lemma": "7239",
       "morph": "HNcbpa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יָעוֹז",
       "lemma": "5810",
       "morph": "HVqi3ms",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "ירום",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 256,
-        "ordinal": 49,
-        "reduced": 13
-      }
-    },
-    {
       "position": 9,
       "text": "וְרָם",
       "lemma": "c/7311 a",
@@ -126,7 +131,9 @@
       "strongs": [
         "H7311"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 246,
         "ordinal": 39,

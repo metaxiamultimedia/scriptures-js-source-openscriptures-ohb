@@ -156,6 +156,9 @@
       "text": "אֹבִידָה",
       "lemma": "6",
       "morph": "HVhh1cs",
+      "strongs": [
+        "H6"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 22,
@@ -198,7 +201,9 @@
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,

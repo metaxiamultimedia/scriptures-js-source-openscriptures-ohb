@@ -6,6 +6,9 @@
       "text": "לְאָבִיו",
       "lemma": "l/1",
       "morph": "HR/Ncmsc/Sp3ms",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 49,
@@ -93,7 +96,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,

@@ -1,5 +1,5 @@
 {
-  "text": "אַשֻּׁרֵינוּ עַתָּה עֵינֵיהֶם יָשִׁיתוּ לִנְטוֹת בָּאָרֶץ סבבוני סְבָבוּנוּ",
+  "text": "אַשֻּׁרֵינוּ עַתָּה סבבוני עֵינֵיהֶם יָשִׁיתוּ לִנְטוֹת בָּאָרֶץ סְבָבוּנוּ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "סבבוני",
+      "lemma": "5437",
+      "morph": "HVqp3cp/Sp1cs",
+      "strongs": [
+        "H5437"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 130,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
       "text": "עֵינֵיהֶם",
       "lemma": "5869 a",
       "morph": "HNcbdc/Sp3mp",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יָשִׁיתוּ",
       "lemma": "7896",
       "morph": "HVqi3mp",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לִנְטוֹת",
       "lemma": "l/5186",
       "morph": "HR/Vqc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בָּאָרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "סבבוני",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 130,
-        "ordinal": 49,
-        "reduced": 22
-      }
-    },
-    {
       "position": 8,
       "text": "סְבָבוּנוּ",
       "lemma": "5437",
@@ -111,7 +116,9 @@
       "strongs": [
         "H5437"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 126,
         "ordinal": 45,

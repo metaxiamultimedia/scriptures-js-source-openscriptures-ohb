@@ -51,7 +51,9 @@
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -91,9 +93,14 @@
     {
       "position": 7,
       "text": "תרצנה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "7521",
+      "morph": "HVqj3fp",
+      "strongs": [
+        "H7521"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 745,
         "ordinal": 79,
@@ -108,7 +115,9 @@
       "strongs": [
         "H5341"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 745,
         "ordinal": 79,

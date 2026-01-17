@@ -96,6 +96,9 @@
       "text": "הָאֶבֶן",
       "lemma": "d/68",
       "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H68"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 58,
@@ -138,7 +141,9 @@
       "text": "בָּנוּ",
       "lemma": "b",
       "morph": "HR/Sp1cp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 58,
         "ordinal": 22,
@@ -330,7 +335,9 @@
       "text": "בָכֶם",
       "lemma": "b",
       "morph": "HR/Sp2mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 62,
         "ordinal": 26,

@@ -1,5 +1,5 @@
 {
-  "text": "יְתוֹמִים הָיִינוּ אָב אִמֹּתֵינוּ כְּאַלְמָנוֹת אין וְאֵין",
+  "text": "יְתוֹמִים הָיִינוּ אין אָב אִמֹּתֵינוּ כְּאַלְמָנוֹת וְאֵין",
   "words": [
     {
       "position": 1,
@@ -33,9 +33,29 @@
     },
     {
       "position": 3,
+      "text": "אין",
+      "lemma": "369",
+      "morph": "HTn",
+      "strongs": [
+        "H369"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 25,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
       "text": "אָב",
       "lemma": "1",
       "morph": "HNcmsa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 3,
@@ -44,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אִמֹּתֵינוּ",
       "lemma": "517",
       "morph": "HNcfpc/Sp1cp",
@@ -59,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כְּאַלְמָנוֹת",
       "lemma": "k/490",
       "morph": "HR/Ncfpa",
@@ -74,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "אין",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 25,
-        "reduced": 7
-      }
-    },
-    {
       "position": 7,
       "text": "וְאֵין",
       "lemma": "c/369",
@@ -93,7 +101,9 @@
       "strongs": [
         "H369"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 67,
         "ordinal": 31,

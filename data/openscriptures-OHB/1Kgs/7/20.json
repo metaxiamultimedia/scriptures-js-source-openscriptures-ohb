@@ -1,5 +1,5 @@
 {
-  "text": "וְכֹתָרֹת עַל שְׁנֵי הָעַמּוּדִים גַּם מִמַּעַל מִלְּעֻמַּת הַבֶּטֶן אֲשֶׁר לְעֵבֶר וְהָרִמּוֹנִים מָאתַיִם טֻרִים סָבִיב עַל הַכֹּתֶרֶת הַשֵּׁנִית שבכה הַשְּׂבָכָה",
+  "text": "וְכֹתָרֹת עַל שְׁנֵי הָעַמּוּדִים גַּם מִמַּעַל מִלְּעֻמַּת הַבֶּטֶן אֲשֶׁר לְעֵבֶר שבכה וְהָרִמּוֹנִים מָאתַיִם טֻרִים סָבִיב עַל הַכֹּתֶרֶת הַשֵּׁנִית הַשְּׂבָכָה",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "שבכה",
+      "lemma": "7639",
+      "morph": "HNcfsa",
+      "strongs": [
+        "H7639"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 327,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
       "text": "וְהָרִמּוֹנִים",
       "lemma": "c/d/7416",
       "morph": "HC/Td/Ncmpa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מָאתַיִם",
       "lemma": "3967",
       "morph": "HAcbda",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "טֻרִים",
       "lemma": "2905",
       "morph": "HNcmpa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "סָבִיב",
       "lemma": "5439",
       "morph": "HNcbsa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַכֹּתֶרֶת",
       "lemma": "d/3805",
       "morph": "HTd/Ncfsa",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הַשֵּׁנִית",
       "lemma": "d/8145",
       "morph": "HTd/Aofsa",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "שבכה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 327,
-        "ordinal": 39,
-        "reduced": 12
-      }
-    },
-    {
       "position": 19,
       "text": "הַשְּׂבָכָה",
       "lemma": "d/7639",
@@ -276,7 +281,9 @@
       "strongs": [
         "H7639"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 332,
         "ordinal": 44,

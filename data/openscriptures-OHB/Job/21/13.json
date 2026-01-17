@@ -1,8 +1,25 @@
 {
-  "text": "בַטּוֹב יְמֵיהֶם וּבְרֶגַע שְׁאוֹל יֵחָתּוּ יבלו יְכַלּוּ",
+  "text": "יבלו בַטּוֹב יְמֵיהֶם וּבְרֶגַע שְׁאוֹל יֵחָתּוּ יְכַלּוּ",
   "words": [
     {
       "position": 1,
+      "text": "יבלו",
+      "lemma": "1086",
+      "morph": "HVpi3mp",
+      "strongs": [
+        "H1086"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
       "text": "בַטּוֹב",
       "lemma": "b/2896 b",
       "morph": "HRd/Aamsa",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "יְמֵיהֶם",
       "lemma": "3117",
       "morph": "HNcmpc/Sp3mp",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וּבְרֶגַע",
       "lemma": "c/b/7281",
       "morph": "HC/R/Ncmsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "שְׁאוֹל",
       "lemma": "7585",
       "morph": "HNp",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יֵחָתּוּ",
       "lemma": "5181",
       "morph": "HVqi3mp",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "יבלו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 48,
-        "ordinal": 30,
-        "reduced": 12
-      }
-    },
-    {
       "position": 7,
       "text": "יְכַלּוּ",
       "lemma": "3615",
@@ -96,7 +101,9 @@
       "strongs": [
         "H3615"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 66,
         "ordinal": 39,

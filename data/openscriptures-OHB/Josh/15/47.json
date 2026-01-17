@@ -1,5 +1,5 @@
 {
-  "text": "אַשְׁדּוֹד בְּנוֹתֶיהָ וַחֲצֵרֶיהָ עַזָּה בְּנוֹתֶיהָ וַחֲצֵרֶיהָ עַד נַחַל מִצְרָיִם וְהַיָּם וּגְבוּל הגבול הַגָּדוֹל",
+  "text": "אַשְׁדּוֹד בְּנוֹתֶיהָ וַחֲצֵרֶיהָ עַזָּה בְּנוֹתֶיהָ וַחֲצֵרֶיהָ עַד נַחַל מִצְרָיִם וְהַיָּם הגבול וּגְבוּל הַגָּדוֹל",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "הגבול",
+      "lemma": "d/1366",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H1366"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
       "text": "וּגְבוּל",
       "lemma": "c/1366",
       "morph": "HC/Ncmsa",
@@ -167,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "הגבול",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 46,
-        "ordinal": 28,
-        "reduced": 19
-      }
-    },
-    {
       "position": 13,
       "text": "הַגָּדוֹל",
       "lemma": "d/1419 a",
@@ -186,7 +191,9 @@
       "strongs": [
         "H1419"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 48,
         "ordinal": 30,

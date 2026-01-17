@@ -426,7 +426,9 @@
       "text": "לָּנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 86,
         "ordinal": 32,
@@ -451,9 +453,14 @@
     {
       "position": 31,
       "text": "לעזיר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "l/5826",
+      "morph": "HR/Vhc",
+      "strongs": [
+        "H5826"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 317,
         "ordinal": 65,
@@ -468,7 +475,9 @@
       "strongs": [
         "H5826"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 313,
         "ordinal": 61,

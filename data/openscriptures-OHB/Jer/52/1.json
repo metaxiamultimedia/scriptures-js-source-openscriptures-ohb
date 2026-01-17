@@ -1,5 +1,5 @@
 {
-  "text": "בֶּן עֶשְׂרִים וְאַחַת שָׁנָה צִדְקִיָּהוּ בְמָלְכוֹ וְאַחַת עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלִָם וְשֵׁם אִמּוֹ בַּת יִרְמְיָהוּ מִלִּבְנָה חמיטל חֲמוּטַל",
+  "text": "בֶּן עֶשְׂרִים וְאַחַת שָׁנָה צִדְקִיָּהוּ בְמָלְכוֹ וְאַחַת עֶשְׂרֵה שָׁנָה מָלַךְ בִּירוּשָׁלִָם וְשֵׁם אִמּוֹ חמיטל בַּת יִרְמְיָהוּ מִלִּבְנָה חֲמוּטַל",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "חמיטל",
+      "lemma": "2537",
+      "morph": "HNp",
+      "strongs": [
+        "H2537"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 97,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
       "text": "בַּת",
       "lemma": "1323",
       "morph": "HNcfsc",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יִרְמְיָהוּ",
       "lemma": "3414",
       "morph": "HNp",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מִלִּבְנָה",
       "lemma": "m/3841",
       "morph": "HR/Np",
@@ -242,18 +259,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "חמיטל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 97,
-        "ordinal": 52,
-        "reduced": 25
-      }
-    },
-    {
       "position": 18,
       "text": "חֲמוּטַל",
       "lemma": "2537",
@@ -261,7 +266,9 @@
       "strongs": [
         "H2537"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 93,
         "ordinal": 48,

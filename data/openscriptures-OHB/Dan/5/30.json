@@ -6,7 +6,9 @@
       "text": "בֵּהּ",
       "lemma": "b",
       "morph": "AR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -76,9 +78,14 @@
     {
       "position": 6,
       "text": "כשדיא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "3779",
+      "morph": "ANgmpd/Td",
+      "strongs": [
+        "H3779"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 335,
         "ordinal": 47,
@@ -93,7 +100,9 @@
       "strongs": [
         "H3779"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 330,
         "ordinal": 42,

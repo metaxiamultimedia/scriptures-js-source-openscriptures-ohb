@@ -1,27 +1,17 @@
 {
-  "text": "וצביים וּצְבוֹיִם גָּפְרִית וָמֶלַח שְׂרֵפָה כָל אַרְצָהּ לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָּל עֵשֶׂב כְּמַהְפֵּכַת סְדֹם וַעֲמֹרָה אַדְמָה אֲשֶׁר הָפַךְ יְהוָה בְּאַפּוֹ וּבַחֲמָתוֹ",
+  "text": "וּצְבוֹיִם גָּפְרִית וָמֶלַח שְׂרֵפָה כָל אַרְצָהּ לֹא תִזָּרַע וְלֹא תַצְמִחַ וְלֹא יַעֲלֶה בָהּ כָּל עֵשֶׂב כְּמַהְפֵּכַת סְדֹם וַעֲמֹרָה אַדְמָה וצביים אֲשֶׁר הָפַךְ יְהוָה בְּאַפּוֹ וּבַחֲמָתוֹ",
   "words": [
     {
       "position": 1,
-      "text": "וצביים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 158,
-        "ordinal": 59,
-        "reduced": 23
-      }
-    },
-    {
-      "position": 2,
       "text": "וּצְבוֹיִם",
       "lemma": "c/6636",
       "morph": "HC/Np",
       "strongs": [
         "H6636"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 154,
         "ordinal": 55,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "גָּפְרִית",
       "lemma": "1614",
       "morph": "HNcfsa",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "וָמֶלַח",
       "lemma": "c/4417",
       "morph": "HC/Ncmsa",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "שְׂרֵפָה",
       "lemma": "8316",
       "morph": "HNcfsa",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "כָל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "אַרְצָהּ",
       "lemma": "776",
       "morph": "HNcbsc/Sp3fs",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -119,7 +109,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "תִזָּרַע",
       "lemma": "2232",
       "morph": "HVNi3fs",
@@ -134,7 +124,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 9,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 10,
       "text": "תַצְמִחַ",
       "lemma": "6779",
       "morph": "HVhi3fs",
@@ -164,7 +154,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 11,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 12,
       "text": "יַעֲלֶה",
       "lemma": "5927",
       "morph": "HVqi3ms",
@@ -194,11 +184,13 @@
       }
     },
     {
-      "position": 14,
+      "position": 13,
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -206,7 +198,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 14,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -221,7 +213,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 15,
       "text": "עֵשֶׂב",
       "lemma": "6212",
       "morph": "HNcmsa",
@@ -236,7 +228,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 16,
       "text": "כְּמַהְפֵּכַת",
       "lemma": "k/4114",
       "morph": "HR/Ncfsc",
@@ -251,7 +243,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 17,
       "text": "סְדֹם",
       "lemma": "5467",
       "morph": "HNp",
@@ -266,7 +258,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 18,
       "text": "וַעֲמֹרָה",
       "lemma": "c/6017",
       "morph": "HC/Np",
@@ -281,7 +273,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 19,
       "text": "אַדְמָה",
       "lemma": "126",
       "morph": "HNp",
@@ -293,6 +285,23 @@
         "standard": 50,
         "ordinal": 23,
         "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "וצביים",
+      "lemma": "c/6636",
+      "morph": "HC/Np",
+      "strongs": [
+        "H6636"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 158,
+        "ordinal": 59,
+        "reduced": 23
       }
     },
     {

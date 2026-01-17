@@ -1,5 +1,5 @@
 {
-  "text": "וַיְצַף שְׁלֹמֹה אֶת הַבַּיִת מִפְּנִימָה זָהָב סָגוּר וַיְעַבֵּר זָהָב לִפְנֵי הַדְּבִיר וַיְצַפֵּהוּ זָהָב ברתיקות בְּרַתּוּקוֹת",
+  "text": "וַיְצַף שְׁלֹמֹה אֶת הַבַּיִת מִפְּנִימָה זָהָב סָגוּר וַיְעַבֵּר ברתיקות זָהָב לִפְנֵי הַדְּבִיר וַיְצַפֵּהוּ זָהָב בְּרַתּוּקוֹת",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "ברתיקות",
+      "lemma": "b/7572",
+      "morph": "HR/Ncfpc",
+      "strongs": [
+        "H7572"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 1118,
+        "ordinal": 101,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
       "text": "זָהָב",
       "lemma": "2091",
       "morph": "HNcmsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לִפְנֵי",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַדְּבִיר",
       "lemma": "d/1687",
       "morph": "HTd/Ncmsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וַיְצַפֵּהוּ",
       "lemma": "c/6823",
       "morph": "HC/Vpw3ms/Sp3ms",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "זָהָב",
       "lemma": "2091",
       "morph": "HNcmsa",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "ברתיקות",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 1118,
-        "ordinal": 101,
-        "reduced": 20
-      }
-    },
-    {
       "position": 15,
       "text": "בְּרַתּוּקוֹת",
       "lemma": "b/7572",
@@ -216,7 +221,9 @@
       "strongs": [
         "H7572"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 1114,
         "ordinal": 97,

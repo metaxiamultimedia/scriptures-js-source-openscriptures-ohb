@@ -1,5 +1,5 @@
 {
-  "text": "וְאָמַר אֲבִי אֶל הַזְּקֵנִים אֶת בִּתִּי נָתַתִּי לָאִישׁ הַזֶּה לְאִשָּׁה וַיִּשְׂנָאֶהָ הנער הַנַּעַרָה",
+  "text": "וְאָמַר אֲבִי הנער אֶל הַזְּקֵנִים אֶת בִּתִּי נָתַתִּי לָאִישׁ הַזֶּה לְאִשָּׁה וַיִּשְׂנָאֶהָ הַנַּעַרָה",
   "words": [
     {
       "position": 1,
@@ -21,6 +21,9 @@
       "text": "אֲבִי",
       "lemma": "1",
       "morph": "HNcmsc",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 13,
@@ -30,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "הנער",
+      "lemma": "d/5291",
+      "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H5291"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 325,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -44,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "הַזְּקֵנִים",
       "lemma": "d/2205",
       "morph": "HTd/Aampa",
@@ -59,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -74,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בִּתִּי",
       "lemma": "1323",
       "morph": "HNcfsc/Sp1cs",
@@ -89,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "נָתַתִּי",
       "lemma": "5414",
       "morph": "HVqp1cs",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לָאִישׁ",
       "lemma": "l/376",
       "morph": "HRd/Ncmsa",
@@ -119,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַזֶּה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -134,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְאִשָּׁה",
       "lemma": "l/802",
       "morph": "HR/Ncfsa",
@@ -149,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וַיִּשְׂנָאֶהָ",
       "lemma": "c/8130",
       "morph": "HC/Vqw3ms/Sp3fs",
@@ -164,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "הנער",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 325,
-        "ordinal": 55,
-        "reduced": 19
-      }
-    },
-    {
       "position": 13,
       "text": "הַנַּעַרָה",
       "lemma": "d/5291",
@@ -183,7 +191,9 @@
       "strongs": [
         "H5291"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 330,
         "ordinal": 60,

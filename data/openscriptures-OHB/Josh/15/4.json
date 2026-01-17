@@ -1,5 +1,5 @@
 {
-  "text": "וְעָבַר עַצְמוֹנָה וְיָצָא נַחַל מִצְרַיִם תֹּצְאוֹת הַגְּבוּל יָמָּה זֶה יִהְיֶה לָכֶם גְּבוּל נֶגֶב והיה וְהָיוּ",
+  "text": "וְעָבַר עַצְמוֹנָה וְיָצָא נַחַל מִצְרַיִם והיה תֹּצְאוֹת הַגְּבוּל יָמָּה זֶה יִהְיֶה לָכֶם גְּבוּל נֶגֶב וְהָיוּ",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "והיה",
+      "lemma": "c/1961",
+      "morph": "HC/Vqp3ms",
+      "strongs": [
+        "H1961"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 26,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
       "text": "תֹּצְאוֹת",
       "lemma": "8444",
       "morph": "HNcfpc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַגְּבוּל",
       "lemma": "d/1366",
       "morph": "HTd/Ncmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יָמָּה",
       "lemma": "3220",
       "morph": "HNcmsa/Sd",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "זֶה",
       "lemma": "2088",
       "morph": "HPdxms",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִהְיֶה",
       "lemma": "1961",
       "morph": "HVqi3ms",
@@ -152,11 +169,13 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לָכֶם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 90,
         "ordinal": 36,
@@ -164,7 +183,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "גְּבוּל",
       "lemma": "1366",
       "morph": "HNcmsc",
@@ -179,7 +198,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "נֶגֶב",
       "lemma": "5045",
       "morph": "HNcmsa",
@@ -194,18 +213,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "והיה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
-      }
-    },
-    {
       "position": 15,
       "text": "וְהָיוּ",
       "lemma": "c/1961",
@@ -213,7 +220,9 @@
       "strongs": [
         "H1961"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 27,
         "ordinal": 27,

@@ -1,5 +1,5 @@
 {
-  "text": "אַל תְּקַנֵּא בְּאַנְשֵׁי רָעָה וְאַל לִהְיוֹת אִתָּם תתאו תִּתְאָיו",
+  "text": "אַל תְּקַנֵּא בְּאַנְשֵׁי רָעָה וְאַל תתאו לִהְיוֹת אִתָּם תִּתְאָיו",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "תתאו",
+      "lemma": "183",
+      "morph": "HVtj2ms",
+      "strongs": [
+        "H183"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 807,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
       "text": "לִהְיוֹת",
       "lemma": "l/1961",
       "morph": "HR/Vqc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אִתָּם",
       "lemma": "854",
       "morph": "HR/Sp3mp",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "תתאו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 807,
-        "ordinal": 51,
-        "reduced": 15
-      }
-    },
-    {
       "position": 9,
       "text": "תִּתְאָיו",
       "lemma": "183",
@@ -126,7 +131,9 @@
       "strongs": [
         "H183"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 817,
         "ordinal": 61,

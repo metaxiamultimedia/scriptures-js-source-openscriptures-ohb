@@ -1,5 +1,5 @@
 {
-  "text": "אַחֲרָיו הֶחֱרָה הֶחֱזִיק בָּרוּךְ בֶּן מִדָּה שֵׁנִית מִן הַמִּקְצוֹעַ עַד פֶּתַח בֵּית אֶלְיָשִׁיב הַכֹּהֵן הַגָּדוֹל זבי זַכַּי",
+  "text": "אַחֲרָיו הֶחֱרָה הֶחֱזִיק בָּרוּךְ בֶּן זבי מִדָּה שֵׁנִית מִן הַמִּקְצוֹעַ עַד פֶּתַח בֵּית אֶלְיָשִׁיב הַכֹּהֵן הַגָּדוֹל זַכַּי",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "זבי",
+      "lemma": "2079",
+      "morph": "HNp",
+      "strongs": [
+        "H2079"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
       "text": "מִדָּה",
       "lemma": "4060 a",
       "morph": "HNcfsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שֵׁנִית",
       "lemma": "8145",
       "morph": "HAofsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַמִּקְצוֹעַ",
       "lemma": "d/4740",
       "morph": "HTd/Ncmsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "פֶּתַח",
       "lemma": "6607",
       "morph": "HNcmsc",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בֵּית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֶלְיָשִׁיב",
       "lemma": "475",
       "morph": "HNp",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הַכֹּהֵן",
       "lemma": "d/3548",
       "morph": "HTd/Ncmsa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַגָּדוֹל",
       "lemma": "d/1419 a",
       "morph": "HTd/Aamsa",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "זבי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 10
-      }
-    },
-    {
       "position": 17,
       "text": "זַכַּי",
       "lemma": "2140",
@@ -246,7 +251,9 @@
       "strongs": [
         "H2140"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 37,
         "ordinal": 28,

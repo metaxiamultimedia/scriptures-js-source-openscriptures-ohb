@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבִיאוּ אֶת הַמִּשְׁכָּן אֶל מֹשֶׁה אֶת הָאֹהֶל וְאֶת כָּל כֵּלָיו קְרָסָיו קְרָשָׁיו וְעַמֻּדָיו וַאֲדָנָיו בריחו בְּרִיחָיו",
+  "text": "וַיָּבִיאוּ אֶת הַמִּשְׁכָּן אֶל מֹשֶׁה אֶת הָאֹהֶל וְאֶת כָּל כֵּלָיו קְרָסָיו קְרָשָׁיו בריחו וְעַמֻּדָיו וַאֲדָנָיו בְּרִיחָיו",
   "words": [
     {
       "position": 1,
@@ -183,6 +183,23 @@
     },
     {
       "position": 13,
+      "text": "בריחו",
+      "lemma": "1280",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H1280"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 226,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
       "text": "וְעַמֻּדָיו",
       "lemma": "c/5982",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וַאֲדָנָיו",
       "lemma": "c/134",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -212,18 +229,6 @@
       }
     },
     {
-      "position": 15,
-      "text": "בריחו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 226,
-        "ordinal": 46,
-        "reduced": 19
-      }
-    },
-    {
       "position": 16,
       "text": "בְּרִיחָיו",
       "lemma": "1280",
@@ -231,7 +236,9 @@
       "strongs": [
         "H1280"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 236,
         "ordinal": 56,

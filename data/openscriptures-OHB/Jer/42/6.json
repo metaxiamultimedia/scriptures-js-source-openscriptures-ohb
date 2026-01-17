@@ -1,5 +1,5 @@
 {
-  "text": "אִם טוֹב וְאִם רָע בְּקוֹל יְהוָה אֱלֹהֵינוּ אֲשֶׁר שֹׁלְחִים אֹתְךָ אֵלָיו נִשְׁמָע לְמַעַן אֲשֶׁר יִיטַב לָנוּ כִּי נִשְׁמַע בְּקוֹל יְהוָה אֱלֹהֵינוּ אנו אֲנַחְנוּ",
+  "text": "אִם טוֹב וְאִם רָע בְּקוֹל יְהוָה אֱלֹהֵינוּ אֲשֶׁר אנו שֹׁלְחִים אֹתְךָ אֵלָיו נִשְׁמָע לְמַעַן אֲשֶׁר יִיטַב לָנוּ כִּי נִשְׁמַע בְּקוֹל יְהוָה אֱלֹהֵינוּ אֲנַחְנוּ",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "אנו",
+      "lemma": "580",
+      "morph": "HPp1cp",
+      "strongs": [
+        "H580"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
       "text": "שֹׁלְחִים",
       "lemma": "7971",
       "morph": "HVqrmpa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֹתְךָ",
       "lemma": "853",
       "morph": "HTo/Sp2ms",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֵלָיו",
       "lemma": "413",
       "morph": "HR/Sp3ms",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "נִשְׁמָע",
       "lemma": "8085",
       "morph": "HVqi1cp",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לְמַעַן",
       "lemma": "4616",
       "morph": "HR",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יִיטַב",
       "lemma": "3190",
       "morph": "HVqi3ms",
@@ -227,11 +244,13 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לָנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 86,
         "ordinal": 32,
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -254,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "נִשְׁמַע",
       "lemma": "8085",
       "morph": "HVqi1cp",
@@ -269,7 +288,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "בְּקוֹל",
       "lemma": "b/6963 a",
       "morph": "HR/Ncmsc",
@@ -284,7 +303,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -299,7 +318,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אֱלֹהֵינוּ",
       "lemma": "430",
       "morph": "HNcmpc/Sp1cp",
@@ -314,18 +333,6 @@
       }
     },
     {
-      "position": 22,
-      "text": "אנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 57,
-        "ordinal": 21,
-        "reduced": 12
-      }
-    },
-    {
       "position": 23,
       "text": "אֲנַחְנוּ",
       "lemma": "587",
@@ -333,7 +340,9 @@
       "strongs": [
         "H587"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 115,
         "ordinal": 43,

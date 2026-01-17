@@ -81,6 +81,9 @@
       "text": "אֶבֶן",
       "lemma": "68",
       "morph": "HNcfsa",
+      "strongs": [
+        "H68"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 53,
@@ -318,7 +321,9 @@
       "text": "בָּךְ",
       "lemma": "b",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 22,
         "ordinal": 13,

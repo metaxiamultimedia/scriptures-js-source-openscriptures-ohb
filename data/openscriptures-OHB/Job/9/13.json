@@ -1,5 +1,5 @@
 {
-  "text": "אֱלוֹהַּ לֹא יָשִׁיב אַפּוֹ שָׁחֲחוּ עֹזְרֵי רָהַב תחתו תַּחְתָּיו",
+  "text": "אֱלוֹהַּ לֹא יָשִׁיב אַפּוֹ תחתו שָׁחֲחוּ עֹזְרֵי רָהַב תַּחְתָּיו",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "תחתו",
+      "lemma": "8478",
+      "morph": "HR/Sp3ms",
+      "strongs": [
+        "H8478"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 814,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
       "text": "שָׁחֲחוּ",
       "lemma": "7817",
       "morph": "HVqp3cp",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עֹזְרֵי",
       "lemma": "5826",
       "morph": "HVqrmpc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רָהַב",
       "lemma": "7293",
       "morph": "HNp",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "תחתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 814,
-        "ordinal": 58,
-        "reduced": 22
-      }
-    },
-    {
       "position": 9,
       "text": "תַּחְתָּיו",
       "lemma": "8478",
@@ -126,7 +131,9 @@
       "strongs": [
         "H8478"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 824,
         "ordinal": 68,

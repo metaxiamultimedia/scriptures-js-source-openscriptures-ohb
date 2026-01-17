@@ -1,5 +1,5 @@
 {
-  "text": "אֲשֶׁר צָרוֹת רַבּוֹת וְרָעוֹת תָּשׁוּב וּמִתְּהֹמוֹת הָאָרֶץ תָּשׁוּב תַּעֲלֵנִי הראיתנו הִרְאִיתַנִי תחיינו תְּחַיֵּינִי",
+  "text": "אֲשֶׁר הראיתנו צָרוֹת רַבּוֹת וְרָעוֹת תָּשׁוּב תחיינו וּמִתְּהֹמוֹת הָאָרֶץ תָּשׁוּב תַּעֲלֵנִי הִרְאִיתַנִי תְּחַיֵּינִי",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "הראיתנו",
+      "lemma": "7200",
+      "morph": "HVhp2ms/Sp1cp",
+      "strongs": [
+        "H7200"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 672,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
       "text": "צָרוֹת",
       "lemma": "6869 b",
       "morph": "HNcfpa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "רַבּוֹת",
       "lemma": "7227 a",
       "morph": "HAafpa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְרָעוֹת",
       "lemma": "c/7451 a",
       "morph": "HC/Aafpa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "תָּשׁוּב",
       "lemma": "7725",
       "morph": "HVqi2ms",
@@ -77,7 +94,24 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
+      "text": "תחיינו",
+      "lemma": "2421",
+      "morph": "HVpi2ms/Sp1cp",
+      "strongs": [
+        "H2421"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 484,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
       "text": "וּמִתְּהֹמוֹת",
       "lemma": "c/m/8415",
       "morph": "HC/R/Ncbpc",
@@ -92,7 +126,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -107,7 +141,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "תָּשׁוּב",
       "lemma": "7725",
       "morph": "HVqi2ms",
@@ -122,7 +156,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "תַּעֲלֵנִי",
       "lemma": "5927",
       "morph": "HVhi2ms/Sp1cs",
@@ -137,42 +171,20 @@
       }
     },
     {
-      "position": 10,
-      "text": "הראיתנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 672,
-        "ordinal": 78,
-        "reduced": 24
-      }
-    },
-    {
-      "position": 11,
+      "position": 12,
       "text": "הִרְאִיתַנִי",
       "lemma": "7200",
       "morph": "HVhp2ms/Sp1cs",
       "strongs": [
         "H7200"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 676,
         "ordinal": 82,
         "reduced": 19
-      }
-    },
-    {
-      "position": 12,
-      "text": "תחיינו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 484,
-        "ordinal": 70,
-        "reduced": 25
       }
     },
     {
@@ -183,7 +195,9 @@
       "strongs": [
         "H2421"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 488,
         "ordinal": 74,

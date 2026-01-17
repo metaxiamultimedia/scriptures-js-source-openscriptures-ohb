@@ -1,5 +1,5 @@
 {
-  "text": "וַעֲתַלְיָה אֵם אֲחַזְיָהוּ כִּי מֵת בְּנָהּ וַתָּקָם וַתְּאַבֵּד אֵת כָּל זֶרַע הַמַּמְלָכָה וראתה רָאֲתָה",
+  "text": "וַעֲתַלְיָה אֵם אֲחַזְיָהוּ וראתה כִּי מֵת בְּנָהּ וַתָּקָם וַתְּאַבֵּד אֵת כָּל זֶרַע הַמַּמְלָכָה רָאֲתָה",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "וראתה",
+      "lemma": "c/7200",
+      "morph": "HC/Vqp3fs",
+      "strongs": [
+        "H7200"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 612,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מֵת",
       "lemma": "4191",
       "morph": "HVqp3ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּנָהּ",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp3fs",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וַתָּקָם",
       "lemma": "c/6965 b",
       "morph": "HC/Vqw3fs",
@@ -107,10 +124,13 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וַתְּאַבֵּד",
       "lemma": "c/6",
       "morph": "HC/Vpw3fs",
+      "strongs": [
+        "H6"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 413,
@@ -119,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֵת",
       "lemma": "853",
       "morph": "HTo",
@@ -134,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -149,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "זֶרַע",
       "lemma": "2233",
       "morph": "HNcmsc",
@@ -164,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַמַּמְלָכָה",
       "lemma": "d/4467",
       "morph": "HTd/Ncfsa",
@@ -179,18 +199,6 @@
       }
     },
     {
-      "position": 13,
-      "text": "וראתה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 612,
-        "ordinal": 54,
-        "reduced": 18
-      }
-    },
-    {
       "position": 14,
       "text": "רָאֲתָה",
       "lemma": "7200",
@@ -198,7 +206,9 @@
       "strongs": [
         "H7200"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 606,
         "ordinal": 48,

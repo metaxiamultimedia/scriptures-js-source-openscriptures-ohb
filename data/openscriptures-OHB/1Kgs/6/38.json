@@ -1,5 +1,5 @@
 {
-  "text": "וּבַשָּׁנָה הָאַחַת עֶשְׂרֵה בְּיֶרַח בּוּל הוּא הַחֹדֶשׁ הַשְּׁמִינִי כָּלָה הַבַּיִת לְכָל דְּבָרָיו וּלְכָל וַיִּבְנֵהוּ שֶׁבַע שָׁנִים משפטו מִשְׁפָּטָיו",
+  "text": "וּבַשָּׁנָה הָאַחַת עֶשְׂרֵה בְּיֶרַח בּוּל הוּא הַחֹדֶשׁ הַשְּׁמִינִי כָּלָה הַבַּיִת לְכָל דְּבָרָיו וּלְכָל משפטו וַיִּבְנֵהוּ שֶׁבַע שָׁנִים מִשְׁפָּטָיו",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "משפטו",
+      "lemma": "4941",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H4941"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 435,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
       "text": "וַיִּבְנֵהוּ",
       "lemma": "c/1129",
       "morph": "HC/Vqw3ms/Sp3ms",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שֶׁבַע",
       "lemma": "7651",
       "morph": "HAcfsa",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "שָׁנִים",
       "lemma": "8141",
       "morph": "HNcfpa",
@@ -242,18 +259,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "משפטו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 435,
-        "ordinal": 66,
-        "reduced": 30
-      }
-    },
-    {
       "position": 18,
       "text": "מִשְׁפָּטָיו",
       "lemma": "4941",
@@ -261,7 +266,9 @@
       "strongs": [
         "H4941"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 445,
         "ordinal": 76,

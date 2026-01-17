@@ -1,11 +1,48 @@
 {
-  "text": "אֲבִי צַדִּיק חָכָם בּוֹ גול גִּיל יגול יָגִיל יולד וְיוֹלֵד וישמח יִשְׂמַח",
+  "text": "גול יגול אֲבִי צַדִּיק יולד חָכָם וישמח בּוֹ גִּיל יָגִיל וְיוֹלֵד יִשְׂמַח",
   "words": [
     {
       "position": 1,
+      "text": "גול",
+      "lemma": "1524 a",
+      "morph": "HVqa",
+      "strongs": [
+        "H1524"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "יגול",
+      "lemma": "1523",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H1523"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 31,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
       "text": "אֲבִי",
       "lemma": "1",
       "morph": "HNcmsc",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 13,
@@ -14,7 +51,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 4,
       "text": "צַדִּיק",
       "lemma": "6662",
       "morph": "HAamsa",
@@ -29,7 +66,24 @@
       }
     },
     {
-      "position": 3,
+      "position": 5,
+      "text": "יולד",
+      "lemma": "3205",
+      "morph": "HVqrmsa",
+      "strongs": [
+        "H3205"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
       "text": "חָכָם",
       "lemma": "2450",
       "morph": "HAamsa",
@@ -44,7 +98,24 @@
       }
     },
     {
-      "position": 4,
+      "position": 7,
+      "text": "וישמח",
+      "lemma": "c/8055",
+      "morph": "HC/Vqi3ms",
+      "strongs": [
+        "H8055"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 364,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
       "text": "בּוֹ",
       "lemma": "b/8055",
       "morph": "HR/Sp3ms",
@@ -59,26 +130,16 @@
       }
     },
     {
-      "position": 5,
-      "text": "גול",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 39,
-        "ordinal": 21,
-        "reduced": 12
-      }
-    },
-    {
-      "position": 6,
+      "position": 9,
       "text": "גִּיל",
       "lemma": "1524 a",
       "morph": "HVqa",
       "strongs": [
         "H1524"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 43,
         "ordinal": 25,
@@ -86,26 +147,16 @@
       }
     },
     {
-      "position": 7,
-      "text": "יגול",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 49,
-        "ordinal": 31,
-        "reduced": 13
-      }
-    },
-    {
-      "position": 8,
+      "position": 10,
       "text": "יָגִיל",
       "lemma": "1523",
       "morph": "HVqi3ms",
       "strongs": [
         "H1523"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 53,
         "ordinal": 35,
@@ -113,42 +164,20 @@
       }
     },
     {
-      "position": 9,
-      "text": "יולד",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 32,
-        "reduced": 14
-      }
-    },
-    {
-      "position": 10,
+      "position": 11,
       "text": "וְיוֹלֵד",
       "lemma": "c/3205",
       "morph": "HC/Vqrmsa",
       "strongs": [
         "H3205"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 56,
         "ordinal": 38,
         "reduced": 20
-      }
-    },
-    {
-      "position": 11,
-      "text": "וישמח",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 364,
-        "ordinal": 58,
-        "reduced": 22
       }
     },
     {
@@ -159,7 +188,9 @@
       "strongs": [
         "H8055"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 358,
         "ordinal": 52,

@@ -141,6 +141,9 @@
       "text": "אַבְנֵט",
       "lemma": "73",
       "morph": "HNcmsa",
+      "strongs": [
+        "H73"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 62,
@@ -168,7 +171,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,

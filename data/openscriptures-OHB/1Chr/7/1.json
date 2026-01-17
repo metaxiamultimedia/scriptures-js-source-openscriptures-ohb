@@ -1,5 +1,5 @@
 {
-  "text": "וְלִבְנֵי יִשָׂשכָר תּוֹלָע וּפוּאָה וְשִׁמְרוֹן אַרְבָּעָה ישיב יָשׁוּב",
+  "text": "וְלִבְנֵי יִשָׂשכָר תּוֹלָע וּפוּאָה ישיב וְשִׁמְרוֹן אַרְבָּעָה יָשׁוּב",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "ישיב",
+      "lemma": "3437",
+      "morph": "HNp",
+      "strongs": [
+        "H3437"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 322,
+        "ordinal": 43,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
       "text": "וְשִׁמְרוֹן",
       "lemma": "c/8110 b",
       "morph": "HC/Np",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אַרְבָּעָה",
       "lemma": "702",
       "morph": "HAcmsa",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "ישיב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 322,
-        "ordinal": 43,
-        "reduced": 7
-      }
-    },
-    {
       "position": 8,
       "text": "יָשׁוּב",
       "lemma": "3437",
@@ -111,7 +116,9 @@
       "strongs": [
         "H3437"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 318,
         "ordinal": 39,

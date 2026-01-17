@@ -1,5 +1,5 @@
 {
-  "text": "עָרוּם רָאָה רָעָה וּפְתָיִים עָבְרוּ וְנֶעֱנָשׁוּ ויסתר וְנִסְתָּר",
+  "text": "עָרוּם רָאָה רָעָה ויסתר וּפְתָיִים עָבְרוּ וְנֶעֱנָשׁוּ וְנִסְתָּר",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "ויסתר",
+      "lemma": "c/5641",
+      "morph": "HC/VNi3ms",
+      "strongs": [
+        "H5641"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 676,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
       "text": "וּפְתָיִים",
       "lemma": "c/6612 a",
       "morph": "HC/Aampa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עָבְרוּ",
       "lemma": "5674 a",
       "morph": "HVqp3cp",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְנֶעֱנָשׁוּ",
       "lemma": "c/6064",
       "morph": "HC/VNp3cp",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "ויסתר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 676,
-        "ordinal": 73,
-        "reduced": 19
-      }
-    },
-    {
       "position": 8,
       "text": "וְנִסְתָּר",
       "lemma": "c/5641",
@@ -111,7 +116,9 @@
       "strongs": [
         "H5641"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 716,
         "ordinal": 77,

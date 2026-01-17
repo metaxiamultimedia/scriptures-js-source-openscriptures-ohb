@@ -36,6 +36,9 @@
       "text": "אֲבִיכֶם",
       "lemma": "1",
       "morph": "HNcmsc/Sp2mp",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 73,
@@ -123,7 +126,9 @@
       "text": "לָכֶם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 90,
         "ordinal": 36,

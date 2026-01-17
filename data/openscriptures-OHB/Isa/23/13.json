@@ -1,5 +1,5 @@
 {
-  "text": "הֵן אֶרֶץ כַּשְׂדִּים זֶה הָעָם לֹא הָיָה אַשּׁוּר יְסָדָהּ לְצִיִּים הֵקִימוּ עֹרְרוּ אַרְמְנוֹתֶיהָ שָׂמָהּ לְמַפֵּלָה בחיניו בַחוּנָיו",
+  "text": "הֵן אֶרֶץ כַּשְׂדִּים זֶה הָעָם לֹא הָיָה אַשּׁוּר יְסָדָהּ לְצִיִּים הֵקִימוּ בחיניו עֹרְרוּ אַרְמְנוֹתֶיהָ שָׂמָהּ לְמַפֵּלָה בַחוּנָיו",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "בחיניו",
+      "lemma": "971",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H971"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 86,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
       "text": "עֹרְרוּ",
       "lemma": "6209",
       "morph": "HVmp3cp",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אַרְמְנוֹתֶיהָ",
       "lemma": "759",
       "morph": "HNcmpc/Sp3fs",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שָׂמָהּ",
       "lemma": "7760 a",
       "morph": "HVqp3ms/Sp3fs",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לְמַפֵּלָה",
       "lemma": "l/4654 b",
       "morph": "HR/Ncfsa",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "בחיניו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 86,
-        "ordinal": 50,
-        "reduced": 23
-      }
-    },
-    {
       "position": 17,
       "text": "בַחוּנָיו",
       "lemma": "971",
@@ -246,7 +251,9 @@
       "strongs": [
         "H971"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 82,
         "ordinal": 46,

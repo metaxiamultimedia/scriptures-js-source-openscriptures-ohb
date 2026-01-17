@@ -1,5 +1,5 @@
 {
-  "text": "הַתְּשִׁיעִי לַחֹדֶשׁ הַתְּשִׁיעִי אֲבִיעֶזֶר הָעַנְּתֹתִי וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף לבנימיני",
+  "text": "הַתְּשִׁיעִי לַחֹדֶשׁ הַתְּשִׁיעִי אֲבִיעֶזֶר הָעַנְּתֹתִי לבנימיני וְעַל מַחֲלֻקְתּוֹ עֶשְׂרִים וְאַרְבָּעָה אָלֶף לַבֵּן יְמִינִי",
   "words": [
     {
       "position": 1,
@@ -51,6 +51,9 @@
       "text": "אֲבִיעֶזֶר",
       "lemma": "44",
       "morph": "HNp",
+      "strongs": [
+        "H44"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 290,
@@ -75,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "לבנימיני",
+      "lemma": "l/1145",
+      "morph": "HRd/Ngmsa",
+      "strongs": [
+        "H1145"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 202,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
       "text": "וְעַל",
       "lemma": "c/5921 a",
       "morph": "HC/R",
@@ -89,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מַחֲלֻקְתּוֹ",
       "lemma": "4256",
       "morph": "HNcfsc/Sp3ms",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עֶשְׂרִים",
       "lemma": "6242",
       "morph": "HAcbpa",
@@ -119,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְאַרְבָּעָה",
       "lemma": "c/702",
       "morph": "HC/Acmsa",
@@ -134,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אָלֶף",
       "lemma": "505",
       "morph": "HAcbsa",
@@ -149,21 +169,43 @@
       }
     },
     {
-      "position": 11,
-      "text": "לבנימיני",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 12,
+      "text": "לַבֵּן",
+      "lemma": "l/1121 a",
+      "morph": "HRd/Ngmsa",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
-        "standard": 202,
-        "ordinal": 85,
-        "reduced": 22
+        "standard": 82,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "יְמִינִי",
+      "lemma": "3227",
+      "morph": "HNgmsa",
+      "strongs": [
+        "H3227"
+      ],
+      "metadata": {
+        "isQere": true
+      },
+      "gematria": {
+        "standard": 120,
+        "ordinal": 57,
+        "reduced": 12
       }
     }
   ],
   "gematria": {
-    "standard": 5064,
-    "ordinal": 717,
-    "reduced": 222
+    "standard": 5266,
+    "ordinal": 802,
+    "reduced": 244
   }
 }

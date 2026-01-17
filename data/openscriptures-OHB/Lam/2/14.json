@@ -1,5 +1,5 @@
 {
-  "text": "נְבִיאַיִךְ חָזוּ לָךְ שָׁוְא וְתָפֵל וְלֹא גִלּוּ עַל עֲוֺנֵךְ לְהָשִׁיב וַיֶּחֱזוּ לָךְ מַשְׂאוֹת שָׁוְא וּמַדּוּחִים שביתך שְׁבוּתֵךְ",
+  "text": "נְבִיאַיִךְ חָזוּ לָךְ שָׁוְא וְתָפֵל וְלֹא גִלּוּ עַל עֲוֺנֵךְ לְהָשִׁיב שביתך וַיֶּחֱזוּ לָךְ מַשְׂאוֹת שָׁוְא וּמַדּוּחִים שְׁבוּתֵךְ",
   "words": [
     {
       "position": 1,
@@ -36,7 +36,9 @@
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -150,6 +152,23 @@
     },
     {
       "position": 11,
+      "text": "שביתך",
+      "lemma": "7622",
+      "morph": "HNcfsc/Sp2fs",
+      "strongs": [
+        "H7622"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 732,
+        "ordinal": 66,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
       "text": "וַיֶּחֱזוּ",
       "lemma": "c/2372",
       "morph": "HC/Vqw3mp",
@@ -164,11 +183,13 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -176,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מַשְׂאוֹת",
       "lemma": "4864",
       "morph": "HNcfpc",
@@ -191,7 +212,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שָׁוְא",
       "lemma": "7723",
       "morph": "HNcmsa",
@@ -206,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וּמַדּוּחִים",
       "lemma": "c/4065",
       "morph": "HC/Ncmpa",
@@ -221,18 +242,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "שביתך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 732,
-        "ordinal": 66,
-        "reduced": 12
-      }
-    },
-    {
       "position": 17,
       "text": "שְׁבוּתֵךְ",
       "lemma": "7622",
@@ -240,7 +249,9 @@
       "strongs": [
         "H7622"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 728,
         "ordinal": 62,

@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּגֶּד לוֹ מָרְדֳּכַי אֵת כָּל אֲשֶׁר קָרָהוּ וְאֵת פָּרָשַׁת הַכֶּסֶף אֲשֶׁר אָמַר הָמָן לִשְׁקוֹל עַל גִּנְזֵי הַמֶּלֶךְ לְאַבְּדָם ביהודיים בַּיְּהוּדִים",
+  "text": "וַיַּגֶּד לוֹ מָרְדֳּכַי אֵת כָּל אֲשֶׁר קָרָהוּ וְאֵת פָּרָשַׁת הַכֶּסֶף אֲשֶׁר אָמַר הָמָן לִשְׁקוֹל עַל גִּנְזֵי הַמֶּלֶךְ ביהודיים לְאַבְּדָם בַּיְּהוּדִים",
   "words": [
     {
       "position": 1,
@@ -21,7 +21,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -255,26 +257,34 @@
     },
     {
       "position": 18,
+      "text": "ביהודיים",
+      "lemma": "b/3064",
+      "morph": "HRd/Ngmpa",
+      "strongs": [
+        "H3064"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 87,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
       "text": "לְאַבְּדָם",
       "lemma": "l/6",
       "morph": "HR/Vpc/Sp3mp",
+      "strongs": [
+        "H6"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 77,
         "ordinal": 32,
         "reduced": 14
-      }
-    },
-    {
-      "position": 19,
-      "text": "ביהודיים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 87,
-        "ordinal": 60,
-        "reduced": 24
       }
     },
     {
@@ -285,7 +295,9 @@
       "strongs": [
         "H3064"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 77,
         "ordinal": 50,

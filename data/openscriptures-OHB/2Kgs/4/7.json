@@ -1,5 +1,5 @@
 {
-  "text": "וַתָּבֹא וַתַּגֵּד לְאִישׁ הָאֱלֹהִים וַיֹּאמֶר לְכִי מִכְרִי אֶת הַשֶּׁמֶן וְשַׁלְּמִי אֶת וְאַתְּ תִחְיִי בַּנּוֹתָר נשיכי נִשְׁיֵךְ בניכי וּבָנַיִךְ",
+  "text": "וַתָּבֹא וַתַּגֵּד לְאִישׁ הָאֱלֹהִים וַיֹּאמֶר לְכִי מִכְרִי אֶת הַשֶּׁמֶן וְשַׁלְּמִי אֶת נשיכי וְאַתְּ בניכי תִחְיִי בַּנּוֹתָר נִשְׁיֵךְ וּבָנַיִךְ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "נשיכי",
+      "lemma": "5386",
+      "morph": "HNcmsc/Sp2fs",
+      "strongs": [
+        "H5386"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 390,
+        "ordinal": 66,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
       "text": "וְאַתְּ",
       "lemma": "c/859 c",
       "morph": "HC/Pp2fs",
@@ -182,7 +199,24 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
+      "text": "בניכי",
+      "lemma": "1121 a",
+      "morph": "HNcmpc/Sp2fs",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 92,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
       "text": "תִחְיִי",
       "lemma": "2421",
       "morph": "HVqi2fs",
@@ -197,7 +231,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
       "text": "בַּנּוֹתָר",
       "lemma": "b/3498",
       "morph": "HRd/VNrmsa",
@@ -212,41 +246,19 @@
       }
     },
     {
-      "position": 15,
-      "text": "נשיכי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 390,
-        "ordinal": 66,
-        "reduced": 12
-      }
-    },
-    {
-      "position": 16,
+      "position": 17,
       "text": "נִשְׁיֵךְ",
       "lemma": "5386",
       "morph": "HNcmsc/Sp2fs",
       "strongs": [
         "H5386"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 380,
         "ordinal": 56,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 17,
-      "text": "בניכי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 92,
-        "ordinal": 47,
         "reduced": 11
       }
     },
@@ -258,7 +270,9 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 88,
         "ordinal": 43,

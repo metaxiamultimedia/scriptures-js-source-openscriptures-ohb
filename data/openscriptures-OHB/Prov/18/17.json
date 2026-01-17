@@ -1,5 +1,5 @@
 {
-  "text": "צַדִּיק הָרִאשׁוֹן בְּרִיבוֹ רֵעֵהוּ וַחֲקָרוֹ יבא וּבָא",
+  "text": "צַדִּיק הָרִאשׁוֹן בְּרִיבוֹ יבא רֵעֵהוּ וַחֲקָרוֹ וּבָא",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "יבא",
+      "lemma": "935",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H935"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
       "text": "רֵעֵהוּ",
       "lemma": "7453",
       "morph": "HNcmsc/Sp3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וַחֲקָרוֹ",
       "lemma": "c/2713",
       "morph": "HC/Vqp3ms/Sp3ms",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "יבא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 13,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
       "position": 7,
       "text": "וּבָא",
       "lemma": "c/935",
@@ -96,7 +101,9 @@
       "strongs": [
         "H935"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 9,
         "ordinal": 9,

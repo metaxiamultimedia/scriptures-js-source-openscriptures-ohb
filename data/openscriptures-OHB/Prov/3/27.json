@@ -1,5 +1,5 @@
 {
-  "text": "אַל תִּמְנַע טוֹב מִבְּעָלָיו בִּהְיוֹת לְאֵל לַעֲשׂוֹת ידיך יָדְךָ",
+  "text": "אַל תִּמְנַע טוֹב מִבְּעָלָיו בִּהְיוֹת לְאֵל ידיך לַעֲשׂוֹת יָדְךָ",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,23 @@
     },
     {
       "position": 7,
+      "text": "ידיך",
+      "lemma": "3027",
+      "morph": "HNcbdc/Sp2ms",
+      "strongs": [
+        "H3027"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 44,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
       "text": "לַעֲשׂוֹת",
       "lemma": "l/6213 a",
       "morph": "HR/Vqc",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "ידיך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 44,
-        "ordinal": 35,
-        "reduced": 8
-      }
-    },
-    {
       "position": 9,
       "text": "יָדְךָ",
       "lemma": "3027",
@@ -126,7 +131,9 @@
       "strongs": [
         "H3027"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 34,
         "ordinal": 25,

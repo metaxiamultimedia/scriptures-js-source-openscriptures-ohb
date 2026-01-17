@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי שִׁמְעִי וַחֲזִיאֵל וְהָרָן שְׁלֹשָׁה אֵלֶּה רָאשֵׁי הָאָבוֹת לְלַעְדָּן שלמות שְׁלוֹמִית",
+  "text": "בְּנֵי שִׁמְעִי שלמות וַחֲזִיאֵל וְהָרָן שְׁלֹשָׁה אֵלֶּה רָאשֵׁי הָאָבוֹת לְלַעְדָּן שְׁלוֹמִית",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "שלמות",
+      "lemma": "8013",
+      "morph": "HNp",
+      "strongs": [
+        "H8013"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 776,
+        "ordinal": 74,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
       "text": "וַחֲזִיאֵל",
       "lemma": "c/2381",
       "morph": "HC/Np",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְהָרָן",
       "lemma": "c/2039",
       "morph": "HC/Np",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "שְׁלֹשָׁה",
       "lemma": "7969",
       "morph": "HAcmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֵלֶּה",
       "lemma": "428",
       "morph": "HPdxcp",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רָאשֵׁי",
       "lemma": "7218 a",
       "morph": "HNcmpc",
@@ -107,10 +124,13 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הָאָבוֹת",
       "lemma": "d/1",
       "morph": "HTd/Ncmpa",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 414,
@@ -119,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לְלַעְדָּן",
       "lemma": "l/3936",
       "morph": "HR/Np",
@@ -134,18 +154,6 @@
       }
     },
     {
-      "position": 10,
-      "text": "שלמות",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 776,
-        "ordinal": 74,
-        "reduced": 20
-      }
-    },
-    {
       "position": 11,
       "text": "שְׁלוֹמִית",
       "lemma": "8019 a",
@@ -153,7 +161,9 @@
       "strongs": [
         "H8019"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 786,
         "ordinal": 84,

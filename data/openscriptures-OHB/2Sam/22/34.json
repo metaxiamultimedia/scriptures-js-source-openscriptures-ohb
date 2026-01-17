@@ -1,5 +1,5 @@
 {
-  "text": "מְשַׁוֶּה כָּאַיָּלוֹת וְעַל בָּמוֹתַי יַעֲמִדֵנִי רגליו רַגְלַי",
+  "text": "מְשַׁוֶּה רגליו כָּאַיָּלוֹת וְעַל בָּמוֹתַי יַעֲמִדֵנִי רַגְלַי",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "רגליו",
+      "lemma": "7272",
+      "morph": "HNcfdc/Sp3ms",
+      "strongs": [
+        "H7272"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 249,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
       "text": "כָּאַיָּלוֹת",
       "lemma": "k/355",
       "morph": "HRd/Ncfpa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וְעַל",
       "lemma": "c/5921 a",
       "morph": "HC/R",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בָּמוֹתַי",
       "lemma": "1116",
       "morph": "HNcfpc/Sp1cs",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יַעֲמִדֵנִי",
       "lemma": "5975",
       "morph": "HVhi3ms/Sp1cs",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "רגליו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 249,
-        "ordinal": 51,
-        "reduced": 15
-      }
-    },
-    {
       "position": 7,
       "text": "רַגְלַי",
       "lemma": "7272",
@@ -96,7 +101,9 @@
       "strongs": [
         "H7272"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 243,
         "ordinal": 45,

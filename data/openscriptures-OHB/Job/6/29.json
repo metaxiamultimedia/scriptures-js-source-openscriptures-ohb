@@ -1,5 +1,5 @@
 {
-  "text": "שֻׁבוּ נָא אַל תְּהִי עַוְלָה עוֹד צִדְקִי בָהּ ושבי וְשׁוּבוּ",
+  "text": "שֻׁבוּ נָא אַל תְּהִי עַוְלָה ושבי עוֹד צִדְקִי בָהּ וְשׁוּבוּ",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "ושבי",
+      "lemma": "c/7725",
+      "morph": "HC/Vqv2fs",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 318,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
       "text": "עוֹד",
       "lemma": "5750",
       "morph": "HD",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "צִדְקִי",
       "lemma": "6664",
       "morph": "HNcmsc/Sp1cs",
@@ -107,27 +124,17 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
         "reduced": 7
-      }
-    },
-    {
-      "position": 9,
-      "text": "ושבי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 318,
-        "ordinal": 39,
-        "reduced": 12
       }
     },
     {
@@ -138,7 +145,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 320,
         "ordinal": 41,

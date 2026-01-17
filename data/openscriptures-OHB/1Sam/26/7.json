@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֹא דָוִד וַאֲבִישַׁי אֶל הָעָם לַיְלָה וְהִנֵּה שָׁאוּל שֹׁכֵב יָשֵׁן בַּמַּעְגָּל וַחֲנִיתוֹ מְעוּכָה בָאָרֶץ וְאַבְנֵר וְהָעָם שֹׁכְבִים מראשתו מְרַאֲשֹׁתָיו סביבתו סְבִיבֹתָיו",
+  "text": "וַיָּבֹא דָוִד וַאֲבִישַׁי אֶל הָעָם לַיְלָה וְהִנֵּה שָׁאוּל שֹׁכֵב יָשֵׁן בַּמַּעְגָּל וַחֲנִיתוֹ מְעוּכָה בָאָרֶץ מראשתו וְאַבְנֵר וְהָעָם שֹׁכְבִים סביבתו מְרַאֲשֹׁתָיו סְבִיבֹתָיו",
   "words": [
     {
       "position": 1,
@@ -36,6 +36,9 @@
       "text": "וַאֲבִישַׁי",
       "lemma": "c/52",
       "morph": "HC/Np",
+      "strongs": [
+        "H52"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 329,
@@ -210,9 +213,29 @@
     },
     {
       "position": 15,
+      "text": "מראשתו",
+      "lemma": "4763",
+      "morph": "HNcfpc/Sp3ms",
+      "strongs": [
+        "H4763"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 947,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
       "text": "וְאַבְנֵר",
       "lemma": "c/74",
       "morph": "HC/Np",
+      "strongs": [
+        "H74"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 259,
@@ -221,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְהָעָם",
       "lemma": "c/d/5971 a",
       "morph": "HC/Td/Ncmsa",
@@ -236,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "שֹׁכְבִים",
       "lemma": "7901",
       "morph": "HVqrmpa",
@@ -251,41 +274,36 @@
       }
     },
     {
-      "position": 18,
-      "text": "מראשתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 19,
+      "text": "סביבתו",
+      "lemma": "5439",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H5439"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
-        "standard": 947,
-        "ordinal": 83,
-        "reduced": 20
+        "standard": 480,
+        "ordinal": 57,
+        "reduced": 21
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "מְרַאֲשֹׁתָיו",
       "lemma": "4763",
       "morph": "HNcfpc/Sp3ms",
       "strongs": [
         "H4763"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 957,
         "ordinal": 93,
-        "reduced": 21
-      }
-    },
-    {
-      "position": 20,
-      "text": "סביבתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 480,
-        "ordinal": 57,
         "reduced": 21
       }
     },
@@ -297,7 +315,9 @@
       "strongs": [
         "H5439"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 490,
         "ordinal": 67,

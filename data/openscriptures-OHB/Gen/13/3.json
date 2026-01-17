@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּלֶךְ לְמַסָּעָיו מִנֶּגֶב וְעַד בֵּית אֵל עַד הַמָּקוֹם אֲשֶׁר הָיָה שָׁם בַּתְּחִלָּה בֵּין בֵּית אֵל וּבֵין הָעָי אהלה אָהֳלוֹ",
+  "text": "וַיֵּלֶךְ לְמַסָּעָיו מִנֶּגֶב וְעַד בֵּית אֵל עַד הַמָּקוֹם אֲשֶׁר הָיָה שָׁם אהלה בַּתְּחִלָּה בֵּין בֵּית אֵל וּבֵין הָעָי אָהֳלוֹ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "אהלה",
+      "lemma": "168",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H168"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
       "text": "בַּתְּחִלָּה",
       "lemma": "b/8462",
       "morph": "HRd/Ncfsa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בֵּין",
       "lemma": "996",
       "morph": "HR",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בֵּית",
       "lemma": "1008+",
       "morph": "HNp",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֵל",
       "lemma": "1008",
       "morph": "HNp",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וּבֵין",
       "lemma": "c/996",
       "morph": "HC/R",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הָעָי",
       "lemma": "d/5857",
       "morph": "HTd/Np",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "אהלה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 41,
-        "ordinal": 23,
-        "reduced": 14
-      }
-    },
-    {
       "position": 19,
       "text": "אָהֳלוֹ",
       "lemma": "168",
@@ -276,7 +281,9 @@
       "strongs": [
         "H168"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 24,

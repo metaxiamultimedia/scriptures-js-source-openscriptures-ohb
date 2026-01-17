@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּקְרָא מֶלֶךְ יִשְׂרָאֵל אֶל סָרִיס אֶחָד וַיֹּאמֶר מַהֵר בֶן יִמְלָא מיכהו מִיכָיְהוּ",
+  "text": "וַיִּקְרָא מֶלֶךְ יִשְׂרָאֵל אֶל סָרִיס אֶחָד וַיֹּאמֶר מַהֵר מיכהו בֶן יִמְלָא מִיכָיְהוּ",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "מיכהו",
+      "lemma": "4318",
+      "morph": "HNp",
+      "strongs": [
+        "H4318"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 81,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
       "text": "בֶן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִמְלָא",
       "lemma": "3229",
       "morph": "HNp",
@@ -152,18 +169,6 @@
       }
     },
     {
-      "position": 11,
-      "text": "מיכהו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 81,
-        "ordinal": 45,
-        "reduced": 18
-      }
-    },
-    {
       "position": 12,
       "text": "מִיכָיְהוּ",
       "lemma": "4321",
@@ -171,7 +176,9 @@
       "strongs": [
         "H4321"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 91,
         "ordinal": 55,

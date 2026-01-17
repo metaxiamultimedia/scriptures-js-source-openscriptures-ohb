@@ -186,6 +186,9 @@
       "text": "לַאֲבֹתֵיכֶם",
       "lemma": "l/1",
       "morph": "HR/Ncmpc/Sp2mp",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 503,
@@ -198,6 +201,9 @@
       "text": "לְאַבְרָהָם",
       "lemma": "l/85",
       "morph": "HR/Np",
+      "strongs": [
+        "H85"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 278,
@@ -255,7 +261,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,

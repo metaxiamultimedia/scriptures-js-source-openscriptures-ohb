@@ -96,6 +96,9 @@
       "text": "אַבִּירָיו",
       "lemma": "47",
       "morph": "HAampc/Sp3ms",
+      "strongs": [
+        "H47"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 229,
@@ -243,7 +246,9 @@
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,

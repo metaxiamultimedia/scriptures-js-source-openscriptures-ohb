@@ -1,12 +1,17 @@
 {
-  "text": "שוחט שָׁחוּט חֵץ לְשׁוֹנָם מִרְמָה דִבֵּר בְּפִיו שָׁלוֹם אֶת רֵעֵהוּ יְדַבֵּר וּבְקִרְבּוֹ יָשִׂים אָרְבּוֹ",
+  "text": "שָׁחוּט חֵץ שוחט לְשׁוֹנָם מִרְמָה דִבֵּר בְּפִיו שָׁלוֹם אֶת רֵעֵהוּ יְדַבֵּר וּבְקִרְבּוֹ יָשִׂים אָרְבּוֹ",
   "words": [
     {
       "position": 1,
-      "text": "שוחט",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "text": "שָׁחוּט",
+      "lemma": "7819 a",
+      "morph": "HVqsmsa",
+      "strongs": [
+        "H7819"
+      ],
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 323,
         "ordinal": 44,
@@ -15,21 +20,6 @@
     },
     {
       "position": 2,
-      "text": "שָׁחוּט",
-      "lemma": "7819 a",
-      "morph": "HVqsmsa",
-      "strongs": [
-        "H7819"
-      ],
-      "metadata": {},
-      "gematria": {
-        "standard": 323,
-        "ordinal": 44,
-        "reduced": 26
-      }
-    },
-    {
-      "position": 3,
       "text": "חֵץ",
       "lemma": "2671",
       "morph": "HNcmsa",
@@ -41,6 +31,23 @@
         "standard": 98,
         "ordinal": 26,
         "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "שוחט",
+      "lemma": "7819 a",
+      "morph": "HVqrmsa",
+      "strongs": [
+        "H7819"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 323,
+        "ordinal": 44,
+        "reduced": 26
       }
     },
     {

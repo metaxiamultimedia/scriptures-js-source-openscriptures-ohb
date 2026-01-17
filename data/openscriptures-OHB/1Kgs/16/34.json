@@ -1,5 +1,5 @@
 {
-  "text": "בְּיָמָיו בָּנָה חִיאֵל בֵּית הָאֱלִי אֶת יְרִיחֹה בַּאֲבִירָם בְּכֹרוֹ יִסְּדָהּ צְעִירוֹ הִצִּיב דְּלָתֶיהָ כִּדְבַר יְהוָה אֲשֶׁר דִּבֶּר בְּיַד יְהוֹשֻׁעַ בִּן נוּן ובשגיב וּבִשְׂגוּב",
+  "text": "בְּיָמָיו בָּנָה חִיאֵל בֵּית הָאֱלִי אֶת יְרִיחֹה בַּאֲבִירָם בְּכֹרוֹ יִסְּדָהּ ובשגיב צְעִירוֹ הִצִּיב דְּלָתֶיהָ כִּדְבַר יְהוָה אֲשֶׁר דִּבֶּר בְּיַד יְהוֹשֻׁעַ בִּן נוּן וּבִשְׂגוּב",
   "words": [
     {
       "position": 1,
@@ -111,6 +111,9 @@
       "text": "בַּאֲבִירָם",
       "lemma": "b/48",
       "morph": "HR/Np",
+      "strongs": [
+        "H48"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 255,
@@ -150,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "ובשגיב",
+      "lemma": "c/b/7687",
+      "morph": "HC/R/Np",
+      "strongs": [
+        "H7687"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 323,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
       "text": "צְעִירוֹ",
       "lemma": "6810",
       "morph": "HAamsc/Sp3ms",
@@ -164,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הִצִּיב",
       "lemma": "5324",
       "morph": "HVhp3ms",
@@ -179,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "דְּלָתֶיהָ",
       "lemma": "1817 c",
       "morph": "HNcfdc/Sp3fs",
@@ -194,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כִּדְבַר",
       "lemma": "k/1697",
       "morph": "HR/Ncmsc",
@@ -209,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -224,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -239,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "דִּבֶּר",
       "lemma": "1696",
       "morph": "HVpp3ms",
@@ -254,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בְּיַד",
       "lemma": "b/3027",
       "morph": "HR/Ncbsc",
@@ -269,7 +289,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "יְהוֹשֻׁעַ",
       "lemma": "3091",
       "morph": "HNp",
@@ -284,7 +304,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "בִּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -299,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "נוּן",
       "lemma": "5126",
       "morph": "HNp",
@@ -314,18 +334,6 @@
       }
     },
     {
-      "position": 22,
-      "text": "ובשגיב",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 323,
-        "ordinal": 44,
-        "reduced": 17
-      }
-    },
-    {
       "position": 23,
       "text": "וּבִשְׂגוּב",
       "lemma": "c/b/7687",
@@ -333,7 +341,9 @@
       "strongs": [
         "H7687"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 319,
         "ordinal": 40,

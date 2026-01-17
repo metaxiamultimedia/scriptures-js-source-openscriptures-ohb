@@ -1,5 +1,5 @@
 {
-  "text": "כְּתֵפֹת עָשׂוּ לוֹ חֹבְרֹת עַל שְׁנֵי חֻבָּר קצוותו קְצוֹתָיו",
+  "text": "כְּתֵפֹת עָשׂוּ לוֹ חֹבְרֹת עַל שְׁנֵי קצוותו חֻבָּר קְצוֹתָיו",
   "words": [
     {
       "position": 1,
@@ -36,7 +36,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -90,6 +92,23 @@
     },
     {
       "position": 7,
+      "text": "קצוותו",
+      "lemma": "7117",
+      "morph": "HNcfpc/Sp3ms",
+      "strongs": [
+        "H7117"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 608,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
       "text": "חֻבָּר",
       "lemma": "2266",
       "morph": "HVPp3ms",
@@ -104,18 +123,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "קצוותו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 608,
-        "ordinal": 77,
-        "reduced": 32
-      }
-    },
-    {
       "position": 9,
       "text": "קְצוֹתָיו",
       "lemma": "7098",
@@ -123,7 +130,9 @@
       "strongs": [
         "H7098"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 612,
         "ordinal": 81,

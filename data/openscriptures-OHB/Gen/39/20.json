@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּקַּח אֲדֹנֵי יוֹסֵף אֹתוֹ וַיִּתְּנֵהוּ אֶל בֵּית הַסֹּהַר מְקוֹם אֲשֶׁר הַמֶּלֶךְ אֲסוּרִים וַיְהִי שָׁם בְּבֵית הַסֹּהַר אסורי אֲסִירֵי",
+  "text": "וַיִּקַּח אֲדֹנֵי יוֹסֵף אֹתוֹ וַיִּתְּנֵהוּ אֶל בֵּית הַסֹּהַר מְקוֹם אֲשֶׁר אסורי הַמֶּלֶךְ אֲסוּרִים וַיְהִי שָׁם בְּבֵית הַסֹּהַר אֲסִירֵי",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "אסורי",
+      "lemma": "631",
+      "morph": "HVqsmpc",
+      "strongs": [
+        "H631"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 277,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
       "text": "הַמֶּלֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֲסוּרִים",
       "lemma": "631",
       "morph": "HVqsmpa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וַיְהִי",
       "lemma": "c/1961",
       "morph": "HC/Vqw3ms",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "שָׁם",
       "lemma": "8033",
       "morph": "HD",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בְּבֵית",
       "lemma": "b/1004 b",
       "morph": "HR/Ncmsc",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַסֹּהַר",
       "lemma": "d/5470",
       "morph": "HTd/Ncmsa",
@@ -242,18 +259,6 @@
       }
     },
     {
-      "position": 17,
-      "text": "אסורי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 277,
-        "ordinal": 52,
-        "reduced": 16
-      }
-    },
-    {
       "position": 18,
       "text": "אֲסִירֵי",
       "lemma": "615",
@@ -261,7 +266,9 @@
       "strongs": [
         "H615"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 281,
         "ordinal": 56,

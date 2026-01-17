@@ -1,5 +1,5 @@
 {
-  "text": "וְהֶחָלוּץ הֹלֵךְ לִפְנֵי הַכֹּהֲנִים הַשּׁוֹפָרוֹת וְהַמְאַסֵּף הֹלֵךְ אַחֲרֵי הָאָרוֹן הָלוֹךְ וְתָקוֹעַ בַּשּׁוֹפָרוֹת תקעו תֹּקְעֵי",
+  "text": "וְהֶחָלוּץ הֹלֵךְ לִפְנֵי הַכֹּהֲנִים תקעו הַשּׁוֹפָרוֹת וְהַמְאַסֵּף הֹלֵךְ אַחֲרֵי הָאָרוֹן הָלוֹךְ וְתָקוֹעַ בַּשּׁוֹפָרוֹת תֹּקְעֵי",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "תקעו",
+      "lemma": "8628",
+      "morph": "HVqp3cp",
+      "strongs": [
+        "H8628"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 576,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
       "text": "הַשּׁוֹפָרוֹת",
       "lemma": "d/7782",
       "morph": "HTd/Ncmpa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְהַמְאַסֵּף",
       "lemma": "c/d/622",
       "morph": "HC/Td/Vprmsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הֹלֵךְ",
       "lemma": "1980",
       "morph": "HVqrmsa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אַחֲרֵי",
       "lemma": "310 a",
       "morph": "HR",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הָאָרוֹן",
       "lemma": "d/727",
       "morph": "HTd/Ncbsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הָלוֹךְ",
       "lemma": "1980",
       "morph": "HVqa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְתָקוֹעַ",
       "lemma": "c/8628",
       "morph": "HC/Vqa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בַּשּׁוֹפָרוֹת",
       "lemma": "b/7782",
       "morph": "HRd/Ncmpa",
@@ -182,18 +199,6 @@
       }
     },
     {
-      "position": 13,
-      "text": "תקעו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 576,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
       "position": 14,
       "text": "תֹּקְעֵי",
       "lemma": "8628",
@@ -201,7 +206,9 @@
       "strongs": [
         "H8628"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 580,
         "ordinal": 67,

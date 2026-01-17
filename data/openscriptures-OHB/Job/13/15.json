@@ -1,5 +1,5 @@
 {
-  "text": "הֵן יִקְטְלֵנִי אֲיַחֵל אַךְ דְּרָכַי אֶל פָּנָיו אוֹכִיחַ לא לוֹ",
+  "text": "הֵן יִקְטְלֵנִי לא אֲיַחֵל אַךְ דְּרָכַי אֶל פָּנָיו אוֹכִיחַ לוֹ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "לא",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 13,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
       "text": "אֲיַחֵל",
       "lemma": "3176",
       "morph": "HVpi1cs",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אַךְ",
       "lemma": "389",
       "morph": "HTa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "דְּרָכַי",
       "lemma": "1870",
       "morph": "HNcbpc/Sp1cs",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "פָּנָיו",
       "lemma": "6440",
       "morph": "HNcbpc/Sp3ms",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אוֹכִיחַ",
       "lemma": "3198",
       "morph": "HVhi1cs",
@@ -122,23 +139,14 @@
       }
     },
     {
-      "position": 9,
-      "text": "לא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
-      }
-    },
-    {
       "position": 10,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isQere": true,
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

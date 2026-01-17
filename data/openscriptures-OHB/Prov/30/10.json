@@ -1,5 +1,5 @@
 {
-  "text": "אַל תַּלְשֵׁן עֶבֶד אֶל פֶּן יְקַלֶּלְךָ וְאָשָׁמְתָּ אדנו אֲדֹנָיו",
+  "text": "אַל תַּלְשֵׁן עֶבֶד אֶל אדנו פֶּן יְקַלֶּלְךָ וְאָשָׁמְתָּ אֲדֹנָיו",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "אדנו",
+      "lemma": "113",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H113"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
       "text": "פֶּן",
       "lemma": "6435",
       "morph": "HC",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יְקַלֶּלְךָ",
       "lemma": "7043",
       "morph": "HVpi3ms/Sp2ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְאָשָׁמְתָּ",
       "lemma": "c/816",
       "morph": "HC/Vqq2ms",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "אדנו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 25,
-        "reduced": 16
-      }
-    },
-    {
       "position": 9,
       "text": "אֲדֹנָיו",
       "lemma": "113",
@@ -126,7 +131,9 @@
       "strongs": [
         "H113"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 71,
         "ordinal": 35,

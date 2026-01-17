@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּלְכוּ אַחֲרֵיהֶם עַד הַיַּרְדֵּן וְהִנֵּה כָל הַדֶּרֶךְ מְלֵאָה בְגָדִים וְכֵלִים אֲשֶׁר הִשְׁלִיכוּ אֲרָם וַיָּשֻׁבוּ הַמַּלְאָכִים וַיַּגִּדוּ לַמֶּלֶךְ בהחפזם בְּחָפְזָם",
+  "text": "וַיֵּלְכוּ אַחֲרֵיהֶם עַד הַיַּרְדֵּן וְהִנֵּה כָל הַדֶּרֶךְ מְלֵאָה בְגָדִים וְכֵלִים אֲשֶׁר הִשְׁלִיכוּ אֲרָם בהחפזם וַיָּשֻׁבוּ הַמַּלְאָכִים וַיַּגִּדוּ לַמֶּלֶךְ בְּחָפְזָם",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "בהחפזם",
+      "lemma": "b/2648",
+      "morph": "HR/VNc/Sp3mp",
+      "strongs": [
+        "H2648"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 142,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
       "text": "וַיָּשֻׁבוּ",
       "lemma": "c/7725",
       "morph": "HC/Vqw3mp",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַמַּלְאָכִים",
       "lemma": "d/4397",
       "morph": "HTd/Ncmpa",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וַיַּגִּדוּ",
       "lemma": "c/5046",
       "morph": "HC/Vhw3mp",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לַמֶּלֶךְ",
       "lemma": "l/4428",
       "morph": "HRd/Ncmsa",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "בהחפזם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 142,
-        "ordinal": 52,
-        "reduced": 34
-      }
-    },
-    {
       "position": 19,
       "text": "בְּחָפְזָם",
       "lemma": "b/2648",
@@ -276,7 +281,9 @@
       "strongs": [
         "H2648"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 137,
         "ordinal": 47,

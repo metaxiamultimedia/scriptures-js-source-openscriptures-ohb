@@ -1,5 +1,5 @@
 {
-  "text": "וְאָנֹכִי אָמַרְתִּי אֵיךְ אֲשִׁיתֵךְ בַּבָּנִים וְאֶתֶּן לָךְ אֶרֶץ חֶמְדָּה נַחֲלַת צְבִי צִבְאוֹת גּוֹיִם וָאֹמַר אָבִי לִי וּמֵאַחֲרַי לֹא תקראו תִּקְרְאִי תשובו תָשׁוּבִי",
+  "text": "וְאָנֹכִי אָמַרְתִּי אֵיךְ אֲשִׁיתֵךְ בַּבָּנִים וְאֶתֶּן לָךְ אֶרֶץ חֶמְדָּה נַחֲלַת צְבִי צִבְאוֹת גּוֹיִם וָאֹמַר אָבִי תקראו לִי וּמֵאַחֲרַי לֹא תשובו תִּקְרְאִי תָשׁוּבִי",
   "words": [
     {
       "position": 1,
@@ -96,7 +96,9 @@
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -213,6 +215,9 @@
       "text": "אָבִי",
       "lemma": "1",
       "morph": "HNcmsc/Sp1cs",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 13,
@@ -222,6 +227,23 @@
     },
     {
       "position": 16,
+      "text": "תקראו",
+      "lemma": "7121",
+      "morph": "HVqi2mp",
+      "strongs": [
+        "H7121"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 707,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
       "text": "לִי",
       "lemma": "l/7121",
       "morph": "HR/Sp1cs",
@@ -236,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וּמֵאַחֲרַי",
       "lemma": "c/m/310 a",
       "morph": "HC/R/R/Sp1cs",
@@ -251,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -266,42 +288,37 @@
       }
     },
     {
-      "position": 19,
-      "text": "תקראו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "position": 20,
+      "text": "תשובו",
+      "lemma": "7725",
+      "morph": "HVqi2mp",
+      "strongs": [
+        "H7725"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
-        "standard": 707,
-        "ordinal": 68,
-        "reduced": 14
+        "standard": 714,
+        "ordinal": 57,
+        "reduced": 21
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "תִּקְרְאִי",
       "lemma": "7121",
       "morph": "HVqi2fs",
       "strongs": [
         "H7121"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 711,
         "ordinal": 72,
         "reduced": 9
-      }
-    },
-    {
-      "position": 21,
-      "text": "תשובו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 714,
-        "ordinal": 57,
-        "reduced": 21
       }
     },
     {
@@ -312,7 +329,9 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 718,
         "ordinal": 61,

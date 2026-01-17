@@ -1,5 +1,5 @@
 {
-  "text": "וְלֹא אַשְׁמִיעַ אֵלַיִךְ עוֹד כְּלִמַּת הַגּוֹיִם וְחֶרְפַּת עַמִּים לֹא תִשְׂאִי עוֹד לֹא תַכְשִׁלִי עוֹד נְאֻם אֲדֹנָי יְהוִה וגויך וְגוֹיַיִךְ",
+  "text": "וְלֹא אַשְׁמִיעַ אֵלַיִךְ עוֹד כְּלִמַּת הַגּוֹיִם וְחֶרְפַּת עַמִּים לֹא תִשְׂאִי עוֹד וגויך לֹא תַכְשִׁלִי עוֹד נְאֻם אֲדֹנָי יְהוִה וְגוֹיַיִךְ",
   "words": [
     {
       "position": 1,
@@ -168,6 +168,23 @@
     },
     {
       "position": 12,
+      "text": "וגויך",
+      "lemma": "c/1471 a",
+      "morph": "HC/Ncmsc/Sp2fs",
+      "strongs": [
+        "H1471"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "תַכְשִׁלִי",
       "lemma": "3782",
       "morph": "HVhi2fs",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עוֹד",
       "lemma": "5750",
       "morph": "HD",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "נְאֻם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -227,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֲדֹנָי",
       "lemma": "136",
       "morph": "HNcmpc/Sp1cs",
@@ -242,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "יְהוִה",
       "lemma": "3069",
       "morph": "HNp",
@@ -257,18 +274,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "וגויך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 36,
-        "reduced": 18
-      }
-    },
-    {
       "position": 19,
       "text": "וְגוֹיַיִךְ",
       "lemma": "c/1471 a",
@@ -276,7 +281,9 @@
       "strongs": [
         "H1471"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 55,
         "ordinal": 46,

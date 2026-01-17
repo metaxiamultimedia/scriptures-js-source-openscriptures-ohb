@@ -111,7 +111,9 @@
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -138,7 +140,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,
@@ -178,9 +182,14 @@
     {
       "position": 13,
       "text": "מתזנתך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "m/8457",
+      "morph": "HR/Ncfsc/Sp2fs",
+      "strongs": [
+        "H8457"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 917,
         "ordinal": 89,
@@ -195,7 +204,9 @@
       "strongs": [
         "H8457"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 933,
         "ordinal": 105,

@@ -21,7 +21,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,
@@ -76,9 +78,14 @@
     {
       "position": 6,
       "text": "חסדו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "2617 a",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H2617"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 78,
         "ordinal": 33,
@@ -93,7 +100,9 @@
       "strongs": [
         "H2617"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 88,
         "ordinal": 43,

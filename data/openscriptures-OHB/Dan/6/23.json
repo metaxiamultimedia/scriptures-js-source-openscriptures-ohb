@@ -1,27 +1,17 @@
 {
-  "text": "קדמיך קָדָמָךְ אֱלָהִי שְׁלַח מַלְאֲכֵהּ וּסֲגַר פֻּם אַרְיָוָתָא וְלָא חַבְּלוּנִי כָּל קֳבֵל דִּי קָדָמוֹהִי זָכוּ הִשְׁתְּכַחַת לִי וְאַף מַלְכָּא חֲבוּלָה לָא עַבְדֵת",
+  "text": "קָדָמָךְ אֱלָהִי שְׁלַח מַלְאֲכֵהּ וּסֲגַר פֻּם אַרְיָוָתָא וְלָא חַבְּלוּנִי כָּל קֳבֵל דִּי קָדָמוֹהִי זָכוּ הִשְׁתְּכַחַת לִי וְאַף קדמיך מַלְכָּא חֲבוּלָה לָא עַבְדֵת",
   "words": [
     {
       "position": 1,
-      "text": "קדמיך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 174,
-        "ordinal": 57,
-        "reduced": 12
-      }
-    },
-    {
-      "position": 2,
       "text": "קָדָמָךְ",
       "lemma": "6925",
       "morph": "AR/Sp2ms",
       "strongs": [
         "H6925"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 164,
         "ordinal": 47,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "אֱלָהִי",
       "lemma": "426",
       "morph": "ANcmsc/Sp1cs",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "שְׁלַח",
       "lemma": "7972",
       "morph": "AVqp3ms",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "מַלְאֲכֵהּ",
       "lemma": "4398",
       "morph": "ANcmsc/Sp3ms",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "וּסֲגַר",
       "lemma": "c/5463",
       "morph": "AC/Vqp3ms",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "פֻּם",
       "lemma": "6433",
       "morph": "ANcmsc",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "אַרְיָוָתָא",
       "lemma": "744",
       "morph": "ANcmpd/Td",
@@ -119,7 +109,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "וְלָא",
       "lemma": "c/3809",
       "morph": "AC/Tn",
@@ -134,7 +124,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 9,
       "text": "חַבְּלוּנִי",
       "lemma": "2255",
       "morph": "AVpp3mp/Sp1cs",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 10,
       "text": "כָּל",
       "lemma": "k/3606",
       "morph": "AC/C",
@@ -164,7 +154,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 11,
       "text": "קֳבֵל",
       "lemma": "6903",
       "morph": "AC",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 12,
       "text": "דִּי",
       "lemma": "1768",
       "morph": "AC",
@@ -194,7 +184,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 13,
       "text": "קָדָמוֹהִי",
       "lemma": "6925",
       "morph": "AR/Sp3ms",
@@ -209,7 +199,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 14,
       "text": "זָכוּ",
       "lemma": "2136",
       "morph": "ANcfsa",
@@ -224,7 +214,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 15,
       "text": "הִשְׁתְּכַחַת",
       "lemma": "7912",
       "morph": "AVup3fs",
@@ -239,11 +229,13 @@
       }
     },
     {
-      "position": 17,
+      "position": 16,
       "text": "לִי",
       "lemma": "l",
       "morph": "AR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -251,7 +243,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 17,
       "text": "וְאַף",
       "lemma": "c/638",
       "morph": "AC/Ta",
@@ -263,6 +255,23 @@
         "standard": 87,
         "ordinal": 24,
         "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "קדמיך",
+      "lemma": "6925",
+      "morph": "AR/Sp2ms",
+      "strongs": [
+        "H6925"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 174,
+        "ordinal": 57,
+        "reduced": 12
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "text": "זָכוֹר תִּזְכּוֹר עָלַי נַפְשִׁי ותשיח וְתָשׁוֹחַ",
+  "text": "זָכוֹר תִּזְכּוֹר ותשיח עָלַי נַפְשִׁי וְתָשׁוֹחַ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "ותשיח",
+      "lemma": "c/7743",
+      "morph": "HC/Vhi3fs",
+      "strongs": [
+        "H7743"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 724,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
       "text": "עָלַי",
       "lemma": "5921 a",
       "morph": "HR/Sp1cs",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "נַפְשִׁי",
       "lemma": "5315",
       "morph": "HNcbsc/Sp1cs",
@@ -62,18 +79,6 @@
       }
     },
     {
-      "position": 5,
-      "text": "ותשיח",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 724,
-        "ordinal": 67,
-        "reduced": 22
-      }
-    },
-    {
       "position": 6,
       "text": "וְתָשׁוֹחַ",
       "lemma": "c/7743",
@@ -81,7 +86,9 @@
       "strongs": [
         "H7743"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 720,
         "ordinal": 63,

@@ -1,5 +1,5 @@
 {
-  "text": "וּמִן בְּנֵי אֱלִיצָפָן שִׁמְרִי וּמִן בְּנֵי אָסָף זְכַרְיָהוּ וּמַתַּנְיָהוּ ויעואל וִיעִיאֵל",
+  "text": "וּמִן בְּנֵי אֱלִיצָפָן שִׁמְרִי ויעואל וּמִן בְּנֵי אָסָף זְכַרְיָהוּ וּמַתַּנְיָהוּ וִיעִיאֵל",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "ויעואל",
+      "lemma": "c/3273",
+      "morph": "HC/Np",
+      "strongs": [
+        "H3273"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 123,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
       "text": "וּמִן",
       "lemma": "c/4480 a",
       "morph": "HC/R",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אָסָף",
       "lemma": "623",
       "morph": "HNp",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "זְכַרְיָהוּ",
       "lemma": "2148 a",
       "morph": "HNp",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וּמַתַּנְיָהוּ",
       "lemma": "c/4983",
       "morph": "HC/Np",
@@ -137,18 +154,6 @@
       }
     },
     {
-      "position": 10,
-      "text": "ויעואל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 123,
-        "ordinal": 51,
-        "reduced": 24
-      }
-    },
-    {
       "position": 11,
       "text": "וִיעִיאֵל",
       "lemma": "c/3273",
@@ -156,7 +161,9 @@
       "strongs": [
         "H3273"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 127,
         "ordinal": 55,

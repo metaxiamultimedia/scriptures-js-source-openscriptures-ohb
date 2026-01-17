@@ -1,27 +1,17 @@
 {
-  "text": "בהלכותם בַּהֲלִיכָתָם יִזְכֹּר אַדִּירָיו יִכָּשְׁלוּ יְמַהֲרוּ חוֹמָתָהּ וְהֻכַן הַסֹּכֵךְ",
+  "text": "בַּהֲלִיכָתָם יִזְכֹּר אַדִּירָיו יִכָּשְׁלוּ בהלכותם יְמַהֲרוּ חוֹמָתָהּ וְהֻכַן הַסֹּכֵךְ",
   "words": [
     {
       "position": 1,
-      "text": "בהלכותם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 503,
-        "ordinal": 71,
-        "reduced": 26
-      }
-    },
-    {
-      "position": 2,
       "text": "בַּהֲלִיכָתָם",
       "lemma": "b/1979",
       "morph": "HR/Ncfsc/Sp3mp",
       "strongs": [
         "H1979"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 507,
         "ordinal": 75,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יִזְכֹּר",
       "lemma": "2142",
       "morph": "HVqi3ms",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "אַדִּירָיו",
       "lemma": "117",
       "morph": "HAampc/Sp3ms",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "יִכָּשְׁלוּ",
       "lemma": "3782",
       "morph": "HVNi3mp",
@@ -71,6 +61,23 @@
         "standard": 366,
         "ordinal": 60,
         "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "בהלכותם",
+      "lemma": "b/1979",
+      "morph": "HR/Ncfpc/Sp3mp",
+      "strongs": [
+        "H1979"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 503,
+        "ordinal": 71,
+        "reduced": 26
       }
     },
     {

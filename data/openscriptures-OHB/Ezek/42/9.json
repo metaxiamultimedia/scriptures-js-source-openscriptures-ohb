@@ -1,8 +1,42 @@
 {
-  "text": "הָאֵלֶּה מֵהַקָּדִים בְּבֹאוֹ לָהֵנָּה מֵהֶחָצֵר הַחִצֹנָה ומתחתה לשכות המבוא הַמֵּבִיא",
+  "text": "ומתחתה לשכות הָאֵלֶּה המבוא מֵהַקָּדִים בְּבֹאוֹ לָהֵנָּה מֵהֶחָצֵר הַחִצֹנָה וּמִתַּחַת הַלְּשָׁכוֹת הַמֵּבִיא",
   "words": [
     {
       "position": 1,
+      "text": "ומתחתה",
+      "lemma": "c/m/8478",
+      "morph": "HC/R/R/Sd",
+      "strongs": [
+        "H8478"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 859,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "לשכות",
+      "lemma": "3957",
+      "morph": "HNcfpa",
+      "strongs": [
+        "H3957"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 756,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
       "text": "הָאֵלֶּה",
       "lemma": "d/428",
       "morph": "HTd/Pdxcp",
@@ -17,7 +51,24 @@
       }
     },
     {
-      "position": 2,
+      "position": 4,
+      "text": "המבוא",
+      "lemma": "d/3996",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H3996"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 54,
+        "ordinal": 27,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
       "text": "מֵהַקָּדִים",
       "lemma": "m/d/6921",
       "morph": "HR/Td/Ncmsa",
@@ -32,7 +83,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 6,
       "text": "בְּבֹאוֹ",
       "lemma": "b/935",
       "morph": "HR/Vqc/Sp3ms",
@@ -47,7 +98,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 7,
       "text": "לָהֵנָּה",
       "lemma": "l/2007",
       "morph": "HR/Pp3fp",
@@ -62,7 +113,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 8,
       "text": "מֵהֶחָצֵר",
       "lemma": "m/d/2691 a",
       "morph": "HR/Td/Ncbsa",
@@ -77,7 +128,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 9,
       "text": "הַחִצֹנָה",
       "lemma": "d/2435",
       "morph": "HTd/Aafsa",
@@ -92,50 +143,50 @@
       }
     },
     {
-      "position": 7,
-      "text": "ומתחתה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 859,
-        "ordinal": 76,
-        "reduced": 31
-      }
-    },
-    {
-      "position": 8,
-      "text": "לשכות",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 756,
-        "ordinal": 72,
-        "reduced": 18
-      }
-    },
-    {
-      "position": 9,
-      "text": "המבוא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 54,
-        "ordinal": 27,
-        "reduced": 18
-      }
-    },
-    {
       "position": 10,
+      "text": "וּמִתַּחַת",
+      "lemma": "c/m/8478",
+      "morph": "HC/R/R",
+      "strongs": [
+        "H8478"
+      ],
+      "metadata": {
+        "isQere": true
+      },
+      "gematria": {
+        "standard": 854,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "הַלְּשָׁכוֹת",
+      "lemma": "d/3957",
+      "morph": "HTd/Ncfpa",
+      "strongs": [
+        "H3957"
+      ],
+      "metadata": {
+        "isQere": true
+      },
+      "gematria": {
+        "standard": 761,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
       "text": "הַמֵּבִיא",
       "lemma": "d/935",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H935"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 58,
         "ordinal": 31,
@@ -144,8 +195,8 @@
     }
   ],
   "gematria": {
-    "standard": 2569,
-    "ordinal": 454,
-    "reduced": 202
+    "standard": 4184,
+    "ordinal": 602,
+    "reduced": 251
   }
 }

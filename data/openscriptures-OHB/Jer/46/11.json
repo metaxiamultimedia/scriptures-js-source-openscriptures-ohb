@@ -1,5 +1,5 @@
 {
-  "text": "עֲלִי גִלְעָד וּקְחִי צֳרִי בְּתוּלַת בַּת מִצְרָיִם לַשָּׁוְא רְפֻאוֹת תְּעָלָה אֵין לָךְ הרביתי הִרְבֵּית",
+  "text": "עֲלִי גִלְעָד וּקְחִי צֳרִי בְּתוּלַת בַּת מִצְרָיִם לַשָּׁוְא הרביתי רְפֻאוֹת תְּעָלָה אֵין לָךְ הִרְבֵּית",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "הרביתי",
+      "lemma": "7235 a",
+      "morph": "HVhp1cs",
+      "strongs": [
+        "H7235"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 627,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
       "text": "רְפֻאוֹת",
       "lemma": "7499",
       "morph": "HNcfpa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "תְּעָלָה",
       "lemma": "8585 b",
       "morph": "HNcfsa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֵין",
       "lemma": "369",
       "morph": "HTn",
@@ -167,27 +184,17 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לָךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
         "reduced": 5
-      }
-    },
-    {
-      "position": 13,
-      "text": "הרביתי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 627,
-        "ordinal": 69,
-        "reduced": 15
       }
     },
     {
@@ -198,7 +205,9 @@
       "strongs": [
         "H7235"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 617,
         "ordinal": 59,

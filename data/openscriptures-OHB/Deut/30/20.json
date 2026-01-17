@@ -111,7 +111,9 @@
       "text": "בוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 8,
         "ordinal": 8,
@@ -288,6 +290,9 @@
       "text": "לַאֲבֹתֶיךָ",
       "lemma": "l/1",
       "morph": "HR/Ncmpc/Sp2ms",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 463,
@@ -300,6 +305,9 @@
       "text": "לְאַבְרָהָם",
       "lemma": "l/85",
       "morph": "HR/Np",
+      "strongs": [
+        "H85"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 278,
@@ -357,7 +365,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,

@@ -21,6 +21,9 @@
       "text": "בַּאֲבֹתֶיךָ",
       "lemma": "b/1",
       "morph": "HR/Ncmpc/Sp2ms",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 435,
@@ -138,7 +141,9 @@
       "text": "בָּכֶם",
       "lemma": "b",
       "morph": "HR/Sp2mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 62,
         "ordinal": 26,

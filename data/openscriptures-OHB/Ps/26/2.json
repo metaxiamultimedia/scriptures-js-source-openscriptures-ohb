@@ -1,5 +1,5 @@
 {
-  "text": "בְּחָנֵנִי יְהוָה וְנַסֵּנִי כִלְיוֹתַי וְלִבִּי צרופה צָרְפָה",
+  "text": "בְּחָנֵנִי יְהוָה וְנַסֵּנִי צרופה כִלְיוֹתַי וְלִבִּי צָרְפָה",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "צרופה",
+      "lemma": "6884",
+      "morph": "HVqv2ms/Sh",
+      "strongs": [
+        "H6884"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 381,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
       "text": "כִלְיוֹתַי",
       "lemma": "3629",
       "morph": "HNcfpc/Sp1cs",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְלִבִּי",
       "lemma": "c/3820 a",
       "morph": "HC/Ncmsc/Sp1cs",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "צרופה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 381,
-        "ordinal": 66,
-        "reduced": 30
-      }
-    },
-    {
       "position": 7,
       "text": "צָרְפָה",
       "lemma": "6884",
@@ -96,7 +101,9 @@
       "strongs": [
         "H6884"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 375,
         "ordinal": 60,

@@ -1,5 +1,5 @@
 {
-  "text": "הֶן אֵלֶּה קְצוֹת וּמַה שֵּׁמֶץ דָּבָר נִשְׁמַע בּוֹ וְרַעַם מִי יִתְבּוֹנָן דרכו דְּרָכָיו גבורתו גְּבוּרוֹתָיו",
+  "text": "הֶן אֵלֶּה קְצוֹת דרכו וּמַה שֵּׁמֶץ דָּבָר נִשְׁמַע בּוֹ וְרַעַם גבורתו מִי יִתְבּוֹנָן דְּרָכָיו גְּבוּרוֹתָיו",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "דרכו",
+      "lemma": "1870",
+      "morph": "HNcbpc/Sp3ms",
+      "strongs": [
+        "H1870"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 230,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
       "text": "וּמַה",
       "lemma": "c/4100",
       "morph": "HC/Ti",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "שֵּׁמֶץ",
       "lemma": "8102",
       "morph": "HNcmsc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "דָּבָר",
       "lemma": "1697",
       "morph": "HNcmsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "נִשְׁמַע",
       "lemma": "8085",
       "morph": "HVqi1cp",
@@ -107,11 +124,13 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בּוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 8,
         "ordinal": 8,
@@ -119,7 +138,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְרַעַם",
       "lemma": "c/7482",
       "morph": "HC/Ncmsc",
@@ -134,7 +153,24 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
+      "text": "גבורתו",
+      "lemma": "1369",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H1369"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 617,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
       "text": "מִי",
       "lemma": "4310",
       "morph": "HTi",
@@ -149,7 +185,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "יִתְבּוֹנָן",
       "lemma": "995",
       "morph": "HVri3ms",
@@ -164,42 +200,20 @@
       }
     },
     {
-      "position": 12,
-      "text": "דרכו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 230,
-        "ordinal": 41,
-        "reduced": 14
-      }
-    },
-    {
-      "position": 13,
+      "position": 14,
       "text": "דְּרָכָיו",
       "lemma": "1870",
       "morph": "HNcbpc/Sp3ms",
       "strongs": [
         "H1870"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 240,
         "ordinal": 51,
         "reduced": 15
-      }
-    },
-    {
-      "position": 14,
-      "text": "גבורתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 617,
-        "ordinal": 59,
-        "reduced": 23
       }
     },
     {
@@ -210,7 +224,9 @@
       "strongs": [
         "H1369"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 633,
         "ordinal": 75,

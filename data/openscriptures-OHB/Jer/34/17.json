@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵן כֹּה אָמַר יְהוָה אַתֶּם לֹא שְׁמַעְתֶּם אֵלַי לִקְרֹא דְרוֹר אִישׁ לְאָחִיו וְאִישׁ לְרֵעֵהוּ הִנְנִי קֹרֵא לָכֶם דְּרוֹר נְאֻם יְהוָה אֶל הַחֶרֶב אֶל הַדֶּבֶר וְאֶל הָרָעָב וְנָתַתִּי אֶתְכֶם לְכֹל מַמְלְכוֹת הָאָרֶץ לזועה לְזַעֲוָה",
+  "text": "לָכֵן כֹּה אָמַר יְהוָה אַתֶּם לֹא שְׁמַעְתֶּם אֵלַי לִקְרֹא דְרוֹר אִישׁ לְאָחִיו וְאִישׁ לְרֵעֵהוּ הִנְנִי קֹרֵא לָכֶם דְּרוֹר נְאֻם יְהוָה אֶל הַחֶרֶב אֶל הַדֶּבֶר וְאֶל הָרָעָב וְנָתַתִּי אֶתְכֶם לזועה לְכֹל מַמְלְכוֹת הָאָרֶץ לְזַעֲוָה",
   "words": [
     {
       "position": 1,
@@ -246,7 +246,9 @@
       "text": "לָכֶם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 90,
         "ordinal": 36,
@@ -420,6 +422,23 @@
     },
     {
       "position": 29,
+      "text": "לזועה",
+      "lemma": "l/2113",
+      "morph": "HR/Ncfsa",
+      "strongs": [
+        "H2113"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 118,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 30,
       "text": "לְכֹל",
       "lemma": "l/3605",
       "morph": "HR/Ncmsc",
@@ -434,7 +453,7 @@
       }
     },
     {
-      "position": 30,
+      "position": 31,
       "text": "מַמְלְכוֹת",
       "lemma": "4467",
       "morph": "HNcfpc",
@@ -449,7 +468,7 @@
       }
     },
     {
-      "position": 31,
+      "position": 32,
       "text": "הָאָרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -464,18 +483,6 @@
       }
     },
     {
-      "position": 32,
-      "text": "לזועה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 118,
-        "ordinal": 46,
-        "reduced": 28
-      }
-    },
-    {
       "position": 33,
       "text": "לְזַעֲוָה",
       "lemma": "l/2189",
@@ -483,7 +490,9 @@
       "strongs": [
         "H2189"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 118,
         "ordinal": 46,

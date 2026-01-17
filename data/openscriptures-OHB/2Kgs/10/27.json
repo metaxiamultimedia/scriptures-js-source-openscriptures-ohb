@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּתְּצוּ אֵת מַצְּבַת הַבָּעַל וַיִּתְּצוּ אֶת בֵּית הַבַּעַל וַיְשִׂמֻהוּ עַד הַיּוֹם למחראות לְמוֹצָאוֹת",
+  "text": "וַיִּתְּצוּ אֵת מַצְּבַת הַבָּעַל וַיִּתְּצוּ אֶת בֵּית הַבַּעַל וַיְשִׂמֻהוּ למחראות עַד הַיּוֹם לְמוֹצָאוֹת",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "למחראות",
+      "lemma": "l/4280",
+      "morph": "HR/Ncfpa",
+      "strongs": [
+        "H4280"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 685,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַיּוֹם",
       "lemma": "d/3117",
       "morph": "HTd/Ncmsa",
@@ -167,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "למחראות",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 685,
-        "ordinal": 82,
-        "reduced": 28
-      }
-    },
-    {
       "position": 13,
       "text": "לְמוֹצָאוֹת",
       "lemma": "l/4163",
@@ -186,7 +191,9 @@
       "strongs": [
         "H4163"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 573,
         "ordinal": 78,

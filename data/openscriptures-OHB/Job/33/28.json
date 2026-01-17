@@ -1,5 +1,5 @@
 {
-  "text": "פָּדָה מֵעֲבֹר בַּשָּׁחַת בָּאוֹר תִּרְאֶה נפשי נַפְשׁוֹ וחיתי וְחַיָּתוֹ",
+  "text": "פָּדָה נפשי מֵעֲבֹר בַּשָּׁחַת וחיתי בָּאוֹר תִּרְאֶה נַפְשׁוֹ וְחַיָּתוֹ",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "נפשי",
+      "lemma": "5315",
+      "morph": "HNcbsc/Sp1cs",
+      "strongs": [
+        "H5315"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 440,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
       "text": "מֵעֲבֹר",
       "lemma": "m/5674 a",
       "morph": "HR/Vqc",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "בַּשָּׁחַת",
       "lemma": "b/7845",
       "morph": "HRd/Ncfsa",
@@ -47,7 +64,24 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
+      "text": "וחיתי",
+      "lemma": "c/2416 c",
+      "morph": "HC/Ncfsc/Sp1cs",
+      "strongs": [
+        "H2416"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 434,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
       "text": "בָּאוֹר",
       "lemma": "b/216",
       "morph": "HRd/Ncbsa",
@@ -62,7 +96,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "תִּרְאֶה",
       "lemma": "7200",
       "morph": "HVqi3fs",
@@ -77,42 +111,20 @@
       }
     },
     {
-      "position": 6,
-      "text": "נפשי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 440,
-        "ordinal": 62,
-        "reduced": 17
-      }
-    },
-    {
-      "position": 7,
+      "position": 8,
       "text": "נַפְשׁוֹ",
       "lemma": "5315",
       "morph": "HNcbsc/Sp3ms",
       "strongs": [
         "H5315"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 436,
         "ordinal": 58,
         "reduced": 22
-      }
-    },
-    {
-      "position": 8,
-      "text": "וחיתי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 434,
-        "ordinal": 56,
-        "reduced": 20
       }
     },
     {
@@ -123,7 +135,9 @@
       "strongs": [
         "H2416"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 430,
         "ordinal": 52,

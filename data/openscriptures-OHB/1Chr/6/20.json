@@ -1,27 +1,17 @@
 {
-  "text": "ציף צוּף בֶּן בֶּן אֶלְקָנָה בֶּן מַחַת בֶּן עֲמָשָׂי",
+  "text": "צוּף בֶּן ציף בֶּן אֶלְקָנָה בֶּן מַחַת בֶּן עֲמָשָׂי",
   "words": [
     {
       "position": 1,
-      "text": "ציף",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 180,
-        "ordinal": 45,
-        "reduced": 18
-      }
-    },
-    {
-      "position": 2,
       "text": "צוּף",
       "lemma": "6689",
       "morph": "HNp",
       "strongs": [
         "H6689"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 176,
         "ordinal": 41,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -41,6 +31,23 @@
         "standard": 52,
         "ordinal": 16,
         "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "ציף",
+      "lemma": "6689",
+      "morph": "HNp",
+      "strongs": [
+        "H6689"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 180,
+        "ordinal": 45,
+        "reduced": 18
       }
     },
     {

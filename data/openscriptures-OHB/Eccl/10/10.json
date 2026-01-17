@@ -1,5 +1,5 @@
 {
-  "text": "אִם קֵהָה הַבַּרְזֶל וְהוּא לֹא פָנִים קִלְקַל וַחֲיָלִים יְגַבֵּר וְיִתְרוֹן חָכְמָה הכשיר הַכְשֵׁר",
+  "text": "אִם קֵהָה הַבַּרְזֶל וְהוּא לֹא פָנִים קִלְקַל וַחֲיָלִים יְגַבֵּר וְיִתְרוֹן הכשיר חָכְמָה הַכְשֵׁר",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,23 @@
     },
     {
       "position": 11,
+      "text": "הכשיר",
+      "lemma": "3787",
+      "morph": "HVhc",
+      "strongs": [
+        "H3787"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 535,
+        "ordinal": 67,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
       "text": "חָכְמָה",
       "lemma": "2451",
       "morph": "HNcfsa",
@@ -167,18 +184,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "הכשיר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 535,
-        "ordinal": 67,
-        "reduced": 13
-      }
-    },
-    {
       "position": 13,
       "text": "הַכְשֵׁר",
       "lemma": "3787",
@@ -186,7 +191,9 @@
       "strongs": [
         "H3787"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 525,
         "ordinal": 57,

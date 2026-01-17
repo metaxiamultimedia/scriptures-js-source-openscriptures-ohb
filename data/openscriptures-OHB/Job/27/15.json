@@ -1,8 +1,25 @@
 {
-  "text": "בַּמָּוֶת יִקָּבֵרוּ וְאַלְמְנֹתָיו לֹא תִבְכֶּינָה שרידו שְׂרִידָיו",
+  "text": "שרידו בַּמָּוֶת יִקָּבֵרוּ וְאַלְמְנֹתָיו לֹא תִבְכֶּינָה שְׂרִידָיו",
   "words": [
     {
       "position": 1,
+      "text": "שרידו",
+      "lemma": "8300",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H8300"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 520,
+        "ordinal": 61,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
       "text": "בַּמָּוֶת",
       "lemma": "b/4194",
       "morph": "HRd/Ncmsa",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "יִקָּבֵרוּ",
       "lemma": "6912",
       "morph": "HVNi3mp",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וְאַלְמְנֹתָיו",
       "lemma": "c/490",
       "morph": "HC/Ncfpc/Sp3ms",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "תִבְכֶּינָה",
       "lemma": "1058",
       "morph": "HVqi3fp",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "שרידו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 520,
-        "ordinal": 61,
-        "reduced": 16
-      }
-    },
-    {
       "position": 7,
       "text": "שְׂרִידָיו",
       "lemma": "8300",
@@ -96,7 +101,9 @@
       "strongs": [
         "H8300"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 530,
         "ordinal": 71,

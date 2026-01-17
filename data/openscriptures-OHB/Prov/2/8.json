@@ -1,5 +1,5 @@
 {
-  "text": "לִנְצֹר אָרְחוֹת מִשְׁפָּט וְדֶרֶךְ יִשְׁמֹר חסידו חֲסִידָיו",
+  "text": "לִנְצֹר אָרְחוֹת מִשְׁפָּט וְדֶרֶךְ חסידו יִשְׁמֹר חֲסִידָיו",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "חסידו",
+      "lemma": "2623",
+      "morph": "HAamsc/Sp3ms",
+      "strongs": [
+        "H2623"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 88,
+        "ordinal": 43,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
       "text": "יִשְׁמֹר",
       "lemma": "8104",
       "morph": "HVqi3ms",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "חסידו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 88,
-        "ordinal": 43,
-        "reduced": 25
-      }
-    },
-    {
       "position": 7,
       "text": "חֲסִידָיו",
       "lemma": "2623",
@@ -96,7 +101,9 @@
       "strongs": [
         "H2623"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 98,
         "ordinal": 53,

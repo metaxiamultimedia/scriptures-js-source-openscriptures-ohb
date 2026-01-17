@@ -1,27 +1,17 @@
 {
-  "text": "מיורדי מִיָּרְדִי יְהוָה הֶעֱלִיתָ מִן שְׁאוֹל נַפְשִׁי חִיִּיתַנִי בוֹר",
+  "text": "מִיָּרְדִי יְהוָה הֶעֱלִיתָ מִן שְׁאוֹל נַפְשִׁי חִיִּיתַנִי מיורדי בוֹר",
   "words": [
     {
       "position": 1,
-      "text": "מיורדי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 270,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
-      "position": 2,
       "text": "מִיָּרְדִי",
       "lemma": "m/3381",
       "morph": "HR/Vqc/Sp1cs",
       "strongs": [
         "H3381"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 264,
         "ordinal": 57,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יְהוָה",
       "lemma": "3068",
       "morph": "HNp",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "הֶעֱלִיתָ",
       "lemma": "5927",
       "morph": "HVhp2ms",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "שְׁאוֹל",
       "lemma": "7585",
       "morph": "HNp",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "נַפְשִׁי",
       "lemma": "5315",
       "morph": "HNcbsc/Sp1cs",
@@ -104,7 +94,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "חִיִּיתַנִי",
       "lemma": "2421",
       "morph": "HVpp2ms/Sp1cs",
@@ -116,6 +106,23 @@
         "standard": 488,
         "ordinal": 74,
         "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "מיורדי",
+      "lemma": "m/3381",
+      "morph": "HR/Vqrmpc",
+      "strongs": [
+        "H3381"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 270,
+        "ordinal": 63,
+        "reduced": 18
       }
     },
     {

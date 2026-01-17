@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּתְּנֵם בְּיַד הַגִּבְעֹנִים וַיֹּקִיעֻם בָּהָר לִפְנֵי יְהוָה וַיִּפְּלוּ יָחַד הֻמְתוּ בִּימֵי קָצִיר בָּרִאשֹׁנִים קְצִיר שְׂעֹרִים שבעתים שְׁבַעְתָּם והם וְהֵמָּה תחלת בִּתְחִלַּת",
+  "text": "וַיִּתְּנֵם בְּיַד הַגִּבְעֹנִים וַיֹּקִיעֻם בָּהָר לִפְנֵי יְהוָה וַיִּפְּלוּ שבעתים יָחַד והם הֻמְתוּ בִּימֵי קָצִיר בָּרִאשֹׁנִים תחלת קְצִיר שְׂעֹרִים שְׁבַעְתָּם וְהֵמָּה בִּתְחִלַּת",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "שבעתים",
+      "lemma": "7651",
+      "morph": "HAcfda",
+      "strongs": [
+        "H7651"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 822,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
       "text": "יָחַד",
       "lemma": "3162 a",
       "morph": "HNcmsa",
@@ -137,7 +154,24 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
+      "text": "והם",
+      "lemma": "c/1992",
+      "morph": "HC/Pp3mp",
+      "strongs": [
+        "H1992"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
       "text": "הֻמְתוּ",
       "lemma": "4191",
       "morph": "HVHp3cp",
@@ -152,7 +186,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "בִּימֵי",
       "lemma": "b/3117",
       "morph": "HR/Ncmpc",
@@ -167,7 +201,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "קָצִיר",
       "lemma": "7105 a",
       "morph": "HNcmsa",
@@ -182,7 +216,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "בָּרִאשֹׁנִים",
       "lemma": "b/7223",
       "morph": "HRd/Aampa",
@@ -197,7 +231,24 @@
       }
     },
     {
-      "position": 14,
+      "position": 16,
+      "text": "תחלת",
+      "lemma": "8462",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H8462"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 838,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
       "text": "קְצִיר",
       "lemma": "7105 a",
       "morph": "HNcmsc",
@@ -212,7 +263,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 18,
       "text": "שְׂעֹרִים",
       "lemma": "8184",
       "morph": "HNcfpa",
@@ -227,26 +278,16 @@
       }
     },
     {
-      "position": 16,
-      "text": "שבעתים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 822,
-        "ordinal": 84,
-        "reduced": 21
-      }
-    },
-    {
-      "position": 17,
+      "position": 19,
       "text": "שְׁבַעְתָּם",
       "lemma": "7651",
       "morph": "HAcmsc/Sp3mp",
       "strongs": [
         "H7651"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 812,
         "ordinal": 74,
@@ -254,42 +295,20 @@
       }
     },
     {
-      "position": 18,
-      "text": "והם",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 51,
-        "ordinal": 24,
-        "reduced": 15
-      }
-    },
-    {
-      "position": 19,
+      "position": 20,
       "text": "וְהֵמָּה",
       "lemma": "c/1992",
       "morph": "HC/Pp3mp",
       "strongs": [
         "H1992"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 56,
         "ordinal": 29,
         "reduced": 20
-      }
-    },
-    {
-      "position": 20,
-      "text": "תחלת",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 838,
-        "ordinal": 64,
-        "reduced": 19
       }
     },
     {
@@ -300,7 +319,9 @@
       "strongs": [
         "H8462"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 840,
         "ordinal": 66,

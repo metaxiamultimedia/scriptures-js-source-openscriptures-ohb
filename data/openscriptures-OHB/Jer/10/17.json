@@ -1,5 +1,5 @@
 {
-  "text": "אִסְפִּי מֵאֶרֶץ כִּנְעָתֵךְ בַּמָּצוֹר ישבתי יֹשֶׁבֶת",
+  "text": "אִסְפִּי מֵאֶרֶץ כִּנְעָתֵךְ ישבתי בַּמָּצוֹר יֹשֶׁבֶת",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "ישבתי",
+      "lemma": "3427",
+      "morph": "HVqrfsa",
+      "strongs": [
+        "H3427"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 722,
+        "ordinal": 65,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
       "text": "בַּמָּצוֹר",
       "lemma": "b/4692",
       "morph": "HRd/Ncmsa",
@@ -62,18 +79,6 @@
       }
     },
     {
-      "position": 5,
-      "text": "ישבתי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 722,
-        "ordinal": 65,
-        "reduced": 11
-      }
-    },
-    {
       "position": 6,
       "text": "יֹשֶׁבֶת",
       "lemma": "3427",
@@ -81,7 +86,9 @@
       "strongs": [
         "H3427"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 712,
         "ordinal": 55,

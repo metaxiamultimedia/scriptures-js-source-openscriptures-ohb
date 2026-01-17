@@ -441,7 +441,9 @@
       "text": "בוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 8,
         "ordinal": 8,
@@ -481,9 +483,14 @@
     {
       "position": 33,
       "text": "יצאו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "3318",
+      "morph": "HVqi3mp",
+      "strongs": [
+        "H3318"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 107,
         "ordinal": 35,
@@ -498,7 +505,9 @@
       "strongs": [
         "H3318"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 101,
         "ordinal": 29,

@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּכִינוּ הַמִּזְבֵּחַ עַל מְכוֹנֹתָיו כִּי בְּאֵימָה עֲלֵיהֶם מֵעַמֵּי הָאֲרָצוֹת עָלָיו עֹלוֹת לַיהוָה עֹלוֹת לַבֹּקֶר וְלָעָרֶב ויעל וַיַּעֲלוּ",
+  "text": "וַיָּכִינוּ הַמִּזְבֵּחַ עַל מְכוֹנֹתָיו כִּי בְּאֵימָה עֲלֵיהֶם מֵעַמֵּי הָאֲרָצוֹת ויעל עָלָיו עֹלוֹת לַיהוָה עֹלוֹת לַבֹּקֶר וְלָעָרֶב וַיַּעֲלוּ",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "ויעל",
+      "lemma": "c/5927",
+      "morph": "HC/Vhw3ms",
+      "strongs": [
+        "H5927"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 116,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
       "text": "עָלָיו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עֹלוֹת",
       "lemma": "5930 a",
       "morph": "HNcfpa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לַיהוָה",
       "lemma": "l/3068",
       "morph": "HR/Np",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עֹלוֹת",
       "lemma": "5930 a",
       "morph": "HNcfpa",
@@ -197,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "לַבֹּקֶר",
       "lemma": "l/1242",
       "morph": "HRd/Ncmsa",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְלָעָרֶב",
       "lemma": "c/l/6153",
       "morph": "HC/Rd/Ncmsa",
@@ -227,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "ויעל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 116,
-        "ordinal": 44,
-        "reduced": 17
-      }
-    },
-    {
       "position": 17,
       "text": "וַיַּעֲלוּ",
       "lemma": "c/5927",
@@ -246,7 +251,9 @@
       "strongs": [
         "H5927"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 122,
         "ordinal": 50,

@@ -36,6 +36,9 @@
       "text": "אֲבָנֶיהָ",
       "lemma": "68",
       "morph": "HNcfpc/Sp3fs",
+      "strongs": [
+        "H68"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 68,
@@ -78,7 +81,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

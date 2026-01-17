@@ -1,5 +1,5 @@
 {
-  "text": "בְּבֹא פַּחְדְּכֶם וְאֵידְכֶם כְּסוּפָה יֶאֱתֶה בְּבֹא עֲלֵיכֶם צָרָה וְצוּקָה כשאוה כְשׁוֹאָה",
+  "text": "בְּבֹא כשאוה פַּחְדְּכֶם וְאֵידְכֶם כְּסוּפָה יֶאֱתֶה בְּבֹא עֲלֵיכֶם צָרָה וְצוּקָה כְשׁוֹאָה",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "כשאוה",
+      "lemma": "k/7584",
+      "morph": "HR/Ncfsa",
+      "strongs": [
+        "H7584"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 332,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
       "text": "פַּחְדְּכֶם",
       "lemma": "6343",
       "morph": "HNcmsc/Sp2mp",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וְאֵידְכֶם",
       "lemma": "c/343",
       "morph": "HC/Ncmsc/Sp2mp",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "כְּסוּפָה",
       "lemma": "k/5492 a",
       "morph": "HR/Ncfsa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יֶאֱתֶה",
       "lemma": "857",
       "morph": "HVqi3ms",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּבֹא",
       "lemma": "b/935",
       "morph": "HR/Vqc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עֲלֵיכֶם",
       "lemma": "5921 a",
       "morph": "HR/Sp2mp",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "צָרָה",
       "lemma": "6869 b",
       "morph": "HNcfsa",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְצוּקָה",
       "lemma": "c/6695 b",
       "morph": "HC/Ncfsa",
@@ -137,18 +154,6 @@
       }
     },
     {
-      "position": 10,
-      "text": "כשאוה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 332,
-        "ordinal": 44,
-        "reduced": 17
-      }
-    },
-    {
       "position": 11,
       "text": "כְשׁוֹאָה",
       "lemma": "k/7722 b",
@@ -156,7 +161,9 @@
       "strongs": [
         "H7722"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 332,
         "ordinal": 44,

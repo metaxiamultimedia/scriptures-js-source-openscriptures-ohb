@@ -36,6 +36,9 @@
       "text": "אָבִיהָ",
       "lemma": "1",
       "morph": "HNcmsc/Sp3fs",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 18,
@@ -63,7 +66,9 @@
       "text": "לִּי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -283,9 +288,14 @@
     {
       "position": 20,
       "text": "ורעיתי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
+      "lemma": "c/7474",
+      "morph": "HC/Ncfpc/Sp1cs",
+      "strongs": [
+        "H7474"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
       "gematria": {
         "standard": 696,
         "ordinal": 84,
@@ -300,7 +310,9 @@
       "strongs": [
         "H7464"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 692,
         "ordinal": 80,

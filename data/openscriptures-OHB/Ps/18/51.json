@@ -1,31 +1,38 @@
 {
-  "text": "מגדל מַגְדִּיל יְשׁוּעוֹת מַלְכּוֹ וְעֹשֶׂה חֶסֶד לִמְשִׁיחוֹ לְדָוִד וּלְזַרְעוֹ עַד עוֹלָם",
+  "text": "מַגְדִּיל מגדל יְשׁוּעוֹת מַלְכּוֹ וְעֹשֶׂה חֶסֶד לִמְשִׁיחוֹ לְדָוִד וּלְזַרְעוֹ עַד עוֹלָם",
   "words": [
     {
       "position": 1,
-      "text": "מגדל",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 77,
-        "ordinal": 32,
-        "reduced": 14
-      }
-    },
-    {
-      "position": 2,
       "text": "מַגְדִּיל",
       "lemma": "1431",
       "morph": "HVhrmsa",
       "strongs": [
         "H1431"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 87,
         "ordinal": 42,
         "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "מגדל",
+      "lemma": "1431",
+      "morph": "HVprmsa",
+      "strongs": [
+        "H1431"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 32,
+        "reduced": 14
       }
     },
     {

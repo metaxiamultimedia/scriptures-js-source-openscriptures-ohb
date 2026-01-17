@@ -1,5 +1,5 @@
 {
-  "text": "וְהָיִיתְ עֲטֶרֶת תִּפְאֶרֶת בְּיַד יְהוָה מְלוּכָה בְּכַף אֱלֹהָיִךְ וצנוף וּצְנִיף",
+  "text": "וְהָיִיתְ עֲטֶרֶת תִּפְאֶרֶת בְּיַד יְהוָה וצנוף מְלוּכָה בְּכַף אֱלֹהָיִךְ וּצְנִיף",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "וצנוף",
+      "lemma": "c/6797",
+      "morph": "HC/Vqa",
+      "strongs": [
+        "H6797"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 232,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
       "text": "מְלוּכָה",
       "lemma": "4410",
       "morph": "HNcfsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בְּכַף",
       "lemma": "b/3709",
       "morph": "HR/Ncfsc",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֱלֹהָיִךְ",
       "lemma": "430",
       "morph": "HNcmpc/Sp2fs",
@@ -122,18 +139,6 @@
       }
     },
     {
-      "position": 9,
-      "text": "וצנוף",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 232,
-        "ordinal": 61,
-        "reduced": 34
-      }
-    },
-    {
       "position": 10,
       "text": "וּצְנִיף",
       "lemma": "c/6797",
@@ -141,7 +146,9 @@
       "strongs": [
         "H6797"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 236,
         "ordinal": 65,

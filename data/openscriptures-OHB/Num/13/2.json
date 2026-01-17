@@ -21,7 +21,9 @@
       "text": "לְךָ",
       "lemma": "l",
       "morph": "HR/Sp2ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 50,
         "ordinal": 23,
@@ -258,6 +260,9 @@
       "text": "אֲבֹתָיו",
       "lemma": "1",
       "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 419,
@@ -315,7 +320,9 @@
       "text": "בָהֶם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 47,
         "ordinal": 20,

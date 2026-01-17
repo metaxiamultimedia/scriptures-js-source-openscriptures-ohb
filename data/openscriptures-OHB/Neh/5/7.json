@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּמָּלֵךְ לִבִּי עָלַי וָאָרִיבָה אֶת הַחֹרִים וְאֶת הַסְּגָנִים וָאֹמְרָה לָהֶם מַשָּׁא אִישׁ בְּאָחִיו אַתֶּם וָאֶתֵּן עֲלֵיהֶם קְהִלָּה גְדוֹלָה נשאים נֹשִׁים",
+  "text": "וַיִּמָּלֵךְ לִבִּי עָלַי וָאָרִיבָה אֶת הַחֹרִים וְאֶת הַסְּגָנִים וָאֹמְרָה לָהֶם מַשָּׁא אִישׁ בְּאָחִיו אַתֶּם נשאים וָאֶתֵּן עֲלֵיהֶם קְהִלָּה גְדוֹלָה נֹשִׁים",
   "words": [
     {
       "position": 1,
@@ -141,7 +141,9 @@
       "text": "לָהֶם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 75,
         "ordinal": 30,
@@ -210,6 +212,23 @@
     },
     {
       "position": 15,
+      "text": "נשאים",
+      "lemma": "5383",
+      "morph": "HVqrmpa",
+      "strongs": [
+        "H5383"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 401,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
       "text": "וָאֶתֵּן",
       "lemma": "c/5414",
       "morph": "HC/Vqw1cs",
@@ -224,7 +243,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עֲלֵיהֶם",
       "lemma": "5921 a",
       "morph": "HR/Sp3mp",
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "קְהִלָּה",
       "lemma": "6952",
       "morph": "HNcfsa",
@@ -254,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "גְדוֹלָה",
       "lemma": "1419 a",
       "morph": "HAafsa",
@@ -269,18 +288,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "נשאים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 59,
-        "reduced": 14
-      }
-    },
-    {
       "position": 20,
       "text": "נֹשִׁים",
       "lemma": "5383",
@@ -288,7 +295,9 @@
       "strongs": [
         "H5383"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 400,
         "ordinal": 58,

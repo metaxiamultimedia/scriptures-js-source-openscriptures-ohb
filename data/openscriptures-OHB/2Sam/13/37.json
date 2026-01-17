@@ -1,11 +1,14 @@
 {
-  "text": "וְאַבְשָׁלוֹם בָּרַח וַיֵּלֶךְ אֶל תַּלְמַי בֶּן מֶלֶךְ גְּשׁוּר וַיִּתְאַבֵּל עַל בְּנוֹ כָּל הַיָּמִים עמיחור עַמִּיהוּד",
+  "text": "וְאַבְשָׁלוֹם בָּרַח וַיֵּלֶךְ אֶל תַּלְמַי בֶּן עמיחור מֶלֶךְ גְּשׁוּר וַיִּתְאַבֵּל עַל בְּנוֹ כָּל הַיָּמִים עַמִּיהוּד",
   "words": [
     {
       "position": 1,
       "text": "וְאַבְשָׁלוֹם",
       "lemma": "c/53",
       "morph": "HC/Np",
+      "strongs": [
+        "H53"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 385,
@@ -90,6 +93,23 @@
     },
     {
       "position": 7,
+      "text": "עמיחור",
+      "lemma": "5991",
+      "morph": "HNp",
+      "strongs": [
+        "H5991"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 334,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
       "text": "מֶלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsc",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "גְּשׁוּר",
       "lemma": "1650",
       "morph": "HNp",
@@ -119,10 +139,13 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וַיִּתְאַבֵּל",
       "lemma": "c/56",
       "morph": "HC/Vtw3ms",
+      "strongs": [
+        "H56"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 449,
@@ -131,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -146,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בְּנוֹ",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp3ms",
@@ -161,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -176,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הַיָּמִים",
       "lemma": "d/3117",
       "morph": "HTd/Ncmpa",
@@ -191,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "עמיחור",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 334,
-        "ordinal": 73,
-        "reduced": 28
-      }
-    },
-    {
       "position": 15,
       "text": "עַמִּיהוּד",
       "lemma": "5989",
@@ -210,7 +221,9 @@
       "strongs": [
         "H5989"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 135,
         "ordinal": 54,

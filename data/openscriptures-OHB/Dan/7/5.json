@@ -1,5 +1,5 @@
 {
-  "text": "וַאֲרוּ חֵיוָה אָחֳרִי תִנְיָנָה דָּמְיָה לְדֹב וְלִשְׂטַר חַד הֳקִמַת וּתְלָת עִלְעִין בְּפֻמַּהּ בֵּין וְכֵן אָמְרִין לַהּ קוּמִי אֲכֻלִי בְּשַׂר שַׂגִּיא שניה שִׁנַּהּ",
+  "text": "וַאֲרוּ חֵיוָה אָחֳרִי תִנְיָנָה דָּמְיָה לְדֹב וְלִשְׂטַר חַד הֳקִמַת וּתְלָת עִלְעִין בְּפֻמַּהּ בֵּין שניה וְכֵן אָמְרִין לַהּ קוּמִי אֲכֻלִי בְּשַׂר שַׂגִּיא שִׁנַּהּ",
   "words": [
     {
       "position": 1,
@@ -198,6 +198,23 @@
     },
     {
       "position": 14,
+      "text": "שניה",
+      "lemma": "8128",
+      "morph": "ANcfpd/Td",
+      "strongs": [
+        "H8128"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 365,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
       "text": "וְכֵן",
       "lemma": "c/3652",
       "morph": "AC/D",
@@ -212,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אָמְרִין",
       "lemma": "560",
       "morph": "AVqrmpa",
@@ -227,11 +244,13 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לַהּ",
       "lemma": "l",
       "morph": "AR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 35,
         "ordinal": 17,
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "קוּמִי",
       "lemma": "6966",
       "morph": "AVqv2fs",
@@ -254,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֲכֻלִי",
       "lemma": "399",
       "morph": "AVqv2fs",
@@ -269,7 +288,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "בְּשַׂר",
       "lemma": "1321",
       "morph": "ANcmsa",
@@ -284,7 +303,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "שַׂגִּיא",
       "lemma": "7690",
       "morph": "AAamsa",
@@ -299,18 +318,6 @@
       }
     },
     {
-      "position": 21,
-      "text": "שניה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 365,
-        "ordinal": 50,
-        "reduced": 14
-      }
-    },
-    {
       "position": 22,
       "text": "שִׁנַּהּ",
       "lemma": "8128",
@@ -318,7 +325,9 @@
       "strongs": [
         "H8128"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 355,
         "ordinal": 40,

@@ -1,5 +1,5 @@
 {
-  "text": "לָמָּה תָשִׁיב יָדְךָ וִימִינֶךָ מִקֶּרֶב כַלֵּה חוקך חֵיקְךָ",
+  "text": "לָמָּה תָשִׁיב יָדְךָ וִימִינֶךָ מִקֶּרֶב חוקך כַלֵּה חֵיקְךָ",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "חוקך",
+      "lemma": "2706",
+      "morph": "HNcmsc/Sp2ms",
+      "strongs": [
+        "H2706"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 134,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
       "text": "כַלֵּה",
       "lemma": "3615",
       "morph": "HVpv2ms",
@@ -92,18 +109,6 @@
       }
     },
     {
-      "position": 7,
-      "text": "חוקך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 134,
-        "ordinal": 44,
-        "reduced": 17
-      }
-    },
-    {
       "position": 8,
       "text": "חֵיקְךָ",
       "lemma": "2436",
@@ -111,7 +116,9 @@
       "strongs": [
         "H2436"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 138,
         "ordinal": 48,

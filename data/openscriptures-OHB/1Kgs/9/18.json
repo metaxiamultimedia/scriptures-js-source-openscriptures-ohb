@@ -1,5 +1,5 @@
 {
-  "text": "וְאֶת בַּעֲלָת וְאֶת בַּמִּדְבָּר בָּאָרֶץ תמר תַּדְמֹר",
+  "text": "וְאֶת בַּעֲלָת וְאֶת תמר בַּמִּדְבָּר בָּאָרֶץ תַּדְמֹר",
   "words": [
     {
       "position": 1,
@@ -48,6 +48,23 @@
     },
     {
       "position": 4,
+      "text": "תמר",
+      "lemma": "8559",
+      "morph": "HNp",
+      "strongs": [
+        "H8559"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 640,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
       "text": "בַּמִּדְבָּר",
       "lemma": "b/4057 b",
       "morph": "HRd/Ncmsa",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בָּאָרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "תמר",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 640,
-        "ordinal": 55,
-        "reduced": 10
-      }
-    },
-    {
       "position": 7,
       "text": "תַּדְמֹר",
       "lemma": "8412",
@@ -96,7 +101,9 @@
       "strongs": [
         "H8412"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 644,
         "ordinal": 59,

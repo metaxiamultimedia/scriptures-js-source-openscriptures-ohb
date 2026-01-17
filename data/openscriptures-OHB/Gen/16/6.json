@@ -21,6 +21,9 @@
       "text": "אַבְרָם",
       "lemma": "87",
       "morph": "HNp",
+      "strongs": [
+        "H87"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 243,
@@ -123,7 +126,9 @@
       "text": "לָהּ",
       "lemma": "l",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 35,
         "ordinal": 17,

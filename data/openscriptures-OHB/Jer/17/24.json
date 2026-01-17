@@ -1,5 +1,5 @@
 {
-  "text": "וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּן אֵלַי נְאֻם יְהוָה לְבִלְתִּי הָבִיא מַשָּׂא בְּשַׁעֲרֵי הָעִיר הַזֹּאת בְּיוֹם הַשַּׁבָּת וּלְקַדֵּשׁ אֶת יוֹם הַשַּׁבָּת לְבִלְתִּי עֲשׂוֹת כָּל מְלָאכָה בה בּוֹ",
+  "text": "וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּן אֵלַי נְאֻם יְהוָה לְבִלְתִּי הָבִיא מַשָּׂא בְּשַׁעֲרֵי הָעִיר הַזֹּאת בְּיוֹם הַשַּׁבָּת וּלְקַדֵּשׁ אֶת יוֹם הַשַּׁבָּת לְבִלְתִּי עֲשׂוֹת בה כָּל מְלָאכָה בּוֹ",
   "words": [
     {
       "position": 1,
@@ -318,6 +318,21 @@
     },
     {
       "position": 22,
+      "text": "בה",
+      "lemma": "b",
+      "morph": "HR/Sp3fs",
+      "metadata": {
+        "isKetiv": true,
+        "isPrefixOnly": true
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 23,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -332,7 +347,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "מְלָאכָה",
       "lemma": "4399",
       "morph": "HNcfsa",
@@ -347,23 +362,14 @@
       }
     },
     {
-      "position": 24,
-      "text": "בה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 7,
-        "ordinal": 7,
-        "reduced": 7
-      }
-    },
-    {
       "position": 25,
       "text": "בּוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isQere": true,
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 8,
         "ordinal": 8,

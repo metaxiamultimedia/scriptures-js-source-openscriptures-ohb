@@ -1,27 +1,17 @@
 {
-  "text": "ועננו וַעֲנֵנִי לְמַעַן יֵחָלְצוּן יְדִידֶיךָ הוֹשִׁיעָה יְמִינְךָ",
+  "text": "וַעֲנֵנִי לְמַעַן יֵחָלְצוּן יְדִידֶיךָ הוֹשִׁיעָה יְמִינְךָ ועננו",
   "words": [
     {
       "position": 1,
-      "text": "ועננו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 182,
-        "ordinal": 56,
-        "reduced": 29
-      }
-    },
-    {
-      "position": 2,
       "text": "וַעֲנֵנִי",
       "lemma": "c/6032",
       "morph": "HC/Vqv2ms/Sp1cs",
       "strongs": [
         "H6032"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 186,
         "ordinal": 60,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "לְמַעַן",
       "lemma": "4616",
       "morph": "HR",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "יֵחָלְצוּן",
       "lemma": "2502 a",
       "morph": "HVNi3mp/Sn",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "יְדִידֶיךָ",
       "lemma": "3039 a",
       "morph": "HAampc/Sp2ms",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "הוֹשִׁיעָה",
       "lemma": "3467",
       "morph": "HVhv2ms/Sh",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "יְמִינְךָ",
       "lemma": "3225",
       "morph": "HNcfsc/Sp2ms",
@@ -101,6 +91,23 @@
         "standard": 130,
         "ordinal": 58,
         "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "ועננו",
+      "lemma": "c/6032",
+      "morph": "HC/Vqv2ms/Sp1cp",
+      "strongs": [
+        "H6032"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 182,
+        "ordinal": 56,
+        "reduced": 29
       }
     }
   ],

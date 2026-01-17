@@ -1,5 +1,5 @@
 {
-  "text": "מַגִּיד לְיַעֲקֹב חֻקָּיו וּמִשְׁפָּטָיו לְיִשְׂרָאֵל דברו דְּבָרָיו",
+  "text": "מַגִּיד דברו לְיַעֲקֹב חֻקָּיו וּמִשְׁפָּטָיו לְיִשְׂרָאֵל דְּבָרָיו",
   "words": [
     {
       "position": 1,
@@ -18,6 +18,23 @@
     },
     {
       "position": 2,
+      "text": "דברו",
+      "lemma": "1697",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H1697"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 212,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
       "text": "לְיַעֲקֹב",
       "lemma": "l/3290",
       "morph": "HR/Np",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "חֻקָּיו",
       "lemma": "2706",
       "morph": "HNcmpc/Sp3ms",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וּמִשְׁפָּטָיו",
       "lemma": "c/4941",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לְיִשְׂרָאֵל",
       "lemma": "l/3478",
       "morph": "HR/Np",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "דברו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 212,
-        "ordinal": 32,
-        "reduced": 14
-      }
-    },
-    {
       "position": 7,
       "text": "דְּבָרָיו",
       "lemma": "1697",
@@ -96,7 +101,9 @@
       "strongs": [
         "H1697"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 222,
         "ordinal": 42,

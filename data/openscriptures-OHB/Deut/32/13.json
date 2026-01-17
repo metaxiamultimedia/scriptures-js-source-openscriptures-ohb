@@ -1,5 +1,5 @@
 {
-  "text": "יַרְכִּבֵהוּ עַל אָרֶץ וַיֹּאכַל תְּנוּבֹת שָׂדָי וַיֵּנִקֵהוּ דְבַשׁ מִסֶּלַע וְשֶׁמֶן מֵחַלְמִישׁ צוּר במותי בָּמֳתֵי",
+  "text": "יַרְכִּבֵהוּ עַל במותי אָרֶץ וַיֹּאכַל תְּנוּבֹת שָׂדָי וַיֵּנִקֵהוּ דְבַשׁ מִסֶּלַע וְשֶׁמֶן מֵחַלְמִישׁ צוּר בָּמֳתֵי",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,23 @@
     },
     {
       "position": 3,
+      "text": "במותי",
+      "lemma": "1116",
+      "morph": "HNcfpc",
+      "strongs": [
+        "H1116"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 458,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
       "text": "אָרֶץ",
       "lemma": "776",
       "morph": "HNcbsa",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וַיֹּאכַל",
       "lemma": "c/398",
       "morph": "HC/Vqw3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "תְּנוּבֹת",
       "lemma": "8570",
       "morph": "HNcfpc",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "שָׂדָי",
       "lemma": "7704 a",
       "morph": "HNcmsa",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וַיֵּנִקֵהוּ",
       "lemma": "c/3243",
       "morph": "HC/Vhw3ms/Sp3ms",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "דְבַשׁ",
       "lemma": "1706",
       "morph": "HNcmsa",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מִסֶּלַע",
       "lemma": "m/5553",
       "morph": "HR/Ncmsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְשֶׁמֶן",
       "lemma": "c/8081",
       "morph": "HC/Ncmsa",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מֵחַלְמִישׁ",
       "lemma": "m/2496",
       "morph": "HR/Ncmsc",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "צוּר",
       "lemma": "6697",
       "morph": "HNcmsa",
@@ -182,18 +199,6 @@
       }
     },
     {
-      "position": 13,
-      "text": "במותי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 458,
-        "ordinal": 53,
-        "reduced": 17
-      }
-    },
-    {
       "position": 14,
       "text": "בָּמֳתֵי",
       "lemma": "1116",
@@ -201,7 +206,9 @@
       "strongs": [
         "H1116"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 452,
         "ordinal": 47,

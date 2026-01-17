@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּתְחַפֵּשׂ שָׁאוּל וַיִּלְבַּשׁ בְּגָדִים אֲחֵרִים וַיֵּלֶךְ הוּא וּשְׁנֵי אֲנָשִׁים עִמּוֹ וַיָּבֹאוּ אֶל הָאִשָּׁה לָיְלָה וַיֹּאמֶר נָא לִי בָּאוֹב וְהַעֲלִי לִי אֵת אֲשֶׁר אֹמַר אֵלָיִךְ קסומי קָסֳמִי",
+  "text": "וַיִּתְחַפֵּשׂ שָׁאוּל וַיִּלְבַּשׁ בְּגָדִים אֲחֵרִים וַיֵּלֶךְ הוּא וּשְׁנֵי אֲנָשִׁים עִמּוֹ וַיָּבֹאוּ אֶל הָאִשָּׁה לָיְלָה וַיֹּאמֶר קסומי נָא לִי בָּאוֹב וְהַעֲלִי לִי אֵת אֲשֶׁר אֹמַר אֵלָיִךְ קָסֳמִי",
   "words": [
     {
       "position": 1,
@@ -228,6 +228,23 @@
     },
     {
       "position": 16,
+      "text": "קסומי",
+      "lemma": "7080",
+      "morph": "HVqv2fs",
+      "strongs": [
+        "H7080"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 216,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 17,
       "text": "נָא",
       "lemma": "7080",
       "morph": "HTe",
@@ -242,11 +259,13 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -254,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בָּאוֹב",
       "lemma": "b/178",
       "morph": "HRd/Ncmsa",
@@ -269,7 +288,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וְהַעֲלִי",
       "lemma": "c/5927",
       "morph": "HC/Vhv2fs",
@@ -284,11 +303,13 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לִי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,
@@ -296,7 +317,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אֵת",
       "lemma": "853",
       "morph": "HTo",
@@ -311,7 +332,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -326,7 +347,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "אֹמַר",
       "lemma": "559",
       "morph": "HVqi1cs",
@@ -341,7 +362,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "אֵלָיִךְ",
       "lemma": "413",
       "morph": "HR/Sp2fs",
@@ -356,18 +377,6 @@
       }
     },
     {
-      "position": 25,
-      "text": "קסומי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 216,
-        "ordinal": 63,
-        "reduced": 18
-      }
-    },
-    {
       "position": 26,
       "text": "קָסֳמִי",
       "lemma": "7080",
@@ -375,7 +384,9 @@
       "strongs": [
         "H7080"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 210,
         "ordinal": 57,

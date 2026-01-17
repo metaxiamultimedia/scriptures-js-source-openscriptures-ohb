@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּאמְרוּ לוֹ הַגִּבְעֹנִים אֵין כֶּסֶף וְזָהָב עִם שָׁאוּל וְעִם בֵּיתוֹ וְאֵין לָנוּ אִישׁ לְהָמִית בְּיִשְׂרָאֵל וַיֹּאמֶר מָה אַתֶּם אֹמְרִים אֶעֱשֶׂה לָכֶם לי לָנוּ",
+  "text": "וַיֹּאמְרוּ לוֹ הַגִּבְעֹנִים אֵין לי כֶּסֶף וְזָהָב עִם שָׁאוּל וְעִם בֵּיתוֹ וְאֵין לָנוּ אִישׁ לְהָמִית בְּיִשְׂרָאֵל וַיֹּאמֶר מָה אַתֶּם אֹמְרִים אֶעֱשֶׂה לָכֶם לָנוּ",
   "words": [
     {
       "position": 1,
@@ -21,7 +21,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -60,6 +62,21 @@
     },
     {
       "position": 5,
+      "text": "לי",
+      "lemma": "l",
+      "morph": "HR/Sp1cs",
+      "metadata": {
+        "isKetiv": true,
+        "isPrefixOnly": true
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 22,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 6,
       "text": "כֶּסֶף",
       "lemma": "3701",
       "morph": "HNcmsa",
@@ -74,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְזָהָב",
       "lemma": "c/2091",
       "morph": "HC/Ncmsa",
@@ -89,7 +106,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עִם",
       "lemma": "5973 a",
       "morph": "HR",
@@ -104,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "שָׁאוּל",
       "lemma": "7586",
       "morph": "HNp",
@@ -119,7 +136,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְעִם",
       "lemma": "c/5973 a",
       "morph": "HC/R",
@@ -134,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בֵּיתוֹ",
       "lemma": "1004 b",
       "morph": "HNcmsc/Sp3ms",
@@ -149,7 +166,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְאֵין",
       "lemma": "c/369",
       "morph": "HC/Tn",
@@ -164,11 +181,13 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לָנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 86,
         "ordinal": 32,
@@ -176,7 +195,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אִישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -191,7 +210,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "לְהָמִית",
       "lemma": "l/4191",
       "morph": "HR/Vhc",
@@ -206,7 +225,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בְּיִשְׂרָאֵל",
       "lemma": "b/3478",
       "morph": "HR/Np",
@@ -221,7 +240,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וַיֹּאמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -236,7 +255,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "מָה",
       "lemma": "4100",
       "morph": "HTi",
@@ -251,7 +270,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אַתֶּם",
       "lemma": "859 d",
       "morph": "HPp2mp",
@@ -266,7 +285,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אֹמְרִים",
       "lemma": "559",
       "morph": "HVqrmpa",
@@ -281,7 +300,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אֶעֱשֶׂה",
       "lemma": "6213 a",
       "morph": "HVqi1cs",
@@ -296,11 +315,13 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "לָכֶם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 90,
         "ordinal": 36,
@@ -308,23 +329,14 @@
       }
     },
     {
-      "position": 22,
-      "text": "לי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
-      }
-    },
-    {
       "position": 23,
       "text": "לָנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
-      "metadata": {},
+      "metadata": {
+        "isQere": true,
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 86,
         "ordinal": 32,

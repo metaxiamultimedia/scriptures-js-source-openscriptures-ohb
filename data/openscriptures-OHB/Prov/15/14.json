@@ -1,5 +1,5 @@
 {
-  "text": "לֵב נָבוֹן יְבַקֶּשׁ דָּעַת כְסִילִים יִרְעֶה אִוֶּלֶת ופני וּפִי",
+  "text": "לֵב נָבוֹן יְבַקֶּשׁ דָּעַת ופני כְסִילִים יִרְעֶה אִוֶּלֶת וּפִי",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "ופני",
+      "lemma": "c/6440",
+      "morph": "HC/Ncbpc",
+      "strongs": [
+        "H6440"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 146,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
       "text": "כְסִילִים",
       "lemma": "3684",
       "morph": "HAampa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִרְעֶה",
       "lemma": "7462 b",
       "morph": "HVqi3ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אִוֶּלֶת",
       "lemma": "200",
       "morph": "HNcfsa",
@@ -107,18 +124,6 @@
       }
     },
     {
-      "position": 8,
-      "text": "ופני",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 146,
-        "ordinal": 47,
-        "reduced": 20
-      }
-    },
-    {
       "position": 9,
       "text": "וּפִי",
       "lemma": "c/6310",
@@ -126,7 +131,9 @@
       "strongs": [
         "H6310"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 96,
         "ordinal": 33,

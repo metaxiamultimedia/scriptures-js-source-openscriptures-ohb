@@ -1,27 +1,17 @@
 {
-  "text": "תרים תָּרוּם כִּי תִפְאֶרֶת עֻזָּמוֹ אָתָּה וּבִרְצֹנְךָ קַרְנֵנוּ",
+  "text": "תָּרוּם כִּי תִפְאֶרֶת עֻזָּמוֹ אָתָּה וּבִרְצֹנְךָ תרים קַרְנֵנוּ",
   "words": [
     {
       "position": 1,
-      "text": "תרים",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 650,
-        "ordinal": 65,
-        "reduced": 11
-      }
-    },
-    {
-      "position": 2,
       "text": "תָּרוּם",
       "lemma": "7311 a",
       "morph": "HVqi3fs",
       "strongs": [
         "H7311"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 646,
         "ordinal": 61,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -44,7 +34,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "תִפְאֶרֶת",
       "lemma": "8597",
       "morph": "HNcfsc",
@@ -59,7 +49,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "עֻזָּמוֹ",
       "lemma": "5797",
       "morph": "HNcmsc/Sp3mp",
@@ -74,7 +64,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "אָתָּה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "וּבִרְצֹנְךָ",
       "lemma": "c/b/7522",
       "morph": "HC/R/Ncmsc/Sp2ms",
@@ -101,6 +91,23 @@
         "standard": 368,
         "ordinal": 71,
         "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "תרים",
+      "lemma": "7311 a",
+      "morph": "HVhi2ms",
+      "strongs": [
+        "H7311"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 650,
+        "ordinal": 65,
+        "reduced": 11
       }
     },
     {

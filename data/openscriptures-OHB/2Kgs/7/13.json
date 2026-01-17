@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעַן אֶחָד מֵעֲבָדָיו וַיֹּאמֶר וְיִקְחוּ נָא חֲמִשָּׁה מִן הַסּוּסִים הַנִּשְׁאָרִים אֲשֶׁר נִשְׁאֲרוּ בָהּ הִנָּם כְּכָל יִשְׂרָאֵל אֲשֶׁר נִשְׁאֲרוּ בָהּ הִנָּם כְּכָל הֲמוֹן יִשְׂרָאֵל אֲשֶׁר תָּמּוּ וְנִשְׁלְחָה וְנִרְאֶה ההמון הֲמוֹן",
+  "text": "וַיַּעַן אֶחָד מֵעֲבָדָיו וַיֹּאמֶר וְיִקְחוּ נָא חֲמִשָּׁה מִן הַסּוּסִים הַנִּשְׁאָרִים אֲשֶׁר נִשְׁאֲרוּ בָהּ הִנָּם כְּכָל ההמון יִשְׂרָאֵל אֲשֶׁר נִשְׁאֲרוּ בָהּ הִנָּם כְּכָל הֲמוֹן יִשְׂרָאֵל אֲשֶׁר תָּמּוּ וְנִשְׁלְחָה וְנִרְאֶה הֲמוֹן",
   "words": [
     {
       "position": 1,
@@ -186,7 +186,9 @@
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -225,6 +227,23 @@
     },
     {
       "position": 16,
+      "text": "ההמון",
+      "lemma": "d/1995 a",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H1995"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 106,
+        "ordinal": 43,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -254,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "נִשְׁאֲרוּ",
       "lemma": "7604",
       "morph": "HVNp3cp",
@@ -269,11 +288,13 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "בָהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 7,
         "ordinal": 7,
@@ -281,7 +302,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "הִנָּם",
       "lemma": "2005",
       "morph": "HTm/Sp3mp",
@@ -296,7 +317,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "כְּכָל",
       "lemma": "k/3605",
       "morph": "HR/Ncmsc",
@@ -311,7 +332,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "הֲמוֹן",
       "lemma": "1995 a",
       "morph": "HNcmsc",
@@ -326,7 +347,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "יִשְׂרָאֵל",
       "lemma": "3478",
       "morph": "HNp",
@@ -341,7 +362,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -356,7 +377,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "תָּמּוּ",
       "lemma": "8552",
       "morph": "HVqp3cp",
@@ -371,7 +392,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "וְנִשְׁלְחָה",
       "lemma": "c/7971",
       "morph": "HC/Vqh1cp",
@@ -386,7 +407,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "וְנִרְאֶה",
       "lemma": "c/7200",
       "morph": "HC/Vqh1cp",
@@ -401,18 +422,6 @@
       }
     },
     {
-      "position": 28,
-      "text": "ההמון",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 106,
-        "ordinal": 43,
-        "reduced": 25
-      }
-    },
-    {
       "position": 29,
       "text": "הֲמוֹן",
       "lemma": "1995 a",
@@ -420,7 +429,9 @@
       "strongs": [
         "H1995"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 101,
         "ordinal": 38,

@@ -41,7 +41,7 @@ function removeCantillation(text: string): string {
   return text.replace(/[\u0591-\u05AF\u05BD\u05BF\u05C0\u05C3\u05C6]/g, '');
 }
 
-const STRONGS_RE = /(?:strongs?:)?([HGhg]?\d{3,5})/g;
+const STRONGS_RE = /(?:strongs?:)?([HGhg]?\d{1,5})/g;
 
 function extractStrongs(value: string | null): string[] {
   if (!value) return [];
@@ -54,7 +54,7 @@ function extractStrongs(value: string | null): string[] {
     if (token[0] && 'HGhg'.includes(token[0])) {
       prefix = token[0].toUpperCase();
     }
-    const digits = token.match(/\d{3,5}/);
+    const digits = token.match(/\d{1,5}/);
     if (!digits) continue;
     if (!prefix) prefix = 'H';
     results.push(`${prefix}${parseInt(digits[0], 10)}`);
@@ -494,6 +494,110 @@ describe('import script parsing - old vs new behavior', () => {
   });
 });
 
+describe('Strong\'s number extraction', () => {
+  it('should extract Strong\'s numbers with 3+ digits', () => {
+    // These should work with current regex
+    expect(extractStrongs('430')).toEqual(['H430']);
+    expect(extractStrongs('3068')).toEqual(['H3068']);
+    expect(extractStrongs('H7225')).toEqual(['H7225']);
+    expect(extractStrongs('b/7225')).toEqual(['H7225']);
+    expect(extractStrongs('c/559')).toEqual(['H559']);
+  });
+
+  it('BUG: should extract Strong\'s numbers with 1-2 digits', () => {
+    // These FAIL with current regex (\d{3,5} requires 3+ digits)
+    // H1 = אָב (father), H6 = אָבַד (perish), H14 = אָבָה (consent)
+    // H85 = אַבְרָהָם (Abraham), H26 = אֲבִיגַיִל (Abigail)
+    expect(extractStrongs('1')).toEqual(['H1']);
+    expect(extractStrongs('6')).toEqual(['H6']);
+    expect(extractStrongs('14')).toEqual(['H14']);
+    expect(extractStrongs('85')).toEqual(['H85']);
+    expect(extractStrongs('26')).toEqual(['H26']);
+    expect(extractStrongs('c/6')).toEqual(['H6']);
+    expect(extractStrongs('l/26')).toEqual(['H26']);
+  });
+
+  it('BUG: should extract Strong\'s with letter suffix (e.g., "1471 a")', () => {
+    // Lemmas often have a letter suffix for disambiguation
+    expect(extractStrongs('1471 a')).toEqual(['H1471']);
+    expect(extractStrongs('7227 a')).toEqual(['H7227']);
+    expect(extractStrongs('1 a')).toEqual(['H1']); // Short number with suffix
+  });
+
+  it('should handle compound lemmas with prefix', () => {
+    expect(extractStrongs('b/990')).toEqual(['H990']);
+    expect(extractStrongs('d/8064')).toEqual(['H8064']);
+    expect(extractStrongs('c/853')).toEqual(['H853']);
+  });
+
+  it('should return empty array for prefix-only lemmas', () => {
+    // These correctly return empty - no Strong's for pure grammatical constructions
+    expect(extractStrongs('l')).toEqual([]);
+    expect(extractStrongs('b')).toEqual([]);
+    expect(extractStrongs('c/l')).toEqual([]);
+    expect(extractStrongs('m')).toEqual([]);
+  });
+});
+
+describe('actual data - short Strong\'s numbers bug', () => {
+  it('BUG: 1 Chronicles 1:27 - Abraham (H85) should have strongs', async () => {
+    // אַבְרָהָם (Abraham) has lemma "85" - a 2-digit Strong's number
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', '1Chr', '1', '27.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    const abrahamWord = data.words.find(
+      (w: { text: string }) => w.text === 'אַבְרָהָם'
+    );
+
+    expect(abrahamWord).toBeDefined();
+    expect(abrahamWord.lemma).toBe('85');
+    // BUG: This should have strongs: ['H85'] but the regex misses 2-digit numbers
+    expect(abrahamWord.strongs).toEqual(['H85']);
+  });
+
+  it('BUG: Jeremiah 6:21 - perish verb (H6) should have strongs', async () => {
+    // יאבדו (they will perish) has lemma "6" - a 1-digit Strong's number
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Jer', '6', '21.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    // Find the ketiv word with lemma "6"
+    const perishWord = data.words.find(
+      (w: { lemma: string | null }) => w.lemma === '6'
+    );
+
+    expect(perishWord).toBeDefined();
+    // BUG: This should have strongs: ['H6'] but the regex misses 1-digit numbers
+    expect(perishWord.strongs).toEqual(['H6']);
+  });
+
+  it('BUG: 1 Chronicles 10:4 - consent verb (H14) should have strongs', async () => {
+    // אָבָה (he was willing) has lemma "14" - a 2-digit Strong's number
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', '1Chr', '10', '4.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    const consentWord = data.words.find(
+      (w: { lemma: string | null }) => w.lemma === '14'
+    );
+
+    expect(consentWord).toBeDefined();
+    // BUG: This should have strongs: ['H14'] but the regex misses 2-digit numbers
+    expect(consentWord.strongs).toEqual(['H14']);
+  });
+
+  it('BUG: Exodus 10:6 - father noun (H1) should have strongs', async () => {
+    // אֲבֹתֶיךָ (your fathers) has lemma "1" - a 1-digit Strong's number (H1 = אָב father)
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Exod', '10', '6.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    const fatherWord = data.words.find(
+      (w: { lemma: string | null }) => w.lemma === '1'
+    );
+
+    expect(fatherWord).toBeDefined();
+    expect(fatherWord.strongs).toEqual(['H1']);
+  });
+});
+
 describe('actual data verification - strict assertions', () => {
   it('Genesis 8:17 - should have NO null lemmas after fix', async () => {
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '8', '17.json');
@@ -566,5 +670,37 @@ describe('actual data verification - strict assertions', () => {
     // The verse should have exactly 9 words (no duplicates from notes)
     // אָנֹכִי יְהוָה אֱלֹהֶיךָ אֲשֶׁר הוֹצֵאתִיךָ מֵאֶרֶץ מִצְרַיִם מִבֵּית עֲבָדִים
     expect(data.words.length).toBe(9);
+  });
+
+  it('Exodus 20:2 - all words should have strongs arrays', async () => {
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Exod', '20', '2.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    for (const word of data.words) {
+      expect(word.strongs).toBeDefined();
+      expect(word.strongs.length).toBeGreaterThan(0);
+      expect(word.strongs[0]).toMatch(/^H\d+$/);
+    }
+  });
+
+  it('prefix-only words should have isPrefixOnly flag', async () => {
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '25', '23.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    // לָהּ (to-her) at position 3 has lemma "l" - should be flagged as prefix-only
+    const prefixWord = data.words.find((w: { lemma: string }) => w.lemma === 'l');
+    expect(prefixWord).toBeDefined();
+    expect(prefixWord.metadata.isPrefixOnly).toBe(true);
+    expect(prefixWord.strongs).toBeUndefined();
+  });
+
+  it('words with strongs should NOT have isPrefixOnly flag', async () => {
+    const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '1', '1.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    for (const word of data.words) {
+      expect(word.strongs).toBeDefined();
+      expect(word.metadata.isPrefixOnly).toBeUndefined();
+    }
   });
 });

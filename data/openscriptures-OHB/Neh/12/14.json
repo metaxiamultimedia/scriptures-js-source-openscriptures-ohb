@@ -1,8 +1,25 @@
 {
-  "text": "יוֹנָתָן לִשְׁבַנְיָה יוֹסֵף למלוכי לִמְלִיכוּ",
+  "text": "למלוכי יוֹנָתָן לִשְׁבַנְיָה יוֹסֵף לִמְלִיכוּ",
   "words": [
     {
       "position": 1,
+      "text": "למלוכי",
+      "lemma": "l/4409 b",
+      "morph": "HR/Np",
+      "strongs": [
+        "H4409"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 136,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
       "text": "יוֹנָתָן",
       "lemma": "3129",
       "morph": "HNp",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "לִשְׁבַנְיָה",
       "lemma": "l/7645",
       "morph": "HR/Np",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "יוֹסֵף",
       "lemma": "3130",
       "morph": "HNp",
@@ -47,18 +64,6 @@
       }
     },
     {
-      "position": 4,
-      "text": "למלוכי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 136,
-        "ordinal": 64,
-        "reduced": 19
-      }
-    },
-    {
       "position": 5,
       "text": "לִמְלִיכוּ",
       "lemma": "l/4409 b",
@@ -66,7 +71,9 @@
       "strongs": [
         "H4409"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 136,
         "ordinal": 64,

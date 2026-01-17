@@ -1,5 +1,5 @@
 {
-  "text": "בָּאתַר דְּנָה חָזֵה הֲוֵית וַאֲרוּ אָחֳרִי כִּנְמַר וְלַהּ גַּפִּין אַרְבַּע דִּי עוֹף עַל וְאַרְבְּעָה רֵאשִׁין לְחֵיוְתָא וְשָׁלְטָן יְהִיב לַהּ גביה גַּבַּהּ",
+  "text": "בָּאתַר דְּנָה חָזֵה הֲוֵית וַאֲרוּ אָחֳרִי כִּנְמַר וְלַהּ גַּפִּין אַרְבַּע דִּי עוֹף עַל גביה וְאַרְבְּעָה רֵאשִׁין לְחֵיוְתָא וְשָׁלְטָן יְהִיב לַהּ גַּבַּהּ",
   "words": [
     {
       "position": 1,
@@ -111,7 +111,9 @@
       "text": "וְלַהּ",
       "lemma": "c/l",
       "morph": "AC/R/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 41,
         "ordinal": 23,
@@ -195,6 +197,23 @@
     },
     {
       "position": 14,
+      "text": "גביה",
+      "lemma": "1355",
+      "morph": "ANcmpd/Td",
+      "strongs": [
+        "H1355"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
       "text": "וְאַרְבְּעָה",
       "lemma": "c/703",
       "morph": "AC/Acbsa",
@@ -209,7 +228,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "רֵאשִׁין",
       "lemma": "7217",
       "morph": "ANcmpa",
@@ -224,7 +243,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לְחֵיוְתָא",
       "lemma": "l/2423",
       "morph": "AR/Ncfsd/Td",
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְשָׁלְטָן",
       "lemma": "c/7985",
       "morph": "AC/Ncmsa",
@@ -254,7 +273,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "יְהִיב",
       "lemma": "3052",
       "morph": "AVQp3ms",
@@ -269,27 +288,17 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לַהּ",
       "lemma": "l",
       "morph": "AR/Sp3fs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 35,
         "ordinal": 17,
         "reduced": 8
-      }
-    },
-    {
-      "position": 20,
-      "text": "גביה",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 20,
-        "ordinal": 20,
-        "reduced": 11
       }
     },
     {
@@ -300,7 +309,9 @@
       "strongs": [
         "H1355"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 10,
         "ordinal": 10,

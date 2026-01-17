@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּבֶן אֶת עֶשְׂרִים אַמָּה הַבַּיִת בְּצַלְעוֹת אֲרָזִים מִן הַקַּרְקַע עַד הַקִּירוֹת וַיִּבֶן לוֹ מִבַּיִת לִדְבִיר לְקֹדֶשׁ הַקֳּדָשִׁים מירכותי מִיַּרְכְּתֵי",
+  "text": "וַיִּבֶן אֶת עֶשְׂרִים אַמָּה מירכותי הַבַּיִת בְּצַלְעוֹת אֲרָזִים מִן הַקַּרְקַע עַד הַקִּירוֹת וַיִּבֶן לוֹ מִבַּיִת לִדְבִיר לְקֹדֶשׁ הַקֳּדָשִׁים מִיַּרְכְּתֵי",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,23 @@
     },
     {
       "position": 5,
+      "text": "מירכותי",
+      "lemma": "m/3411",
+      "morph": "HR/Ncfdc",
+      "strongs": [
+        "H3411"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 686,
+        "ordinal": 92,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
       "text": "הַבַּיִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
@@ -77,7 +94,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּצַלְעוֹת",
       "lemma": "b/6763",
       "morph": "HR/Ncbpc",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֲרָזִים",
       "lemma": "730",
       "morph": "HNcmpa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַקַּרְקַע",
       "lemma": "d/7172",
       "morph": "HTd/Ncmsa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַקִּירוֹת",
       "lemma": "d/7023",
       "morph": "HTd/Ncmpa",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וַיִּבֶן",
       "lemma": "c/1129",
       "morph": "HC/Vqw3ms",
@@ -182,11 +199,13 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -194,7 +213,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מִבַּיִת",
       "lemma": "m/1004 b",
       "morph": "HR/Ncmsa",
@@ -209,7 +228,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לִדְבִיר",
       "lemma": "l/1687",
       "morph": "HR/Ncmsa",
@@ -224,7 +243,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לְקֹדֶשׁ",
       "lemma": "l/6944",
       "morph": "HR/Ncmsc",
@@ -239,7 +258,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הַקֳּדָשִׁים",
       "lemma": "d/6944",
       "morph": "HTd/Ncmpa",
@@ -254,18 +273,6 @@
       }
     },
     {
-      "position": 18,
-      "text": "מירכותי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 686,
-        "ordinal": 92,
-        "reduced": 20
-      }
-    },
-    {
       "position": 19,
       "text": "מִיַּרְכְּתֵי",
       "lemma": "m/3411",
@@ -273,7 +280,9 @@
       "strongs": [
         "H3411"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 680,
         "ordinal": 86,

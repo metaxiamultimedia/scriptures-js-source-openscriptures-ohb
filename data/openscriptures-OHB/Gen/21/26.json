@@ -21,6 +21,9 @@
       "text": "אֲבִימֶלֶךְ",
       "lemma": "40",
       "morph": "HNp",
+      "strongs": [
+        "H40"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 103,
@@ -198,7 +201,9 @@
       "text": "לִּי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 40,
         "ordinal": 22,

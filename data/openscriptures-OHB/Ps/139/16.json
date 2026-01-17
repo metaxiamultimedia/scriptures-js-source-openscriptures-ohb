@@ -1,5 +1,5 @@
 {
-  "text": "גָּלְמִי רָאוּ עֵינֶיךָ וְעַל סִפְרְךָ כֻּלָּם יִכָּתֵבוּ יָמִים יֻצָּרוּ אֶחָד בָּהֶם ולא וְלוֹ",
+  "text": "גָּלְמִי רָאוּ עֵינֶיךָ וְעַל סִפְרְךָ כֻּלָּם יִכָּתֵבוּ יָמִים יֻצָּרוּ ולא אֶחָד בָּהֶם וְלוֹ",
   "words": [
     {
       "position": 1,
@@ -138,6 +138,23 @@
     },
     {
       "position": 10,
+      "text": "ולא",
+      "lemma": "c/3808",
+      "morph": "HC/Tn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
       "text": "אֶחָד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -152,11 +169,13 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בָּהֶם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 47,
         "ordinal": 20,
@@ -164,23 +183,14 @@
       }
     },
     {
-      "position": 12,
-      "text": "ולא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
-      }
-    },
-    {
       "position": 13,
       "text": "וְלוֹ",
       "lemma": "c/l",
       "morph": "HC/R/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isQere": true,
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 42,
         "ordinal": 24,

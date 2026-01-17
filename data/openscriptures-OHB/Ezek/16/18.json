@@ -1,5 +1,5 @@
 {
-  "text": "וַתִּקְחִי אֶת בִּגְדֵי רִקְמָתֵךְ וַתְּכַסִּים וְשַׁמְנִי וּקְטָרְתִּי לִפְנֵיהֶם נתתי נָתַתְּ",
+  "text": "וַתִּקְחִי אֶת בִּגְדֵי רִקְמָתֵךְ וַתְּכַסִּים וְשַׁמְנִי וּקְטָרְתִּי נתתי לִפְנֵיהֶם נָתַתְּ",
   "words": [
     {
       "position": 1,
@@ -108,6 +108,23 @@
     },
     {
       "position": 8,
+      "text": "נתתי",
+      "lemma": "5414",
+      "morph": "HVqp2fs",
+      "strongs": [
+        "H5414"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 860,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
       "text": "לִפְנֵיהֶם",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc/Sp3mp",
@@ -122,18 +139,6 @@
       }
     },
     {
-      "position": 9,
-      "text": "נתתי",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 860,
-        "ordinal": 68,
-        "reduced": 14
-      }
-    },
-    {
       "position": 10,
       "text": "נָתַתְּ",
       "lemma": "5414",
@@ -141,7 +146,9 @@
       "strongs": [
         "H5414"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 850,
         "ordinal": 58,

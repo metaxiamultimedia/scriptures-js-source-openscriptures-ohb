@@ -1,5 +1,5 @@
 {
-  "text": "קֹרֵא מִמִּזְרָח עַיִט מֵאֶרֶץ מֶרְחָק אִישׁ אַף דִּבַּרְתִּי אַף אֲבִיאֶנָּה יָצַרְתִּי אַף אֶעֱשֶׂנָּה עצתו עֲצָתִי",
+  "text": "קֹרֵא מִמִּזְרָח עַיִט מֵאֶרֶץ מֶרְחָק אִישׁ עצתו אַף דִּבַּרְתִּי אַף אֲבִיאֶנָּה יָצַרְתִּי אַף אֶעֱשֶׂנָּה עֲצָתִי",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,23 @@
     },
     {
       "position": 7,
+      "text": "עצתו",
+      "lemma": "6098",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H6098"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 566,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
       "text": "אַף",
       "lemma": "637",
       "morph": "HTa",
@@ -107,7 +124,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "דִּבַּרְתִּי",
       "lemma": "1696",
       "morph": "HVpp1cs",
@@ -122,7 +139,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אַף",
       "lemma": "637",
       "morph": "HTa",
@@ -137,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֲבִיאֶנָּה",
       "lemma": "935",
       "morph": "HVhi1cs/Sp3fs",
@@ -152,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יָצַרְתִּי",
       "lemma": "3335",
       "morph": "HVqp1cs",
@@ -167,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אַף",
       "lemma": "637",
       "morph": "HTa",
@@ -182,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֶעֱשֶׂנָּה",
       "lemma": "6213 a",
       "morph": "HVqi1cs/Sp3fs",
@@ -197,18 +214,6 @@
       }
     },
     {
-      "position": 14,
-      "text": "עצתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 566,
-        "ordinal": 62,
-        "reduced": 26
-      }
-    },
-    {
       "position": 15,
       "text": "עֲצָתִי",
       "lemma": "6098",
@@ -216,7 +221,9 @@
       "strongs": [
         "H6098"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 570,
         "ordinal": 66,

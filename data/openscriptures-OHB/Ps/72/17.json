@@ -1,5 +1,5 @@
 {
-  "text": "יְהִי שְׁמוֹ לְעוֹלָם לִפְנֵי שֶׁמֶשׁ שְׁמוֹ וְיִתְבָּרְכוּ בוֹ כָּל גּוֹיִם יְאַשְּׁרוּהוּ ינין יִנּוֹן",
+  "text": "יְהִי שְׁמוֹ לְעוֹלָם לִפְנֵי שֶׁמֶשׁ ינין שְׁמוֹ וְיִתְבָּרְכוּ בוֹ כָּל גּוֹיִם יְאַשְּׁרוּהוּ יִנּוֹן",
   "words": [
     {
       "position": 1,
@@ -78,6 +78,23 @@
     },
     {
       "position": 6,
+      "text": "ינין",
+      "lemma": "5125",
+      "morph": "HVhj3ms",
+      "strongs": [
+        "H5125"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 120,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
       "text": "שְׁמוֹ",
       "lemma": "8034",
       "morph": "HNcmsc/Sp3ms",
@@ -92,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְיִתְבָּרְכוּ",
       "lemma": "c/1288",
       "morph": "HC/Vti3mp",
@@ -107,11 +124,13 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 8,
         "ordinal": 8,
@@ -119,7 +138,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -134,7 +153,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "גּוֹיִם",
       "lemma": "1471 a",
       "morph": "HNcmpa",
@@ -149,7 +168,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְאַשְּׁרוּהוּ",
       "lemma": "833",
       "morph": "HVpi3mp/Sp3ms",
@@ -164,18 +183,6 @@
       }
     },
     {
-      "position": 12,
-      "text": "ינין",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 120,
-        "ordinal": 48,
-        "reduced": 12
-      }
-    },
-    {
       "position": 13,
       "text": "יִנּוֹן",
       "lemma": "5125",
@@ -183,7 +190,9 @@
       "strongs": [
         "H5125"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 116,
         "ordinal": 44,

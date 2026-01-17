@@ -1,27 +1,17 @@
 {
-  "text": "אשמור אֶשְׁמָר לְעוֹלָם לוֹ חַסְדִּי וּבְרִיתִי נֶאֱמֶנֶת לוֹ",
+  "text": "אֶשְׁמָר לְעוֹלָם אשמור לוֹ חַסְדִּי וּבְרִיתִי נֶאֱמֶנֶת לוֹ",
   "words": [
     {
       "position": 1,
-      "text": "אשמור",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 547,
-        "ordinal": 61,
-        "reduced": 16
-      }
-    },
-    {
-      "position": 2,
       "text": "אֶשְׁמָר",
       "lemma": "8104",
       "morph": "HVqi1cs",
       "strongs": [
         "H8104"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 541,
         "ordinal": 55,
@@ -29,7 +19,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "לְעוֹלָם",
       "lemma": "l/5769",
       "morph": "HR/Ncmsa",
@@ -44,11 +34,30 @@
       }
     },
     {
+      "position": 3,
+      "text": "אשמור",
+      "lemma": "8104",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H8104"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 547,
+        "ordinal": 61,
+        "reduced": 16
+      }
+    },
+    {
       "position": 4,
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,
@@ -105,7 +114,9 @@
       "text": "לוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
-      "metadata": {},
+      "metadata": {
+        "isPrefixOnly": true
+      },
       "gematria": {
         "standard": 36,
         "ordinal": 18,

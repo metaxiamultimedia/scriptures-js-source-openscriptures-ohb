@@ -1,8 +1,25 @@
 {
-  "text": "יִנָּכֵר שׂוֹנֵא וּבְקִרְבּוֹ יָשִׁית מִרְמָה בשפתו בִּשְׂפָתָיו",
+  "text": "בשפתו יִנָּכֵר שׂוֹנֵא וּבְקִרְבּוֹ יָשִׁית מִרְמָה בִּשְׂפָתָיו",
   "words": [
     {
       "position": 1,
+      "text": "בשפתו",
+      "lemma": "b/8193",
+      "morph": "HR/Ncfsc/Sp3ms",
+      "strongs": [
+        "H8193"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 788,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
       "text": "יִנָּכֵר",
       "lemma": "5234 b",
       "morph": "HVNi3ms",
@@ -17,7 +34,7 @@
       }
     },
     {
-      "position": 2,
+      "position": 3,
       "text": "שׂוֹנֵא",
       "lemma": "8130",
       "morph": "HVqrmsa",
@@ -32,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וּבְקִרְבּוֹ",
       "lemma": "c/b/7130",
       "morph": "HC/R/Ncmsc/Sp3ms",
@@ -47,7 +64,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יָשִׁית",
       "lemma": "7896",
       "morph": "HVqi3ms",
@@ -62,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מִרְמָה",
       "lemma": "4820",
       "morph": "HNcfsa",
@@ -77,18 +94,6 @@
       }
     },
     {
-      "position": 6,
-      "text": "בשפתו",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 788,
-        "ordinal": 68,
-        "reduced": 23
-      }
-    },
-    {
       "position": 7,
       "text": "בִּשְׂפָתָיו",
       "lemma": "b/8193",
@@ -96,7 +101,9 @@
       "strongs": [
         "H8193"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 798,
         "ordinal": 78,

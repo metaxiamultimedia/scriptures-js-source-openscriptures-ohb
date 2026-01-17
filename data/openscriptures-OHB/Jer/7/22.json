@@ -1,5 +1,5 @@
 {
-  "text": "כִּי לֹא דִבַּרְתִּי אֶת אֲבוֹתֵיכֶם וְלֹא צִוִּיתִים בְּיוֹם אוֹתָם מֵאֶרֶץ מִצְרָיִם עַל דִּבְרֵי עוֹלָה וָזָבַח הוציא הוֹצִיאִי",
+  "text": "כִּי לֹא דִבַּרְתִּי אֶת אֲבוֹתֵיכֶם וְלֹא צִוִּיתִים בְּיוֹם הוציא אוֹתָם מֵאֶרֶץ מִצְרָיִם עַל דִּבְרֵי עוֹלָה וָזָבַח הוֹצִיאִי",
   "words": [
     {
       "position": 1,
@@ -66,6 +66,9 @@
       "text": "אֲבוֹתֵיכֶם",
       "lemma": "1",
       "morph": "HNcmpc/Sp2mp",
+      "strongs": [
+        "H1"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 479,
@@ -120,6 +123,23 @@
     },
     {
       "position": 9,
+      "text": "הוציא",
+      "lemma": "3318",
+      "morph": "HVhc",
+      "strongs": [
+        "H3318"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 112,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
       "text": "אוֹתָם",
       "lemma": "853",
       "morph": "HTo/Sp3mp",
@@ -134,7 +154,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "מֵאֶרֶץ",
       "lemma": "m/776",
       "morph": "HR/Ncbsc",
@@ -149,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מִצְרָיִם",
       "lemma": "4714",
       "morph": "HNp",
@@ -164,7 +184,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -179,7 +199,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "דִּבְרֵי",
       "lemma": "1697",
       "morph": "HNcmpc",
@@ -194,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עוֹלָה",
       "lemma": "5930 a",
       "morph": "HNcfsa",
@@ -209,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וָזָבַח",
       "lemma": "c/2077",
       "morph": "HC/Ncmsa",
@@ -224,18 +244,6 @@
       }
     },
     {
-      "position": 16,
-      "text": "הוציא",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 112,
-        "ordinal": 40,
-        "reduced": 22
-      }
-    },
-    {
       "position": 17,
       "text": "הוֹצִיאִי",
       "lemma": "3318",
@@ -243,7 +251,9 @@
       "strongs": [
         "H3318"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 122,
         "ordinal": 50,

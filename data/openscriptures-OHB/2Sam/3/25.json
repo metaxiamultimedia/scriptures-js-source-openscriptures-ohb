@@ -1,5 +1,5 @@
 {
-  "text": "יָדַעְתָּ אֶת אַבְנֵר בֶּן נֵר כִּי לְפַתֹּתְךָ בָּא וְלָדַעַת אֶת מוֹצָאֲךָ וְאֶת וְלָדַעַת אֵת כָּל אֲשֶׁר אַתָּה עֹשֶׂה מבואך מוֹבָאֶךָ",
+  "text": "יָדַעְתָּ אֶת אַבְנֵר בֶּן נֵר כִּי לְפַתֹּתְךָ בָּא וְלָדַעַת אֶת מוֹצָאֲךָ וְאֶת מבואך וְלָדַעַת אֵת כָּל אֲשֶׁר אַתָּה עֹשֶׂה מוֹבָאֶךָ",
   "words": [
     {
       "position": 1,
@@ -36,6 +36,9 @@
       "text": "אַבְנֵר",
       "lemma": "74",
       "morph": "HNp",
+      "strongs": [
+        "H74"
+      ],
       "metadata": {},
       "gematria": {
         "standard": 253,
@@ -180,6 +183,23 @@
     },
     {
       "position": 13,
+      "text": "מבואך",
+      "lemma": "4126",
+      "morph": "HNcmsc/Sp2ms",
+      "strongs": [
+        "H4126"
+      ],
+      "metadata": {
+        "isKetiv": true
+      },
+      "gematria": {
+        "standard": 69,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
       "text": "וְלָדַעַת",
       "lemma": "c/l/3045",
       "morph": "HC/R/Vqc",
@@ -194,7 +214,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֵת",
       "lemma": "853",
       "morph": "HTo",
@@ -209,7 +229,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -224,7 +244,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -239,7 +259,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אַתָּה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -254,7 +274,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "עֹשֶׂה",
       "lemma": "6213 a",
       "morph": "HVqrmsa",
@@ -269,18 +289,6 @@
       }
     },
     {
-      "position": 19,
-      "text": "מבואך",
-      "lemma": null,
-      "morph": null,
-      "metadata": {},
-      "gematria": {
-        "standard": 69,
-        "ordinal": 33,
-        "reduced": 15
-      }
-    },
-    {
       "position": 20,
       "text": "מוֹבָאֶךָ",
       "lemma": "4126",
@@ -288,7 +296,9 @@
       "strongs": [
         "H4126"
       ],
-      "metadata": {},
+      "metadata": {
+        "isQere": true
+      },
       "gematria": {
         "standard": 69,
         "ordinal": 33,
