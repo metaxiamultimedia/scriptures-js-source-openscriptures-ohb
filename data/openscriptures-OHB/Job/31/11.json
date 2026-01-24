@@ -1,5 +1,5 @@
 {
-  "text": "כִּי הוא זִמָּה והיא עָוֺן פְּלִילִים הִיא וְהוּא",
+  "text": "כִּי הוא זִמָּ֑ה והיא עָוֺ֥ן פְּלִילִֽים הִ֥יא וְ֝ה֗וּא",
   "words": [
     {
       "position": 1,
@@ -10,10 +10,9 @@
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
@@ -24,28 +23,26 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 12,
-        "ordinal": 12,
-        "reduced": 12
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "1931",
+        "morph": "HPp3ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 3,
-      "text": "זִמָּה",
+      "text": "זִמָּ֑ה",
       "lemma": "2154",
       "morph": "HNcfsa",
       "strongs": [
         "H2154"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 25,
-        "reduced": 16
+      "source": {
+        "lemma": "2154",
+        "morph": "HNcfsa"
       }
     },
     {
@@ -56,83 +53,71 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 22,
-        "ordinal": 22,
-        "reduced": 13
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1931",
+        "morph": "HC/Pp3fs",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "עָוֺן",
+      "text": "עָוֺ֥ן",
       "lemma": "5771",
       "morph": "HNcbsa",
       "strongs": [
         "H5771"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 126,
-        "ordinal": 36,
-        "reduced": 18
+      "source": {
+        "lemma": "5771",
+        "morph": "HNcbsa"
       }
     },
     {
       "position": 6,
-      "text": "פְּלִילִים",
+      "text": "פְּלִילִֽים",
       "lemma": "6414",
       "morph": "HNcmpa",
       "strongs": [
         "H6414"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 200,
-        "ordinal": 74,
-        "reduced": 20
+      "source": {
+        "lemma": "6414",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 7,
-      "text": "הִיא",
+      "text": "הִ֥יא",
       "lemma": "1931",
       "morph": "HPp3fs",
       "strongs": [
         "H1931"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 16,
-        "ordinal": 16,
-        "reduced": 7
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1931",
+        "morph": "HPp3fs"
       }
     },
     {
       "position": 8,
-      "text": "וְהוּא",
+      "text": "וְ֝ה֗וּא",
       "lemma": "c/1931",
       "morph": "HC/Pp3ms",
       "strongs": [
         "H1931"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 18,
-        "ordinal": 18,
-        "reduced": 18
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1931",
+        "morph": "HC/Pp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 476,
-    "ordinal": 224,
-    "reduced": 107
-  }
+  ]
 }

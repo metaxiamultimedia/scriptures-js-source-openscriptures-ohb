@@ -1,34 +1,32 @@
 {
-  "text": "יַרְשִׁיעֲךָ פִיךָ וְלֹא אָנִי וּשְׂפָתֶיךָ יַעֲנוּ בָךְ",
+  "text": "יַרְשִֽׁיעֲךָ֣ פִ֣יךָ וְלֹא אָ֑נִי וּ֝שְׂפָתֶ֗יךָ יַעֲנוּ בָֽךְ",
   "words": [
     {
       "position": 1,
-      "text": "יַרְשִׁיעֲךָ",
+      "text": "יַרְשִֽׁיעֲךָ֣",
       "lemma": "7561",
       "morph": "HVhi3ms/Sp2ms",
       "strongs": [
         "H7561"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 610,
-        "ordinal": 88,
-        "reduced": 16
+      "source": {
+        "lemma": "7561",
+        "morph": "HVhi3ms/Sp2ms"
       }
     },
     {
       "position": 2,
-      "text": "פִיךָ",
+      "text": "פִ֣יךָ",
       "lemma": "6310",
       "morph": "HNcmsc/Sp2ms",
       "strongs": [
         "H6310"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 110,
-        "ordinal": 38,
-        "reduced": 11
+      "source": {
+        "lemma": "6310",
+        "morph": "HNcmsc/Sp2ms"
       }
     },
     {
@@ -40,40 +38,37 @@
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/3808",
+        "morph": "HC/Tn"
       }
     },
     {
       "position": 4,
-      "text": "אָנִי",
+      "text": "אָ֑נִי",
       "lemma": "589",
       "morph": "HPp1cs",
       "strongs": [
         "H589"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "589",
+        "morph": "HPp1cs"
       }
     },
     {
       "position": 5,
-      "text": "וּשְׂפָתֶיךָ",
+      "text": "וּ֝שְׂפָתֶ֗יךָ",
       "lemma": "c/8193",
       "morph": "HC/Ncfdc/Sp2ms",
       "strongs": [
         "H8193"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 816,
-        "ordinal": 87,
-        "reduced": 24
+      "source": {
+        "lemma": "c/8193",
+        "morph": "HC/Ncfdc/Sp2ms"
       }
     },
     {
@@ -85,30 +80,23 @@
         "H6030"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 136,
-        "ordinal": 46,
-        "reduced": 19
+      "source": {
+        "lemma": "6030 b",
+        "morph": "HVqi3mp"
       }
     },
     {
       "position": 7,
-      "text": "בָךְ",
+      "text": "בָֽךְ",
       "lemma": "b",
       "morph": "HR/Sp2fs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 22,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp2fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1792,
-    "ordinal": 316,
-    "reduced": 91
-  }
+  ]
 }

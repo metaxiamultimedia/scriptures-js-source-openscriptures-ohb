@@ -1,34 +1,32 @@
 {
-  "text": "בְּנָיָה בֵדְיָה כלהי כְּלוּהוּ",
+  "text": "בְּנָיָ֥ה בֵדְיָ֖ה כלהי כְּלֽוּהוּ",
   "words": [
     {
       "position": 1,
-      "text": "בְּנָיָה",
+      "text": "בְּנָיָ֥ה",
       "lemma": "1141",
       "morph": "HNp",
       "strongs": [
         "H1141"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 67,
-        "ordinal": 31,
-        "reduced": 13
+      "source": {
+        "lemma": "1141",
+        "morph": "HNp"
       }
     },
     {
       "position": 2,
-      "text": "בֵדְיָה",
+      "text": "בֵדְיָ֖ה",
       "lemma": "912",
       "morph": "HNp",
       "strongs": [
         "H912"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 21,
-        "ordinal": 21,
-        "reduced": 12
+      "source": {
+        "lemma": "912",
+        "morph": "HNp"
       }
     },
     {
@@ -39,36 +37,28 @@
       "strongs": [
         "H3622"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 65,
-        "ordinal": 38,
-        "reduced": 11
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "3622",
+        "morph": "HNp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 4,
-      "text": "כְּלוּהוּ",
+      "text": "כְּלֽוּהוּ",
       "lemma": "3622",
       "morph": "HNp",
       "strongs": [
         "H3622"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 67,
-        "ordinal": 40,
-        "reduced": 22
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3622",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 220,
-    "ordinal": 130,
-    "reduced": 58
-  }
+  ]
 }

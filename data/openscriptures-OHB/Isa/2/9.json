@@ -1,34 +1,32 @@
 {
-  "text": "וַיִּשַּׁח אָדָם וַיִּשְׁפַּל אִישׁ וְאַל תִּשָּׂא לָהֶם",
+  "text": "וַיִּשַּׁ֥ח אָדָ֖ם וַיִּשְׁפַּל אִ֑ישׁ וְאַל תִּשָּׂ֖א לָהֶֽם",
   "words": [
     {
       "position": 1,
-      "text": "וַיִּשַּׁח",
+      "text": "וַיִּשַּׁ֥ח",
       "lemma": "c/7817",
       "morph": "HC/VNw3ms",
       "strongs": [
         "H7817"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 324,
-        "ordinal": 45,
-        "reduced": 18
+      "source": {
+        "lemma": "c/7817",
+        "morph": "HC/VNw3ms"
       }
     },
     {
       "position": 2,
-      "text": "אָדָם",
+      "text": "אָדָ֖ם",
       "lemma": "120",
       "morph": "HNcmsa",
       "strongs": [
         "H120"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "120",
+        "morph": "HNcmsa"
       }
     },
     {
@@ -40,25 +38,23 @@
         "H8213"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 426,
-        "ordinal": 66,
-        "reduced": 21
+      "source": {
+        "lemma": "c/8213",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 4,
-      "text": "אִישׁ",
+      "text": "אִ֑ישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
       "strongs": [
         "H376"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 311,
-        "ordinal": 32,
-        "reduced": 5
+      "source": {
+        "lemma": "376",
+        "morph": "HNcmsa"
       }
     },
     {
@@ -70,45 +66,37 @@
         "H408"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/408",
+        "morph": "HC/Tn"
       }
     },
     {
       "position": 6,
-      "text": "תִּשָּׂא",
+      "text": "תִּשָּׂ֖א",
       "lemma": "5375",
       "morph": "HVqj2ms",
       "strongs": [
         "H5375"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 701,
-        "ordinal": 44,
-        "reduced": 8
+      "source": {
+        "lemma": "5375",
+        "morph": "HVqj2ms"
       }
     },
     {
       "position": 7,
-      "text": "לָהֶם",
+      "text": "לָהֶֽם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 75,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1919,
-    "ordinal": 254,
-    "reduced": 83
-  }
+  ]
 }

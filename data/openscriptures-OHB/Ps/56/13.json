@@ -1,99 +1,88 @@
 {
-  "text": "עָלַי אֱלֹהִים נְדָרֶיךָ אֲשַׁלֵּם תּוֹדֹת לָךְ",
+  "text": "עָלַ֣י אֱלֹהִ֣ים נְדָרֶ֑יךָ אֲשַׁלֵּ֖ם תּוֹדֹ֣ת לָֽךְ",
   "words": [
     {
       "position": 1,
-      "text": "עָלַי",
+      "text": "עָלַ֣י",
       "lemma": "5921 a",
       "morph": "HR/Sp1cs",
       "strongs": [
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 110,
-        "ordinal": 38,
-        "reduced": 11
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR/Sp1cs"
       }
     },
     {
       "position": 2,
-      "text": "אֱלֹהִים",
+      "text": "אֱלֹהִ֣ים",
       "lemma": "430",
       "morph": "HNcmpa",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 86,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "430",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 3,
-      "text": "נְדָרֶיךָ",
+      "text": "נְדָרֶ֑יךָ",
       "lemma": "5088",
       "morph": "HNcmpc/Sp2ms",
       "strongs": [
         "H5088"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 284,
-        "ordinal": 59,
-        "reduced": 14
+      "source": {
+        "lemma": "5088",
+        "morph": "HNcmpc/Sp2ms"
       }
     },
     {
       "position": 4,
-      "text": "אֲשַׁלֵּם",
+      "text": "אֲשַׁלֵּ֖ם",
       "lemma": "7999 a",
       "morph": "HVpi1cs",
       "strongs": [
         "H7999"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 371,
-        "ordinal": 47,
-        "reduced": 11
+      "source": {
+        "lemma": "7999 a",
+        "morph": "HVpi1cs"
       }
     },
     {
       "position": 5,
-      "text": "תּוֹדֹת",
+      "text": "תּוֹדֹ֣ת",
       "lemma": "8426",
       "morph": "HNcfpa",
       "strongs": [
         "H8426"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 810,
-        "ordinal": 54,
-        "reduced": 18
+      "source": {
+        "lemma": "8426",
+        "morph": "HNcfpa"
       }
     },
     {
       "position": 6,
-      "text": "לָךְ",
+      "text": "לָֽךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp2fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1711,
-    "ordinal": 262,
-    "reduced": 73
-  }
+  ]
 }

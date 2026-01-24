@@ -1,5 +1,5 @@
 {
-  "text": "גרל חֵמָה נֹשֵׂא עֹנֶשׁ כִּי אִם תַּצִּיל וְעוֹד תּוֹסִף גְּדָל",
+  "text": "גרל חֵ֭מָה נֹ֣שֵׂא עֹ֑נֶשׁ כִּ֥י אִם תַּ֝צִּ֗יל וְע֣וֹד תּוֹסִֽף גְּֽדָל",
   "words": [
     {
       "position": 1,
@@ -9,73 +9,68 @@
       "strongs": [
         "H1632"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 233,
-        "ordinal": 35,
-        "reduced": 8
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "1632",
+        "morph": "HNcmsc",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 2,
-      "text": "חֵמָה",
+      "text": "חֵ֭מָה",
       "lemma": "2534",
       "morph": "HNcfsa",
       "strongs": [
         "H2534"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 53,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "2534",
+        "morph": "HNcfsa"
       }
     },
     {
       "position": 3,
-      "text": "נֹשֵׂא",
+      "text": "נֹ֣שֵׂא",
       "lemma": "5375",
       "morph": "HVqrmsa",
       "strongs": [
         "H5375"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 351,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "5375",
+        "morph": "HVqrmsa"
       }
     },
     {
       "position": 4,
-      "text": "עֹנֶשׁ",
+      "text": "עֹ֑נֶשׁ",
       "lemma": "6066",
       "morph": "HNcmsa",
       "strongs": [
         "H6066"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "6066",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 5,
-      "text": "כִּי",
+      "text": "כִּ֥י",
       "lemma": "3588 b",
       "morph": "HC",
       "strongs": [
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 b",
+        "morph": "HC"
       }
     },
     {
@@ -87,78 +82,67 @@
         "H518"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 41,
-        "ordinal": 14,
-        "reduced": 5
+      "source": {
+        "lemma": "518 b",
+        "morph": "HC"
       }
     },
     {
       "position": 7,
-      "text": "תַּצִּיל",
+      "text": "תַּ֝צִּ֗יל",
       "lemma": "5337",
       "morph": "HVhi2ms",
       "strongs": [
         "H5337"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 530,
-        "ordinal": 62,
-        "reduced": 17
+      "source": {
+        "lemma": "5337",
+        "morph": "HVhi2ms"
       }
     },
     {
       "position": 8,
-      "text": "וְעוֹד",
+      "text": "וְע֣וֹד",
       "lemma": "c/5750",
       "morph": "HC/D",
       "strongs": [
         "H5750"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 86,
-        "ordinal": 32,
-        "reduced": 23
+      "source": {
+        "lemma": "c/5750",
+        "morph": "HC/D"
       }
     },
     {
       "position": 9,
-      "text": "תּוֹסִף",
+      "text": "תּוֹסִֽף",
       "lemma": "3254",
       "morph": "HVhi2ms",
       "strongs": [
         "H3254"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 546,
-        "ordinal": 60,
-        "reduced": 24
+      "source": {
+        "lemma": "3254",
+        "morph": "HVhi2ms"
       }
     },
     {
       "position": 10,
-      "text": "גְּדָל",
+      "text": "גְּֽדָל",
       "lemma": "1419 a",
       "morph": "HAamsc",
       "strongs": [
         "H1419"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1419 a",
+        "morph": "HAamsc"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2327,
-    "ordinal": 356,
-    "reduced": 131
-  }
+  ]
 }

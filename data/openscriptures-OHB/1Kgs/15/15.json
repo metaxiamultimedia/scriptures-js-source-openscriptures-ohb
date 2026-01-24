@@ -1,19 +1,18 @@
 {
-  "text": "וַיָּבֵא אֶת קָדְשֵׁי אָבִיו וקדשו בֵּית יְהוָה כֶּסֶף וְזָהָב וְכֵלִים וְקָדְשֵׁי",
+  "text": "וַיָּבֵא֙ אֶת קָדְשֵׁ֣י אָבִ֔יו וקדשו בֵּ֣ית יְהוָ֑ה כֶּ֥סֶף וְזָהָ֖ב וְכֵלִֽים וְקָדְשֵׁ֖י",
   "words": [
     {
       "position": 1,
-      "text": "וַיָּבֵא",
+      "text": "וַיָּבֵא֙",
       "lemma": "c/935",
       "morph": "HC/Vhw3ms",
       "strongs": [
         "H935"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/935",
+        "morph": "HC/Vhw3ms"
       }
     },
     {
@@ -25,40 +24,37 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 3,
-      "text": "קָדְשֵׁי",
+      "text": "קָדְשֵׁ֣י",
       "lemma": "6944",
       "morph": "HNcmpc",
       "strongs": [
         "H6944"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 414,
-        "ordinal": 54,
-        "reduced": 9
+      "source": {
+        "lemma": "6944",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 4,
-      "text": "אָבִיו",
+      "text": "אָבִ֔יו",
       "lemma": "1",
       "morph": "HNcmsc/Sp3ms",
       "strongs": [
         "H1"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "1",
+        "morph": "HNcmsc/Sp3ms"
       }
     },
     {
@@ -69,111 +65,98 @@
       "strongs": [
         "H6944"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 416,
-        "ordinal": 56,
-        "reduced": 20
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6944",
+        "morph": "HC/Ncmsc/Sp3ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 6,
-      "text": "בֵּית",
+      "text": "בֵּ֣ית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
       "strongs": [
         "H1004"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 412,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "1004 b",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 7,
-      "text": "יְהוָה",
+      "text": "יְהוָ֑ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 8,
-      "text": "כֶּסֶף",
+      "text": "כֶּ֥סֶף",
       "lemma": "3701",
       "morph": "HNcmsa",
       "strongs": [
         "H3701"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 160,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "3701",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 9,
-      "text": "וְזָהָב",
+      "text": "וְזָהָ֖ב",
       "lemma": "c/2091",
       "morph": "HC/Ncmsa",
       "strongs": [
         "H2091"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 20,
-        "ordinal": 20,
-        "reduced": 20
+      "source": {
+        "lemma": "c/2091",
+        "morph": "HC/Ncmsa"
       }
     },
     {
       "position": 10,
-      "text": "וְכֵלִים",
+      "text": "וְכֵלִֽים",
       "lemma": "c/3627",
       "morph": "HC/Ncmpa",
       "strongs": [
         "H3627"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 106,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "c/3627",
+        "morph": "HC/Ncmpa"
       }
     },
     {
       "position": 11,
-      "text": "וְקָדְשֵׁי",
+      "text": "וְקָדְשֵׁ֖י",
       "lemma": "c/6944",
       "morph": "HC/Ncmpc",
       "strongs": [
         "H6944"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 420,
-        "ordinal": 60,
-        "reduced": 15
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6944",
+        "morph": "HC/Ncmpc"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2413,
-    "ordinal": 406,
-    "reduced": 145
-  }
+  ]
 }

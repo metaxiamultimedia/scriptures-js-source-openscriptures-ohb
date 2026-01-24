@@ -1,64 +1,60 @@
 {
-  "text": "וַיִּשְׁלַח חִצִּים וַיְפִיצֵם בָּרָק ויהמם וַיָּהֹם",
+  "text": "וַיִּשְׁלַ֥ח חִצִּ֖ים וַיְפִיצֵ֑ם בָּרָ֖ק ויהמם וַיָּהֹֽם",
   "words": [
     {
       "position": 1,
-      "text": "וַיִּשְׁלַח",
+      "text": "וַיִּשְׁלַ֥ח",
       "lemma": "c/7971",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H7971"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 354,
-        "ordinal": 57,
-        "reduced": 21
+      "source": {
+        "lemma": "c/7971",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 2,
-      "text": "חִצִּים",
+      "text": "חִצִּ֖ים",
       "lemma": "2671",
       "morph": "HNcmpa",
       "strongs": [
         "H2671"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 148,
-        "ordinal": 49,
-        "reduced": 22
+      "source": {
+        "lemma": "2671",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 3,
-      "text": "וַיְפִיצֵם",
+      "text": "וַיְפִיצֵ֑ם",
       "lemma": "c/6327 a",
       "morph": "HC/Vhw3ms/Sp3mp",
       "strongs": [
         "H6327"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 236,
-        "ordinal": 74,
-        "reduced": 29
+      "source": {
+        "lemma": "c/6327 a",
+        "morph": "HC/Vhw3ms/Sp3mp"
       }
     },
     {
       "position": 4,
-      "text": "בָּרָק",
+      "text": "בָּרָ֖ק",
       "lemma": "1300 a",
       "morph": "HNcmsa",
       "strongs": [
         "H1300"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 302,
-        "ordinal": 41,
-        "reduced": 5
+      "source": {
+        "lemma": "1300 a",
+        "morph": "HNcmsa"
       }
     },
     {
@@ -69,36 +65,28 @@
       "strongs": [
         "H2000"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 101,
-        "ordinal": 47,
-        "reduced": 20
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/2000",
+        "morph": "HC/Vhw3ms/Sp3mp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 6,
-      "text": "וַיָּהֹם",
+      "text": "וַיָּהֹֽם",
       "lemma": "c/2000",
       "morph": "HC/Vhw3ms",
       "strongs": [
         "H2000"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 61,
-        "ordinal": 34,
-        "reduced": 16
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/2000",
+        "morph": "HC/Vhw3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1202,
-    "ordinal": 302,
-    "reduced": 113
-  }
+  ]
 }

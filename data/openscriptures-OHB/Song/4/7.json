@@ -1,99 +1,88 @@
 {
-  "text": "כֻּלָּךְ יָפָה רַעְיָתִי וּמוּם אֵין בָּךְ",
+  "text": "כֻּלָּ֤ךְ יָפָה֙ רַעְיָתִ֔י וּמ֖וּם אֵ֥ין בָּֽךְ",
   "words": [
     {
       "position": 1,
-      "text": "כֻּלָּךְ",
+      "text": "כֻּלָּ֤ךְ",
       "lemma": "3605",
       "morph": "HNcmsc/Sp2fs",
       "strongs": [
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc/Sp2fs"
       }
     },
     {
       "position": 2,
-      "text": "יָפָה",
+      "text": "יָפָה֙",
       "lemma": "3303",
       "morph": "HAafsa",
       "strongs": [
         "H3303"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 95,
-        "ordinal": 32,
-        "reduced": 14
+      "source": {
+        "lemma": "3303",
+        "morph": "HAafsa"
       }
     },
     {
       "position": 3,
-      "text": "רַעְיָתִי",
+      "text": "רַעְיָתִ֔י",
       "lemma": "7474",
       "morph": "HNcfsc/Sp1cs",
       "strongs": [
         "H7474"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 690,
-        "ordinal": 78,
-        "reduced": 15
+      "source": {
+        "lemma": "7474",
+        "morph": "HNcfsc/Sp1cs"
       }
     },
     {
       "position": 4,
-      "text": "וּמוּם",
+      "text": "וּמ֖וּם",
       "lemma": "c/3971 b",
       "morph": "HC/Ncmsa",
       "strongs": [
         "H3971"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 92,
-        "ordinal": 38,
-        "reduced": 20
+      "source": {
+        "lemma": "c/3971 b",
+        "morph": "HC/Ncmsa"
       }
     },
     {
       "position": 5,
-      "text": "אֵין",
+      "text": "אֵ֥ין",
       "lemma": "369",
       "morph": "HTn",
       "strongs": [
         "H369"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "369",
+        "morph": "HTn"
       }
     },
     {
       "position": 6,
-      "text": "בָּךְ",
+      "text": "בָּֽךְ",
       "lemma": "b",
       "morph": "HR/Sp2fs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 22,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp2fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1030,
-    "ordinal": 220,
-    "reduced": 67
-  }
+  ]
 }

@@ -1,19 +1,18 @@
 {
-  "text": "לַמְנַצֵּחַ לידיתון מִזְמוֹר לְדָוִד לִידוּתוּן",
+  "text": "לַמְנַצֵּ֥חַ לידיתון מִזְמ֥וֹר לְדָוִֽד לִֽידוּת֗וּן",
   "words": [
     {
       "position": 1,
-      "text": "לַמְנַצֵּחַ",
+      "text": "לַמְנַצֵּ֥חַ",
       "lemma": "l/5329",
       "morph": "HRd/Vprmsa",
       "strongs": [
         "H5329"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 218,
-        "ordinal": 65,
-        "reduced": 29
+      "source": {
+        "lemma": "l/5329",
+        "morph": "HRd/Vprmsa"
       }
     },
     {
@@ -24,66 +23,56 @@
       "strongs": [
         "H3038"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 510,
-        "ordinal": 78,
-        "reduced": 24
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "l/3038",
+        "morph": "HR/Np",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 3,
-      "text": "מִזְמוֹר",
+      "text": "מִזְמ֥וֹר",
       "lemma": "4210",
       "morph": "HNcmsa",
       "strongs": [
         "H4210"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 293,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "4210",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 4,
-      "text": "לְדָוִד",
+      "text": "לְדָוִֽד",
       "lemma": "l/1732",
       "morph": "HR/Np",
       "strongs": [
         "H1732"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 44,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "l/1732",
+        "morph": "HR/Np"
       }
     },
     {
       "position": 5,
-      "text": "לִידוּתוּן",
+      "text": "לִֽידוּת֗וּן",
       "lemma": "l/3038",
       "morph": "HR/Np",
       "strongs": [
         "H3038"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 506,
-        "ordinal": 74,
-        "reduced": 29
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "l/3038",
+        "morph": "HR/Np"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1571,
-    "ordinal": 302,
-    "reduced": 122
-  }
+  ]
 }

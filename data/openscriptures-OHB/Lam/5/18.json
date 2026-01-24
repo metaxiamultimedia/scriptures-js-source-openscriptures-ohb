@@ -1,19 +1,18 @@
 {
-  "text": "עַל הַר צִיּוֹן שֶׁשָּׁמֵם שׁוּעָלִים הִלְּכוּ בוֹ",
+  "text": "עַ֤ל הַר צִיּוֹן֙ שֶׁשָּׁמֵ֔ם שׁוּעָלִ֖ים הִלְּכוּ בֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "עַל",
+      "text": "עַ֤ל",
       "lemma": "5921 a",
       "morph": "HR",
       "strongs": [
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
@@ -25,55 +24,51 @@
         "H2022"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 205,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "2022",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 3,
-      "text": "צִיּוֹן",
+      "text": "צִיּוֹן֙",
       "lemma": "6726",
       "morph": "HNp",
       "strongs": [
         "H6726"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 156,
-        "ordinal": 48,
-        "reduced": 21
+      "source": {
+        "lemma": "6726",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "שֶׁשָּׁמֵם",
+      "text": "שֶׁשָּׁמֵ֔ם",
       "lemma": "s/8074",
       "morph": "HTr/Vqp3ms",
       "strongs": [
         "H8074"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 680,
-        "ordinal": 68,
-        "reduced": 14
+      "source": {
+        "lemma": "s/8074",
+        "morph": "HTr/Vqp3ms"
       }
     },
     {
       "position": 5,
-      "text": "שׁוּעָלִים",
+      "text": "שׁוּעָלִ֖ים",
       "lemma": "7776",
       "morph": "HNcmpa",
       "strongs": [
         "H7776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 456,
-        "ordinal": 78,
-        "reduced": 24
+      "source": {
+        "lemma": "7776",
+        "morph": "HNcmpa"
       }
     },
     {
@@ -85,30 +80,23 @@
         "H1980"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 34,
-        "reduced": 16
+      "source": {
+        "lemma": "1980",
+        "morph": "HVpp3cp"
       }
     },
     {
       "position": 7,
-      "text": "בוֹ",
+      "text": "בֽוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1666,
-    "ordinal": 289,
-    "reduced": 100
-  }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "text": "הֲלוֹא זֹאת תַּעֲשֶׂה לָּךְ עָזְבֵךְ אֶת יְהוָה אֱלֹהַיִךְ בְּעֵת מוֹלִיכֵךְ בַּדָּרֶךְ",
+  "text": "הֲלוֹא זֹ֖את תַּעֲשֶׂה לָּ֑ךְ עָזְבֵךְ֙ אֶת יְהוָ֣ה אֱלֹהַ֔יִךְ בְּעֵ֖ת מוֹלִיכֵ֥ךְ בַּדָּֽרֶךְ",
   "words": [
     {
       "position": 1,
@@ -10,25 +10,23 @@
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 42,
-        "ordinal": 24,
-        "reduced": 15
+      "source": {
+        "lemma": "i/3808",
+        "morph": "HTi/Tn"
       }
     },
     {
       "position": 2,
-      "text": "זֹאת",
+      "text": "זֹ֖את",
       "lemma": "2063",
       "morph": "HPdxfs",
       "strongs": [
         "H2063"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 408,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "2063",
+        "morph": "HPdxfs"
       }
     },
     {
@@ -40,39 +38,36 @@
         "H6213"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 775,
-        "ordinal": 64,
-        "reduced": 19
+      "source": {
+        "lemma": "6213 a",
+        "morph": "HVqi2ms"
       }
     },
     {
       "position": 4,
-      "text": "לָּךְ",
+      "text": "לָּ֑ךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp2fs"
       }
     },
     {
       "position": 5,
-      "text": "עָזְבֵךְ",
+      "text": "עָזְבֵךְ֙",
       "lemma": "5800 a",
       "morph": "HVqc/Sp2fs",
       "strongs": [
         "H5800"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 99,
-        "ordinal": 36,
-        "reduced": 18
+      "source": {
+        "lemma": "5800 a",
+        "morph": "HVqc/Sp2fs"
       }
     },
     {
@@ -84,91 +79,80 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 7,
-      "text": "יְהוָה",
+      "text": "יְהוָ֣ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 8,
-      "text": "אֱלֹהַיִךְ",
+      "text": "אֱלֹהַ֔יִךְ",
       "lemma": "430",
       "morph": "HNcmpc/Sp2fs",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 66,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "430",
+        "morph": "HNcmpc/Sp2fs"
       }
     },
     {
       "position": 9,
-      "text": "בְּעֵת",
+      "text": "בְּעֵ֖ת",
       "lemma": "b/6256",
       "morph": "HR/Ncbsc",
       "strongs": [
         "H6256"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 472,
-        "ordinal": 40,
-        "reduced": 13
+      "source": {
+        "lemma": "b/6256",
+        "morph": "HR/Ncbsc"
       }
     },
     {
       "position": 10,
-      "text": "מוֹלִיכֵךְ",
+      "text": "מוֹלִיכֵ֥ךְ",
       "lemma": "3212",
       "morph": "HVhrmsc/Sp2fs",
       "strongs": [
         "H3212"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 126,
-        "ordinal": 63,
-        "reduced": 18
+      "source": {
+        "lemma": "3212",
+        "morph": "HVhrmsc/Sp2fs"
       }
     },
     {
       "position": 11,
-      "text": "בַּדָּרֶךְ",
+      "text": "בַּדָּֽרֶךְ",
       "lemma": "b/1870",
       "morph": "HRd/Ncbsa",
       "strongs": [
         "H1870"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 226,
-        "ordinal": 37,
-        "reduced": 10
+      "source": {
+        "lemma": "b/1870",
+        "morph": "HRd/Ncbsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2691,
-    "ordinal": 405,
-    "reduced": 144
-  }
+  ]
 }

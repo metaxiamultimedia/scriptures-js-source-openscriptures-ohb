@@ -1,19 +1,18 @@
 {
-  "text": "וַתִּקְחִי אֶת בִּגְדֵי רִקְמָתֵךְ וַתְּכַסִּים וְשַׁמְנִי וּקְטָרְתִּי נתתי לִפְנֵיהֶם נָתַתְּ",
+  "text": "וַתִּקְחִ֛י אֶת בִּגְדֵ֥י רִקְמָתֵ֖ךְ וַתְּכַסִּ֑ים וְשַׁמְנִי֙ וּקְטָרְתִּ֔י נתתי לִפְנֵיהֶֽם נָתַ֖תְּ",
   "words": [
     {
       "position": 1,
-      "text": "וַתִּקְחִי",
+      "text": "וַתִּקְחִ֛י",
       "lemma": "c/3947",
       "morph": "HC/Vqw2fs",
       "strongs": [
         "H3947"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 524,
-        "ordinal": 65,
-        "reduced": 20
+      "source": {
+        "lemma": "c/3947",
+        "morph": "HC/Vqw2fs"
       }
     },
     {
@@ -25,85 +24,79 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 3,
-      "text": "בִּגְדֵי",
+      "text": "בִּגְדֵ֥י",
       "lemma": "899 b",
       "morph": "HNcmpc",
       "strongs": [
         "H899"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "899 b",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 4,
-      "text": "רִקְמָתֵךְ",
+      "text": "רִקְמָתֵ֖ךְ",
       "lemma": "7553",
       "morph": "HNcfsc/Sp2fs",
       "strongs": [
         "H7553"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 760,
-        "ordinal": 85,
-        "reduced": 13
+      "source": {
+        "lemma": "7553",
+        "morph": "HNcfsc/Sp2fs"
       }
     },
     {
       "position": 5,
-      "text": "וַתְּכַסִּים",
+      "text": "וַתְּכַסִּ֑ים",
       "lemma": "c/3680",
       "morph": "HC/Vpw2fs/Sp3mp",
       "strongs": [
         "H3680"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 536,
-        "ordinal": 77,
-        "reduced": 23
+      "source": {
+        "lemma": "c/3680",
+        "morph": "HC/Vpw2fs/Sp3mp"
       }
     },
     {
       "position": 6,
-      "text": "וְשַׁמְנִי",
+      "text": "וְשַׁמְנִי֙",
       "lemma": "c/8081",
       "morph": "HC/Ncmsc/Sp1cs",
       "strongs": [
         "H8081"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 406,
-        "ordinal": 64,
-        "reduced": 19
+      "source": {
+        "lemma": "c/8081",
+        "morph": "HC/Ncmsc/Sp1cs"
       }
     },
     {
       "position": 7,
-      "text": "וּקְטָרְתִּי",
+      "text": "וּקְטָרְתִּ֔י",
       "lemma": "c/7004",
       "morph": "HC/Ncfsc/Sp1cs",
       "strongs": [
         "H7004"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 725,
-        "ordinal": 86,
-        "reduced": 23
+      "source": {
+        "lemma": "c/7004",
+        "morph": "HC/Ncfsc/Sp1cs"
       }
     },
     {
@@ -114,51 +107,42 @@
       "strongs": [
         "H5414"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 860,
-        "ordinal": 68,
-        "reduced": 14
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "5414",
+        "morph": "HVqp2fs",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 9,
-      "text": "לִפְנֵיהֶם",
+      "text": "לִפְנֵיהֶֽם",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc/Sp3mp",
       "strongs": [
         "H6440"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 215,
-        "ordinal": 71,
-        "reduced": 26
+      "source": {
+        "lemma": "l/6440",
+        "morph": "HR/Ncbpc/Sp3mp"
       }
     },
     {
       "position": 10,
-      "text": "נָתַתְּ",
+      "text": "נָתַ֖תְּ",
       "lemma": "5414",
       "morph": "HVqp2fs",
       "strongs": [
         "H5414"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 850,
-        "ordinal": 58,
-        "reduced": 13
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5414",
+        "morph": "HVqp2fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 5296,
-    "ordinal": 616,
-    "reduced": 166
-  }
+  ]
 }

@@ -1,109 +1,102 @@
 {
-  "text": "כִּי הִנֵּה יְהוָה יֹצֵא מִמְּקוֹמוֹ וְיָרַד וְדָרַךְ עַל במותי אָרֶץ בָּמֳתֵי",
+  "text": "כִּֽי הִנֵּ֥ה יְהוָ֖ה יֹצֵ֣א מִמְּקוֹמ֑וֹ וְיָרַ֥ד וְדָרַ֖ךְ עַל במותי אָֽרֶץ בָּ֥מֳתֵי",
   "words": [
     {
       "position": 1,
-      "text": "כִּי",
+      "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
       "strongs": [
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 2,
-      "text": "הִנֵּה",
+      "text": "הִנֵּ֥ה",
       "lemma": "2009",
       "morph": "HTm",
       "strongs": [
         "H2009"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 60,
-        "ordinal": 24,
-        "reduced": 15
+      "source": {
+        "lemma": "2009",
+        "morph": "HTm"
       }
     },
     {
       "position": 3,
-      "text": "יְהוָה",
+      "text": "יְהוָ֖ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "יֹצֵא",
+      "text": "יֹצֵ֣א",
       "lemma": "3318",
       "morph": "HVqrmsa",
       "strongs": [
         "H3318"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 101,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "3318",
+        "morph": "HVqrmsa"
       }
     },
     {
       "position": 5,
-      "text": "מִמְּקוֹמוֹ",
+      "text": "מִמְּקוֹמ֑וֹ",
       "lemma": "m/4725",
       "morph": "HR/Ncmsc/Sp3ms",
       "strongs": [
         "H4725"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 232,
-        "ordinal": 70,
-        "reduced": 25
+      "source": {
+        "lemma": "m/4725",
+        "morph": "HR/Ncmsc/Sp3ms"
       }
     },
     {
       "position": 6,
-      "text": "וְיָרַד",
+      "text": "וְיָרַ֥ד",
       "lemma": "c/3381",
       "morph": "HC/Vqp3ms",
       "strongs": [
         "H3381"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 220,
-        "ordinal": 40,
-        "reduced": 13
+      "source": {
+        "lemma": "c/3381",
+        "morph": "HC/Vqp3ms"
       }
     },
     {
       "position": 7,
-      "text": "וְדָרַךְ",
+      "text": "וְדָרַ֖ךְ",
       "lemma": "c/1869",
       "morph": "HC/Vqp3ms",
       "strongs": [
         "H1869"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 230,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "c/1869",
+        "morph": "HC/Vqp3ms"
       }
     },
     {
@@ -115,10 +108,9 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
@@ -129,51 +121,42 @@
       "strongs": [
         "H1116"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 458,
-        "ordinal": 53,
-        "reduced": 17
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "1116",
+        "morph": "HNcfpc",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 10,
-      "text": "אָרֶץ",
+      "text": "אָֽרֶץ",
       "lemma": "776",
       "morph": "HNcbsa",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 291,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "776",
+        "morph": "HNcbsa"
       }
     },
     {
       "position": 11,
-      "text": "בָּמֳתֵי",
+      "text": "בָּ֥מֳתֵי",
       "lemma": "1116",
       "morph": "HNcfpc",
       "strongs": [
         "H1116"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 452,
-        "ordinal": 47,
-        "reduced": 11
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1116",
+        "morph": "HNcfpc"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2200,
-    "ordinal": 418,
-    "reduced": 148
-  }
+  ]
 }

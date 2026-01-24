@@ -1,64 +1,60 @@
 {
-  "text": "כִּמְעַט כִּלּוּנִי בָאָרֶץ וַאֲנִי לֹא עָזַבְתִּי פִקֻּודֶיךָ",
+  "text": "כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא עָזַ֥בְתִּי פִקֻּודֶֽיךָ",
   "words": [
     {
       "position": 1,
-      "text": "כִּמְעַט",
+      "text": "כִּ֭מְעַט",
       "lemma": "k/4592",
       "morph": "HR/Ncmsa",
       "strongs": [
         "H4592"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 139,
-        "ordinal": 49,
-        "reduced": 22
+      "source": {
+        "lemma": "k/4592",
+        "morph": "HR/Ncmsa"
       }
     },
     {
       "position": 2,
-      "text": "כִּלּוּנִי",
+      "text": "כִּלּ֣וּנִי",
       "lemma": "3615",
       "morph": "HVpp3cp/Sp1cs",
       "strongs": [
         "H3615"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 116,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "3615",
+        "morph": "HVpp3cp/Sp1cs"
       }
     },
     {
       "position": 3,
-      "text": "בָאָרֶץ",
+      "text": "בָאָ֑רֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 293,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "b/776",
+        "morph": "HRd/Ncbsa"
       }
     },
     {
       "position": 4,
-      "text": "וַאֲנִי",
+      "text": "וַ֝אֲנִ֗י",
       "lemma": "c/589",
       "morph": "HC/Pp1cs",
       "strongs": [
         "H589"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 67,
-        "ordinal": 31,
-        "reduced": 13
+      "source": {
+        "lemma": "c/589",
+        "morph": "HC/Pp1cs"
       }
     },
     {
@@ -70,46 +66,38 @@
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "3808",
+        "morph": "HTn"
       }
     },
     {
       "position": 6,
-      "text": "עָזַבְתִּי",
+      "text": "עָזַ֥בְתִּי",
       "lemma": "5800 a",
       "morph": "HVqp1cs",
       "strongs": [
         "H5800"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 489,
-        "ordinal": 57,
-        "reduced": 21
+      "source": {
+        "lemma": "5800 a",
+        "morph": "HVqp1cs"
       }
     },
     {
       "position": 7,
-      "text": "פִקֻּודֶיךָ",
+      "text": "פִקֻּודֶֽיךָ",
       "lemma": "6490",
       "morph": "HNcmpc/Sp2ms",
       "strongs": [
         "H6490"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 220,
-        "ordinal": 67,
-        "reduced": 22
+      "source": {
+        "lemma": "6490",
+        "morph": "HNcmpc/Sp2ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1355,
-    "ordinal": 311,
-    "reduced": 113
-  }
+  ]
 }

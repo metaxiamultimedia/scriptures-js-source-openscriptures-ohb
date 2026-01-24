@@ -1,19 +1,18 @@
 {
-  "text": "רָאִיתָה כָּל נִקְמָתָם כָּל מַחְשְׁבֹתָם לִי",
+  "text": "רָאִ֨יתָה֙ כָּל נִקְמָתָ֔ם כָּל מַחְשְׁבֹתָ֖ם לִֽי",
   "words": [
     {
       "position": 1,
-      "text": "רָאִיתָה",
+      "text": "רָאִ֨יתָה֙",
       "lemma": "7200",
       "morph": "HVqp2ms",
       "strongs": [
         "H7200"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 616,
-        "ordinal": 58,
-        "reduced": 13
+      "source": {
+        "lemma": "7200",
+        "morph": "HVqp2ms"
       }
     },
     {
@@ -25,25 +24,23 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 3,
-      "text": "נִקְמָתָם",
+      "text": "נִקְמָתָ֔ם",
       "lemma": "5360",
       "morph": "HNcfsc/Sp3mp",
       "strongs": [
         "H5360"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 630,
-        "ordinal": 81,
-        "reduced": 18
+      "source": {
+        "lemma": "5360",
+        "morph": "HNcfsc/Sp3mp"
       }
     },
     {
@@ -55,45 +52,37 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 5,
-      "text": "מַחְשְׁבֹתָם",
+      "text": "מַחְשְׁבֹתָ֖ם",
       "lemma": "4284",
       "morph": "HNcfpc/Sp3mp",
       "strongs": [
         "H4284"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 790,
-        "ordinal": 79,
-        "reduced": 25
+      "source": {
+        "lemma": "4284",
+        "morph": "HNcfpc/Sp3mp"
       }
     },
     {
       "position": 6,
-      "text": "לִי",
+      "text": "לִֽי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2176,
-    "ordinal": 286,
-    "reduced": 70
-  }
+  ]
 }

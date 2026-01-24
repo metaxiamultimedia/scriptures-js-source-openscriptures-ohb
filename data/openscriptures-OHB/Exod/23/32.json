@@ -1,84 +1,74 @@
 {
-  "text": "לֹא תִכְרֹת לָהֶם וְלֵאלֹהֵיהֶם בְּרִית",
+  "text": "לֹֽא תִכְרֹ֥ת לָהֶ֛ם וְלֵאלֹֽהֵיהֶ֖ם בְּרִֽית",
   "words": [
     {
       "position": 1,
-      "text": "לֹא",
+      "text": "לֹֽא",
       "lemma": "3808",
       "morph": "HTn",
       "strongs": [
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "3808",
+        "morph": "HTn"
       }
     },
     {
       "position": 2,
-      "text": "תִכְרֹת",
+      "text": "תִכְרֹ֥ת",
       "lemma": "3772",
       "morph": "HVqi2ms",
       "strongs": [
         "H3772"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 1020,
-        "ordinal": 75,
-        "reduced": 12
+      "source": {
+        "lemma": "3772",
+        "morph": "HVqi2ms"
       }
     },
     {
       "position": 3,
-      "text": "לָהֶם",
+      "text": "לָהֶ֛ם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 75,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3mp"
       }
     },
     {
       "position": 4,
-      "text": "וְלֵאלֹהֵיהֶם",
+      "text": "וְלֵאלֹֽהֵיהֶ֖ם",
       "lemma": "c/l/430",
       "morph": "HC/R/Ncmpc/Sp3mp",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 127,
-        "ordinal": 64,
-        "reduced": 28
+      "source": {
+        "lemma": "c/l/430",
+        "morph": "HC/R/Ncmpc/Sp3mp"
       }
     },
     {
       "position": 5,
-      "text": "בְּרִית",
+      "text": "בְּרִֽית",
       "lemma": "1285",
       "morph": "HNcfsa",
       "strongs": [
         "H1285"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 612,
-        "ordinal": 54,
-        "reduced": 9
+      "source": {
+        "lemma": "1285",
+        "morph": "HNcfsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1865,
-    "ordinal": 236,
-    "reduced": 65
-  }
+  ]
 }

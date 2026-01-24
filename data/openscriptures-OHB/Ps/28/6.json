@@ -1,34 +1,32 @@
 {
-  "text": "בָּרוּךְ יְהוָה כִּי שָׁמַע קוֹל תַּחֲנוּנָי",
+  "text": "בָּר֥וּךְ יְהוָ֑ה כִּי שָׁ֝מַע ק֣וֹל תַּחֲנוּנָֽי",
   "words": [
     {
       "position": 1,
-      "text": "בָּרוּךְ",
+      "text": "בָּר֥וּךְ",
       "lemma": "1288",
       "morph": "HVqsmsa",
       "strongs": [
         "H1288"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 228,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "1288",
+        "morph": "HVqsmsa"
       }
     },
     {
       "position": 2,
-      "text": "יְהוָה",
+      "text": "יְהוָ֑ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
@@ -40,61 +38,52 @@
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 4,
-      "text": "שָׁמַע",
+      "text": "שָׁ֝מַע",
       "lemma": "8085",
       "morph": "HVqp3ms",
       "strongs": [
         "H8085"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 410,
-        "ordinal": 50,
-        "reduced": 14
+      "source": {
+        "lemma": "8085",
+        "morph": "HVqp3ms"
       }
     },
     {
       "position": 5,
-      "text": "קוֹל",
+      "text": "ק֣וֹל",
       "lemma": "6963 a",
       "morph": "HNcmsc",
       "strongs": [
         "H6963"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 136,
-        "ordinal": 37,
-        "reduced": 10
+      "source": {
+        "lemma": "6963 a",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 6,
-      "text": "תַּחֲנוּנָי",
+      "text": "תַּחֲנוּנָֽי",
       "lemma": "8469",
       "morph": "HNcmpc/Sp1cs",
       "strongs": [
         "H8469"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 524,
-        "ordinal": 74,
-        "reduced": 29
+      "source": {
+        "lemma": "8469",
+        "morph": "HNcmpc/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1354,
-    "ordinal": 247,
-    "reduced": 85
-  }
+  ]
 }

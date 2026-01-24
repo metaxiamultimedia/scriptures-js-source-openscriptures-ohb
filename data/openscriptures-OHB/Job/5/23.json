@@ -1,19 +1,18 @@
 {
-  "text": "כִּי עִם אַבְנֵי הַשָּׂדֶה בְרִיתֶךָ וְחַיַּת הַשָּׂדֶה הָשְׁלְמָה לָךְ",
+  "text": "כִּ֤י עִם אַבְנֵ֣י הַשָּׂדֶ֣ה בְרִיתֶ֑ךָ וְחַיַּ֥ת הַ֝שָּׂדֶ֗ה הָשְׁלְמָה לָֽךְ",
   "words": [
     {
       "position": 1,
-      "text": "כִּי",
+      "text": "כִּ֤י",
       "lemma": "3588 a",
       "morph": "HC",
       "strongs": [
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
@@ -25,85 +24,79 @@
         "H5973"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 110,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "5973 a",
+        "morph": "HR"
       }
     },
     {
       "position": 3,
-      "text": "אַבְנֵי",
+      "text": "אַבְנֵ֣י",
       "lemma": "68",
       "morph": "HNcfpc",
       "strongs": [
         "H68"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 63,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "68",
+        "morph": "HNcfpc"
       }
     },
     {
       "position": 4,
-      "text": "הַשָּׂדֶה",
+      "text": "הַשָּׂדֶ֣ה",
       "lemma": "d/7704 b",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H7704"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 314,
-        "ordinal": 35,
-        "reduced": 17
+      "source": {
+        "lemma": "d/7704 b",
+        "morph": "HTd/Ncmsa"
       }
     },
     {
       "position": 5,
-      "text": "בְרִיתֶךָ",
+      "text": "בְרִיתֶ֑ךָ",
       "lemma": "1285",
       "morph": "HNcfsc/Sp2ms",
       "strongs": [
         "H1285"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 632,
-        "ordinal": 65,
-        "reduced": 11
+      "source": {
+        "lemma": "1285",
+        "morph": "HNcfsc/Sp2ms"
       }
     },
     {
       "position": 6,
-      "text": "וְחַיַּת",
+      "text": "וְחַיַּ֥ת",
       "lemma": "c/2416 c",
       "morph": "HC/Ncfsc",
       "strongs": [
         "H2416"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 424,
-        "ordinal": 46,
-        "reduced": 19
+      "source": {
+        "lemma": "c/2416 c",
+        "morph": "HC/Ncfsc"
       }
     },
     {
       "position": 7,
-      "text": "הַשָּׂדֶה",
+      "text": "הַ֝שָּׂדֶ֗ה",
       "lemma": "d/7704 b",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H7704"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 314,
-        "ordinal": 35,
-        "reduced": 17
+      "source": {
+        "lemma": "d/7704 b",
+        "morph": "HTd/Ncmsa"
       }
     },
     {
@@ -115,30 +108,23 @@
         "H7999"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 56,
-        "reduced": 20
+      "source": {
+        "lemma": "7999 b",
+        "morph": "HVHp3fs"
       }
     },
     {
       "position": 9,
-      "text": "לָךְ",
+      "text": "לָֽךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp2fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2317,
-    "ordinal": 337,
-    "reduced": 112
-  }
+  ]
 }

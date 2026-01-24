@@ -1,34 +1,32 @@
 {
-  "text": "וַיָּבֹא נַעֲמָן בסוסו וּבְרִכְבּוֹ וַיַּעֲמֹד פֶּתַח הַבַּיִת לֶאֱלִישָׁע בְּסוּסָיו",
+  "text": "וַיָּבֹ֥א נַעֲמָ֖ן בסוסו וּבְרִכְבּ֑וֹ וַיַּעֲמֹ֥ד פֶּֽתַח הַבַּ֖יִת לֶאֱלִישָֽׁע בְּסוּסָ֣יו",
   "words": [
     {
       "position": 1,
-      "text": "וַיָּבֹא",
+      "text": "וַיָּבֹ֥א",
       "lemma": "c/935",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H935"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/935",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 2,
-      "text": "נַעֲמָן",
+      "text": "נַעֲמָ֖ן",
       "lemma": "5283",
       "morph": "HNp",
       "strongs": [
         "H5283"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 210,
-        "ordinal": 57,
-        "reduced": 21
+      "source": {
+        "lemma": "5283",
+        "morph": "HNp"
       }
     },
     {
@@ -39,111 +37,98 @@
       "strongs": [
         "H5483"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 134,
-        "ordinal": 44,
-        "reduced": 26
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "b/5483 b",
+        "morph": "HR/Ncmpc/Sp3ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 4,
-      "text": "וּבְרִכְבּוֹ",
+      "text": "וּבְרִכְבּ֑וֹ",
       "lemma": "c/b/7393",
       "morph": "HC/R/Ncmsc/Sp3ms",
       "strongs": [
         "H7393"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 236,
-        "ordinal": 47,
-        "reduced": 20
+      "source": {
+        "lemma": "c/b/7393",
+        "morph": "HC/R/Ncmsc/Sp3ms"
       }
     },
     {
       "position": 5,
-      "text": "וַיַּעֲמֹד",
+      "text": "וַיַּעֲמֹ֥ד",
       "lemma": "c/5975",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H5975"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 130,
-        "ordinal": 49,
-        "reduced": 22
+      "source": {
+        "lemma": "c/5975",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 6,
-      "text": "פֶּתַח",
+      "text": "פֶּֽתַח",
       "lemma": "6607",
       "morph": "HNcmsc",
       "strongs": [
         "H6607"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 488,
-        "ordinal": 47,
-        "reduced": 20
+      "source": {
+        "lemma": "6607",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 7,
-      "text": "הַבַּיִת",
+      "text": "הַבַּ֖יִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H1004"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 417,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "d/1004 b",
+        "morph": "HTd/Ncmsa"
       }
     },
     {
       "position": 8,
-      "text": "לֶאֱלִישָׁע",
+      "text": "לֶאֱלִישָֽׁע",
       "lemma": "l/477",
       "morph": "HR/Np",
       "strongs": [
         "H477"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 441,
-        "ordinal": 72,
-        "reduced": 18
+      "source": {
+        "lemma": "l/477",
+        "morph": "HR/Np"
       }
     },
     {
       "position": 9,
-      "text": "בְּסוּסָיו",
+      "text": "בְּסוּסָ֣יו",
       "lemma": "b/5483 b",
       "morph": "HR/Ncmpc/Sp3ms",
       "strongs": [
         "H5483"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 144,
-        "ordinal": 54,
-        "reduced": 27
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/5483 b",
+        "morph": "HR/Ncmpc/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2219,
-    "ordinal": 428,
-    "reduced": 176
-  }
+  ]
 }

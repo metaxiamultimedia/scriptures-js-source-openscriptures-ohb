@@ -1,5 +1,5 @@
 {
-  "text": "שכנתי עַל מַיִם רַבִּים רַבַּת אוֹצָרֹת בָּא קִצֵּךְ אַמַּת בִּצְעֵךְ שֹׁכַנְתְּ",
+  "text": "שכנתי עַל מַ֣יִם רַבִּ֔ים רַבַּ֖ת אֽוֹצָרֹ֑ת בָּ֥א קִצֵּ֖ךְ אַמַּ֥ת בִּצְעֵֽךְ שֹׁכַנְתְּ֙",
   "words": [
     {
       "position": 1,
@@ -9,13 +9,12 @@
       "strongs": [
         "H7931"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 780,
-        "ordinal": 78,
-        "reduced": 15
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "7931",
+        "morph": "HVqrfsc",
+        "type": "x-ketiv"
       }
     },
     {
@@ -27,153 +26,137 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
       "position": 3,
-      "text": "מַיִם",
+      "text": "מַ֣יִם",
       "lemma": "4325",
       "morph": "HNcmpa",
       "strongs": [
         "H4325"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "4325",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 4,
-      "text": "רַבִּים",
+      "text": "רַבִּ֔ים",
       "lemma": "7227 a",
       "morph": "HAampa",
       "strongs": [
         "H7227"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 252,
-        "ordinal": 45,
-        "reduced": 9
+      "source": {
+        "lemma": "7227 a",
+        "morph": "HAampa"
       }
     },
     {
       "position": 5,
-      "text": "רַבַּת",
+      "text": "רַבַּ֖ת",
       "lemma": "7227 a",
       "morph": "HAafsc",
       "strongs": [
         "H7227"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 602,
-        "ordinal": 44,
-        "reduced": 8
+      "source": {
+        "lemma": "7227 a",
+        "morph": "HAafsc"
       }
     },
     {
       "position": 6,
-      "text": "אוֹצָרֹת",
+      "text": "אֽוֹצָרֹ֑ת",
       "lemma": "214",
       "morph": "HNcmpa",
       "strongs": [
         "H214"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 697,
-        "ordinal": 67,
-        "reduced": 22
+      "source": {
+        "lemma": "214",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 7,
-      "text": "בָּא",
+      "text": "בָּ֥א",
       "lemma": "935",
       "morph": "HVqp3ms",
       "strongs": [
         "H935"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 3,
-        "ordinal": 3,
-        "reduced": 3
+      "source": {
+        "lemma": "935",
+        "morph": "HVqp3ms"
       }
     },
     {
       "position": 8,
-      "text": "קִצֵּךְ",
+      "text": "קִצֵּ֖ךְ",
       "lemma": "7093",
       "morph": "HNcmsc/Sp2fs",
       "strongs": [
         "H7093"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 210,
-        "ordinal": 48,
-        "reduced": 12
+      "source": {
+        "lemma": "7093",
+        "morph": "HNcmsc/Sp2fs"
       }
     },
     {
       "position": 9,
-      "text": "אַמַּת",
+      "text": "אַמַּ֥ת",
       "lemma": "520 a",
       "morph": "HNcfsc",
       "strongs": [
         "H520"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 441,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "520 a",
+        "morph": "HNcfsc"
       }
     },
     {
       "position": 10,
-      "text": "בִּצְעֵךְ",
+      "text": "בִּצְעֵֽךְ",
       "lemma": "1215",
       "morph": "HNcmsc/Sp2fs",
       "strongs": [
         "H1215"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 182,
-        "ordinal": 47,
-        "reduced": 20
+      "source": {
+        "lemma": "1215",
+        "morph": "HNcmsc/Sp2fs"
       }
     },
     {
       "position": 11,
-      "text": "שֹׁכַנְתְּ",
+      "text": "שֹׁכַנְתְּ֙",
       "lemma": "7931",
       "morph": "HVqrfsc",
       "strongs": [
         "H7931"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 770,
-        "ordinal": 68,
-        "reduced": 14
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7931",
+        "morph": "HVqrfsc"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4127,
-    "ordinal": 500,
-    "reduced": 131
-  }
+  ]
 }

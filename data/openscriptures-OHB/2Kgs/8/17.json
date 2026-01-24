@@ -1,5 +1,5 @@
 {
-  "text": "בֶּן שְׁלֹשִׁים וּשְׁתַּיִם שָׁנָה הָיָה בְמָלְכוֹ וּשְׁמֹנֶה שנה מָלַךְ בִּירוּשָׁלִָם שָׁנִים",
+  "text": "בֶּן שְׁלֹשִׁ֥ים וּשְׁתַּ֛יִם שָׁנָ֖ה הָיָ֣ה בְמָלְכ֑וֹ וּשְׁמֹנֶ֣ה שנה מָלַ֖ךְ בִּירוּשָׁלִָֽם שָׁנִ֔ים",
   "words": [
     {
       "position": 1,
@@ -10,100 +10,93 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 2,
-      "text": "שְׁלֹשִׁים",
+      "text": "שְׁלֹשִׁ֥ים",
       "lemma": "7970",
       "morph": "HAcbpa",
       "strongs": [
         "H7970"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 680,
-        "ordinal": 77,
-        "reduced": 14
+      "source": {
+        "lemma": "7970",
+        "morph": "HAcbpa"
       }
     },
     {
       "position": 3,
-      "text": "וּשְׁתַּיִם",
+      "text": "וּשְׁתַּ֛יִם",
       "lemma": "c/8147",
       "morph": "HC/Acfda",
       "strongs": [
         "H8147"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 756,
-        "ordinal": 72,
-        "reduced": 18
+      "source": {
+        "lemma": "c/8147",
+        "morph": "HC/Acfda"
       }
     },
     {
       "position": 4,
-      "text": "שָׁנָה",
+      "text": "שָׁנָ֖ה",
       "lemma": "8141",
       "morph": "HNcfsa",
       "strongs": [
         "H8141"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 355,
-        "ordinal": 40,
-        "reduced": 13
+      "source": {
+        "lemma": "8141",
+        "morph": "HNcfsa"
       }
     },
     {
       "position": 5,
-      "text": "הָיָה",
+      "text": "הָיָ֣ה",
       "lemma": "1961",
       "morph": "HVqp3ms",
       "strongs": [
         "H1961"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 20,
-        "ordinal": 20,
-        "reduced": 11
+      "source": {
+        "lemma": "1961",
+        "morph": "HVqp3ms"
       }
     },
     {
       "position": 6,
-      "text": "בְמָלְכוֹ",
+      "text": "בְמָלְכ֑וֹ",
       "lemma": "b/4427 a",
       "morph": "HR/Vqc/Sp3ms",
       "strongs": [
         "H4427"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 98,
-        "ordinal": 44,
-        "reduced": 17
+      "source": {
+        "lemma": "b/4427 a",
+        "morph": "HR/Vqc/Sp3ms"
       }
     },
     {
       "position": 7,
-      "text": "וּשְׁמֹנֶה",
+      "text": "וּשְׁמֹנֶ֣ה",
       "lemma": "c/8083",
       "morph": "HC/Acfsa",
       "strongs": [
         "H8083"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "c/8083",
+        "morph": "HC/Acfsa"
       }
     },
     {
@@ -114,66 +107,56 @@
       "strongs": [
         "H8141"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 355,
-        "ordinal": 40,
-        "reduced": 13
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "8141",
+        "morph": "HNcfsa",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 9,
-      "text": "מָלַךְ",
+      "text": "מָלַ֖ךְ",
       "lemma": "4427 a",
       "morph": "HVqp3ms",
       "strongs": [
         "H4427"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "4427 a",
+        "morph": "HVqp3ms"
       }
     },
     {
       "position": 10,
-      "text": "בִּירוּשָׁלִָם",
+      "text": "בִּירוּשָׁלִָֽם",
       "lemma": "b/3389",
       "morph": "HR/Np",
       "strongs": [
         "H3389"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 588,
-        "ordinal": 84,
-        "reduced": 21
+      "source": {
+        "lemma": "b/3389",
+        "morph": "HR/Np"
       }
     },
     {
       "position": 11,
-      "text": "שָׁנִים",
+      "text": "שָׁנִ֔ים",
       "lemma": "8141",
       "morph": "HNcfpa",
       "strongs": [
         "H8141"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 400,
-        "ordinal": 58,
-        "reduced": 13
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8141",
+        "morph": "HNcfpa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3795,
-    "ordinal": 546,
-    "reduced": 159
-  }
+  ]
 }

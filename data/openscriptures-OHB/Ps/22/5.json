@@ -1,84 +1,74 @@
 {
-  "text": "בְּךָ בָּטְחוּ אֲבֹתֵינוּ בָּטְחוּ וַתְּפַלְּטֵמוֹ",
+  "text": "בְּ֭ךָ בָּטְח֣וּ אֲבֹתֵ֑ינוּ בָּ֝טְח֗וּ וַֽתְּפַלְּטֵֽמוֹ",
   "words": [
     {
       "position": 1,
-      "text": "בְּךָ",
+      "text": "בְּ֭ךָ",
       "lemma": "b",
       "morph": "HR/Sp2ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 22,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp2ms"
       }
     },
     {
       "position": 2,
-      "text": "בָּטְחוּ",
+      "text": "בָּטְח֣וּ",
       "lemma": "982",
       "morph": "HVqp3cp",
       "strongs": [
         "H982"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 25,
-        "ordinal": 25,
-        "reduced": 25
+      "source": {
+        "lemma": "982",
+        "morph": "HVqp3cp"
       }
     },
     {
       "position": 3,
-      "text": "אֲבֹתֵינוּ",
+      "text": "אֲבֹתֵ֑ינוּ",
       "lemma": "1",
       "morph": "HNcmpc/Sp1cp",
       "strongs": [
         "H1"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 469,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "1",
+        "morph": "HNcmpc/Sp1cp"
       }
     },
     {
       "position": 4,
-      "text": "בָּטְחוּ",
+      "text": "בָּ֝טְח֗וּ",
       "lemma": "982",
       "morph": "HVqp3cp",
       "strongs": [
         "H982"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 25,
-        "ordinal": 25,
-        "reduced": 25
+      "source": {
+        "lemma": "982",
+        "morph": "HVqp3cp"
       }
     },
     {
       "position": 5,
-      "text": "וַתְּפַלְּטֵמוֹ",
+      "text": "וַֽתְּפַלְּטֵֽמוֹ",
       "lemma": "c/6403",
       "morph": "HC/Vpw2ms/Sp3mp",
       "strongs": [
         "H6403"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 571,
-        "ordinal": 85,
-        "reduced": 40
+      "source": {
+        "lemma": "c/6403",
+        "morph": "HC/Vpw2ms/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1112,
-    "ordinal": 203,
-    "reduced": 113
-  }
+  ]
 }

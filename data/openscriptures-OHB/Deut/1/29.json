@@ -1,34 +1,32 @@
 {
-  "text": "וָאֹמַר אֲלֵכֶם לֹא תַעַרְצוּן וְלֹא תִירְאוּן מֵהֶם",
+  "text": "וָאֹמַ֖ר אֲלֵכֶ֑ם לֹא תַֽעַרְצ֥וּן וְֽלֹא תִֽירְא֖וּן מֵהֶֽם",
   "words": [
     {
       "position": 1,
-      "text": "וָאֹמַר",
+      "text": "וָאֹמַ֖ר",
       "lemma": "c/559",
       "morph": "HC/Vqw1cs",
       "strongs": [
         "H559"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 247,
-        "ordinal": 40,
-        "reduced": 13
+      "source": {
+        "lemma": "c/559",
+        "morph": "HC/Vqw1cs"
       }
     },
     {
       "position": 2,
-      "text": "אֲלֵכֶם",
+      "text": "אֲלֵכֶ֑ם",
       "lemma": "413",
       "morph": "HR/Sp2mp",
       "strongs": [
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 91,
-        "ordinal": 37,
-        "reduced": 10
+      "source": {
+        "lemma": "413",
+        "morph": "HR/Sp2mp"
       }
     },
     {
@@ -40,75 +38,65 @@
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "3808",
+        "morph": "HTn"
       }
     },
     {
       "position": 4,
-      "text": "תַעַרְצוּן",
+      "text": "תַֽעַרְצ֥וּן",
       "lemma": "6206",
       "morph": "HVqi2mp/Sn",
       "strongs": [
         "H6206"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 816,
-        "ordinal": 96,
-        "reduced": 33
+      "source": {
+        "lemma": "6206",
+        "morph": "HVqi2mp/Sn"
       }
     },
     {
       "position": 5,
-      "text": "וְלֹא",
+      "text": "וְֽלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
       "strongs": [
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/3808",
+        "morph": "HC/Tn"
       }
     },
     {
       "position": 6,
-      "text": "תִירְאוּן",
+      "text": "תִֽירְא֖וּן",
       "lemma": "3372",
       "morph": "HVqi2mp/Sn",
       "strongs": [
         "H3372"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 667,
-        "ordinal": 73,
-        "reduced": 19
+      "source": {
+        "lemma": "3372",
+        "morph": "HVqi2mp/Sn"
       }
     },
     {
       "position": 7,
-      "text": "מֵהֶם",
+      "text": "מֵהֶֽם",
       "lemma": "m",
       "morph": "HR/Sp3mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 85,
-        "ordinal": 31,
-        "reduced": 13
+      "source": {
+        "lemma": "m",
+        "morph": "HR/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1974,
-    "ordinal": 309,
-    "reduced": 102
-  }
+  ]
 }

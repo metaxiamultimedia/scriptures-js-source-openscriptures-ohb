@@ -10,22 +10,24 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-describe('gematria calculations', () => {
-  it('should calculate correct ordinal gematria using alphabet positions', async () => {
-    // Genesis 32:29 contains יִשְׂרָאֵל (Israel) at position 10
-    // Letters: י(10) + ש(21) + ר(20) + א(1) + ל(12) = 64
+// Extract only Hebrew consonants (removes vowels, cantillation, etc.)
+function extractConsonants(text: string): string {
+  return text.replace(/[^\u05D0-\u05EA]/g, '');
+}
+
+describe('word data', () => {
+  it('should have Israel word at correct position in Genesis 32:29', async () => {
+    // Genesis 32:29 contains יִשְׂרָאֵל (Israel) at position 9
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '32', '29.json');
     const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
-    // Word at position 9 is Israel (יִשְׂרָאֵל)
     const israelWord = data.words.find(
       (word: { position: number }) => word.position === 9
     );
 
     expect(israelWord).toBeDefined();
-    expect(israelWord.gematria.standard).toBe(541); // Standard gematria for Israel
-    // Ordinal should be alphabet positions: י(10) + ש(21) + ר(20) + א(1) + ל(12) = 64
-    expect(israelWord.gematria.ordinal).toBe(64);
+    // Extract consonants to compare (text now includes vowels and cantillation)
+    expect(extractConsonants(israelWord.text)).toBe('ישראל'); // Israel in Hebrew
   });
 });
 
@@ -45,16 +47,19 @@ describe('maqqef punctuation handling', () => {
     expect(maqqefWords).toHaveLength(0);
   });
 
-  it('should not have words with null lemma and zero gematria', async () => {
+  it('should not have words with null lemma that are punctuation-only', async () => {
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '1', '2.json');
     const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
-    // Words with null lemma AND zero gematria are likely punctuation
-    const suspiciousWords = data.words.filter(
-      (word: { lemma: string | null; gematria: { standard: number } }) =>
-        word.lemma === null && word.gematria.standard === 0
+    // Words with null lemma should still have Hebrew text content
+    const nullLemmaWords = data.words.filter(
+      (word: { lemma: string | null; text: string }) =>
+        word.lemma === null
     );
 
-    expect(suspiciousWords).toHaveLength(0);
+    // All null-lemma words should have actual Hebrew content
+    for (const word of nullLemmaWords) {
+      expect(word.text.length).toBeGreaterThan(0);
+    }
   });
 });

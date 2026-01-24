@@ -1,34 +1,32 @@
 {
-  "text": "מַתַּנְיָה מַתְּנַי ויעשו וְיַעֲשָׂי",
+  "text": "מַתַּנְיָ֥ה מַתְּנַ֖י ויעשו וְיַעֲשָֽׂי",
   "words": [
     {
       "position": 1,
-      "text": "מַתַּנְיָה",
+      "text": "מַתַּנְיָ֥ה",
       "lemma": "4983",
       "morph": "HNp",
       "strongs": [
         "H4983"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 505,
-        "ordinal": 64,
-        "reduced": 19
+      "source": {
+        "lemma": "4983",
+        "morph": "HNp"
       }
     },
     {
       "position": 2,
-      "text": "מַתְּנַי",
+      "text": "מַתְּנַ֖י",
       "lemma": "4982",
       "morph": "HNp",
       "strongs": [
         "H4982"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 59,
-        "reduced": 14
+      "source": {
+        "lemma": "4982",
+        "morph": "HNp"
       }
     },
     {
@@ -39,36 +37,28 @@
       "strongs": [
         "H3299"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 392,
-        "ordinal": 59,
-        "reduced": 23
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3299",
+        "morph": "HC/Np",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 4,
-      "text": "וְיַעֲשָׂי",
+      "text": "וְיַעֲשָֽׂי",
       "lemma": "c/3299",
       "morph": "HC/Np",
       "strongs": [
         "H3299"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 396,
-        "ordinal": 63,
-        "reduced": 18
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3299",
+        "morph": "HC/Np"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1793,
-    "ordinal": 245,
-    "reduced": 74
-  }
+  ]
 }

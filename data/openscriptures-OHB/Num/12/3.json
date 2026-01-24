@@ -1,34 +1,32 @@
 {
-  "text": "וְהָאִישׁ מֹשֶׁה ענו מְאֹד מִכֹּל הָאָדָם אֲשֶׁר עַל פְּנֵי הָאֲדָמָה עָנָיו",
+  "text": "וְהָאִ֥ישׁ מֹשֶׁ֖ה ענו מְאֹ֑ד מִכֹּל֙ הָֽאָדָ֔ם אֲשֶׁ֖ר עַל פְּנֵ֥י הָאֲדָמָֽה עָנָ֣יו",
   "words": [
     {
       "position": 1,
-      "text": "וְהָאִישׁ",
+      "text": "וְהָאִ֥ישׁ",
       "lemma": "c/d/376",
       "morph": "HC/Td/Ncmsa",
       "strongs": [
         "H376"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 322,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "c/d/376",
+        "morph": "HC/Td/Ncmsa"
       }
     },
     {
       "position": 2,
-      "text": "מֹשֶׁה",
+      "text": "מֹשֶׁ֖ה",
       "lemma": "4872",
       "morph": "HNp",
       "strongs": [
         "H4872"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 345,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "4872",
+        "morph": "HNp"
       }
     },
     {
@@ -39,73 +37,68 @@
       "strongs": [
         "H6035"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 126,
-        "ordinal": 36,
-        "reduced": 18
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "6035",
+        "morph": "HAamsa",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 4,
-      "text": "מְאֹד",
+      "text": "מְאֹ֑ד",
       "lemma": "3966",
       "morph": "HD",
       "strongs": [
         "H3966"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "3966",
+        "morph": "HD"
       }
     },
     {
       "position": 5,
-      "text": "מִכֹּל",
+      "text": "מִכֹּל֙",
       "lemma": "m/3605",
       "morph": "HR/Ncmsc",
       "strongs": [
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "m/3605",
+        "morph": "HR/Ncmsc"
       }
     },
     {
       "position": 6,
-      "text": "הָאָדָם",
+      "text": "הָֽאָדָ֔ם",
       "lemma": "d/120",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H120"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 14
+      "source": {
+        "lemma": "d/120",
+        "morph": "HTd/Ncmsa"
       }
     },
     {
       "position": 7,
-      "text": "אֲשֶׁר",
+      "text": "אֲשֶׁ֖ר",
       "lemma": "834 a",
       "morph": "HTr",
       "strongs": [
         "H834"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 42,
-        "reduced": 6
+      "source": {
+        "lemma": "834 a",
+        "morph": "HTr"
       }
     },
     {
@@ -117,63 +110,53 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
       "position": 9,
-      "text": "פְּנֵי",
+      "text": "פְּנֵ֥י",
       "lemma": "6440",
       "morph": "HNcbpc",
       "strongs": [
         "H6440"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 140,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "6440",
+        "morph": "HNcbpc"
       }
     },
     {
       "position": 10,
-      "text": "הָאֲדָמָה",
+      "text": "הָאֲדָמָֽה",
       "lemma": "d/127",
       "morph": "HTd/Ncfsa",
       "strongs": [
         "H127"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 28,
-        "reduced": 19
+      "source": {
+        "lemma": "d/127",
+        "morph": "HTd/Ncfsa"
       }
     },
     {
       "position": 11,
-      "text": "עָנָיו",
+      "text": "עָנָ֣יו",
       "lemma": "6035",
       "morph": "HAamsa",
       "strongs": [
         "H6035"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 136,
-        "ordinal": 46,
-        "reduced": 19
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6035",
+        "morph": "HAamsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1910,
-    "ordinal": 380,
-    "reduced": 146
-  }
+  ]
 }

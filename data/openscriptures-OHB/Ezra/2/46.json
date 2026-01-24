@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי חָגָב בְּנֵי שמלי בְּנֵי חָנָן שַׁלְמַי",
+  "text": "בְּנֵי חָגָ֥ב בְּנֵי שמלי בְּנֵ֥י חָנָֽן שַׁלְמַ֖י",
   "words": [
     {
       "position": 1,
@@ -10,25 +10,23 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 2,
-      "text": "חָגָב",
+      "text": "חָגָ֥ב",
       "lemma": "2285",
       "morph": "HNp",
       "strongs": [
         "H2285"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 13,
-        "ordinal": 13,
-        "reduced": 13
+      "source": {
+        "lemma": "2285",
+        "morph": "HNp"
       }
     },
     {
@@ -40,10 +38,9 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
@@ -54,66 +51,56 @@
       "strongs": [
         "H8073"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 380,
-        "ordinal": 56,
-        "reduced": 11
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "8073",
+        "morph": "HNp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "בְּנֵי",
+      "text": "בְּנֵ֥י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 6,
-      "text": "חָנָן",
+      "text": "חָנָֽן",
       "lemma": "2605",
       "morph": "HNp",
       "strongs": [
         "H2605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 108,
-        "ordinal": 36,
-        "reduced": 18
+      "source": {
+        "lemma": "2605",
+        "morph": "HNp"
       }
     },
     {
       "position": 7,
-      "text": "שַׁלְמַי",
+      "text": "שַׁלְמַ֖י",
       "lemma": "8014",
       "morph": "HNp",
       "strongs": [
         "H8014"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 380,
-        "ordinal": 56,
-        "reduced": 11
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8014",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1067,
-    "ordinal": 239,
-    "reduced": 77
-  }
+  ]
 }

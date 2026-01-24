@@ -1,34 +1,32 @@
 {
-  "text": "וַיַּחֲזֵק דָּוִד בבגדו וַיִּקְרָעֵם וְגַם כָּל הָאֲנָשִׁים אֲשֶׁר אִתּוֹ בִּבְגָדָיו",
+  "text": "וַיַּחֲזֵ֥ק דָּוִ֛ד בבגדו וַיִּקְרָעֵ֑ם וְגַ֥ם כָּל הָאֲנָשִׁ֖ים אֲשֶׁ֥ר אִתּֽוֹ בִּבְגָדָ֖יו",
   "words": [
     {
       "position": 1,
-      "text": "וַיַּחֲזֵק",
+      "text": "וַיַּחֲזֵ֥ק",
       "lemma": "c/2388",
       "morph": "HC/Vhw3ms",
       "strongs": [
         "H2388"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 131,
-        "ordinal": 50,
-        "reduced": 23
+      "source": {
+        "lemma": "c/2388",
+        "morph": "HC/Vhw3ms"
       }
     },
     {
       "position": 2,
-      "text": "דָּוִד",
+      "text": "דָּוִ֛ד",
       "lemma": "1732",
       "morph": "HNp",
       "strongs": [
         "H1732"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 14,
-        "ordinal": 14,
-        "reduced": 14
+      "source": {
+        "lemma": "1732",
+        "morph": "HNp"
       }
     },
     {
@@ -39,43 +37,40 @@
       "strongs": [
         "H899"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 17,
-        "ordinal": 17,
-        "reduced": 17
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "b/899 b",
+        "morph": "HR/Ncmsc/Sp3ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 4,
-      "text": "וַיִּקְרָעֵם",
+      "text": "וַיִּקְרָעֵ֑ם",
       "lemma": "c/7167",
       "morph": "HC/Vqw3ms/Sp3mp",
       "strongs": [
         "H7167"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 426,
-        "ordinal": 84,
-        "reduced": 21
+      "source": {
+        "lemma": "c/7167",
+        "morph": "HC/Vqw3ms/Sp3mp"
       }
     },
     {
       "position": 5,
-      "text": "וְגַם",
+      "text": "וְגַ֥ם",
       "lemma": "c/1571",
       "morph": "HC/Ta",
       "strongs": [
         "H1571"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 49,
-        "ordinal": 22,
-        "reduced": 13
+      "source": {
+        "lemma": "c/1571",
+        "morph": "HC/Ta"
       }
     },
     {
@@ -87,78 +82,67 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 7,
-      "text": "הָאֲנָשִׁים",
+      "text": "הָאֲנָשִׁ֖ים",
       "lemma": "d/376",
       "morph": "HTd/Ncmpa",
       "strongs": [
         "H376"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 406,
-        "ordinal": 64,
-        "reduced": 19
+      "source": {
+        "lemma": "d/376",
+        "morph": "HTd/Ncmpa"
       }
     },
     {
       "position": 8,
-      "text": "אֲשֶׁר",
+      "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
       "strongs": [
         "H834"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 42,
-        "reduced": 6
+      "source": {
+        "lemma": "834 a",
+        "morph": "HTr"
       }
     },
     {
       "position": 9,
-      "text": "אִתּוֹ",
+      "text": "אִתּֽוֹ",
       "lemma": "854",
       "morph": "HR/Sp3ms",
       "strongs": [
         "H854"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 407,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "854",
+        "morph": "HR/Sp3ms"
       }
     },
     {
       "position": 10,
-      "text": "בִּבְגָדָיו",
+      "text": "בִּבְגָדָ֖יו",
       "lemma": "b/899 b",
       "morph": "HR/Ncmpc/Sp3ms",
       "strongs": [
         "H899"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 27,
-        "ordinal": 27,
-        "reduced": 18
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/899 b",
+        "morph": "HR/Ncmpc/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2028,
-    "ordinal": 372,
-    "reduced": 147
-  }
+  ]
 }

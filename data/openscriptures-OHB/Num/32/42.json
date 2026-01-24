@@ -1,49 +1,46 @@
 {
-  "text": "וְנֹבַח הָלַךְ וַיִּלְכֹּד אֶת קְנָת וְאֶת בְּנֹתֶיהָ וַיִּקְרָא לָה נֹבַח בִּשְׁמוֹ",
+  "text": "וְנֹ֣בַח הָלַ֔ךְ וַיִּלְכֹּ֥ד אֶת קְנָ֖ת וְאֶת בְּנֹתֶ֑יהָ וַיִּקְרָ֧א לָ֦ה נֹ֖בַח בִּשְׁמֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "וְנֹבַח",
+      "text": "וְנֹ֣בַח",
       "lemma": "c/5025",
       "morph": "HC/Np",
       "strongs": [
         "H5025"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 66,
-        "ordinal": 30,
-        "reduced": 21
+      "source": {
+        "lemma": "c/5025",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 2,
-      "text": "הָלַךְ",
+      "text": "הָלַ֔ךְ",
       "lemma": "1980",
       "morph": "HVqp3ms",
       "strongs": [
         "H1980"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "1980",
+        "morph": "HVqp3ms"
       }
     },
     {
       "position": 3,
-      "text": "וַיִּלְכֹּד",
+      "text": "וַיִּלְכֹּ֥ד",
       "lemma": "c/3920",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H3920"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "c/3920",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
@@ -55,25 +52,23 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 5,
-      "text": "קְנָת",
+      "text": "קְנָ֖ת",
       "lemma": "7079",
       "morph": "HNp",
       "strongs": [
         "H7079"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 550,
-        "ordinal": 55,
-        "reduced": 10
+      "source": {
+        "lemma": "7079",
+        "morph": "HNp"
       }
     },
     {
@@ -85,90 +80,79 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 407,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "c/853",
+        "morph": "HC/To"
       }
     },
     {
       "position": 7,
-      "text": "בְּנֹתֶיהָ",
+      "text": "בְּנֹתֶ֑יהָ",
       "lemma": "1323",
       "morph": "HNcfpc/Sp3fs",
       "strongs": [
         "H1323"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 467,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "1323",
+        "morph": "HNcfpc/Sp3fs"
       }
     },
     {
       "position": 8,
-      "text": "וַיִּקְרָא",
+      "text": "וַיִּקְרָ֧א",
       "lemma": "c/7121",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H7121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 317,
-        "ordinal": 56,
-        "reduced": 11
+      "source": {
+        "lemma": "c/7121",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 9,
-      "text": "לָה",
+      "text": "לָ֦ה",
       "lemma": "l",
       "morph": "HR/Sp3fs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 35,
-        "ordinal": 17,
-        "reduced": 8
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3fs"
       }
     },
     {
       "position": 10,
-      "text": "נֹבַח",
+      "text": "נֹ֖בַח",
       "lemma": "5025",
       "morph": "HNp",
       "strongs": [
         "H5025"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 60,
-        "ordinal": 24,
-        "reduced": 15
+      "source": {
+        "lemma": "5025",
+        "morph": "HNp"
       }
     },
     {
       "position": 11,
-      "text": "בִּשְׁמוֹ",
+      "text": "בִּשְׁמֽוֹ",
       "lemma": "b/8034",
       "morph": "HR/Ncmsc/Sp3ms",
       "strongs": [
         "H8034"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 348,
-        "ordinal": 42,
-        "reduced": 15
+      "source": {
+        "lemma": "b/8034",
+        "morph": "HR/Ncmsc/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2776,
-    "ordinal": 400,
-    "reduced": 139
-  }
+  ]
 }

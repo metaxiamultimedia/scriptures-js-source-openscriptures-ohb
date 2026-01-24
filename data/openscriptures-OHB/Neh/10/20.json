@@ -1,51 +1,47 @@
 {
-  "text": "נֵיבָי חָרִיף עֲנָתוֹת נובי",
+  "text": "נֵיבָֽי חָרִ֥יף עֲנָת֖וֹת נובי",
   "words": [
     {
       "position": 1,
-      "text": "נֵיבָי",
+      "text": "נֵיבָֽי",
       "lemma": "5109",
       "morph": "HNp",
       "strongs": [
         "H5109"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 72,
-        "ordinal": 36,
-        "reduced": 9
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5109",
+        "morph": "HNp"
       }
     },
     {
       "position": 2,
-      "text": "חָרִיף",
+      "text": "חָרִ֥יף",
       "lemma": "2756",
       "morph": "HNp",
       "strongs": [
         "H2756"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 298,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "2756",
+        "morph": "HNp"
       }
     },
     {
       "position": 3,
-      "text": "עֲנָתוֹת",
+      "text": "עֲנָת֖וֹת",
       "lemma": "6068",
       "morph": "HNp",
       "strongs": [
         "H6068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 926,
-        "ordinal": 80,
-        "reduced": 26
+      "source": {
+        "lemma": "6068",
+        "morph": "HNp"
       }
     },
     {
@@ -56,19 +52,13 @@
       "strongs": [
         "H5109"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 68,
-        "ordinal": 32,
-        "reduced": 14
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "5109",
+        "morph": "HNp",
+        "type": "x-ketiv"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1364,
-    "ordinal": 203,
-    "reduced": 68
-  }
+  ]
 }

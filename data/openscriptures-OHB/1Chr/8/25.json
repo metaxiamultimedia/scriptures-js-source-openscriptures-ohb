@@ -1,19 +1,18 @@
 {
-  "text": "וְיִפְדְיָה ופניאל בְּנֵי שָׁשָׁק וּפְנוּאֵל",
+  "text": "וְיִפְדְיָ֥ה ופניאל בְּנֵ֥י שָׁשָֽׁק וּפְנוּאֵ֖ל",
   "words": [
     {
       "position": 1,
-      "text": "וְיִפְדְיָה",
+      "text": "וְיִפְדְיָ֥ה",
       "lemma": "c/3301",
       "morph": "HC/Np",
       "strongs": [
         "H3301"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 115,
-        "ordinal": 52,
-        "reduced": 25
+      "source": {
+        "lemma": "c/3301",
+        "morph": "HC/Np"
       }
     },
     {
@@ -24,66 +23,56 @@
       "strongs": [
         "H6439"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 177,
-        "ordinal": 60,
-        "reduced": 24
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6439",
+        "morph": "HC/Np",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 3,
-      "text": "בְּנֵי",
+      "text": "בְּנֵ֥י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 4,
-      "text": "שָׁשָׁק",
+      "text": "שָׁשָֽׁק",
       "lemma": "8349",
       "morph": "HNp",
       "strongs": [
         "H8349"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 700,
-        "ordinal": 61,
-        "reduced": 7
+      "source": {
+        "lemma": "8349",
+        "morph": "HNp"
       }
     },
     {
       "position": 5,
-      "text": "וּפְנוּאֵל",
+      "text": "וּפְנוּאֵ֖ל",
       "lemma": "c/6439",
       "morph": "HC/Np",
       "strongs": [
         "H6439"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 173,
-        "ordinal": 56,
-        "reduced": 29
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6439",
+        "morph": "HC/Np"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1227,
-    "ordinal": 255,
-    "reduced": 93
-  }
+  ]
 }

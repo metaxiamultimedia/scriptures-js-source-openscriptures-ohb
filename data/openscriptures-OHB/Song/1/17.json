@@ -1,49 +1,46 @@
 {
-  "text": "קֹרוֹת בָּתֵּינוּ אֲרָזִים רחיטנו בְּרוֹתִים רַהִיטֵנוּ",
+  "text": "קֹר֤וֹת בָּתֵּ֨ינוּ֙ אֲרָזִ֔ים רחיטנו בְּרוֹתִֽים רַהִיטֵ֖נוּ",
   "words": [
     {
       "position": 1,
-      "text": "קֹרוֹת",
+      "text": "קֹר֤וֹת",
       "lemma": "6982",
       "morph": "HNcfpc",
       "strongs": [
         "H6982"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 706,
-        "ordinal": 67,
-        "reduced": 13
+      "source": {
+        "lemma": "6982",
+        "morph": "HNcfpc"
       }
     },
     {
       "position": 2,
-      "text": "בָּתֵּינוּ",
+      "text": "בָּתֵּ֨ינוּ֙",
       "lemma": "1004 b",
       "morph": "HNcmpc/Sp1cp",
       "strongs": [
         "H1004"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 468,
-        "ordinal": 54,
-        "reduced": 18
+      "source": {
+        "lemma": "1004 b",
+        "morph": "HNcmpc/Sp1cp"
       }
     },
     {
       "position": 3,
-      "text": "אֲרָזִים",
+      "text": "אֲרָזִ֔ים",
       "lemma": "730",
       "morph": "HNcmpa",
       "strongs": [
         "H730"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 258,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "730",
+        "morph": "HNcmpa"
       }
     },
     {
@@ -54,51 +51,42 @@
       "strongs": [
         "H7351"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 283,
-        "ordinal": 67,
-        "reduced": 31
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "7351",
+        "morph": "HNcmsc/Sp1cp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "בְּרוֹתִים",
+      "text": "בְּרוֹתִֽים",
       "lemma": "1266",
       "morph": "HNcmpa",
       "strongs": [
         "H1266"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 658,
-        "ordinal": 73,
-        "reduced": 19
+      "source": {
+        "lemma": "1266",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 6,
-      "text": "רַהִיטֵנוּ",
+      "text": "רַהִיטֵ֖נוּ",
       "lemma": "7351",
       "morph": "HNcmsc/Sp1cp",
       "strongs": [
         "H7351"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 280,
-        "ordinal": 64,
-        "reduced": 28
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7351",
+        "morph": "HNcmsc/Sp1cp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2653,
-    "ordinal": 376,
-    "reduced": 124
-  }
+  ]
 }

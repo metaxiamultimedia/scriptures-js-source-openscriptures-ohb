@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי בֵסַי בְּנֵי מְעוּנִים בְּנֵי נפושסים נְפִישְׁסִים",
+  "text": "בְּנֵי בֵסַ֥י בְּנֵי מְעוּנִ֖ים בְּנֵ֥י נפושסים נְפִֽישְׁסִֽים",
   "words": [
     {
       "position": 1,
@@ -10,25 +10,23 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 2,
-      "text": "בֵסַי",
+      "text": "בֵסַ֥י",
       "lemma": "1153",
       "morph": "HNp",
       "strongs": [
         "H1153"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 72,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "1153",
+        "morph": "HNp"
       }
     },
     {
@@ -40,40 +38,37 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 4,
-      "text": "מְעוּנִים",
+      "text": "מְעוּנִ֖ים",
       "lemma": "4586",
       "morph": "HNgmpa",
       "strongs": [
         "H4586"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 216,
-        "ordinal": 72,
-        "reduced": 27
+      "source": {
+        "lemma": "4586",
+        "morph": "HNgmpa"
       }
     },
     {
       "position": 5,
-      "text": "בְּנֵי",
+      "text": "בְּנֵ֥י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
@@ -84,36 +79,28 @@
       "strongs": [
         "H5300"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 546,
-        "ordinal": 96,
-        "reduced": 33
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "5300",
+        "morph": "HNgmpa",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 7,
-      "text": "נְפִישְׁסִים",
+      "text": "נְפִֽישְׁסִֽים",
       "lemma": "5304",
       "morph": "HNgmpa",
       "strongs": [
         "H5304"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 550,
-        "ordinal": 100,
-        "reduced": 28
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5304",
+        "morph": "HNgmpa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1570,
-    "ordinal": 373,
-    "reduced": 121
-  }
+  ]
 }

@@ -1,49 +1,46 @@
 {
-  "text": "וְיַעֲקֹב הָלַךְ לְדַרְכּוֹ וַיִּפְגְּעוּ בוֹ מַלְאֲכֵי אֱלֹהִים",
+  "text": "וְיַעֲקֹ֖ב הָלַ֣ךְ לְדַרְכּ֑וֹ וַיִּפְגְּעוּ ב֖וֹ מַלְאֲכֵ֥י אֱלֹהִֽים",
   "words": [
     {
       "position": 1,
-      "text": "וְיַעֲקֹב",
+      "text": "וְיַעֲקֹ֖ב",
       "lemma": "c/3290",
       "morph": "HC/Np",
       "strongs": [
         "H3290"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 188,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "c/3290",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 2,
-      "text": "הָלַךְ",
+      "text": "הָלַ֣ךְ",
       "lemma": "1980",
       "morph": "HVqp3ms",
       "strongs": [
         "H1980"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "1980",
+        "morph": "HVqp3ms"
       }
     },
     {
       "position": 3,
-      "text": "לְדַרְכּוֹ",
+      "text": "לְדַרְכּ֑וֹ",
       "lemma": "l/1870",
       "morph": "HR/Ncbsc/Sp3ms",
       "strongs": [
         "H1870"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 260,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "l/1870",
+        "morph": "HR/Ncbsc/Sp3ms"
       }
     },
     {
@@ -55,60 +52,51 @@
         "H6293"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 175,
-        "ordinal": 58,
-        "reduced": 31
+      "source": {
+        "lemma": "c/6293",
+        "morph": "HC/Vqw3mp"
       }
     },
     {
       "position": 5,
-      "text": "בוֹ",
+      "text": "ב֖וֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3ms"
       }
     },
     {
       "position": 6,
-      "text": "מַלְאֲכֵי",
+      "text": "מַלְאֲכֵ֥י",
       "lemma": "4397",
       "morph": "HNcmpc",
       "strongs": [
         "H4397"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 101,
-        "ordinal": 47,
-        "reduced": 11
+      "source": {
+        "lemma": "4397",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 7,
-      "text": "אֱלֹהִים",
+      "text": "אֱלֹהִֽים",
       "lemma": "430",
       "morph": "HNcmpa",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 86,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "430",
+        "morph": "HNcmpa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 873,
-    "ordinal": 288,
-    "reduced": 108
-  }
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "text": "זָכוֹר תִּזְכּוֹר ותשיח עָלַי נַפְשִׁי וְתָשׁוֹחַ",
+  "text": "זָכ֣וֹר תִּזְכּ֔וֹר ותשיח עָלַ֖י נַפְשִֽׁי וְתָשׁ֥וֹחַ",
   "words": [
     {
       "position": 1,
-      "text": "זָכוֹר",
+      "text": "זָכ֣וֹר",
       "lemma": "2142",
       "morph": "HVqa",
       "strongs": [
         "H2142"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 233,
-        "ordinal": 44,
-        "reduced": 17
+      "source": {
+        "lemma": "2142",
+        "morph": "HVqa"
       }
     },
     {
       "position": 2,
-      "text": "תִּזְכּוֹר",
+      "text": "תִּזְכּ֔וֹר",
       "lemma": "2142",
       "morph": "HVqi3fs",
       "strongs": [
         "H2142"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 633,
-        "ordinal": 66,
-        "reduced": 21
+      "source": {
+        "lemma": "2142",
+        "morph": "HVqi3fs"
       }
     },
     {
@@ -39,66 +37,56 @@
       "strongs": [
         "H7743"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 724,
-        "ordinal": 67,
-        "reduced": 22
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7743",
+        "morph": "HC/Vhi3fs",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 4,
-      "text": "עָלַי",
+      "text": "עָלַ֖י",
       "lemma": "5921 a",
       "morph": "HR/Sp1cs",
       "strongs": [
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 110,
-        "ordinal": 38,
-        "reduced": 11
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR/Sp1cs"
       }
     },
     {
       "position": 5,
-      "text": "נַפְשִׁי",
+      "text": "נַפְשִֽׁי",
       "lemma": "5315",
       "morph": "HNcbsc/Sp1cs",
       "strongs": [
         "H5315"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 440,
-        "ordinal": 62,
-        "reduced": 17
+      "source": {
+        "lemma": "5315",
+        "morph": "HNcbsc/Sp1cs"
       }
     },
     {
       "position": 6,
-      "text": "וְתָשׁוֹחַ",
+      "text": "וְתָשׁ֥וֹחַ",
       "lemma": "c/7743",
       "morph": "HC/Vqi3fs",
       "strongs": [
         "H7743"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 720,
-        "ordinal": 63,
-        "reduced": 27
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7743",
+        "morph": "HC/Vqi3fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2860,
-    "ordinal": 340,
-    "reduced": 115
-  }
+  ]
 }

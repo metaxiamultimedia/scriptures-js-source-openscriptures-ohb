@@ -1,34 +1,32 @@
 {
-  "text": "לְמַחְלִי אֶלְעָזָר וְלֹא הָיָה לוֹ בָּנִים",
+  "text": "לְמַחְלִי֙ אֶלְעָזָ֔ר וְלֹא הָ֥יָה ל֖וֹ בָּנִֽים",
   "words": [
     {
       "position": 1,
-      "text": "לְמַחְלִי",
+      "text": "לְמַחְלִי֙",
       "lemma": "l/4249",
       "morph": "HR/Np",
       "strongs": [
         "H4249"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 118,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "l/4249",
+        "morph": "HR/Np"
       }
     },
     {
       "position": 2,
-      "text": "אֶלְעָזָר",
+      "text": "אֶלְעָזָ֔ר",
       "lemma": "499",
       "morph": "HNp",
       "strongs": [
         "H499"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 308,
-        "ordinal": 56,
-        "reduced": 20
+      "source": {
+        "lemma": "499",
+        "morph": "HNp"
       }
     },
     {
@@ -40,60 +38,51 @@
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/3808",
+        "morph": "HC/Tn"
       }
     },
     {
       "position": 4,
-      "text": "הָיָה",
+      "text": "הָ֥יָה",
       "lemma": "1961",
       "morph": "HVqp3ms",
       "strongs": [
         "H1961"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 20,
-        "ordinal": 20,
-        "reduced": 11
+      "source": {
+        "lemma": "1961",
+        "morph": "HVqp3ms"
       }
     },
     {
       "position": 5,
-      "text": "לוֹ",
+      "text": "ל֖וֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
       }
     },
     {
       "position": 6,
-      "text": "בָּנִים",
+      "text": "בָּנִֽים",
       "lemma": "1121 a",
       "morph": "HNcmpa",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 102,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 621,
-    "ordinal": 207,
-    "reduced": 81
-  }
+  ]
 }

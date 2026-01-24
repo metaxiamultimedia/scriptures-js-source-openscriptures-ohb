@@ -1,19 +1,18 @@
 {
-  "text": "שִׁמְעִי בֶן אֵלָא בְּבִנְיָמִן",
+  "text": "שִׁמְעִ֥י בֶן אֵלָ֖א בְּבִנְיָמִֽן",
   "words": [
     {
       "position": 1,
-      "text": "שִׁמְעִי",
+      "text": "שִׁמְעִ֥י",
       "lemma": "8096",
       "morph": "HNp",
       "strongs": [
         "H8096"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 60,
-        "reduced": 15
+      "source": {
+        "lemma": "8096",
+        "morph": "HNp"
       }
     },
     {
@@ -25,46 +24,38 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 3,
-      "text": "אֵלָא",
+      "text": "אֵלָ֖א",
       "lemma": "414",
       "morph": "HNp",
       "strongs": [
         "H414"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 32,
-        "ordinal": 14,
-        "reduced": 5
+      "source": {
+        "lemma": "414",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "בְּבִנְיָמִן",
+      "text": "בְּבִנְיָמִֽן",
       "lemma": "b/1144",
       "morph": "HR/Np",
       "strongs": [
         "H1144"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 154,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "b/1144",
+        "morph": "HR/Np"
       }
     }
-  ],
-  "gematria": {
-    "standard": 658,
-    "ordinal": 145,
-    "reduced": 46
-  }
+  ]
 }

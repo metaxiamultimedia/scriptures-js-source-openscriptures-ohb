@@ -1,33 +1,31 @@
 {
-  "text": "הֲתַאֲמִין בּוֹ כִּי ישוב זַרְעֶךָ וְגָרְנְךָ יֶאֱסֹף יָשִׁיב",
+  "text": "הֲתַאֲמִ֣ין בּ֭וֹ כִּי ישוב זַרְעֶ֑ךָ וְֽגָרְנְךָ֥ יֶאֱסֹֽף יָשִׁ֣יב",
   "words": [
     {
       "position": 1,
-      "text": "הֲתַאֲמִין",
+      "text": "הֲתַאֲמִ֣ין",
       "lemma": "i/539",
       "morph": "HTi/Vhi2ms",
       "strongs": [
         "H539"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 506,
-        "ordinal": 65,
-        "reduced": 20
+      "source": {
+        "lemma": "i/539",
+        "morph": "HTi/Vhi2ms"
       }
     },
     {
       "position": 2,
-      "text": "בּוֹ",
+      "text": "בּ֭וֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3ms"
       }
     },
     {
@@ -39,10 +37,9 @@
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
@@ -53,81 +50,70 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 318,
-        "ordinal": 39,
-        "reduced": 12
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "7725",
+        "morph": "HVqi3ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "זַרְעֶךָ",
+      "text": "זַרְעֶ֑ךָ",
       "lemma": "2233",
       "morph": "HNcmsc/Sp2ms",
       "strongs": [
         "H2233"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 297,
-        "ordinal": 54,
-        "reduced": 18
+      "source": {
+        "lemma": "2233",
+        "morph": "HNcmsc/Sp2ms"
       }
     },
     {
       "position": 6,
-      "text": "וְגָרְנְךָ",
+      "text": "וְֽגָרְנְךָ֥",
       "lemma": "c/1637",
       "morph": "HC/Ncbsc/Sp2ms",
       "strongs": [
         "H1637"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 279,
-        "ordinal": 54,
-        "reduced": 18
+      "source": {
+        "lemma": "c/1637",
+        "morph": "HC/Ncbsc/Sp2ms"
       }
     },
     {
       "position": 7,
-      "text": "יֶאֱסֹף",
+      "text": "יֶאֱסֹֽף",
       "lemma": "622",
       "morph": "HVqi3ms",
       "strongs": [
         "H622"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 151,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "622",
+        "morph": "HVqi3ms"
       }
     },
     {
       "position": 8,
-      "text": "יָשִׁיב",
+      "text": "יָשִׁ֣יב",
       "lemma": "7725",
       "morph": "HVhi3ms",
       "strongs": [
         "H7725"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 322,
-        "ordinal": 43,
-        "reduced": 7
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7725",
+        "morph": "HVhi3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1911,
-    "ordinal": 327,
-    "reduced": 102
-  }
+  ]
 }

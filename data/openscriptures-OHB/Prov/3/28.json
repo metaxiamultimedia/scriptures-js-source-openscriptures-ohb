@@ -1,5 +1,5 @@
 {
-  "text": "אַל תֹּאמַר לרעיך לֵךְ וָשׁוּב וּמָחָר אֶתֵּן וְיֵשׁ אִתָּךְ לְרֵעֲךָ",
+  "text": "אַל תֹּ֘אמַ֤ר לרעיך לֵ֣ךְ וָ֭שׁוּב וּמָחָ֥ר אֶתֵּ֗ן וְיֵ֣שׁ אִתָּֽךְ לְרֵֽעֲךָ֨",
   "words": [
     {
       "position": 1,
@@ -10,25 +10,23 @@
         "H408"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "408",
+        "morph": "HTn"
       }
     },
     {
       "position": 2,
-      "text": "תֹּאמַר",
+      "text": "תֹּ֘אמַ֤ר",
       "lemma": "559",
       "morph": "HVqj2ms",
       "strongs": [
         "H559"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 641,
-        "ordinal": 56,
-        "reduced": 11
+      "source": {
+        "lemma": "559",
+        "morph": "HVqj2ms"
       }
     },
     {
@@ -39,126 +37,112 @@
       "strongs": [
         "H7453"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 330,
-        "ordinal": 69,
-        "reduced": 15
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "l/7453",
+        "morph": "HR/Ncmpc/Sp2ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 4,
-      "text": "לֵךְ",
+      "text": "לֵ֣ךְ",
       "lemma": "3212",
       "morph": "HVqv2ms",
       "strongs": [
         "H3212"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3212",
+        "morph": "HVqv2ms"
       }
     },
     {
       "position": 5,
-      "text": "וָשׁוּב",
+      "text": "וָ֭שׁוּב",
       "lemma": "c/7725",
       "morph": "HC/Vqv2ms",
       "strongs": [
         "H7725"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 314,
-        "ordinal": 35,
-        "reduced": 17
+      "source": {
+        "lemma": "c/7725",
+        "morph": "HC/Vqv2ms"
       }
     },
     {
       "position": 6,
-      "text": "וּמָחָר",
+      "text": "וּמָחָ֥ר",
       "lemma": "c/4279",
       "morph": "HC/Ncmsa",
       "strongs": [
         "H4279"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 254,
-        "ordinal": 47,
-        "reduced": 20
+      "source": {
+        "lemma": "c/4279",
+        "morph": "HC/Ncmsa"
       }
     },
     {
       "position": 7,
-      "text": "אֶתֵּן",
+      "text": "אֶתֵּ֗ן",
       "lemma": "5414",
       "morph": "HVqi1cs",
       "strongs": [
         "H5414"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 451,
-        "ordinal": 37,
-        "reduced": 10
+      "source": {
+        "lemma": "5414",
+        "morph": "HVqi1cs"
       }
     },
     {
       "position": 8,
-      "text": "וְיֵשׁ",
+      "text": "וְיֵ֣שׁ",
       "lemma": "c/3426",
       "morph": "HC/Tm",
       "strongs": [
         "H3426"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 316,
-        "ordinal": 37,
-        "reduced": 10
+      "source": {
+        "lemma": "c/3426",
+        "morph": "HC/Tm"
       }
     },
     {
       "position": 9,
-      "text": "אִתָּךְ",
+      "text": "אִתָּֽךְ",
       "lemma": "854",
       "morph": "HR/Sp2fs",
       "strongs": [
         "H854"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 421,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "854",
+        "morph": "HR/Sp2fs"
       }
     },
     {
       "position": 10,
-      "text": "לְרֵעֲךָ",
+      "text": "לְרֵֽעֲךָ֨",
       "lemma": "l/7453",
       "morph": "HR/Ncmsc/Sp2ms",
       "strongs": [
         "H7453"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 320,
-        "ordinal": 59,
-        "reduced": 14
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "l/7453",
+        "morph": "HR/Ncmsc/Sp2ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3128,
-    "ordinal": 410,
-    "reduced": 113
-  }
+  ]
 }

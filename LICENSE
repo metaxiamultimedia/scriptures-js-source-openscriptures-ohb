@@ -31,3 +31,18 @@ Attribution: Open Scriptures Hebrew Bible Morphology Project
 
 The scripture data in this package is derived from the Open Scriptures Hebrew
 Bible project and is used in accordance with the CC-BY-4.0 license terms.
+
+---
+
+MODIFICATIONS FROM ORIGINAL DATA
+
+This package processes the original MorphHB data as follows:
+- Converted from OSIS XML to JSON format
+- Restructured into per-verse files organized by book/chapter
+- Standardized word structure with position, text, lemma, morph, strongs fields
+- Cantillation marks (Hebrew: טעמים) are preserved in the text
+- Qere/Ketiv textual variants are flagged with a `variant` field ('ketiv' or 'qere')
+- Strong's numbers extracted and normalized to array format (e.g., ["H1234"])
+
+Gematria values are NOT pre-computed in the stored data; they are computed
+on-demand by the scriptures-core library when accessed.

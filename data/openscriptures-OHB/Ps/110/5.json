@@ -1,19 +1,18 @@
 {
-  "text": "אֲדֹנָי עַל יְמִינְךָ מָחַץ בְּיוֹם אַפּוֹ מְלָכִים",
+  "text": "אֲדֹנָ֥י עַל יְמִֽינְךָ֑ מָחַ֖ץ בְּיוֹם אַפּ֣וֹ מְלָכִֽים",
   "words": [
     {
       "position": 1,
-      "text": "אֲדֹנָי",
+      "text": "אֲדֹנָ֥י",
       "lemma": "136",
       "morph": "HNcmpc/Sp1cs",
       "strongs": [
         "H136"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 65,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "136",
+        "morph": "HNcmpc/Sp1cs"
       }
     },
     {
@@ -25,40 +24,37 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
       "position": 3,
-      "text": "יְמִינְךָ",
+      "text": "יְמִֽינְךָ֑",
       "lemma": "3225",
       "morph": "HNcfsc/Sp2ms",
       "strongs": [
         "H3225"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 130,
-        "ordinal": 58,
-        "reduced": 13
+      "source": {
+        "lemma": "3225",
+        "morph": "HNcfsc/Sp2ms"
       }
     },
     {
       "position": 4,
-      "text": "מָחַץ",
+      "text": "מָחַ֖ץ",
       "lemma": "4272",
       "morph": "HVqp3ms",
       "strongs": [
         "H4272"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 138,
-        "ordinal": 39,
-        "reduced": 21
+      "source": {
+        "lemma": "4272",
+        "morph": "HVqp3ms"
       }
     },
     {
@@ -70,46 +66,38 @@
         "H3117"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 58,
-        "ordinal": 31,
-        "reduced": 13
+      "source": {
+        "lemma": "b/3117",
+        "morph": "HR/Ncmsc"
       }
     },
     {
       "position": 6,
-      "text": "אַפּוֹ",
+      "text": "אַפּ֣וֹ",
       "lemma": "639",
       "morph": "HNcmsc/Sp3ms",
       "strongs": [
         "H639"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 87,
-        "ordinal": 24,
-        "reduced": 15
+      "source": {
+        "lemma": "639",
+        "morph": "HNcmsc/Sp3ms"
       }
     },
     {
       "position": 7,
-      "text": "מְלָכִים",
+      "text": "מְלָכִֽים",
       "lemma": "4428",
       "morph": "HNcmpa",
       "strongs": [
         "H4428"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 140,
-        "ordinal": 59,
-        "reduced": 14
+      "source": {
+        "lemma": "4428",
+        "morph": "HNcmpa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 718,
-    "ordinal": 268,
-    "reduced": 97
-  }
+  ]
 }

@@ -1,19 +1,18 @@
 {
-  "text": "אֵין עַל עָפָר מָשְׁלוֹ הֶעָשׂוּ לִבְלִי חָת",
+  "text": "אֵֽין עַל עָפָ֥ר מָשְׁל֑וֹ הֶ֝עָשׂ֗וּ לִבְלִי חָֽת",
   "words": [
     {
       "position": 1,
-      "text": "אֵין",
+      "text": "אֵֽין",
       "lemma": "369",
       "morph": "HTn",
       "strongs": [
         "H369"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "369",
+        "morph": "HTn"
       }
     },
     {
@@ -25,55 +24,51 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
       "position": 3,
-      "text": "עָפָר",
+      "text": "עָפָ֥ר",
       "lemma": "6083",
       "morph": "HNcmsa",
       "strongs": [
         "H6083"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 350,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "6083",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 4,
-      "text": "מָשְׁלוֹ",
+      "text": "מָשְׁל֑וֹ",
       "lemma": "4915 a",
       "morph": "HNcmsc/Sp3ms",
       "strongs": [
         "H4915"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 376,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "4915 a",
+        "morph": "HNcmsc/Sp3ms"
       }
     },
     {
       "position": 5,
-      "text": "הֶעָשׂוּ",
+      "text": "הֶ֝עָשׂ֗וּ",
       "lemma": "d/6213 a",
       "morph": "HTd/Vqsmsa",
       "strongs": [
         "H6213"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 381,
-        "ordinal": 48,
-        "reduced": 21
+      "source": {
+        "lemma": "d/6213 a",
+        "morph": "HTd/Vqsmsa"
       }
     },
     {
@@ -85,31 +80,24 @@
         "H1097"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 72,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "l/1097",
+        "morph": "HR/Tn"
       }
     },
     {
       "position": 7,
-      "text": "חָת",
+      "text": "חָֽת",
       "lemma": "2844 a",
       "morph": "HNcmsa",
       "strongs": [
         "H2844"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 408,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "2844 a",
+        "morph": "HNcmsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1748,
-    "ordinal": 272,
-    "reduced": 92
-  }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "text": "הלוך אֶת חֲכָמִים וחכם וְרֹעֶה כְסִילִים יֵרוֹעַ הוֹלֵךְ יֶחְכָּם",
+  "text": "הלוך אֶת חֲכָמִ֣ים וחכם וְרֹעֶ֖ה כְסִילִ֣ים יֵרֽוֹעַ הוֹלֵ֣ךְ יֶחְכָּ֑ם",
   "words": [
     {
       "position": 1,
@@ -9,13 +9,12 @@
       "strongs": [
         "H1980"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 61,
-        "ordinal": 34,
-        "reduced": 16
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "1980",
+        "morph": "HVqa",
+        "type": "x-ketiv"
       }
     },
     {
@@ -27,25 +26,23 @@
         "H854"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "854",
+        "morph": "HR"
       }
     },
     {
       "position": 3,
-      "text": "חֲכָמִים",
+      "text": "חֲכָמִ֣ים",
       "lemma": "2450",
       "morph": "HAampa",
       "strongs": [
         "H2450"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 118,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "2450",
+        "morph": "HAampa"
       }
     },
     {
@@ -56,98 +53,85 @@
       "strongs": [
         "H2449"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 74,
-        "ordinal": 38,
-        "reduced": 20
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/2449",
+        "morph": "HC/Vqv2ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "וְרֹעֶה",
+      "text": "וְרֹעֶ֖ה",
       "lemma": "c/7462 c",
       "morph": "HC/Vqrmsa",
       "strongs": [
         "H7462"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 281,
-        "ordinal": 47,
-        "reduced": 20
+      "source": {
+        "lemma": "c/7462 c",
+        "morph": "HC/Vqrmsa"
       }
     },
     {
       "position": 6,
-      "text": "כְסִילִים",
+      "text": "כְסִילִ֣ים",
       "lemma": "3684",
       "morph": "HAampa",
       "strongs": [
         "H3684"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 170,
-        "ordinal": 71,
-        "reduced": 17
+      "source": {
+        "lemma": "3684",
+        "morph": "HAampa"
       }
     },
     {
       "position": 7,
-      "text": "יֵרוֹעַ",
+      "text": "יֵרֽוֹעַ",
       "lemma": "7489 a",
       "morph": "HVNi3ms",
       "strongs": [
         "H7489"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 286,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "7489 a",
+        "morph": "HVNi3ms"
       }
     },
     {
       "position": 8,
-      "text": "הוֹלֵךְ",
+      "text": "הוֹלֵ֣ךְ",
       "lemma": "1980",
       "morph": "HVqrmsa",
       "strongs": [
         "H1980"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 61,
-        "ordinal": 34,
-        "reduced": 16
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1980",
+        "morph": "HVqrmsa"
       }
     },
     {
       "position": 9,
-      "text": "יֶחְכָּם",
+      "text": "יֶחְכָּ֑ם",
       "lemma": "2449",
       "morph": "HVqi3ms",
       "strongs": [
         "H2449"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 78,
-        "ordinal": 42,
-        "reduced": 15
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2449",
+        "morph": "HVqi3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1530,
-    "ordinal": 396,
-    "reduced": 144
-  }
+  ]
 }

@@ -1,79 +1,74 @@
 {
-  "text": "יְהוָה בְּצִיּוֹן גָּדוֹל וְרָם הוּא עַל כָּל הָעַמִּים",
+  "text": "יְ֭הוָה בְּצִיּ֣וֹן גָּד֑וֹל וְרָ֥ם ה֝֗וּא עַל כָּל הָֽעַמִּֽים",
   "words": [
     {
       "position": 1,
-      "text": "יְהוָה",
+      "text": "יְ֭הוָה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 2,
-      "text": "בְּצִיּוֹן",
+      "text": "בְּצִיּ֣וֹן",
       "lemma": "b/6726",
       "morph": "HR/Np",
       "strongs": [
         "H6726"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 158,
-        "ordinal": 50,
-        "reduced": 23
+      "source": {
+        "lemma": "b/6726",
+        "morph": "HR/Np"
       }
     },
     {
       "position": 3,
-      "text": "גָּדוֹל",
+      "text": "גָּד֑וֹל",
       "lemma": "1419 a",
       "morph": "HAamsa",
       "strongs": [
         "H1419"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 43,
-        "ordinal": 25,
-        "reduced": 16
+      "source": {
+        "lemma": "1419 a",
+        "morph": "HAamsa"
       }
     },
     {
       "position": 4,
-      "text": "וְרָם",
+      "text": "וְרָ֥ם",
       "lemma": "c/7311 a",
       "morph": "HC/Vqrmsa",
       "strongs": [
         "H7311"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 246,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "c/7311 a",
+        "morph": "HC/Vqrmsa"
       }
     },
     {
       "position": 5,
-      "text": "הוּא",
+      "text": "ה֝֗וּא",
       "lemma": "1931",
       "morph": "HPp3ms",
       "strongs": [
         "H1931"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 12,
-        "ordinal": 12,
-        "reduced": 12
+      "source": {
+        "lemma": "1931",
+        "morph": "HPp3ms"
       }
     },
     {
@@ -85,10 +80,9 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
@@ -100,31 +94,24 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 8,
-      "text": "הָעַמִּים",
+      "text": "הָֽעַמִּֽים",
       "lemma": "d/5971 a",
       "morph": "HTd/Ncmpa",
       "strongs": [
         "H5971"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 165,
-        "ordinal": 57,
-        "reduced": 21
+      "source": {
+        "lemma": "d/5971 a",
+        "morph": "HTd/Ncmpa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 800,
-    "ordinal": 260,
-    "reduced": 116
-  }
+  ]
 }

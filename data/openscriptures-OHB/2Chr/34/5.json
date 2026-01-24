@@ -1,49 +1,46 @@
 {
-  "text": "וְעַצְמוֹת כֹּהֲנִים שָׂרַף עַל מזבחותים וַיְטַהֵר אֶת יְהוּדָה וְאֶת יְרוּשָׁלִָם מִזְבְּחוֹתָם",
+  "text": "וְעַצְמוֹת֙ כֹּֽהֲנִ֔ים שָׂרַ֖ף עַל מזבחותים וַיְטַהֵ֥ר אֶת יְהוּדָ֖ה וְאֶת יְרוּשָׁלִָֽם מִזְבְּחוֹתָ֑ם",
   "words": [
     {
       "position": 1,
-      "text": "וְעַצְמוֹת",
+      "text": "וְעַצְמוֹת֙",
       "lemma": "c/6106",
       "morph": "HC/Ncfpc",
       "strongs": [
         "H6106"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 612,
-        "ordinal": 81,
-        "reduced": 36
+      "source": {
+        "lemma": "c/6106",
+        "morph": "HC/Ncfpc"
       }
     },
     {
       "position": 2,
-      "text": "כֹּהֲנִים",
+      "text": "כֹּֽהֲנִ֔ים",
       "lemma": "3548",
       "morph": "HNcmpa",
       "strongs": [
         "H3548"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 125,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "3548",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 3,
-      "text": "שָׂרַף",
+      "text": "שָׂרַ֖ף",
       "lemma": "8313",
       "morph": "HVqp3ms",
       "strongs": [
         "H8313"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 580,
-        "ordinal": 58,
-        "reduced": 13
+      "source": {
+        "lemma": "8313",
+        "morph": "HVqp3ms"
       }
     },
     {
@@ -55,10 +52,9 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
@@ -69,28 +65,26 @@
       "strongs": [
         "H4196"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 513,
-        "ordinal": 81,
-        "reduced": 36
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "4196",
+        "morph": "HNcmpa",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 6,
-      "text": "וַיְטַהֵר",
+      "text": "וַיְטַהֵ֥ר",
       "lemma": "c/2891",
       "morph": "HC/Vpw3ms",
       "strongs": [
         "H2891"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 230,
-        "ordinal": 50,
-        "reduced": 23
+      "source": {
+        "lemma": "c/2891",
+        "morph": "HC/Vpw3ms"
       }
     },
     {
@@ -102,25 +96,23 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 8,
-      "text": "יְהוּדָה",
+      "text": "יְהוּדָ֖ה",
       "lemma": "3063",
       "morph": "HNp",
       "strongs": [
         "H3063"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 30,
-        "reduced": 21
+      "source": {
+        "lemma": "3063",
+        "morph": "HNp"
       }
     },
     {
@@ -132,48 +124,39 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 407,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "c/853",
+        "morph": "HC/To"
       }
     },
     {
       "position": 10,
-      "text": "יְרוּשָׁלִָם",
+      "text": "יְרוּשָׁלִָֽם",
       "lemma": "3389",
       "morph": "HNp",
       "strongs": [
         "H3389"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 586,
-        "ordinal": 82,
-        "reduced": 19
+      "source": {
+        "lemma": "3389",
+        "morph": "HNp"
       }
     },
     {
       "position": 11,
-      "text": "מִזְבְּחוֹתָם",
+      "text": "מִזְבְּחוֹתָ֑ם",
       "lemma": "4196",
       "morph": "HNcmpc/Sp3mp",
       "strongs": [
         "H4196"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 503,
-        "ordinal": 71,
-        "reduced": 35
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4196",
+        "morph": "HNcmpc/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4087,
-    "ordinal": 586,
-    "reduced": 226
-  }
+  ]
 }

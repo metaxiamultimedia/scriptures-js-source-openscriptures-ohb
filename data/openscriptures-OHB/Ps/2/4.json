@@ -1,64 +1,60 @@
 {
-  "text": "יוֹשֵׁב בַּשָּׁמַיִם יִשְׂחָק אֲדֹנָי יִלְעַג לָמוֹ",
+  "text": "יוֹשֵׁ֣ב בַּשָּׁמַ֣יִם יִשְׂחָ֑ק אֲ֝דֹנָ֗י יִלְעַג לָֽמוֹ",
   "words": [
     {
       "position": 1,
-      "text": "יוֹשֵׁב",
+      "text": "יוֹשֵׁ֣ב",
       "lemma": "3427",
       "morph": "HVqrmsa",
       "strongs": [
         "H3427"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 318,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "3427",
+        "morph": "HVqrmsa"
       }
     },
     {
       "position": 2,
-      "text": "בַּשָּׁמַיִם",
+      "text": "בַּשָּׁמַ֣יִם",
       "lemma": "b/8064",
       "morph": "HRd/Ncmpa",
       "strongs": [
         "H8064"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 392,
-        "ordinal": 59,
-        "reduced": 14
+      "source": {
+        "lemma": "b/8064",
+        "morph": "HRd/Ncmpa"
       }
     },
     {
       "position": 3,
-      "text": "יִשְׂחָק",
+      "text": "יִשְׂחָ֑ק",
       "lemma": "7832",
       "morph": "HVqi3ms",
       "strongs": [
         "H7832"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 418,
-        "ordinal": 58,
-        "reduced": 13
+      "source": {
+        "lemma": "7832",
+        "morph": "HVqi3ms"
       }
     },
     {
       "position": 4,
-      "text": "אֲדֹנָי",
+      "text": "אֲ֝דֹנָ֗י",
       "lemma": "136",
       "morph": "HNcmpc/Sp1cs",
       "strongs": [
         "H136"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 65,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "136",
+        "morph": "HNcmpc/Sp1cs"
       }
     },
     {
@@ -70,30 +66,23 @@
         "H3932"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 113,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "3932",
+        "morph": "HVqi3ms"
       }
     },
     {
       "position": 6,
-      "text": "לָמוֹ",
+      "text": "לָֽמוֹ",
       "lemma": "l",
       "morph": "HR/Sp3mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 76,
-        "ordinal": 31,
-        "reduced": 13
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1382,
-    "ordinal": 257,
-    "reduced": 77
-  }
+  ]
 }

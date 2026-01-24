@@ -1,5 +1,5 @@
 {
-  "text": "וְכָל חֲכַם לֵב בָּכֶם יָבֹאוּ וְיַעֲשׂוּ אֵת כָּל אֲשֶׁר צִוָּה יְהוָה",
+  "text": "וְכָל חֲכַם לֵ֖ב בָּכֶ֑ם יָבֹ֣אוּ וְיַעֲשׂ֔וּ אֵ֛ת כָּל אֲשֶׁ֥ר צִוָּ֖ה יְהוָֽה",
   "words": [
     {
       "position": 1,
@@ -10,10 +10,9 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "c/3605",
+        "morph": "HC/Ncmsc"
       }
     },
     {
@@ -25,84 +24,78 @@
         "H2450"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 68,
-        "ordinal": 32,
-        "reduced": 14
+      "source": {
+        "lemma": "2450",
+        "morph": "HAamsc"
       }
     },
     {
       "position": 3,
-      "text": "לֵב",
+      "text": "לֵ֖ב",
       "lemma": "3820 a",
       "morph": "HNcmsa",
       "strongs": [
         "H3820"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 32,
-        "ordinal": 14,
-        "reduced": 5
+      "source": {
+        "lemma": "3820 a",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 4,
-      "text": "בָּכֶם",
+      "text": "בָּכֶ֑ם",
       "lemma": "b",
       "morph": "HR/Sp2mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp2mp"
       }
     },
     {
       "position": 5,
-      "text": "יָבֹאוּ",
+      "text": "יָבֹ֣אוּ",
       "lemma": "935",
       "morph": "HVqi3mp",
       "strongs": [
         "H935"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "935",
+        "morph": "HVqi3mp"
       }
     },
     {
       "position": 6,
-      "text": "וְיַעֲשׂוּ",
+      "text": "וְיַעֲשׂ֔וּ",
       "lemma": "c/6213 a",
       "morph": "HC/Vqi3mp",
       "strongs": [
         "H6213"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 392,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "c/6213 a",
+        "morph": "HC/Vqi3mp"
       }
     },
     {
       "position": 7,
-      "text": "אֵת",
+      "text": "אֵ֛ת",
       "lemma": "853",
       "morph": "HTo",
       "strongs": [
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
@@ -114,61 +107,52 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 9,
-      "text": "אֲשֶׁר",
+      "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
       "strongs": [
         "H834"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 42,
-        "reduced": 6
+      "source": {
+        "lemma": "834 a",
+        "morph": "HTr"
       }
     },
     {
       "position": 10,
-      "text": "צִוָּה",
+      "text": "צִוָּ֖ה",
       "lemma": "6680",
       "morph": "HVpp3ms",
       "strongs": [
         "H6680"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 101,
-        "ordinal": 29,
-        "reduced": 20
+      "source": {
+        "lemma": "6680",
+        "morph": "HVpp3ms"
       }
     },
     {
       "position": 11,
-      "text": "יְהוָה",
+      "text": "יְהוָֽה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1708,
-    "ordinal": 322,
-    "reduced": 124
-  }
+  ]
 }

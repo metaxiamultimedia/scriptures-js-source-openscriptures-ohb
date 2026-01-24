@@ -1,64 +1,60 @@
 {
-  "text": "וּבְעָרֵי מְנַשֶּׁה וְאֶפְרַיִם וְשִׁמְעוֹן וְעַד נַפְתָּלִי בהר בתיהם סָבִיב בְּחַרְבֹתֵיהֶם",
+  "text": "וּבְעָרֵ֨י מְנַשֶּׁ֧ה וְאֶפְרַ֛יִם וְשִׁמְע֖וֹן וְעַד נַפְתָּלִ֑י בהר בתיהם סָבִֽיב בְּחַרְבֹתֵיהֶ֖ם",
   "words": [
     {
       "position": 1,
-      "text": "וּבְעָרֵי",
+      "text": "וּבְעָרֵ֨י",
       "lemma": "c/b/5892 b",
       "morph": "HC/R/Ncfpc",
       "strongs": [
         "H5892"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 288,
-        "ordinal": 54,
-        "reduced": 18
+      "source": {
+        "lemma": "c/b/5892 b",
+        "morph": "HC/R/Ncfpc"
       }
     },
     {
       "position": 2,
-      "text": "מְנַשֶּׁה",
+      "text": "מְנַשֶּׁ֧ה",
       "lemma": "4519",
       "morph": "HNp",
       "strongs": [
         "H4519"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 395,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "4519",
+        "morph": "HNp"
       }
     },
     {
       "position": 3,
-      "text": "וְאֶפְרַיִם",
+      "text": "וְאֶפְרַ֛יִם",
       "lemma": "c/669",
       "morph": "HC/Np",
       "strongs": [
         "H669"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 337,
-        "ordinal": 67,
-        "reduced": 22
+      "source": {
+        "lemma": "c/669",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 4,
-      "text": "וְשִׁמְעוֹן",
+      "text": "וְשִׁמְע֖וֹן",
       "lemma": "c/8095",
       "morph": "HC/Np",
       "strongs": [
         "H8095"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 472,
-        "ordinal": 76,
-        "reduced": 31
+      "source": {
+        "lemma": "c/8095",
+        "morph": "HC/Np"
       }
     },
     {
@@ -70,25 +66,23 @@
         "H5704"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 80,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "c/5704",
+        "morph": "HC/R"
       }
     },
     {
       "position": 6,
-      "text": "נַפְתָּלִי",
+      "text": "נַפְתָּלִ֑י",
       "lemma": "5321",
       "morph": "HNp",
       "strongs": [
         "H5321"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 570,
-        "ordinal": 75,
-        "reduced": 21
+      "source": {
+        "lemma": "5321",
+        "morph": "HNp"
       }
     },
     {
@@ -99,13 +93,12 @@
       "strongs": [
         "H2022"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 207,
-        "ordinal": 27,
-        "reduced": 9
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "b/2022",
+        "morph": "HR/Ncmsc",
+        "type": "x-ketiv"
       }
     },
     {
@@ -116,51 +109,42 @@
       "strongs": [
         "H1004"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 457,
-        "ordinal": 52,
-        "reduced": 16
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "1004 b",
+        "morph": "HNcmpc/Sp3mp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 9,
-      "text": "סָבִיב",
+      "text": "סָבִֽיב",
       "lemma": "5439",
       "morph": "HNcbsa",
       "strongs": [
         "H5439"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 74,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "5439",
+        "morph": "HNcbsa"
       }
     },
     {
       "position": 10,
-      "text": "בְּחַרְבֹתֵיהֶם",
+      "text": "בְּחַרְבֹתֵיהֶ֖ם",
       "lemma": "b/2719",
       "morph": "HR/Ncfpc/Sp3mp",
       "strongs": [
         "H2719"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 667,
-        "ordinal": 82,
-        "reduced": 28
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/2719",
+        "morph": "HR/Ncfpc/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3547,
-    "ordinal": 541,
-    "reduced": 190
-  }
+  ]
 }

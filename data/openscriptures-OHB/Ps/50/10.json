@@ -1,5 +1,5 @@
 {
-  "text": "כִּי לִי כָל חַיְתוֹ יָעַר בְּהֵמוֹת בְּהַרְרֵי אָלֶף",
+  "text": "כִּי לִ֥י כָל חַיְתוֹ יָ֑עַר בְּ֝הֵמ֗וֹת בְּהַרְרֵי אָֽלֶף",
   "words": [
     {
       "position": 1,
@@ -10,24 +10,22 @@
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 2,
-      "text": "לִי",
+      "text": "לִ֥י",
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
       }
     },
     {
@@ -39,10 +37,9 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
@@ -54,40 +51,37 @@
         "H2416"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 424,
-        "ordinal": 46,
-        "reduced": 19
+      "source": {
+        "lemma": "2416 c",
+        "morph": "HNcfsc/Sp3ms"
       }
     },
     {
       "position": 5,
-      "text": "יָעַר",
+      "text": "יָ֑עַר",
       "lemma": "3293 a",
       "morph": "HNcmsa",
       "strongs": [
         "H3293"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 280,
-        "ordinal": 46,
-        "reduced": 10
+      "source": {
+        "lemma": "3293 a",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 6,
-      "text": "בְּהֵמוֹת",
+      "text": "בְּ֝הֵמ֗וֹת",
       "lemma": "929",
       "morph": "HNcfpa",
       "strongs": [
         "H929"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 453,
-        "ordinal": 48,
-        "reduced": 21
+      "source": {
+        "lemma": "929",
+        "morph": "HNcfpa"
       }
     },
     {
@@ -99,31 +93,24 @@
         "H2042"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 417,
-        "ordinal": 57,
-        "reduced": 12
+      "source": {
+        "lemma": "b/2042",
+        "morph": "HR/Ncmpc"
       }
     },
     {
       "position": 8,
-      "text": "אָלֶף",
+      "text": "אָֽלֶף",
       "lemma": "505",
       "morph": "HAcbsa",
       "strongs": [
         "H505"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 111,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "505",
+        "morph": "HAcbsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1805,
-    "ordinal": 293,
-    "reduced": 86
-  }
+  ]
 }

@@ -1,34 +1,32 @@
 {
-  "text": "וְשֶׁמַע הוֹלִיד אֶת רַחַם אֲבִי יָרְקֳעָם וְרֶקֶם הוֹלִיד אֶת שַׁמָּי",
+  "text": "וְשֶׁ֣מַע הוֹלִ֔יד אֶת רַ֖חַם אֲבִ֣י יָרְקֳעָ֑ם וְרֶ֖קֶם הוֹלִ֥יד אֶת שַׁמָּֽי",
   "words": [
     {
       "position": 1,
-      "text": "וְשֶׁמַע",
+      "text": "וְשֶׁ֣מַע",
       "lemma": "c/8087",
       "morph": "HC/Np",
       "strongs": [
         "H8087"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 416,
-        "ordinal": 56,
-        "reduced": 20
+      "source": {
+        "lemma": "c/8087",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 2,
-      "text": "הוֹלִיד",
+      "text": "הוֹלִ֔יד",
       "lemma": "3205",
       "morph": "HVhp3ms",
       "strongs": [
         "H3205"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 37,
-        "reduced": 19
+      "source": {
+        "lemma": "3205",
+        "morph": "HVhp3ms"
       }
     },
     {
@@ -40,85 +38,79 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 4,
-      "text": "רַחַם",
+      "text": "רַ֖חַם",
       "lemma": "7357",
       "morph": "HNp",
       "strongs": [
         "H7357"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 248,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "7357",
+        "morph": "HNp"
       }
     },
     {
       "position": 5,
-      "text": "אֲבִי",
+      "text": "אֲבִ֣י",
       "lemma": "1",
       "morph": "HNcmsc",
       "strongs": [
         "H1"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 13,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "1",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 6,
-      "text": "יָרְקֳעָם",
+      "text": "יָרְקֳעָ֑ם",
       "lemma": "3421",
       "morph": "HNp",
       "strongs": [
         "H3421"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 78,
-        "reduced": 15
+      "source": {
+        "lemma": "3421",
+        "morph": "HNp"
       }
     },
     {
       "position": 7,
-      "text": "וְרֶקֶם",
+      "text": "וְרֶ֖קֶם",
       "lemma": "c/7552",
       "morph": "HC/Np",
       "strongs": [
         "H7552"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 346,
-        "ordinal": 58,
-        "reduced": 13
+      "source": {
+        "lemma": "c/7552",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 8,
-      "text": "הוֹלִיד",
+      "text": "הוֹלִ֥יד",
       "lemma": "3205",
       "morph": "HVhp3ms",
       "strongs": [
         "H3205"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 37,
-        "reduced": 19
+      "source": {
+        "lemma": "3205",
+        "morph": "HVhp3ms"
       }
     },
     {
@@ -130,31 +122,24 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 10,
-      "text": "שַׁמָּי",
+      "text": "שַׁמָּֽי",
       "lemma": "8060",
       "morph": "HNp",
       "strongs": [
         "H8060"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 350,
-        "ordinal": 44,
-        "reduced": 8
+      "source": {
+        "lemma": "8060",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2705,
-    "ordinal": 410,
-    "reduced": 122
-  }
+  ]
 }

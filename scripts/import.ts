@@ -12,7 +12,6 @@ import { mkdir, writeFile, readFile } from 'fs/promises';
 import { existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { computeHebrew } from '@metaxia/scriptures-core';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -43,23 +42,26 @@ interface WordEntry {
   lemma?: string | null;
   morph?: string | null;
   strongs?: string[];
+  variant?: 'ketiv' | 'qere';
   metadata?: Record<string, unknown>;
-  gematria: Record<string, number>;
+  /** Raw source data preserved for reference */
+  source?: {
+    /** Original lemma attribute value */
+    lemma?: string;
+    /** Original morph attribute value */
+    morph?: string;
+    /** Original element type (e.g., x-ketiv, x-qere) */
+    type?: string;
+  };
 }
 
 interface VerseData {
   text: string;
   words: WordEntry[];
-  gematria: Record<string, number>;
 }
 
 // Hebrew maqqef character (U+05BE) - used as a word connector like a hyphen
 const MAQQEF = '\u05BE';
-
-function removeCantillation(text: string): string {
-  // Remove Hebrew cantillation marks (U+0591 to U+05AF) and other diacritics
-  return text.replace(/[\u0591-\u05AF\u05BD\u05BF\u05C0\u05C3\u05C6]/g, '');
-}
 
 function extractStrongs(value: string | null, wordText?: string): string[] {
   if (!value) return [];
@@ -119,7 +121,13 @@ interface ParsedVerse {
     lemma?: string | null;
     morph?: string | null;
     strongs?: string[];
+    variant?: 'ketiv' | 'qere';
     metadata?: Record<string, unknown>;
+    source?: {
+      lemma?: string;
+      morph?: string;
+      type?: string;
+    };
   }>;
 }
 
@@ -161,7 +169,7 @@ function parseOsis(xml: string): ParsedVerse[] {
           if (!content) return;
 
           if (typeof content === 'string') {
-            const cleanText = removeCantillation(content.replace(/\//g, '').trim());
+            const cleanText = content.replace(/\//g, '').trim();
             if (cleanText) {
               for (const word of cleanText.split(/\s+/).filter(Boolean)) {
                 // Skip maqqef-only entries (punctuation, not words)
@@ -172,6 +180,7 @@ function parseOsis(xml: string): ParsedVerse[] {
                   lemma: null,
                   morph: null,
                   metadata: {},
+                  source: {},
                 });
               }
             }
@@ -201,7 +210,7 @@ function parseOsis(xml: string): ParsedVerse[] {
               }
 
               const rawText = String(elem['#text']);
-              const text = removeCantillation(rawText.replace(/\//g, '')).trim();
+              const text = rawText.replace(/\//g, '').trim();
               const lemma = elem['@_lemma'] as string | undefined;
               const morph = elem['@_morph'] as string | undefined;
 
@@ -211,14 +220,19 @@ function parseOsis(xml: string): ParsedVerse[] {
                   // Skip maqqef-only entries (punctuation, not words)
                   if (piece === MAQQEF) continue;
 
-                  // Build metadata for ketiv/qere variants
-                  const metadata: Record<string, unknown> = {};
+                  // Determine variant type for Qere/Ketiv
+                  let variant: 'ketiv' | 'qere' | undefined;
                   if (elemType === 'x-ketiv') {
-                    metadata.isKetiv = true;
+                    variant = 'ketiv';
+                  } else if (isInsideQere) {
+                    variant = 'qere';
                   }
-                  if (isInsideQere) {
-                    metadata.isQere = true;
-                  }
+
+                  // Build source object to preserve raw attributes
+                  const source: { lemma?: string; morph?: string; type?: string } = {};
+                  if (lemma) source.lemma = lemma;
+                  if (morph) source.morph = morph;
+                  if (elemType) source.type = elemType;
 
                   words.push({
                     position: pos++,
@@ -226,7 +240,8 @@ function parseOsis(xml: string): ParsedVerse[] {
                     lemma: lemma || null,
                     morph: morph || null,
                     strongs: strongs.length > 0 ? strongs : undefined,
-                    metadata,
+                    variant,
+                    source: Object.keys(source).length > 0 ? source : undefined,
                   });
                 }
               }
@@ -321,10 +336,13 @@ function parseOsis(xml: string): ParsedVerse[] {
 /**
  * Check if a word is a textual critical note rather than actual scripture.
  * These notes compare manuscript variants and have no lemma, no morphology,
- * and 0 gematria (non-Hebrew text like "We read one or more accents in L differently than BHS").
+ * and no Hebrew letters (non-Hebrew text like "We read one or more accents in L differently than BHS").
  */
-function isTextualCriticalNote(w: ParsedVerse['words'][0], gematria: Record<string, number>): boolean {
-  return !w.lemma && !w.morph && gematria.standard === 0;
+function isTextualCriticalNote(w: ParsedVerse['words'][0]): boolean {
+  if (w.lemma || w.morph) return false;
+  // Check if text contains Hebrew letters (U+0590-U+05FF range)
+  const hasHebrew = /[\u0590-\u05FF]/.test(w.text);
+  return !hasHebrew;
 }
 
 /**
@@ -343,8 +361,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
   const filteredWords: WordEntry[] = [];
   let position = 1;
   for (const w of verse.words) {
-    const gematria = computeHebrew(w.text);
-    if (isTextualCriticalNote(w, gematria)) continue;
+    if (isTextualCriticalNote(w)) continue;
     if (isParagraphMarker(w)) continue;
 
     const metadata: Record<string, unknown> = { ...w.metadata };
@@ -358,18 +375,12 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
       lemma: w.lemma,
       morph: w.morph,
       strongs: w.strongs,
+      variant: w.variant,
       metadata,
-      gematria,
+      source: w.source,
     });
   }
   const wordEntries = filteredWords;
-
-  const totals: Record<string, number> = {};
-  for (const entry of wordEntries) {
-    for (const [k, v] of Object.entries(entry.gematria)) {
-      totals[k] = (totals[k] || 0) + v;
-    }
-  }
 
   // Rebuild text from filtered words (excludes textual critical notes)
   const text = wordEntries.map(w => w.text).join(' ');
@@ -377,7 +388,6 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
   const data: VerseData = {
     text,
     words: wordEntries,
-    gematria: totals,
   };
 
   const filePath = join(verseDir, `${verse.number}.json`);

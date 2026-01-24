@@ -1,34 +1,32 @@
 {
-  "text": "וְאֵלֶּה שְׁמוֹתָם בֶּן חוּר בְּהַר אֶפְרָיִם",
+  "text": "וְאֵ֣לֶּה שְׁמוֹתָ֔ם בֶּן ח֖וּר בְּהַ֥ר אֶפְרָֽיִם",
   "words": [
     {
       "position": 1,
-      "text": "וְאֵלֶּה",
+      "text": "וְאֵ֣לֶּה",
       "lemma": "c/428",
       "morph": "HC/Pdxcp",
       "strongs": [
         "H428"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 42,
-        "ordinal": 24,
-        "reduced": 15
+      "source": {
+        "lemma": "c/428",
+        "morph": "HC/Pdxcp"
       }
     },
     {
       "position": 2,
-      "text": "שְׁמוֹתָם",
+      "text": "שְׁמוֹתָ֔ם",
       "lemma": "8034",
       "morph": "HNcmpc/Sp3mp",
       "strongs": [
         "H8034"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 786,
-        "ordinal": 75,
-        "reduced": 21
+      "source": {
+        "lemma": "8034",
+        "morph": "HNcmpc/Sp3mp"
       }
     },
     {
@@ -40,61 +38,52 @@
         "H1133"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1133+",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 4,
-      "text": "חוּר",
+      "text": "ח֖וּר",
       "lemma": "1133",
       "morph": "HNp",
       "strongs": [
         "H1133"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 214,
-        "ordinal": 34,
-        "reduced": 16
+      "source": {
+        "lemma": "1133",
+        "morph": "HNp"
       }
     },
     {
       "position": 5,
-      "text": "בְּהַר",
+      "text": "בְּהַ֥ר",
       "lemma": "b/2022",
       "morph": "HR/Ncmsc",
       "strongs": [
         "H2022"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 207,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "b/2022",
+        "morph": "HR/Ncmsc"
       }
     },
     {
       "position": 6,
-      "text": "אֶפְרָיִם",
+      "text": "אֶפְרָֽיִם",
       "lemma": "669",
       "morph": "HNp",
       "strongs": [
         "H669"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 331,
-        "ordinal": 61,
-        "reduced": 16
+      "source": {
+        "lemma": "669",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1632,
-    "ordinal": 237,
-    "reduced": 84
-  }
+  ]
 }

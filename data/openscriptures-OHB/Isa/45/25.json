@@ -1,49 +1,46 @@
 {
-  "text": "בַּיהוָה יִצְדְּקוּ וְיִתְהַלְלוּ כָּל זֶרַע יִשְׂרָאֵל",
+  "text": "בַּיהוָ֛ה יִצְדְּק֥וּ וְיִֽתְהַלְל֖וּ כָּל זֶ֥רַע יִשְׂרָאֵֽל",
   "words": [
     {
       "position": 1,
-      "text": "בַּיהוָה",
+      "text": "בַּיהוָ֛ה",
       "lemma": "b/3068",
       "morph": "HR/Np",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 28,
-        "ordinal": 28,
-        "reduced": 19
+      "source": {
+        "lemma": "b/3068",
+        "morph": "HR/Np"
       }
     },
     {
       "position": 2,
-      "text": "יִצְדְּקוּ",
+      "text": "יִצְדְּק֥וּ",
       "lemma": "6663",
       "morph": "HVqi3mp",
       "strongs": [
         "H6663"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 210,
-        "ordinal": 57,
-        "reduced": 21
+      "source": {
+        "lemma": "6663",
+        "morph": "HVqi3mp"
       }
     },
     {
       "position": 3,
-      "text": "וְיִתְהַלְלוּ",
+      "text": "וְיִֽתְהַלְל֖וּ",
       "lemma": "c/1984 b",
       "morph": "HC/Vti3mp",
       "strongs": [
         "H1984"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 487,
-        "ordinal": 73,
-        "reduced": 28
+      "source": {
+        "lemma": "c/1984 b",
+        "morph": "HC/Vti3mp"
       }
     },
     {
@@ -55,46 +52,38 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 5,
-      "text": "זֶרַע",
+      "text": "זֶ֥רַע",
       "lemma": "2233",
       "morph": "HNcmsc",
       "strongs": [
         "H2233"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 277,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "2233",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 6,
-      "text": "יִשְׂרָאֵל",
+      "text": "יִשְׂרָאֵֽל",
       "lemma": "3478",
       "morph": "HNp",
       "strongs": [
         "H3478"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 541,
-        "ordinal": 64,
-        "reduced": 10
+      "source": {
+        "lemma": "3478",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1593,
-    "ordinal": 288,
-    "reduced": 99
-  }
+  ]
 }

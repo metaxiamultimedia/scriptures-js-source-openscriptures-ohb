@@ -1,99 +1,88 @@
 {
-  "text": "יְהוָה צְבָאוֹת אַשְׁרֵי אָדָם בֹּטֵחַ בָּךְ",
+  "text": "יְהוָ֥ה צְבָא֑וֹת אַֽשְׁרֵ֥י אָ֝דָ֗ם בֹּטֵ֥חַ בָּֽךְ",
   "words": [
     {
       "position": 1,
-      "text": "יְהוָה",
+      "text": "יְהוָ֥ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 2,
-      "text": "צְבָאוֹת",
+      "text": "צְבָא֑וֹת",
       "lemma": "6635 b",
       "morph": "HNcbpa",
       "strongs": [
         "H6635"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 499,
-        "ordinal": 49,
-        "reduced": 22
+      "source": {
+        "lemma": "6635 b",
+        "morph": "HNcbpa"
       }
     },
     {
       "position": 3,
-      "text": "אַשְׁרֵי",
+      "text": "אַֽשְׁרֵ֥י",
       "lemma": "835",
       "morph": "HNcmpa",
       "strongs": [
         "H835"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 511,
-        "ordinal": 52,
-        "reduced": 7
+      "source": {
+        "lemma": "835",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 4,
-      "text": "אָדָם",
+      "text": "אָ֝דָ֗ם",
       "lemma": "120",
       "morph": "HNcmsa",
       "strongs": [
         "H120"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "120",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 5,
-      "text": "בֹּטֵחַ",
+      "text": "בֹּטֵ֥חַ",
       "lemma": "982",
       "morph": "HVqrmsa",
       "strongs": [
         "H982"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 19
+      "source": {
+        "lemma": "982",
+        "morph": "HVqrmsa"
       }
     },
     {
       "position": 6,
-      "text": "בָּךְ",
+      "text": "בָּֽךְ",
       "lemma": "b",
       "morph": "HR/Sp2fs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 22,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp2fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1122,
-    "ordinal": 177,
-    "reduced": 78
-  }
+  ]
 }

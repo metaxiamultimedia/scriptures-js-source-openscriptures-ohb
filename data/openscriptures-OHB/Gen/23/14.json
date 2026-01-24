@@ -1,34 +1,32 @@
 {
-  "text": "וַיַּעַן עֶפְרוֹן אֶת אַבְרָהָם לֵאמֹר לוֹ",
+  "text": "וַיַּ֧עַן עֶפְר֛וֹן אֶת אַבְרָהָ֖ם לֵאמֹ֥ר לֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "וַיַּעַן",
+      "text": "וַיַּ֧עַן",
       "lemma": "c/6030 b",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H6030"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 136,
-        "ordinal": 46,
-        "reduced": 19
+      "source": {
+        "lemma": "c/6030 b",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 2,
-      "text": "עֶפְרוֹן",
+      "text": "עֶפְר֛וֹן",
       "lemma": "6085",
       "morph": "HNp",
       "strongs": [
         "H6085"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 406,
-        "ordinal": 73,
-        "reduced": 28
+      "source": {
+        "lemma": "6085",
+        "morph": "HNp"
       }
     },
     {
@@ -40,60 +38,51 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 4,
-      "text": "אַבְרָהָם",
+      "text": "אַבְרָהָ֖ם",
       "lemma": "85",
       "morph": "HNp",
       "strongs": [
         "H85"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 248,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "85",
+        "morph": "HNp"
       }
     },
     {
       "position": 5,
-      "text": "לֵאמֹר",
+      "text": "לֵאמֹ֥ר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
       "strongs": [
         "H559"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 271,
-        "ordinal": 46,
-        "reduced": 10
+      "source": {
+        "lemma": "l/559",
+        "morph": "HR/Vqc"
       }
     },
     {
       "position": 6,
-      "text": "לוֹ",
+      "text": "לֽוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1498,
-    "ordinal": 247,
-    "reduced": 85
-  }
+  ]
 }

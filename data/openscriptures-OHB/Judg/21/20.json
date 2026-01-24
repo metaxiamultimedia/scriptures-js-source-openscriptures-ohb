@@ -1,5 +1,5 @@
 {
-  "text": "ויצו אֶת בְּנֵי בִנְיָמִן לֵאמֹר לְכוּ וַאֲרַבְתֶּם בַּכְּרָמִים וַיְצַוּוּ",
+  "text": "ויצו אֶת בְּנֵ֥י בִנְיָמִ֖ן לֵאמֹ֑ר לְכ֖וּ וַאֲרַבְתֶּ֥ם בַּכְּרָמִֽים וַיְצַוּ֕וּ",
   "words": [
     {
       "position": 1,
@@ -9,13 +9,12 @@
       "strongs": [
         "H6680"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 112,
-        "ordinal": 40,
-        "reduced": 22
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6680",
+        "morph": "HC/Vpw3mp",
+        "type": "x-ketiv"
       }
     },
     {
@@ -27,123 +26,109 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 3,
-      "text": "בְּנֵי",
+      "text": "בְּנֵ֥י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 4,
-      "text": "בִנְיָמִן",
+      "text": "בִנְיָמִ֖ן",
       "lemma": "1144",
       "morph": "HNp",
       "strongs": [
         "H1144"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 152,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "1144",
+        "morph": "HNp"
       }
     },
     {
       "position": 5,
-      "text": "לֵאמֹר",
+      "text": "לֵאמֹ֑ר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
       "strongs": [
         "H559"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 271,
-        "ordinal": 46,
-        "reduced": 10
+      "source": {
+        "lemma": "l/559",
+        "morph": "HR/Vqc"
       }
     },
     {
       "position": 6,
-      "text": "לְכוּ",
+      "text": "לְכ֖וּ",
       "lemma": "3212",
       "morph": "HVqv2mp",
       "strongs": [
         "H3212"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "3212",
+        "morph": "HVqv2mp"
       }
     },
     {
       "position": 7,
-      "text": "וַאֲרַבְתֶּם",
+      "text": "וַאֲרַבְתֶּ֥ם",
       "lemma": "c/693",
       "morph": "HC/Vqp2mp",
       "strongs": [
         "H693"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 649,
-        "ordinal": 64,
-        "reduced": 19
+      "source": {
+        "lemma": "c/693",
+        "morph": "HC/Vqp2mp"
       }
     },
     {
       "position": 8,
-      "text": "בַּכְּרָמִים",
+      "text": "בַּכְּרָמִֽים",
       "lemma": "b/3754",
       "morph": "HRd/Ncbpa",
       "strongs": [
         "H3754"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 312,
-        "ordinal": 69,
-        "reduced": 15
+      "source": {
+        "lemma": "b/3754",
+        "morph": "HRd/Ncbpa"
       }
     },
     {
       "position": 9,
-      "text": "וַיְצַוּוּ",
+      "text": "וַיְצַוּ֕וּ",
       "lemma": "c/6680",
       "morph": "HC/Vpw3mp",
       "strongs": [
         "H6680"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 118,
-        "ordinal": 46,
-        "reduced": 28
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6680",
+        "morph": "HC/Vpw3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2133,
-    "ordinal": 396,
-    "reduced": 135
-  }
+  ]
 }

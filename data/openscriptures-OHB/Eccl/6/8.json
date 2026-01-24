@@ -1,19 +1,18 @@
 {
-  "text": "כִּי מַה יּוֹתֵר לֶחָכָם מִן הַכְּסִיל מַה לֶּעָנִי יוֹדֵעַ לַהֲלֹךְ נֶגֶד הַחַיִּים",
+  "text": "כִּ֛י מַה יּוֹתֵ֥ר לֶחָכָ֖ם מִֽן הַכְּסִ֑יל מַה לֶּעָנִ֣י יוֹדֵ֔עַ לַהֲלֹ֖ךְ נֶ֥גֶד הַחַיִּֽים",
   "words": [
     {
       "position": 1,
-      "text": "כִּי",
+      "text": "כִּ֛י",
       "lemma": "3588 a",
       "morph": "HC",
       "strongs": [
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
@@ -25,70 +24,65 @@
         "H4100"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "4100",
+        "morph": "HTi"
       }
     },
     {
       "position": 3,
-      "text": "יּוֹתֵר",
+      "text": "יּוֹתֵ֥ר",
       "lemma": "3148",
       "morph": "HNcmsa",
       "strongs": [
         "H3148"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 616,
-        "ordinal": 58,
-        "reduced": 13
+      "source": {
+        "lemma": "3148",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 4,
-      "text": "לֶחָכָם",
+      "text": "לֶחָכָ֖ם",
       "lemma": "l/2450",
       "morph": "HRd/Aamsa",
       "strongs": [
         "H2450"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 98,
-        "ordinal": 44,
-        "reduced": 17
+      "source": {
+        "lemma": "l/2450",
+        "morph": "HRd/Aamsa"
       }
     },
     {
       "position": 5,
-      "text": "מִן",
+      "text": "מִֽן",
       "lemma": "4480 a",
       "morph": "HR",
       "strongs": [
         "H4480"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "4480 a",
+        "morph": "HR"
       }
     },
     {
       "position": 6,
-      "text": "הַכְּסִיל",
+      "text": "הַכְּסִ֑יל",
       "lemma": "d/3684",
       "morph": "HTd/Aamsa",
       "strongs": [
         "H3684"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 125,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "d/3684",
+        "morph": "HTd/Aamsa"
       }
     },
     {
@@ -100,91 +94,80 @@
         "H4100"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "4100",
+        "morph": "HTi"
       }
     },
     {
       "position": 8,
-      "text": "לֶּעָנִי",
+      "text": "לֶּעָנִ֣י",
       "lemma": "l/6041",
       "morph": "HRd/Aamsa",
       "strongs": [
         "H6041"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 160,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "l/6041",
+        "morph": "HRd/Aamsa"
       }
     },
     {
       "position": 9,
-      "text": "יוֹדֵעַ",
+      "text": "יוֹדֵ֔עַ",
       "lemma": "3045",
       "morph": "HVqrmsa",
       "strongs": [
         "H3045"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 36,
-        "reduced": 18
+      "source": {
+        "lemma": "3045",
+        "morph": "HVqrmsa"
       }
     },
     {
       "position": 10,
-      "text": "לַהֲלֹךְ",
+      "text": "לַהֲלֹ֖ךְ",
       "lemma": "l/1980",
       "morph": "HR/Vqc",
       "strongs": [
         "H1980"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 85,
-        "ordinal": 40,
-        "reduced": 13
+      "source": {
+        "lemma": "l/1980",
+        "morph": "HR/Vqc"
       }
     },
     {
       "position": 11,
-      "text": "נֶגֶד",
+      "text": "נֶ֥גֶד",
       "lemma": "5048",
       "morph": "HR",
       "strongs": [
         "H5048"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 57,
-        "ordinal": 21,
-        "reduced": 12
+      "source": {
+        "lemma": "5048",
+        "morph": "HR"
       }
     },
     {
       "position": 12,
-      "text": "הַחַיִּים",
+      "text": "הַחַיִּֽים",
       "lemma": "d/2416 a",
       "morph": "HTd/Aampa",
       "strongs": [
         "H2416"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 73,
-        "ordinal": 46,
-        "reduced": 19
+      "source": {
+        "lemma": "d/2416 a",
+        "morph": "HTd/Aampa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1514,
-    "ordinal": 434,
-    "reduced": 155
-  }
+  ]
 }

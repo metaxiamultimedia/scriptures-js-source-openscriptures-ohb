@@ -1,34 +1,32 @@
 {
-  "text": "כְּרַחֵם אָב עַל בָּנִים רִחַם יְהוָה עַל יְרֵאָיו",
+  "text": "כְּרַחֵ֣ם אָ֭ב עַל בָּנִ֑ים רִחַ֥ם יְ֝הוָ֗ה עַל יְרֵאָֽיו",
   "words": [
     {
       "position": 1,
-      "text": "כְּרַחֵם",
+      "text": "כְּרַחֵ֣ם",
       "lemma": "k/7355",
       "morph": "HR/Vpc",
       "strongs": [
         "H7355"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 268,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "k/7355",
+        "morph": "HR/Vpc"
       }
     },
     {
       "position": 2,
-      "text": "אָב",
+      "text": "אָ֭ב",
       "lemma": "1",
       "morph": "HNcmsa",
       "strongs": [
         "H1"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 3,
-        "ordinal": 3,
-        "reduced": 3
+      "source": {
+        "lemma": "1",
+        "morph": "HNcmsa"
       }
     },
     {
@@ -40,55 +38,51 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
       "position": 4,
-      "text": "בָּנִים",
+      "text": "בָּנִ֑ים",
       "lemma": "1121 a",
       "morph": "HNcmpa",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 102,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 5,
-      "text": "רִחַם",
+      "text": "רִחַ֥ם",
       "lemma": "7355",
       "morph": "HVpp3ms",
       "strongs": [
         "H7355"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 248,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "7355",
+        "morph": "HVpp3ms"
       }
     },
     {
       "position": 6,
-      "text": "יְהוָה",
+      "text": "יְ֝הוָ֗ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
@@ -100,31 +94,24 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
       "position": 8,
-      "text": "יְרֵאָיו",
+      "text": "יְרֵאָֽיו",
       "lemma": "3373",
       "morph": "HAampc/Sp3ms",
       "strongs": [
         "H3373"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 227,
-        "ordinal": 47,
-        "reduced": 11
+      "source": {
+        "lemma": "3373",
+        "morph": "HAampc/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1074,
-    "ordinal": 264,
-    "reduced": 93
-  }
+  ]
 }

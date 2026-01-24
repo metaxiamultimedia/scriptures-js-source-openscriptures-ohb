@@ -1,5 +1,5 @@
 {
-  "text": "אַף עַל יָתוֹם תַּפִּילוּ וְתִכְרוּ עַל רֵיעֲכֶם",
+  "text": "אַף עַל יָת֥וֹם תַּפִּ֑ילוּ וְ֝תִכְר֗וּ עַל רֵֽיעֲכֶֽם",
   "words": [
     {
       "position": 1,
@@ -10,10 +10,9 @@
         "H637"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 81,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "637",
+        "morph": "HTa"
       }
     },
     {
@@ -25,55 +24,51 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
       "position": 3,
-      "text": "יָתוֹם",
+      "text": "יָת֥וֹם",
       "lemma": "3490",
       "morph": "HNcmsa",
       "strongs": [
         "H3490"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 456,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "3490",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 4,
-      "text": "תַּפִּילוּ",
+      "text": "תַּפִּ֑ילוּ",
       "lemma": "5307",
       "morph": "HVhi2mp",
       "strongs": [
         "H5307"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 526,
-        "ordinal": 67,
-        "reduced": 22
+      "source": {
+        "lemma": "5307",
+        "morph": "HVhi2mp"
       }
     },
     {
       "position": 5,
-      "text": "וְתִכְרוּ",
+      "text": "וְ֝תִכְר֗וּ",
       "lemma": "c/3738 b",
       "morph": "HC/Vqi2mp",
       "strongs": [
         "H3738"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 632,
-        "ordinal": 65,
-        "reduced": 20
+      "source": {
+        "lemma": "c/3738 b",
+        "morph": "HC/Vqi2mp"
       }
     },
     {
@@ -85,31 +80,24 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
       "position": 7,
-      "text": "רֵיעֲכֶם",
+      "text": "רֵֽיעֲכֶֽם",
       "lemma": "7453",
       "morph": "HNcmsc/Sp2mp",
       "strongs": [
         "H7453"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 340,
-        "ordinal": 70,
-        "reduced": 16
+      "source": {
+        "lemma": "7453",
+        "morph": "HNcmsc/Sp2mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2235,
-    "ordinal": 327,
-    "reduced": 102
-  }
+  ]
 }

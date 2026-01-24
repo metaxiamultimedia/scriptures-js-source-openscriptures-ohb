@@ -1,5 +1,5 @@
 {
-  "text": "וחץ חֲנִיתוֹ כִּמְנוֹר אֹרְגִים וְלַהֶבֶת חֲנִיתוֹ שֵׁשׁ מֵאוֹת שְׁקָלִים בַּרְזֶל וְנֹשֵׂא הַצִּנָּה הֹלֵךְ לְפָנָיו וְעֵץ",
+  "text": "וחץ חֲנִית֗וֹ כִּמְנוֹר֙ אֹֽרְגִ֔ים וְלַהֶ֣בֶת חֲנִית֔וֹ שֵׁשׁ מֵא֥וֹת שְׁקָלִ֖ים בַּרְזֶ֑ל וְנֹשֵׂ֥א הַצִּנָּ֖ה הֹלֵ֥ךְ לְפָנָֽיו וְעֵ֣ץ",
   "words": [
     {
       "position": 1,
@@ -9,88 +9,82 @@
       "strongs": [
         "H2671"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 104,
-        "ordinal": 32,
-        "reduced": 23
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/2671",
+        "morph": "HC/Ncmsc",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 2,
-      "text": "חֲנִיתוֹ",
+      "text": "חֲנִית֗וֹ",
       "lemma": "2595",
       "morph": "HNcfsc/Sp3ms",
       "strongs": [
         "H2595"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 474,
-        "ordinal": 60,
-        "reduced": 24
+      "source": {
+        "lemma": "2595",
+        "morph": "HNcfsc/Sp3ms"
       }
     },
     {
       "position": 3,
-      "text": "כִּמְנוֹר",
+      "text": "כִּמְנוֹר֙",
       "lemma": "k/4500",
       "morph": "HR/Ncmsc",
       "strongs": [
         "H4500"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 316,
-        "ordinal": 64,
-        "reduced": 19
+      "source": {
+        "lemma": "k/4500",
+        "morph": "HR/Ncmsc"
       }
     },
     {
       "position": 4,
-      "text": "אֹרְגִים",
+      "text": "אֹֽרְגִ֔ים",
       "lemma": "707",
       "morph": "HVqrmpa",
       "strongs": [
         "H707"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 254,
-        "ordinal": 47,
-        "reduced": 11
+      "source": {
+        "lemma": "707",
+        "morph": "HVqrmpa"
       }
     },
     {
       "position": 5,
-      "text": "וְלַהֶבֶת",
+      "text": "וְלַהֶ֣בֶת",
       "lemma": "c/3852",
       "morph": "HC/Ncfsc",
       "strongs": [
         "H3852"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 443,
-        "ordinal": 47,
-        "reduced": 20
+      "source": {
+        "lemma": "c/3852",
+        "morph": "HC/Ncfsc"
       }
     },
     {
       "position": 6,
-      "text": "חֲנִיתוֹ",
+      "text": "חֲנִית֔וֹ",
       "lemma": "2595",
       "morph": "HNcfsc/Sp3ms",
       "strongs": [
         "H2595"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 474,
-        "ordinal": 60,
-        "reduced": 24
+      "source": {
+        "lemma": "2595",
+        "morph": "HNcfsc/Sp3ms"
       }
     },
     {
@@ -102,138 +96,123 @@
         "H8337"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 600,
-        "ordinal": 42,
-        "reduced": 6
+      "source": {
+        "lemma": "8337",
+        "morph": "HAcfsa"
       }
     },
     {
       "position": 8,
-      "text": "מֵאוֹת",
+      "text": "מֵא֥וֹת",
       "lemma": "3967",
       "morph": "HAcbpa",
       "strongs": [
         "H3967"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 447,
-        "ordinal": 42,
-        "reduced": 15
+      "source": {
+        "lemma": "3967",
+        "morph": "HAcbpa"
       }
     },
     {
       "position": 9,
-      "text": "שְׁקָלִים",
+      "text": "שְׁקָלִ֖ים",
       "lemma": "8255",
       "morph": "HNcmpa",
       "strongs": [
         "H8255"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 480,
-        "ordinal": 75,
-        "reduced": 12
+      "source": {
+        "lemma": "8255",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 10,
-      "text": "בַּרְזֶל",
+      "text": "בַּרְזֶ֑ל",
       "lemma": "1270",
       "morph": "HNcmsa",
       "strongs": [
         "H1270"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 239,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "1270",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 11,
-      "text": "וְנֹשֵׂא",
+      "text": "וְנֹשֵׂ֥א",
       "lemma": "c/5375",
       "morph": "HC/Vqrmsc",
       "strongs": [
         "H5375"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 357,
-        "ordinal": 42,
-        "reduced": 15
+      "source": {
+        "lemma": "c/5375",
+        "morph": "HC/Vqrmsc"
       }
     },
     {
       "position": 12,
-      "text": "הַצִּנָּה",
+      "text": "הַצִּנָּ֖ה",
       "lemma": "d/6793 c",
       "morph": "HTd/Ncfsa",
       "strongs": [
         "H6793"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 42,
-        "reduced": 24
+      "source": {
+        "lemma": "d/6793 c",
+        "morph": "HTd/Ncfsa"
       }
     },
     {
       "position": 13,
-      "text": "הֹלֵךְ",
+      "text": "הֹלֵ֥ךְ",
       "lemma": "1980",
       "morph": "HVqrmsa",
       "strongs": [
         "H1980"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "1980",
+        "morph": "HVqrmsa"
       }
     },
     {
       "position": 14,
-      "text": "לְפָנָיו",
+      "text": "לְפָנָֽיו",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc/Sp3ms",
       "strongs": [
         "H6440"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 176,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "l/6440",
+        "morph": "HR/Ncbpc/Sp3ms"
       }
     },
     {
       "position": 15,
-      "text": "וְעֵץ",
+      "text": "וְעֵ֣ץ",
       "lemma": "c/6086",
       "morph": "HC/Ncmsc",
       "strongs": [
         "H6086"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 166,
-        "ordinal": 40,
-        "reduced": 22
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6086",
+        "morph": "HC/Ncmsc"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4735,
-    "ordinal": 721,
-    "reduced": 262
-  }
+  ]
 }

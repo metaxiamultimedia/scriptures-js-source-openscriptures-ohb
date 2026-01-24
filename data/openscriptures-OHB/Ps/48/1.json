@@ -1,34 +1,32 @@
 {
-  "text": "שִׁיר מִזְמוֹר לִבְנֵי קֹרַח",
+  "text": "שִׁ֥יר מִ֝זְמוֹר לִבְנֵי קֹֽרַח",
   "words": [
     {
       "position": 1,
-      "text": "שִׁיר",
+      "text": "שִׁ֥יר",
       "lemma": "7892 a",
       "morph": "HNcbsa",
       "strongs": [
         "H7892"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 510,
-        "ordinal": 51,
-        "reduced": 6
+      "source": {
+        "lemma": "7892 a",
+        "morph": "HNcbsa"
       }
     },
     {
       "position": 2,
-      "text": "מִזְמוֹר",
+      "text": "מִ֝זְמוֹר",
       "lemma": "4210",
       "morph": "HNcmsa",
       "strongs": [
         "H4210"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 293,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "4210",
+        "morph": "HNcmsa"
       }
     },
     {
@@ -40,31 +38,24 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 92,
-        "ordinal": 38,
-        "reduced": 11
+      "source": {
+        "lemma": "l/1121 a",
+        "morph": "HR/Ncmpc"
       }
     },
     {
       "position": 4,
-      "text": "קֹרַח",
+      "text": "קֹֽרַח",
       "lemma": "7141",
       "morph": "HNp",
       "strongs": [
         "H7141"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 308,
-        "ordinal": 47,
-        "reduced": 11
+      "source": {
+        "lemma": "7141",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1203,
-    "ordinal": 195,
-    "reduced": 51
-  }
+  ]
 }

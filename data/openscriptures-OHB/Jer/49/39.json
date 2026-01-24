@@ -1,49 +1,46 @@
 {
-  "text": "וְהָיָה בְּאַחֲרִית הַיָּמִים אשוב אֶת שבית עֵילָם נְאֻם יְהוָה אָשִׁיב שְׁבוּת",
+  "text": "וְהָיָ֣ה בְּאַחֲרִ֣ית הַיָּמִ֗ים אשוב אֶת שבית עֵילָ֖ם נְאֻם יְהוָֽה אָשִׁ֛יב שְׁב֥וּת",
   "words": [
     {
       "position": 1,
-      "text": "וְהָיָה",
+      "text": "וְהָיָ֣ה",
       "lemma": "c/1961",
       "morph": "HC/Vqq3ms",
       "strongs": [
         "H1961"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "c/1961",
+        "morph": "HC/Vqq3ms"
       }
     },
     {
       "position": 2,
-      "text": "בְּאַחֲרִית",
+      "text": "בְּאַחֲרִ֣ית",
       "lemma": "b/319",
       "morph": "HR/Ncfsc",
       "strongs": [
         "H319"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 621,
-        "ordinal": 63,
-        "reduced": 18
+      "source": {
+        "lemma": "b/319",
+        "morph": "HR/Ncfsc"
       }
     },
     {
       "position": 3,
-      "text": "הַיָּמִים",
+      "text": "הַיָּמִ֗ים",
       "lemma": "d/3117",
       "morph": "HTd/Ncmpa",
       "strongs": [
         "H3117"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 105,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "d/3117",
+        "morph": "HTd/Ncmpa"
       }
     },
     {
@@ -54,13 +51,12 @@
       "strongs": [
         "H7725"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 309,
-        "ordinal": 30,
-        "reduced": 12
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "7725",
+        "morph": "HVqi1cs",
+        "type": "x-ketiv"
       }
     },
     {
@@ -72,10 +68,9 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
@@ -86,28 +81,26 @@
       "strongs": [
         "H7622"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 712,
-        "ordinal": 55,
-        "reduced": 10
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "7622",
+        "morph": "HNcfsc",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 7,
-      "text": "עֵילָם",
+      "text": "עֵילָ֖ם",
       "lemma": "5867 a",
       "morph": "HNp",
       "strongs": [
         "H5867"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "5867 a",
+        "morph": "HNp"
       }
     },
     {
@@ -119,65 +112,54 @@
         "H5002"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 91,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5002",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 9,
-      "text": "יְהוָה",
+      "text": "יְהוָֽה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 10,
-      "text": "אָשִׁיב",
+      "text": "אָשִׁ֛יב",
       "lemma": "7725",
       "morph": "HVhi1cs",
       "strongs": [
         "H7725"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 313,
-        "ordinal": 34,
-        "reduced": 7
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7725",
+        "morph": "HVhi1cs"
       }
     },
     {
       "position": 11,
-      "text": "שְׁבוּת",
+      "text": "שְׁב֥וּת",
       "lemma": "7622",
       "morph": "HNcfsc",
       "strongs": [
         "H7622"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 708,
-        "ordinal": 51,
-        "reduced": 15
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7622",
+        "morph": "HNcfsc"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3462,
-    "ordinal": 438,
-    "reduced": 141
-  }
+  ]
 }

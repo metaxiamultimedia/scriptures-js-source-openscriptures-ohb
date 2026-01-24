@@ -1,19 +1,18 @@
 {
-  "text": "וַיְחָרֵף אֶת יִשְׂרָאֵל וַיַּכֵּהוּ יְהוֹנָתָן בֶּן שמעי אֲחִי דָוִד שִׁמְעָה",
+  "text": "וַיְחָרֵ֖ף אֶת יִשְׂרָאֵ֑ל וַיַּכֵּ֨הוּ֙ יְה֣וֹנָתָ֔ן בֶּן שמעי אֲחִ֥י דָוִֽד שִׁמְעָ֖ה",
   "words": [
     {
       "position": 1,
-      "text": "וַיְחָרֵף",
+      "text": "וַיְחָרֵ֖ף",
       "lemma": "c/2778 a",
       "morph": "HC/Vpw3ms",
       "strongs": [
         "H2778"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 304,
-        "ordinal": 61,
-        "reduced": 25
+      "source": {
+        "lemma": "c/2778 a",
+        "morph": "HC/Vpw3ms"
       }
     },
     {
@@ -25,55 +24,51 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 3,
-      "text": "יִשְׂרָאֵל",
+      "text": "יִשְׂרָאֵ֑ל",
       "lemma": "3478",
       "morph": "HNp",
       "strongs": [
         "H3478"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 541,
-        "ordinal": 64,
-        "reduced": 10
+      "source": {
+        "lemma": "3478",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "וַיַּכֵּהוּ",
+      "text": "וַיַּכֵּ֨הוּ֙",
       "lemma": "c/5221",
       "morph": "HC/Vhw3ms/Sp3ms",
       "strongs": [
         "H5221"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 47,
-        "ordinal": 38,
-        "reduced": 20
+      "source": {
+        "lemma": "c/5221",
+        "morph": "HC/Vhw3ms/Sp3ms"
       }
     },
     {
       "position": 5,
-      "text": "יְהוֹנָתָן",
+      "text": "יְה֣וֹנָתָ֔ן",
       "lemma": "3083",
       "morph": "HNp",
       "strongs": [
         "H3083"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 521,
-        "ordinal": 71,
-        "reduced": 26
+      "source": {
+        "lemma": "3083",
+        "morph": "HNp"
       }
     },
     {
@@ -85,10 +80,9 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmsc"
       }
     },
     {
@@ -99,66 +93,56 @@
       "strongs": [
         "H8096"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 420,
-        "ordinal": 60,
-        "reduced": 15
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "8096",
+        "morph": "HNp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 8,
-      "text": "אֲחִי",
+      "text": "אֲחִ֥י",
       "lemma": "251",
       "morph": "HNcmsc",
       "strongs": [
         "H251"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "251",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 9,
-      "text": "דָוִד",
+      "text": "דָוִֽד",
       "lemma": "1732",
       "morph": "HNp",
       "strongs": [
         "H1732"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 14,
-        "ordinal": 14,
-        "reduced": 14
+      "source": {
+        "lemma": "1732",
+        "morph": "HNp"
       }
     },
     {
       "position": 10,
-      "text": "שִׁמְעָה",
+      "text": "שִׁמְעָ֖ה",
       "lemma": "8092",
       "morph": "HNp",
       "strongs": [
         "H8092"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 415,
-        "ordinal": 55,
-        "reduced": 19
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8092",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2734,
-    "ordinal": 421,
-    "reduced": 151
-  }
+  ]
 }

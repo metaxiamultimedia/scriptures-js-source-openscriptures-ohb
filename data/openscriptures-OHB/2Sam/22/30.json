@@ -1,78 +1,73 @@
 {
-  "text": "כִּי בְכָה אָרוּץ גְּדוּד בֵּאלֹהַי אֲדַלֶּג שׁוּר",
+  "text": "כִּ֥י בְכָ֖ה אָר֣וּץ גְּד֑וּד בֵּאלֹהַ֖י אֲדַלֶּג שֽׁוּר",
   "words": [
     {
       "position": 1,
-      "text": "כִּי",
+      "text": "כִּ֥י",
       "lemma": "3588 a",
       "morph": "HC",
       "strongs": [
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 2,
-      "text": "בְכָה",
+      "text": "בְכָ֖ה",
       "lemma": "b",
       "morph": "HR/Sp2ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 27,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp2ms"
       }
     },
     {
       "position": 3,
-      "text": "אָרוּץ",
+      "text": "אָר֣וּץ",
       "lemma": "7323",
       "morph": "HVqi1cs",
       "strongs": [
         "H7323"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 297,
-        "ordinal": 45,
-        "reduced": 18
+      "source": {
+        "lemma": "7323",
+        "morph": "HVqi1cs"
       }
     },
     {
       "position": 4,
-      "text": "גְּדוּד",
+      "text": "גְּד֑וּד",
       "lemma": "1416",
       "morph": "HNcmsa",
       "strongs": [
         "H1416"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 17,
-        "ordinal": 17,
-        "reduced": 17
+      "source": {
+        "lemma": "1416",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 5,
-      "text": "בֵּאלֹהַי",
+      "text": "בֵּאלֹהַ֖י",
       "lemma": "b/430",
       "morph": "HR/Ncmpc/Sp1cs",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 48,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "b/430",
+        "morph": "HR/Ncmpc/Sp1cs"
       }
     },
     {
@@ -84,31 +79,24 @@
         "H1801"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 38,
-        "ordinal": 20,
-        "reduced": 11
+      "source": {
+        "lemma": "1801",
+        "morph": "HVpi1cs"
       }
     },
     {
       "position": 7,
-      "text": "שׁוּר",
+      "text": "שֽׁוּר",
       "lemma": "7791 a",
       "morph": "HNcmsa",
       "strongs": [
         "H7791"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 506,
-        "ordinal": 47,
-        "reduced": 11
+      "source": {
+        "lemma": "7791 a",
+        "morph": "HNcmsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 963,
-    "ordinal": 198,
-    "reduced": 81
-  }
+  ]
 }

@@ -1,79 +1,74 @@
 {
-  "text": "בֵּאדַיִן גֻּבְרַיָּא אִלֵּךְ כְּפִתוּ בְּסַרְבָּלֵיהוֹן פטישיהון וְכַרְבְּלָתְהוֹן וּלְבֻשֵׁיהוֹן וּרְמִיו לְגוֹא אַתּוּן נוּרָא יָקִדְתָּא פַּטְּשֵׁיהוֹן",
+  "text": "בֵּאדַ֜יִן גֻּבְרַיָּ֣א אִלֵּ֗ךְ כְּפִ֨תוּ֙ בְּסַרְבָּלֵיהוֹן֙ פטישיהון וְכַרְבְּלָתְה֖וֹן וּלְבֻשֵׁיה֑וֹן וּרְמִ֕יו לְגֽוֹא אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא פַּטְּשֵׁיה֔וֹן",
   "words": [
     {
       "position": 1,
-      "text": "בֵּאדַיִן",
+      "text": "בֵּאדַ֜יִן",
       "lemma": "b/116",
       "morph": "AR/D",
       "strongs": [
         "H116"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 67,
-        "ordinal": 31,
-        "reduced": 13
+      "source": {
+        "lemma": "b/116",
+        "morph": "AR/D"
       }
     },
     {
       "position": 2,
-      "text": "גֻּבְרַיָּא",
+      "text": "גֻּבְרַיָּ֣א",
       "lemma": "1400",
       "morph": "ANcmpd/Td",
       "strongs": [
         "H1400"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 216,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "1400",
+        "morph": "ANcmpd/Td"
       }
     },
     {
       "position": 3,
-      "text": "אִלֵּךְ",
+      "text": "אִלֵּ֗ךְ",
       "lemma": "479",
       "morph": "APdxcp",
       "strongs": [
         "H479"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 51,
-        "ordinal": 24,
-        "reduced": 6
+      "source": {
+        "lemma": "479",
+        "morph": "APdxcp"
       }
     },
     {
       "position": 4,
-      "text": "כְּפִתוּ",
+      "text": "כְּפִ֨תוּ֙",
       "lemma": "3729",
       "morph": "AVQp3mp",
       "strongs": [
         "H3729"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 506,
-        "ordinal": 56,
-        "reduced": 20
+      "source": {
+        "lemma": "3729",
+        "morph": "AVQp3mp"
       }
     },
     {
       "position": 5,
-      "text": "בְּסַרְבָּלֵיהוֹן",
+      "text": "בְּסַרְבָּלֵיהוֹן֙",
       "lemma": "b/5622",
       "morph": "AR/Ncmpc/Sp3mp",
       "strongs": [
         "H5622"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 365,
-        "ordinal": 86,
-        "reduced": 32
+      "source": {
+        "lemma": "b/5622",
+        "morph": "AR/Ncmpc/Sp3mp"
       }
     },
     {
@@ -84,141 +79,126 @@
       "strongs": [
         "H6361"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 470,
-        "ordinal": 92,
-        "reduced": 38
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "6361",
+        "morph": "ANcmpc/Sp3mp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 7,
-      "text": "וְכַרְבְּלָתְהוֹן",
+      "text": "וְכַרְבְּלָתְה֖וֹן",
       "lemma": "c/3737",
       "morph": "AC/Ncfpc/Sp3mp",
       "strongs": [
         "H3737"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 719,
-        "ordinal": 98,
-        "reduced": 35
+      "source": {
+        "lemma": "c/3737",
+        "morph": "AC/Ncfpc/Sp3mp"
       }
     },
     {
       "position": 8,
-      "text": "וּלְבֻשֵׁיהוֹן",
+      "text": "וּלְבֻשֵׁיה֑וֹן",
       "lemma": "c/3831",
       "morph": "AC/Ncmpc/Sp3mp",
       "strongs": [
         "H3831"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 409,
-        "ordinal": 76,
-        "reduced": 31
+      "source": {
+        "lemma": "c/3831",
+        "morph": "AC/Ncmpc/Sp3mp"
       }
     },
     {
       "position": 9,
-      "text": "וּרְמִיו",
+      "text": "וּרְמִ֕יו",
       "lemma": "c/7412",
       "morph": "AC/VQp3mp",
       "strongs": [
         "H7412"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 262,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "c/7412",
+        "morph": "AC/VQp3mp"
       }
     },
     {
       "position": 10,
-      "text": "לְגוֹא",
+      "text": "לְגֽוֹא",
       "lemma": "l/1459",
       "morph": "AR/Ncmsc",
       "strongs": [
         "H1459"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 13
+      "source": {
+        "lemma": "l/1459",
+        "morph": "AR/Ncmsc"
       }
     },
     {
       "position": 11,
-      "text": "אַתּוּן",
+      "text": "אַתּ֥וּן",
       "lemma": "861",
       "morph": "ANcmsc",
       "strongs": [
         "H861"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 457,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "861",
+        "morph": "ANcmsc"
       }
     },
     {
       "position": 12,
-      "text": "נוּרָא",
+      "text": "נוּרָ֖א",
       "lemma": "5135",
       "morph": "ANcbsd/Td",
       "strongs": [
         "H5135"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 257,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "5135",
+        "morph": "ANcbsd/Td"
       }
     },
     {
       "position": 13,
-      "text": "יָקִדְתָּא",
+      "text": "יָקִֽדְתָּֽא",
       "lemma": "3345",
       "morph": "AVqrfsd/Td",
       "strongs": [
         "H3345"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 515,
-        "ordinal": 56,
-        "reduced": 11
+      "source": {
+        "lemma": "3345",
+        "morph": "AVqrfsd/Td"
       }
     },
     {
       "position": 14,
-      "text": "פַּטְּשֵׁיהוֹן",
+      "text": "פַּטְּשֵׁיה֔וֹן",
       "lemma": "6361",
       "morph": "ANcmpc/Sp3mp",
       "strongs": [
         "H6361"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 460,
-        "ordinal": 82,
-        "reduced": 37
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6361",
+        "morph": "ANcmpc/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4794,
-    "ordinal": 798,
-    "reduced": 294
-  }
+  ]
 }

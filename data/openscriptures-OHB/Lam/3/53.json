@@ -1,49 +1,46 @@
 {
-  "text": "צָמְתוּ בַבּוֹר חַיָּי וַיַּדּוּ אֶבֶן בִּי",
+  "text": "צָֽמְת֤וּ בַבּוֹר֙ חַיָּ֔י וַיַּדּוּ אֶ֖בֶן בִּֽי",
   "words": [
     {
       "position": 1,
-      "text": "צָמְתוּ",
+      "text": "צָֽמְת֤וּ",
       "lemma": "6789",
       "morph": "HVqp3cp",
       "strongs": [
         "H6789"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 536,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "6789",
+        "morph": "HVqp3cp"
       }
     },
     {
       "position": 2,
-      "text": "בַבּוֹר",
+      "text": "בַבּוֹר֙",
       "lemma": "b/953 a",
       "morph": "HRd/Ncmsa",
       "strongs": [
         "H953"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 210,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "b/953 a",
+        "morph": "HRd/Ncmsa"
       }
     },
     {
       "position": 3,
-      "text": "חַיָּי",
+      "text": "חַיָּ֔י",
       "lemma": "2416 e",
       "morph": "HNcmpc/Sp1cs",
       "strongs": [
         "H2416"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 28,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "2416 e",
+        "morph": "HNcmpc/Sp1cs"
       }
     },
     {
@@ -55,45 +52,37 @@
         "H3034"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "c/3034",
+        "morph": "HC/Vpw3mp"
       }
     },
     {
       "position": 5,
-      "text": "אֶבֶן",
+      "text": "אֶ֖בֶן",
       "lemma": "68",
       "morph": "HNcfsa",
       "strongs": [
         "H68"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 53,
-        "ordinal": 17,
-        "reduced": 8
+      "source": {
+        "lemma": "68",
+        "morph": "HNcfsa"
       }
     },
     {
       "position": 6,
-      "text": "בִּי",
+      "text": "בִּֽי",
       "lemma": "b",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 12,
-        "ordinal": 12,
-        "reduced": 3
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 865,
-    "ordinal": 172,
-    "reduced": 73
-  }
+  ]
 }

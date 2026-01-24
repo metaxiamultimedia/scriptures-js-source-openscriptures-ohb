@@ -1,64 +1,60 @@
 {
-  "text": "אֲשֶׁר שָׁמַעְנוּ וַנֵּדָעֵם וַאֲבוֹתֵינוּ סִפְּרוּ לָנוּ",
+  "text": "אֲשֶׁ֣ר שָׁ֭מַעְנוּ וַנֵּדָעֵ֑ם וַ֝אֲבוֹתֵ֗ינוּ סִפְּרוּ לָֽנוּ",
   "words": [
     {
       "position": 1,
-      "text": "אֲשֶׁר",
+      "text": "אֲשֶׁ֣ר",
       "lemma": "834 a",
       "morph": "HTr",
       "strongs": [
         "H834"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 42,
-        "reduced": 6
+      "source": {
+        "lemma": "834 a",
+        "morph": "HTr"
       }
     },
     {
       "position": 2,
-      "text": "שָׁמַעְנוּ",
+      "text": "שָׁ֭מַעְנוּ",
       "lemma": "8085",
       "morph": "HVqp1cp",
       "strongs": [
         "H8085"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 466,
-        "ordinal": 70,
-        "reduced": 25
+      "source": {
+        "lemma": "8085",
+        "morph": "HVqp1cp"
       }
     },
     {
       "position": 3,
-      "text": "וַנֵּדָעֵם",
+      "text": "וַנֵּדָעֵ֑ם",
       "lemma": "c/3045",
       "morph": "HC/Vqw1cp/Sp3mp",
       "strongs": [
         "H3045"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 170,
-        "ordinal": 53,
-        "reduced": 26
+      "source": {
+        "lemma": "c/3045",
+        "morph": "HC/Vqw1cp/Sp3mp"
       }
     },
     {
       "position": 4,
-      "text": "וַאֲבוֹתֵינוּ",
+      "text": "וַ֝אֲבוֹתֵ֗ינוּ",
       "lemma": "c/1",
       "morph": "HC/Ncmpc/Sp1cp",
       "strongs": [
         "H1"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 481,
-        "ordinal": 67,
-        "reduced": 31
+      "source": {
+        "lemma": "c/1",
+        "morph": "HC/Ncmpc/Sp1cp"
       }
     },
     {
@@ -70,30 +66,23 @@
         "H5608"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 346,
-        "ordinal": 58,
-        "reduced": 22
+      "source": {
+        "lemma": "5608 a",
+        "morph": "HVpp3cp"
       }
     },
     {
       "position": 6,
-      "text": "לָנוּ",
+      "text": "לָֽנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 86,
-        "ordinal": 32,
-        "reduced": 14
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2050,
-    "ordinal": 322,
-    "reduced": 124
-  }
+  ]
 }

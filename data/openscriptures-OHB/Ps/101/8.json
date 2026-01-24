@@ -1,34 +1,32 @@
 {
-  "text": "לַבְּקָרִים אַצְמִית כָּל רִשְׁעֵי אָרֶץ לְהַכְרִית מֵעִיר יְהוָה כָּל פֹּעֲלֵי אָוֶן",
+  "text": "לַבְּקָרִ֗ים אַצְמִ֥ית כָּל רִשְׁעֵי אָ֑רֶץ לְהַכְרִ֥ית מֵֽעִיר יְ֝הוָ֗ה כָּל פֹּ֥עֲלֵי אָֽוֶן",
   "words": [
     {
       "position": 1,
-      "text": "לַבְּקָרִים",
+      "text": "לַבְּקָרִ֗ים",
       "lemma": "l/1242",
       "morph": "HRd/Ncmpa",
       "strongs": [
         "H1242"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 382,
-        "ordinal": 76,
-        "reduced": 13
+      "source": {
+        "lemma": "l/1242",
+        "morph": "HRd/Ncmpa"
       }
     },
     {
       "position": 2,
-      "text": "אַצְמִית",
+      "text": "אַצְמִ֥ית",
       "lemma": "6789",
       "morph": "HVhi1cs",
       "strongs": [
         "H6789"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 541,
-        "ordinal": 64,
-        "reduced": 19
+      "source": {
+        "lemma": "6789",
+        "morph": "HVhi1cs"
       }
     },
     {
@@ -40,10 +38,9 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
@@ -55,70 +52,65 @@
         "H7563"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 580,
-        "ordinal": 67,
-        "reduced": 13
+      "source": {
+        "lemma": "7563",
+        "morph": "HAampc"
       }
     },
     {
       "position": 5,
-      "text": "אָרֶץ",
+      "text": "אָ֑רֶץ",
       "lemma": "776",
       "morph": "HNcbsa",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 291,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "776",
+        "morph": "HNcbsa"
       }
     },
     {
       "position": 6,
-      "text": "לְהַכְרִית",
+      "text": "לְהַכְרִ֥ית",
       "lemma": "l/3772",
       "morph": "HR/Vhc",
       "strongs": [
         "H3772"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 665,
-        "ordinal": 80,
-        "reduced": 17
+      "source": {
+        "lemma": "l/3772",
+        "morph": "HR/Vhc"
       }
     },
     {
       "position": 7,
-      "text": "מֵעִיר",
+      "text": "מֵֽעִיר",
       "lemma": "m/5892 b",
       "morph": "HR/Ncfsc",
       "strongs": [
         "H5892"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 320,
-        "ordinal": 59,
-        "reduced": 14
+      "source": {
+        "lemma": "m/5892 b",
+        "morph": "HR/Ncfsc"
       }
     },
     {
       "position": 8,
-      "text": "יְהוָה",
+      "text": "יְ֝הוָ֗ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
@@ -130,46 +122,38 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 10,
-      "text": "פֹּעֲלֵי",
+      "text": "פֹּ֥עֲלֵי",
       "lemma": "6466",
       "morph": "HVqrmpc",
       "strongs": [
         "H6466"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 190,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "6466",
+        "morph": "HVqrmpc"
       }
     },
     {
       "position": 11,
-      "text": "אָוֶן",
+      "text": "אָֽוֶן",
       "lemma": "205",
       "morph": "HNcmsa",
       "strongs": [
         "H205"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 57,
-        "ordinal": 21,
-        "reduced": 12
+      "source": {
+        "lemma": "205",
+        "morph": "HNcmsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3152,
-    "ordinal": 533,
-    "reduced": 146
-  }
+  ]
 }

@@ -1,19 +1,18 @@
 {
-  "text": "וַיַּעֲנוּ בְנֵי חֵת אֶת אַבְרָהָם לֵאמֹר לוֹ",
+  "text": "וַיַּעֲנ֧וּ בְנֵי חֵ֛ת אֶת אַבְרָהָ֖ם לֵאמֹ֥ר לֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "וַיַּעֲנוּ",
+      "text": "וַיַּעֲנ֧וּ",
       "lemma": "c/6030 b",
       "morph": "HC/Vqw3mp",
       "strongs": [
         "H6030"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 142,
-        "ordinal": 52,
-        "reduced": 25
+      "source": {
+        "lemma": "c/6030 b",
+        "morph": "HC/Vqw3mp"
       }
     },
     {
@@ -25,25 +24,23 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 3,
-      "text": "חֵת",
+      "text": "חֵ֛ת",
       "lemma": "2845",
       "morph": "HNp",
       "strongs": [
         "H2845"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 408,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "2845",
+        "morph": "HNp"
       }
     },
     {
@@ -55,60 +52,51 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 5,
-      "text": "אַבְרָהָם",
+      "text": "אַבְרָהָ֖ם",
       "lemma": "85",
       "morph": "HNp",
       "strongs": [
         "H85"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 248,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "85",
+        "morph": "HNp"
       }
     },
     {
       "position": 6,
-      "text": "לֵאמֹר",
+      "text": "לֵאמֹ֥ר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
       "strongs": [
         "H559"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 271,
-        "ordinal": 46,
-        "reduced": 10
+      "source": {
+        "lemma": "l/559",
+        "morph": "HR/Vqc"
       }
     },
     {
       "position": 7,
-      "text": "לוֹ",
+      "text": "לֽוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1568,
-    "ordinal": 236,
-    "reduced": 83
-  }
+  ]
 }

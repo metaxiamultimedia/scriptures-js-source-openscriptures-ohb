@@ -1,64 +1,60 @@
 {
-  "text": "צֶלֶק הָעַמֹּנִי נַחְרַי הַבְּאֵרֹתִי נשאי כְּלֵי יוֹאָב בֶּן צְרֻיָה נֹשֵׂא",
+  "text": "צֶ֖לֶק הָעַמֹּנִ֑י נַחְרַי֙ הַבְּאֵ֣רֹתִ֔י נשאי כְּלֵ֖י יוֹאָ֥ב בֶּן צְרֻיָֽה נֹשֵׂ֕א",
   "words": [
     {
       "position": 1,
-      "text": "צֶלֶק",
+      "text": "צֶ֖לֶק",
       "lemma": "6768",
       "morph": "HNp",
       "strongs": [
         "H6768"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 220,
-        "ordinal": 49,
-        "reduced": 13
+      "source": {
+        "lemma": "6768",
+        "morph": "HNp"
       }
     },
     {
       "position": 2,
-      "text": "הָעַמֹּנִי",
+      "text": "הָעַמֹּנִ֑י",
       "lemma": "d/5984",
       "morph": "HTd/Ngmsa",
       "strongs": [
         "H5984"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 175,
-        "ordinal": 58,
-        "reduced": 22
+      "source": {
+        "lemma": "d/5984",
+        "morph": "HTd/Ngmsa"
       }
     },
     {
       "position": 3,
-      "text": "נַחְרַי",
+      "text": "נַחְרַי֙",
       "lemma": "5171",
       "morph": "HNp",
       "strongs": [
         "H5171"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 268,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "5171",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "הַבְּאֵרֹתִי",
+      "text": "הַבְּאֵ֣רֹתִ֔י",
       "lemma": "d/886",
       "morph": "HTd/Ngmsa",
       "strongs": [
         "H886"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 618,
-        "ordinal": 60,
-        "reduced": 15
+      "source": {
+        "lemma": "d/886",
+        "morph": "HTd/Ngmsa"
       }
     },
     {
@@ -69,43 +65,40 @@
       "strongs": [
         "H5375"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 361,
-        "ordinal": 46,
-        "reduced": 10
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "5375",
+        "morph": "HVqrmpc",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 6,
-      "text": "כְּלֵי",
+      "text": "כְּלֵ֖י",
       "lemma": "3627",
       "morph": "HNcmpc",
       "strongs": [
         "H3627"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 60,
-        "ordinal": 33,
-        "reduced": 6
+      "source": {
+        "lemma": "3627",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 7,
-      "text": "יוֹאָב",
+      "text": "יוֹאָ֥ב",
       "lemma": "3097",
       "morph": "HNp",
       "strongs": [
         "H3097"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "3097",
+        "morph": "HNp"
       }
     },
     {
@@ -117,48 +110,39 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 9,
-      "text": "צְרֻיָה",
+      "text": "צְרֻיָֽה",
       "lemma": "6870",
       "morph": "HNp",
       "strongs": [
         "H6870"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 305,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "6870",
+        "morph": "HNp"
       }
     },
     {
       "position": 10,
-      "text": "נֹשֵׂא",
+      "text": "נֹשֵׂ֕א",
       "lemma": "5375",
       "morph": "HVqrmsc",
       "strongs": [
         "H5375"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 351,
-        "ordinal": 36,
-        "reduced": 9
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5375",
+        "morph": "HVqrmsc"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2429,
-    "ordinal": 422,
-    "reduced": 125
-  }
+  ]
 }

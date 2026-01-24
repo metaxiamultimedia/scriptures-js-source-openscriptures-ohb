@@ -1,99 +1,88 @@
 {
-  "text": "הַתְשַׁלַּח בְּרָקִים וְיֵלֵכוּ וְיֹאמְרוּ לְךָ הִנֵּנוּ",
+  "text": "הַֽתְשַׁלַּ֣ח בְּרָקִ֣ים וְיֵלֵ֑כוּ וְיֹאמְר֖וּ לְךָ֣ הִנֵּֽנוּ",
   "words": [
     {
       "position": 1,
-      "text": "הַתְשַׁלַּח",
+      "text": "הַֽתְשַׁלַּ֣ח",
       "lemma": "d/7971",
       "morph": "HTi/Vpi2ms",
       "strongs": [
         "H7971"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 743,
-        "ordinal": 68,
-        "reduced": 23
+      "source": {
+        "lemma": "d/7971",
+        "morph": "HTi/Vpi2ms"
       }
     },
     {
       "position": 2,
-      "text": "בְּרָקִים",
+      "text": "בְּרָקִ֣ים",
       "lemma": "1300 b",
       "morph": "HNcmpa",
       "strongs": [
         "H1300"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 352,
-        "ordinal": 64,
-        "reduced": 10
+      "source": {
+        "lemma": "1300 b",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 3,
-      "text": "וְיֵלֵכוּ",
+      "text": "וְיֵלֵ֑כוּ",
       "lemma": "c/3212",
       "morph": "HC/Vqi3mp",
       "strongs": [
         "H3212"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 72,
-        "ordinal": 45,
-        "reduced": 18
+      "source": {
+        "lemma": "c/3212",
+        "morph": "HC/Vqi3mp"
       }
     },
     {
       "position": 4,
-      "text": "וְיֹאמְרוּ",
+      "text": "וְיֹאמְר֖וּ",
       "lemma": "c/559",
       "morph": "HC/Vqi3mp",
       "strongs": [
         "H559"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 263,
-        "ordinal": 56,
-        "reduced": 20
+      "source": {
+        "lemma": "c/559",
+        "morph": "HC/Vqi3mp"
       }
     },
     {
       "position": 5,
-      "text": "לְךָ",
+      "text": "לְךָ֣",
       "lemma": "l",
       "morph": "HR/Sp2ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp2ms"
       }
     },
     {
       "position": 6,
-      "text": "הִנֵּנוּ",
+      "text": "הִנֵּֽנוּ",
       "lemma": "2005",
       "morph": "HTm/Sp1cp",
       "strongs": [
         "H2005"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 111,
-        "ordinal": 39,
-        "reduced": 21
+      "source": {
+        "lemma": "2005",
+        "morph": "HTm/Sp1cp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1591,
-    "ordinal": 295,
-    "reduced": 97
-  }
+  ]
 }

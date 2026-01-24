@@ -1,34 +1,32 @@
 {
-  "text": "וַיִּבֶן שְׁלֹמֹה אֶת הַבַּיִת וַיְכַלֵּהוּ",
+  "text": "וַיִּ֧בֶן שְׁלֹמֹ֛ה אֶת הַבַּ֖יִת וַיְכַלֵּֽהוּ",
   "words": [
     {
       "position": 1,
-      "text": "וַיִּבֶן",
+      "text": "וַיִּ֧בֶן",
       "lemma": "c/1129",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H1129"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 68,
-        "ordinal": 32,
-        "reduced": 14
+      "source": {
+        "lemma": "c/1129",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 2,
-      "text": "שְׁלֹמֹה",
+      "text": "שְׁלֹמֹ֛ה",
       "lemma": "8010",
       "morph": "HNp",
       "strongs": [
         "H8010"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 375,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "8010",
+        "morph": "HNp"
       }
     },
     {
@@ -40,46 +38,38 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 4,
-      "text": "הַבַּיִת",
+      "text": "הַבַּ֖יִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H1004"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 417,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "d/1004 b",
+        "morph": "HTd/Ncmsa"
       }
     },
     {
       "position": 5,
-      "text": "וַיְכַלֵּהוּ",
+      "text": "וַיְכַלֵּֽהוּ",
       "lemma": "c/3615",
       "morph": "HC/Vpw3ms/Sp3ms",
       "strongs": [
         "H3615"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 77,
-        "ordinal": 50,
-        "reduced": 23
+      "source": {
+        "lemma": "c/3615",
+        "morph": "HC/Vpw3ms/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1338,
-    "ordinal": 195,
-    "reduced": 69
-  }
+  ]
 }

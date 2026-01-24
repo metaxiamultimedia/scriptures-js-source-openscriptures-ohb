@@ -1,99 +1,88 @@
 {
-  "text": "כִּי הִטָּה אָזְנוֹ לִי וּבְיָמַי אֶקְרָא",
+  "text": "כִּֽי הִטָּ֣ה אָזְנ֣וֹ לִ֑י וּבְיָמַ֥י אֶקְרָֽא",
   "words": [
     {
       "position": 1,
-      "text": "כִּי",
+      "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
       "strongs": [
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 2,
-      "text": "הִטָּה",
+      "text": "הִטָּ֣ה",
       "lemma": "5186",
       "morph": "HVhp3ms",
       "strongs": [
         "H5186"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 19
+      "source": {
+        "lemma": "5186",
+        "morph": "HVhp3ms"
       }
     },
     {
       "position": 3,
-      "text": "אָזְנוֹ",
+      "text": "אָזְנ֣וֹ",
       "lemma": "241",
       "morph": "HNcfsc/Sp3ms",
       "strongs": [
         "H241"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 64,
-        "ordinal": 28,
-        "reduced": 19
+      "source": {
+        "lemma": "241",
+        "morph": "HNcfsc/Sp3ms"
       }
     },
     {
       "position": 4,
-      "text": "לִי",
+      "text": "לִ֑י",
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
       }
     },
     {
       "position": 5,
-      "text": "וּבְיָמַי",
+      "text": "וּבְיָמַ֥י",
       "lemma": "c/b/3117",
       "morph": "HC/R/Ncmpc/Sp1cs",
       "strongs": [
         "H3117"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 68,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "c/b/3117",
+        "morph": "HC/R/Ncmpc/Sp1cs"
       }
     },
     {
       "position": 6,
-      "text": "אֶקְרָא",
+      "text": "אֶקְרָֽא",
       "lemma": "7121",
       "morph": "HVqi1cs",
       "strongs": [
         "H7121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 302,
-        "ordinal": 41,
-        "reduced": 5
+      "source": {
+        "lemma": "7121",
+        "morph": "HVqi1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 523,
-    "ordinal": 172,
-    "reduced": 64
-  }
+  ]
 }

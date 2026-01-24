@@ -1,19 +1,18 @@
 {
-  "text": "מֵיהוָה מִצְעֲדֵי גָבֶר וְאָדָם מַה יָּבִין דַּרְכּוֹ",
+  "text": "מֵיהוָ֥ה מִצְעֲדֵי גָ֑בֶר וְ֝אָדָ֗ם מַה יָּבִ֥ין דַּרְכּֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "מֵיהוָה",
+      "text": "מֵיהוָ֥ה",
       "lemma": "m/3068",
       "morph": "HR/Np",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 66,
-        "ordinal": 39,
-        "reduced": 21
+      "source": {
+        "lemma": "m/3068",
+        "morph": "HR/Np"
       }
     },
     {
@@ -25,40 +24,37 @@
         "H4703"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 214,
-        "ordinal": 61,
-        "reduced": 25
+      "source": {
+        "lemma": "4703",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 3,
-      "text": "גָבֶר",
+      "text": "גָ֑בֶר",
       "lemma": "1397",
       "morph": "HNcmsa",
       "strongs": [
         "H1397"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 205,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "1397",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 4,
-      "text": "וְאָדָם",
+      "text": "וְ֝אָדָ֗ם",
       "lemma": "c/120",
       "morph": "HC/Ncmsa",
       "strongs": [
         "H120"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 51,
-        "ordinal": 24,
-        "reduced": 15
+      "source": {
+        "lemma": "c/120",
+        "morph": "HC/Ncmsa"
       }
     },
     {
@@ -70,46 +66,38 @@
         "H4100"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "4100",
+        "morph": "HTi"
       }
     },
     {
       "position": 6,
-      "text": "יָּבִין",
+      "text": "יָּבִ֥ין",
       "lemma": "995",
       "morph": "HVqi3ms",
       "strongs": [
         "H995"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 72,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "995",
+        "morph": "HVqi3ms"
       }
     },
     {
       "position": 7,
-      "text": "דַּרְכּוֹ",
+      "text": "דַּרְכּֽוֹ",
       "lemma": "1870",
       "morph": "HNcbsc/Sp3ms",
       "strongs": [
         "H1870"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 230,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "1870",
+        "morph": "HNcbsc/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 883,
-    "ordinal": 244,
-    "reduced": 100
-  }
+  ]
 }

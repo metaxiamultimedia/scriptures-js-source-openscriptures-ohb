@@ -1,34 +1,32 @@
 {
-  "text": "וַיֹּאמֶר אֵלָי בֶּן אָדָם אֶת כָּל דְּבָרַי אֲשֶׁר אֲדַבֵּר אֵלֶיךָ קַח בִּלְבָבְךָ וּבְאָזְנֶיךָ שְׁמָע",
+  "text": "וַיֹּ֖אמֶר אֵלָ֑י בֶּן אָדָ֕ם אֶת כָּל דְּבָרַי֙ אֲשֶׁ֣ר אֲדַבֵּ֣ר אֵלֶ֔יךָ קַ֥ח בִּֽלְבָבְךָ֖ וּבְאָזְנֶ֥יךָ שְׁמָֽע",
   "words": [
     {
       "position": 1,
-      "text": "וַיֹּאמֶר",
+      "text": "וַיֹּ֖אמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H559"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 257,
-        "ordinal": 50,
-        "reduced": 14
+      "source": {
+        "lemma": "c/559",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 2,
-      "text": "אֵלָי",
+      "text": "אֵלָ֑י",
       "lemma": "413",
       "morph": "HR/Sp1cs",
       "strongs": [
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 41,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "413",
+        "morph": "HR/Sp1cs"
       }
     },
     {
@@ -40,25 +38,23 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 4,
-      "text": "אָדָם",
+      "text": "אָדָ֕ם",
       "lemma": "120",
       "morph": "HNcmsa",
       "strongs": [
         "H120"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "120",
+        "morph": "HNcmsa"
       }
     },
     {
@@ -70,10 +66,9 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
@@ -85,136 +80,122 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 7,
-      "text": "דְּבָרַי",
+      "text": "דְּבָרַי֙",
       "lemma": "1697",
       "morph": "HNcmpc/Sp1cs",
       "strongs": [
         "H1697"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 216,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "1697",
+        "morph": "HNcmpc/Sp1cs"
       }
     },
     {
       "position": 8,
-      "text": "אֲשֶׁר",
+      "text": "אֲשֶׁ֣ר",
       "lemma": "834 a",
       "morph": "HTr",
       "strongs": [
         "H834"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 42,
-        "reduced": 6
+      "source": {
+        "lemma": "834 a",
+        "morph": "HTr"
       }
     },
     {
       "position": 9,
-      "text": "אֲדַבֵּר",
+      "text": "אֲדַבֵּ֣ר",
       "lemma": "1696",
       "morph": "HVpi1cs",
       "strongs": [
         "H1696"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 207,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "1696",
+        "morph": "HVpi1cs"
       }
     },
     {
       "position": 10,
-      "text": "אֵלֶיךָ",
+      "text": "אֵלֶ֔יךָ",
       "lemma": "413",
       "morph": "HR/Sp2ms",
       "strongs": [
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "413",
+        "morph": "HR/Sp2ms"
       }
     },
     {
       "position": 11,
-      "text": "קַח",
+      "text": "קַ֥ח",
       "lemma": "3947",
       "morph": "HVqv2ms",
       "strongs": [
         "H3947"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 108,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "3947",
+        "morph": "HVqv2ms"
       }
     },
     {
       "position": 12,
-      "text": "בִּלְבָבְךָ",
+      "text": "בִּֽלְבָבְךָ֖",
       "lemma": "b/3824",
       "morph": "HR/Ncmsc/Sp2ms",
       "strongs": [
         "H3824"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "b/3824",
+        "morph": "HR/Ncmsc/Sp2ms"
       }
     },
     {
       "position": 13,
-      "text": "וּבְאָזְנֶיךָ",
+      "text": "וּבְאָזְנֶ֥יךָ",
       "lemma": "c/b/241",
       "morph": "HC/R/Ncfdc/Sp2ms",
       "strongs": [
         "H241"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 96,
-        "ordinal": 51,
-        "reduced": 24
+      "source": {
+        "lemma": "c/b/241",
+        "morph": "HC/R/Ncfdc/Sp2ms"
       }
     },
     {
       "position": 14,
-      "text": "שְׁמָע",
+      "text": "שְׁמָֽע",
       "lemma": "8085",
       "morph": "HVqv2ms",
       "strongs": [
         "H8085"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 410,
-        "ordinal": 50,
-        "reduced": 14
+      "source": {
+        "lemma": "8085",
+        "morph": "HVqv2ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2501,
-    "ordinal": 449,
-    "reduced": 134
-  }
+  ]
 }

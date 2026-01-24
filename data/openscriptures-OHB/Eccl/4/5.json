@@ -1,34 +1,32 @@
 {
-  "text": "הַכְּסִיל חֹבֵק אֶת יָדָיו וְאֹכֵל אֶת בְּשָׂרוֹ",
+  "text": "הַכְּסִיל֙ חֹבֵ֣ק אֶת יָדָ֔יו וְאֹכֵ֖ל אֶת בְּשָׂרֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "הַכְּסִיל",
+      "text": "הַכְּסִיל֙",
       "lemma": "d/3684",
       "morph": "HTd/Aamsa",
       "strongs": [
         "H3684"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 125,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "d/3684",
+        "morph": "HTd/Aamsa"
       }
     },
     {
       "position": 2,
-      "text": "חֹבֵק",
+      "text": "חֹבֵ֣ק",
       "lemma": "2263",
       "morph": "HVqrmsa",
       "strongs": [
         "H2263"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 110,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "2263",
+        "morph": "HVqrmsa"
       }
     },
     {
@@ -40,40 +38,37 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 4,
-      "text": "יָדָיו",
+      "text": "יָדָ֔יו",
       "lemma": "3027",
       "morph": "HNcbdc/Sp3ms",
       "strongs": [
         "H3027"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "3027",
+        "morph": "HNcbdc/Sp3ms"
       }
     },
     {
       "position": 5,
-      "text": "וְאֹכֵל",
+      "text": "וְאֹכֵ֖ל",
       "lemma": "c/398",
       "morph": "HC/Vqrmsa",
       "strongs": [
         "H398"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 57,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "c/398",
+        "morph": "HC/Vqrmsa"
       }
     },
     {
@@ -85,31 +80,24 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 7,
-      "text": "בְּשָׂרוֹ",
+      "text": "בְּשָׂרֽוֹ",
       "lemma": "1320",
       "morph": "HNcmsc/Sp3ms",
       "strongs": [
         "H1320"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 508,
-        "ordinal": 49,
-        "reduced": 13
+      "source": {
+        "lemma": "1320",
+        "morph": "HNcmsc/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1632,
-    "ordinal": 237,
-    "reduced": 75
-  }
+  ]
 }

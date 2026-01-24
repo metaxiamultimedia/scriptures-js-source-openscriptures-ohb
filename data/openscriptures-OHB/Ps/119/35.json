@@ -1,49 +1,46 @@
 {
-  "text": "הַדְרִיכֵנִי בִּנְתִיב מִצְוֺתֶיךָ כִּי בוֹ חָפָצְתִּי",
+  "text": "הַ֭דְרִיכֵנִי בִּנְתִ֣יב מִצְוֺתֶ֑יךָ כִּי ב֥וֹ חָפָֽצְתִּי",
   "words": [
     {
       "position": 1,
-      "text": "הַדְרִיכֵנִי",
+      "text": "הַ֭דְרִיכֵנִי",
       "lemma": "1869",
       "morph": "HVhv2ms/Sp1cs",
       "strongs": [
         "H1869"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 299,
-        "ordinal": 74,
-        "reduced": 20
+      "source": {
+        "lemma": "1869",
+        "morph": "HVhv2ms/Sp1cs"
       }
     },
     {
       "position": 2,
-      "text": "בִּנְתִיב",
+      "text": "בִּנְתִ֣יב",
       "lemma": "b/5410 a",
       "morph": "HR/Ncbsc",
       "strongs": [
         "H5410"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 464,
-        "ordinal": 50,
-        "reduced": 14
+      "source": {
+        "lemma": "b/5410 a",
+        "morph": "HR/Ncbsc"
       }
     },
     {
       "position": 3,
-      "text": "מִצְוֺתֶיךָ",
+      "text": "מִצְוֺתֶ֑יךָ",
       "lemma": "4687",
       "morph": "HNcfpc/Sp2ms",
       "strongs": [
         "H4687"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 566,
-        "ordinal": 80,
-        "reduced": 26
+      "source": {
+        "lemma": "4687",
+        "morph": "HNcfpc/Sp2ms"
       }
     },
     {
@@ -55,45 +52,37 @@
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 5,
-      "text": "בוֹ",
+      "text": "ב֥וֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3ms"
       }
     },
     {
       "position": 6,
-      "text": "חָפָצְתִּי",
+      "text": "חָפָֽצְתִּי",
       "lemma": "2654 a",
       "morph": "HVqp1cs",
       "strongs": [
         "H2654"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 588,
-        "ordinal": 75,
-        "reduced": 30
+      "source": {
+        "lemma": "2654 a",
+        "morph": "HVqp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1955,
-    "ordinal": 308,
-    "reduced": 101
-  }
+  ]
 }

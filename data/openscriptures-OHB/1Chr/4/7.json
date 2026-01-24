@@ -1,49 +1,46 @@
 {
-  "text": "וּבְנֵי חֶלְאָה צֶרֶת יצחר וְאֶתְנָן וְצֹחַר",
+  "text": "וּבְנֵ֖י חֶלְאָ֑ה צֶ֥רֶת יצחר וְאֶתְנָֽן וְצֹ֖חַר",
   "words": [
     {
       "position": 1,
-      "text": "וּבְנֵי",
+      "text": "וּבְנֵ֖י",
       "lemma": "c/1121 a",
       "morph": "HC/Ncmpc",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 68,
-        "ordinal": 32,
-        "reduced": 14
+      "source": {
+        "lemma": "c/1121 a",
+        "morph": "HC/Ncmpc"
       }
     },
     {
       "position": 2,
-      "text": "חֶלְאָה",
+      "text": "חֶלְאָ֑ה",
       "lemma": "2458",
       "morph": "HNp",
       "strongs": [
         "H2458"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 44,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "2458",
+        "morph": "HNp"
       }
     },
     {
       "position": 3,
-      "text": "צֶרֶת",
+      "text": "צֶ֥רֶת",
       "lemma": "6889",
       "morph": "HNp",
       "strongs": [
         "H6889"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 690,
-        "ordinal": 60,
-        "reduced": 15
+      "source": {
+        "lemma": "6889",
+        "morph": "HNp"
       }
     },
     {
@@ -54,51 +51,42 @@
       "strongs": [
         "H3328"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 308,
-        "ordinal": 56,
-        "reduced": 20
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "3328",
+        "morph": "HNp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "וְאֶתְנָן",
+      "text": "וְאֶתְנָֽן",
       "lemma": "c/869",
       "morph": "HC/Np",
       "strongs": [
         "H869"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 507,
-        "ordinal": 57,
-        "reduced": 21
+      "source": {
+        "lemma": "c/869",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 6,
-      "text": "וְצֹחַר",
+      "text": "וְצֹ֖חַר",
       "lemma": "c/6714",
       "morph": "HC/Np",
       "strongs": [
         "H6714"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 304,
-        "ordinal": 52,
-        "reduced": 25
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6714",
+        "morph": "HC/Np"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1921,
-    "ordinal": 283,
-    "reduced": 112
-  }
+  ]
 }

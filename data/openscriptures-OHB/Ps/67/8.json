@@ -1,64 +1,60 @@
 {
-  "text": "יְבָרְכֵנוּ אֱלֹהִים וְיִירְאוּ אֹתוֹ כָּל אַפְסֵי אָרֶץ",
+  "text": "יְבָרְכֵ֥נוּ אֱלֹהִ֑ים וְיִֽירְא֥וּ אֹ֝ת֗וֹ כָּל אַפְסֵי אָֽרֶץ",
   "words": [
     {
       "position": 1,
-      "text": "יְבָרְכֵנוּ",
+      "text": "יְבָרְכֵ֥נוּ",
       "lemma": "1288",
       "morph": "HVpi3ms/Sp1cp",
       "strongs": [
         "H1288"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 288,
-        "ordinal": 63,
-        "reduced": 18
+      "source": {
+        "lemma": "1288",
+        "morph": "HVpi3ms/Sp1cp"
       }
     },
     {
       "position": 2,
-      "text": "אֱלֹהִים",
+      "text": "אֱלֹהִ֑ים",
       "lemma": "430",
       "morph": "HNcmpa",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 86,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "430",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 3,
-      "text": "וְיִירְאוּ",
+      "text": "וְיִֽירְא֥וּ",
       "lemma": "c/3372",
       "morph": "HC/Vqi3mp",
       "strongs": [
         "H3372"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 233,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "c/3372",
+        "morph": "HC/Vqi3mp"
       }
     },
     {
       "position": 4,
-      "text": "אֹתוֹ",
+      "text": "אֹ֝ת֗וֹ",
       "lemma": "853",
       "morph": "HTo/Sp3ms",
       "strongs": [
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 407,
-        "ordinal": 29,
-        "reduced": 11
+      "source": {
+        "lemma": "853",
+        "morph": "HTo/Sp3ms"
       }
     },
     {
@@ -70,10 +66,9 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
@@ -85,31 +80,24 @@
         "H657"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 151,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "657 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 7,
-      "text": "אָרֶץ",
+      "text": "אָֽרֶץ",
       "lemma": "776",
       "morph": "HNcbsa",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 291,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "776",
+        "morph": "HNcbsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1506,
-    "ordinal": 291,
-    "reduced": 93
-  }
+  ]
 }

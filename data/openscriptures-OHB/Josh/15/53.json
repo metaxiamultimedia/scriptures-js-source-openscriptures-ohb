@@ -1,5 +1,5 @@
 {
-  "text": "וינים וּבֵית תַּפּוּחַ וַאֲפֵקָה וְיָנוּם",
+  "text": "וינים וּבֵית תַּפּ֖וּחַ וַאֲפֵֽקָה וְיָנ֥וּם",
   "words": [
     {
       "position": 1,
@@ -9,13 +9,12 @@
       "strongs": [
         "H3241"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 116,
-        "ordinal": 53,
-        "reduced": 17
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3241",
+        "morph": "HC/Np",
+        "type": "x-ketiv"
       }
     },
     {
@@ -27,63 +26,53 @@
         "H1054"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 418,
-        "ordinal": 40,
-        "reduced": 13
+      "source": {
+        "lemma": "c/1054+",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 3,
-      "text": "תַּפּוּחַ",
+      "text": "תַּפּ֖וּחַ",
       "lemma": "1054",
       "morph": "HNp",
       "strongs": [
         "H1054"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 494,
-        "ordinal": 53,
-        "reduced": 26
+      "source": {
+        "lemma": "1054",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "וַאֲפֵקָה",
+      "text": "וַאֲפֵֽקָה",
       "lemma": "c/664",
       "morph": "HC/Np",
       "strongs": [
         "H664"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 192,
-        "ordinal": 48,
-        "reduced": 21
+      "source": {
+        "lemma": "c/664",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 5,
-      "text": "וְיָנוּם",
+      "text": "וְיָנ֥וּם",
       "lemma": "c/3241",
       "morph": "HC/Np",
       "strongs": [
         "H3241"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 112,
-        "ordinal": 49,
-        "reduced": 22
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3241",
+        "morph": "HC/Np"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1332,
-    "ordinal": 243,
-    "reduced": 99
-  }
+  ]
 }

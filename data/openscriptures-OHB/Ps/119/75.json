@@ -1,34 +1,32 @@
 {
-  "text": "יָדַעְתִּי יְהוָה כִּי צֶדֶק מִשְׁפָּטֶיךָ וֶאֱמוּנָה עִנִּיתָנִי",
+  "text": "יָדַ֣עְתִּי יְ֭הוָה כִּי צֶ֣דֶק מִשְׁפָּטֶ֑יךָ וֶ֝אֱמוּנָ֗ה עִנִּיתָֽנִי",
   "words": [
     {
       "position": 1,
-      "text": "יָדַעְתִּי",
+      "text": "יָדַ֣עְתִּי",
       "lemma": "3045",
       "morph": "HVqp1cs",
       "strongs": [
         "H3045"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 494,
-        "ordinal": 62,
-        "reduced": 17
+      "source": {
+        "lemma": "3045",
+        "morph": "HVqp1cs"
       }
     },
     {
       "position": 2,
-      "text": "יְהוָה",
+      "text": "יְ֭הוָה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
@@ -40,76 +38,66 @@
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 4,
-      "text": "צֶדֶק",
+      "text": "צֶ֣דֶק",
       "lemma": "6664",
       "morph": "HNcmsa",
       "strongs": [
         "H6664"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 194,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "6664",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 5,
-      "text": "מִשְׁפָּטֶיךָ",
+      "text": "מִשְׁפָּטֶ֑יךָ",
       "lemma": "4941",
       "morph": "HNcmpc/Sp2ms",
       "strongs": [
         "H4941"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 459,
-        "ordinal": 81,
-        "reduced": 27
+      "source": {
+        "lemma": "4941",
+        "morph": "HNcmpc/Sp2ms"
       }
     },
     {
       "position": 6,
-      "text": "וֶאֱמוּנָה",
+      "text": "וֶ֝אֱמוּנָ֗ה",
       "lemma": "c/530",
       "morph": "HC/Ncfsa",
       "strongs": [
         "H530"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 108,
-        "ordinal": 45,
-        "reduced": 27
+      "source": {
+        "lemma": "c/530",
+        "morph": "HC/Ncfsa"
       }
     },
     {
       "position": 7,
-      "text": "עִנִּיתָנִי",
+      "text": "עִנִּיתָֽנִי",
       "lemma": "6031 b",
       "morph": "HVpp2ms/Sp1cs",
       "strongs": [
         "H6031"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 590,
-        "ordinal": 86,
-        "reduced": 23
+      "source": {
+        "lemma": "6031 b",
+        "morph": "HVpp2ms/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1901,
-    "ordinal": 362,
-    "reduced": 128
-  }
+  ]
 }

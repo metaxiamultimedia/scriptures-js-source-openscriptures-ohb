@@ -107,9 +107,9 @@ function parseVerse(xml: string): { text: string; words: WordEntry[]; gematria: 
           const strongs = extractStrongs(lemma || null);
           for (const piece of text.split(/\s+/).filter(Boolean)) {
             if (piece === MAQQEF) continue;
-            const metadata: Record<string, unknown> = {};
-            if (elemType === 'x-ketiv') metadata.isKetiv = true;
-            if (isInsideQere) metadata.isQere = true;
+            let variant: 'ketiv' | 'qere' | undefined;
+            if (elemType === 'x-ketiv') variant = 'ketiv';
+            else if (isInsideQere) variant = 'qere';
             const gematria = computeHebrew(piece);
             words.push({
               position: pos++,
@@ -117,7 +117,7 @@ function parseVerse(xml: string): { text: string; words: WordEntry[]; gematria: 
               lemma: lemma || null,
               morph: morph || null,
               strongs: strongs.length > 0 ? strongs : undefined,
-              metadata,
+              variant,
               gematria,
             });
           }
@@ -216,8 +216,8 @@ async function main() {
   await mkdir(join(dataDir, 'Gen', '8'), { recursive: true });
   await writeFile(join(dataDir, 'Gen', '8', '17.json'), JSON.stringify(gen817, null, 2));
   console.log(`  Words: ${gen817.words.length}`);
-  console.log(`  Ketiv: ${gen817.words.filter(w => w.metadata.isKetiv).map(w => w.text)}`);
-  console.log(`  Qere: ${gen817.words.filter(w => w.metadata.isQere).map(w => w.text)}`);
+  console.log(`  Ketiv: ${gen817.words.filter(w => w.variant === 'ketiv').map(w => w.text)}`);
+  console.log(`  Qere: ${gen817.words.filter(w => w.variant === 'qere').map(w => w.text)}`);
   console.log(`  Null lemmas: ${gen817.words.filter(w => w.lemma === null).length}`);
 
   // Process Exodus 20:2

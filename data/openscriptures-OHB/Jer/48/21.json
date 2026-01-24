@@ -1,34 +1,32 @@
 {
-  "text": "וּמִשְׁפָּט בָּא אֶל אֶרֶץ הַמִּישֹׁר אֶל חֹלוֹן וְאֶל יַהְצָה וְעַל מופעת מֵיפָעַת",
+  "text": "וּמִשְׁפָּ֥ט בָּ֖א אֶל אֶ֣רֶץ הַמִּישֹׁ֑ר אֶל חֹל֥וֹן וְאֶל יַ֖הְצָה וְעַל מופעת מֵיפָֽעַת",
   "words": [
     {
       "position": 1,
-      "text": "וּמִשְׁפָּט",
+      "text": "וּמִשְׁפָּ֥ט",
       "lemma": "c/4941",
       "morph": "HC/Ncmsa",
       "strongs": [
         "H4941"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 435,
-        "ordinal": 66,
-        "reduced": 30
+      "source": {
+        "lemma": "c/4941",
+        "morph": "HC/Ncmsa"
       }
     },
     {
       "position": 2,
-      "text": "בָּא",
+      "text": "בָּ֖א",
       "lemma": "935",
       "morph": "HVqp3ms",
       "strongs": [
         "H935"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 3,
-        "ordinal": 3,
-        "reduced": 3
+      "source": {
+        "lemma": "935",
+        "morph": "HVqp3ms"
       }
     },
     {
@@ -40,40 +38,37 @@
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "413",
+        "morph": "HR"
       }
     },
     {
       "position": 4,
-      "text": "אֶרֶץ",
+      "text": "אֶ֣רֶץ",
       "lemma": "776",
       "morph": "HNcbsc",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 291,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "776",
+        "morph": "HNcbsc"
       }
     },
     {
       "position": 5,
-      "text": "הַמִּישֹׁר",
+      "text": "הַמִּישֹׁ֑ר",
       "lemma": "d/4334",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H4334"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 555,
-        "ordinal": 69,
-        "reduced": 15
+      "source": {
+        "lemma": "d/4334",
+        "morph": "HTd/Ncmsa"
       }
     },
     {
@@ -85,25 +80,23 @@
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "413",
+        "morph": "HR"
       }
     },
     {
       "position": 7,
-      "text": "חֹלוֹן",
+      "text": "חֹל֥וֹן",
       "lemma": "2473",
       "morph": "HNp",
       "strongs": [
         "H2473"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 94,
-        "ordinal": 40,
-        "reduced": 22
+      "source": {
+        "lemma": "2473",
+        "morph": "HNp"
       }
     },
     {
@@ -115,25 +108,23 @@
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/413",
+        "morph": "HC/R"
       }
     },
     {
       "position": 9,
-      "text": "יַהְצָה",
+      "text": "יַ֖הְצָה",
       "lemma": "3096",
       "morph": "HNp/Sd",
       "strongs": [
         "H3096"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 110,
-        "ordinal": 38,
-        "reduced": 20
+      "source": {
+        "lemma": "3096",
+        "morph": "HNp/Sd"
       }
     },
     {
@@ -145,10 +136,9 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 106,
-        "ordinal": 34,
-        "reduced": 16
+      "source": {
+        "lemma": "c/5921 a",
+        "morph": "HC/R"
       }
     },
     {
@@ -159,36 +149,28 @@
       "strongs": [
         "H4158"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 596,
-        "ordinal": 74,
-        "reduced": 29
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "4158",
+        "morph": "HNp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 12,
-      "text": "מֵיפָעַת",
+      "text": "מֵיפָֽעַת",
       "lemma": "4158",
       "morph": "HNp",
       "strongs": [
         "H4158"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 600,
-        "ordinal": 78,
-        "reduced": 24
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4158",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2889,
-    "ordinal": 486,
-    "reduced": 189
-  }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "text": "מִי לִי בַשָּׁמָיִם וְעִמְּךָ לֹא חָפַצְתִּי בָאָרֶץ",
+  "text": "מִי לִ֥י בַשָּׁמָ֑יִם וְ֝עִמְּךָ֗ לֹא חָפַ֥צְתִּי בָאָֽרֶץ",
   "words": [
     {
       "position": 1,
@@ -10,54 +10,50 @@
         "H4310"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "4310",
+        "morph": "HTi"
       }
     },
     {
       "position": 2,
-      "text": "לִי",
+      "text": "לִ֥י",
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
       }
     },
     {
       "position": 3,
-      "text": "בַשָּׁמָיִם",
+      "text": "בַשָּׁמָ֑יִם",
       "lemma": "b/8064",
       "morph": "HRd/Ncmpa",
       "strongs": [
         "H8064"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 392,
-        "ordinal": 59,
-        "reduced": 14
+      "source": {
+        "lemma": "b/8064",
+        "morph": "HRd/Ncmpa"
       }
     },
     {
       "position": 4,
-      "text": "וְעִמְּךָ",
+      "text": "וְ֝עִמְּךָ֗",
       "lemma": "c/5973 a",
       "morph": "HC/R/Sp2ms",
       "strongs": [
         "H5973"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 136,
-        "ordinal": 46,
-        "reduced": 19
+      "source": {
+        "lemma": "c/5973 a",
+        "morph": "HC/R/Sp2ms"
       }
     },
     {
@@ -69,46 +65,38 @@
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "3808",
+        "morph": "HTn"
       }
     },
     {
       "position": 6,
-      "text": "חָפַצְתִּי",
+      "text": "חָפַ֥צְתִּי",
       "lemma": "2654 a",
       "morph": "HVqp1cs",
       "strongs": [
         "H2654"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 588,
-        "ordinal": 75,
-        "reduced": 30
+      "source": {
+        "lemma": "2654 a",
+        "morph": "HVqp1cs"
       }
     },
     {
       "position": 7,
-      "text": "בָאָרֶץ",
+      "text": "בָאָֽרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 293,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "b/776",
+        "morph": "HRd/Ncbsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1530,
-    "ordinal": 279,
-    "reduced": 90
-  }
+  ]
 }

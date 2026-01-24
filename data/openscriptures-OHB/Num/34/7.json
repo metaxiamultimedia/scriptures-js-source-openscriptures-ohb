@@ -1,78 +1,73 @@
 {
-  "text": "וְזֶה יִהְיֶה לָכֶם גְּבוּל צָפוֹן מִן הַיָּם הַגָּדֹל תְּתָאוּ לָכֶם הֹר הָהָר",
+  "text": "וְזֶֽה יִהְיֶ֥ה לָכֶ֖ם גְּב֣וּל צָפ֑וֹן מִן הַיָּם֙ הַגָּדֹ֔ל תְּתָא֥וּ לָכֶ֖ם הֹ֥ר הָהָֽר",
   "words": [
     {
       "position": 1,
-      "text": "וְזֶה",
+      "text": "וְזֶֽה",
       "lemma": "c/2088",
       "morph": "HC/Pdxms",
       "strongs": [
         "H2088"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 18,
-        "ordinal": 18,
-        "reduced": 18
+      "source": {
+        "lemma": "c/2088",
+        "morph": "HC/Pdxms"
       }
     },
     {
       "position": 2,
-      "text": "יִהְיֶה",
+      "text": "יִהְיֶ֥ה",
       "lemma": "1961",
       "morph": "HVqi3ms",
       "strongs": [
         "H1961"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "1961",
+        "morph": "HVqi3ms"
       }
     },
     {
       "position": 3,
-      "text": "לָכֶם",
+      "text": "לָכֶ֖ם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 90,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp2mp"
       }
     },
     {
       "position": 4,
-      "text": "גְּבוּל",
+      "text": "גְּב֣וּל",
       "lemma": "1366",
       "morph": "HNcmsc",
       "strongs": [
         "H1366"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 41,
-        "ordinal": 23,
-        "reduced": 14
+      "source": {
+        "lemma": "1366",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 5,
-      "text": "צָפוֹן",
+      "text": "צָפ֑וֹן",
       "lemma": "6828",
       "morph": "HNcfsa",
       "strongs": [
         "H6828"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 226,
-        "ordinal": 55,
-        "reduced": 28
+      "source": {
+        "lemma": "6828",
+        "morph": "HNcfsa"
       }
     },
     {
@@ -84,105 +79,93 @@
         "H4480"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "4480 a",
+        "morph": "HR"
       }
     },
     {
       "position": 7,
-      "text": "הַיָּם",
+      "text": "הַיָּם֙",
       "lemma": "d/3220",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H3220"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "d/3220",
+        "morph": "HTd/Ncmsa"
       }
     },
     {
       "position": 8,
-      "text": "הַגָּדֹל",
+      "text": "הַגָּדֹ֔ל",
       "lemma": "d/1419 a",
       "morph": "HTd/Aamsa",
       "strongs": [
         "H1419"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 42,
-        "ordinal": 24,
-        "reduced": 15
+      "source": {
+        "lemma": "d/1419 a",
+        "morph": "HTd/Aamsa"
       }
     },
     {
       "position": 9,
-      "text": "תְּתָאוּ",
+      "text": "תְּתָא֥וּ",
       "lemma": "8376",
       "morph": "HVpi2mp",
       "strongs": [
         "H8376"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 807,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "8376",
+        "morph": "HVpi2mp"
       }
     },
     {
       "position": 10,
-      "text": "לָכֶם",
+      "text": "לָכֶ֖ם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 90,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp2mp"
       }
     },
     {
       "position": 11,
-      "text": "הֹר",
+      "text": "הֹ֥ר",
       "lemma": "2023",
       "morph": "HNp",
       "strongs": [
         "H2023"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 205,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "2023",
+        "morph": "HNp"
       }
     },
     {
       "position": 12,
-      "text": "הָהָר",
+      "text": "הָהָֽר",
       "lemma": "d/2022",
       "morph": "HTd/Ncmsa",
       "strongs": [
         "H2022"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 210,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "d/2022",
+        "morph": "HTd/Ncmsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1904,
-    "ordinal": 383,
-    "reduced": 158
-  }
+  ]
 }

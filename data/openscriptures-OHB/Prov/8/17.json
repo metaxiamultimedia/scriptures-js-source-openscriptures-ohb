@@ -1,19 +1,18 @@
 {
-  "text": "אֲנִי אהביה אֵהָב וּמְשַׁחֲרַי יִמְצָאֻנְנִי אֹהֲבַי",
+  "text": "אֲ֭נִי אהביה אֵהָ֑ב וּ֝מְשַׁחֲרַ֗י יִמְצָאֻֽנְנִי אֹהֲבַ֣י",
   "words": [
     {
       "position": 1,
-      "text": "אֲנִי",
+      "text": "אֲ֭נִי",
       "lemma": "589",
       "morph": "HPp1cs",
       "strongs": [
         "H589"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "589",
+        "morph": "HPp1cs"
       }
     },
     {
@@ -24,81 +23,70 @@
       "strongs": [
         "H157"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 23,
-        "ordinal": 23,
-        "reduced": 14
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "157",
+        "morph": "HVqrmpc/Sp3fs",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 3,
-      "text": "אֵהָב",
+      "text": "אֵהָ֑ב",
       "lemma": "157",
       "morph": "HVqi1cs",
       "strongs": [
         "H157"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "source": {
+        "lemma": "157",
+        "morph": "HVqi1cs"
       }
     },
     {
       "position": 4,
-      "text": "וּמְשַׁחֲרַי",
+      "text": "וּ֝מְשַׁחֲרַ֗י",
       "lemma": "c/7836",
       "morph": "HC/Vprmpc/Sp1cs",
       "strongs": [
         "H7836"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 564,
-        "ordinal": 78,
-        "reduced": 24
+      "source": {
+        "lemma": "c/7836",
+        "morph": "HC/Vprmpc/Sp1cs"
       }
     },
     {
       "position": 5,
-      "text": "יִמְצָאֻנְנִי",
+      "text": "יִמְצָאֻֽנְנִי",
       "lemma": "4672",
       "morph": "HVqi3mp/Sp1cs",
       "strongs": [
         "H4672"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 251,
-        "ordinal": 80,
-        "reduced": 26
+      "source": {
+        "lemma": "4672",
+        "morph": "HVqi3mp/Sp1cs"
       }
     },
     {
       "position": 6,
-      "text": "אֹהֲבַי",
+      "text": "אֹהֲבַ֣י",
       "lemma": "157",
       "morph": "HVqrmpc/Sp1cs",
       "strongs": [
         "H157"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 18,
-        "ordinal": 18,
-        "reduced": 9
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "157",
+        "morph": "HVqrmpc/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 925,
-    "ordinal": 232,
-    "reduced": 88
-  }
+  ]
 }

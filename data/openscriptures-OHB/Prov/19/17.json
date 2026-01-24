@@ -1,79 +1,74 @@
 {
-  "text": "מַלְוֵה יְהוָה חוֹנֵן דָּל וּגְמֻלוֹ יְשַׁלֶּם לוֹ",
+  "text": "מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "מַלְוֵה",
+      "text": "מַלְוֵ֣ה",
       "lemma": "3867 b",
       "morph": "HVhrmsc",
       "strongs": [
         "H3867"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 81,
-        "ordinal": 36,
-        "reduced": 18
+      "source": {
+        "lemma": "3867 b",
+        "morph": "HVhrmsc"
       }
     },
     {
       "position": 2,
-      "text": "יְהוָה",
+      "text": "יְ֭הוָה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 3,
-      "text": "חוֹנֵן",
+      "text": "ח֣וֹנֵֽן",
       "lemma": "2603 a",
       "morph": "HVqrmsa",
       "strongs": [
         "H2603"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 114,
-        "ordinal": 42,
-        "reduced": 24
+      "source": {
+        "lemma": "2603 a",
+        "morph": "HVqrmsa"
       }
     },
     {
       "position": 4,
-      "text": "דָּל",
+      "text": "דָּ֑ל",
       "lemma": "1800",
       "morph": "HAamsa",
       "strongs": [
         "H1800"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 34,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1800",
+        "morph": "HAamsa"
       }
     },
     {
       "position": 5,
-      "text": "וּגְמֻלוֹ",
+      "text": "וּ֝גְמֻל֗וֹ",
       "lemma": "c/1576",
       "morph": "HC/Ncmsc/Sp3ms",
       "strongs": [
         "H1576"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 85,
-        "ordinal": 40,
-        "reduced": 22
+      "source": {
+        "lemma": "c/1576",
+        "morph": "HC/Ncmsc/Sp3ms"
       }
     },
     {
@@ -85,30 +80,23 @@
         "H7999"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 56,
-        "reduced": 11
+      "source": {
+        "lemma": "7999 a",
+        "morph": "HVpi3ms"
       }
     },
     {
       "position": 7,
-      "text": "לוֹ",
+      "text": "לֽוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 756,
-    "ordinal": 234,
-    "reduced": 108
-  }
+  ]
 }

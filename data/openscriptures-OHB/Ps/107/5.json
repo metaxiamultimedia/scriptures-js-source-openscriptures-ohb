@@ -1,19 +1,18 @@
 {
-  "text": "רְעֵבִים גַּם צְמֵאִים נַפְשָׁם בָּהֶם תִּתְעַטָּף",
+  "text": "רְעֵבִ֥ים גַּם צְמֵאִ֑ים נַ֝פְשָׁ֗ם בָּהֶ֥ם תִּתְעַטָּֽף",
   "words": [
     {
       "position": 1,
-      "text": "רְעֵבִים",
+      "text": "רְעֵבִ֥ים",
       "lemma": "7457",
       "morph": "HAampa",
       "strongs": [
         "H7457"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 322,
-        "ordinal": 61,
-        "reduced": 16
+      "source": {
+        "lemma": "7457",
+        "morph": "HAampa"
       }
     },
     {
@@ -25,75 +24,65 @@
         "H1571"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 43,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1571",
+        "morph": "HTa"
       }
     },
     {
       "position": 3,
-      "text": "צְמֵאִים",
+      "text": "צְמֵאִ֑ים",
       "lemma": "6771",
       "morph": "HAampa",
       "strongs": [
         "H6771"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 181,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "6771",
+        "morph": "HAampa"
       }
     },
     {
       "position": 4,
-      "text": "נַפְשָׁם",
+      "text": "נַ֝פְשָׁ֗ם",
       "lemma": "5315",
       "morph": "HNcbsc/Sp3mp",
       "strongs": [
         "H5315"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 470,
-        "ordinal": 65,
-        "reduced": 20
+      "source": {
+        "lemma": "5315",
+        "morph": "HNcbsc/Sp3mp"
       }
     },
     {
       "position": 5,
-      "text": "בָּהֶם",
+      "text": "בָּהֶ֥ם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 47,
-        "ordinal": 20,
-        "reduced": 11
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3mp"
       }
     },
     {
       "position": 6,
-      "text": "תִּתְעַטָּף",
+      "text": "תִּתְעַטָּֽף",
       "lemma": "5848 c",
       "morph": "HVti3fs",
       "strongs": [
         "H5848"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 959,
-        "ordinal": 86,
-        "reduced": 32
+      "source": {
+        "lemma": "5848 c",
+        "morph": "HVti3fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2022,
-    "ordinal": 303,
-    "reduced": 105
-  }
+  ]
 }

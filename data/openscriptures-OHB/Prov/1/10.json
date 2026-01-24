@@ -1,19 +1,18 @@
 {
-  "text": "בְּנִי אִם יְפַתּוּךָ חַטָּאִים אַל תֹּבֵא",
+  "text": "בְּנִ֡י אִם יְפַתּ֥וּךָ חַ֝טָּאִ֗ים אַל תֹּבֵֽא",
   "words": [
     {
       "position": 1,
-      "text": "בְּנִי",
+      "text": "בְּנִ֡י",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp1cs",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmsc/Sp1cs"
       }
     },
     {
@@ -25,40 +24,37 @@
         "H518"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 41,
-        "ordinal": 14,
-        "reduced": 5
+      "source": {
+        "lemma": "518 a",
+        "morph": "HC"
       }
     },
     {
       "position": 3,
-      "text": "יְפַתּוּךָ",
+      "text": "יְפַתּ֥וּךָ",
       "lemma": "6601 b",
       "morph": "HVpi3mp/Sp2ms",
       "strongs": [
         "H6601"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 516,
-        "ordinal": 66,
-        "reduced": 21
+      "source": {
+        "lemma": "6601 b",
+        "morph": "HVpi3mp/Sp2ms"
       }
     },
     {
       "position": 4,
-      "text": "חַטָּאִים",
+      "text": "חַ֝טָּאִ֗ים",
       "lemma": "2400",
       "morph": "HNcmpa",
       "strongs": [
         "H2400"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 68,
-        "ordinal": 41,
-        "reduced": 23
+      "source": {
+        "lemma": "2400",
+        "morph": "HNcmpa"
       }
     },
     {
@@ -70,31 +66,24 @@
         "H408"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "408",
+        "morph": "HTn"
       }
     },
     {
       "position": 6,
-      "text": "תֹּבֵא",
+      "text": "תֹּבֵֽא",
       "lemma": "14",
       "morph": "HVqj2ms",
       "strongs": [
         "H14"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 403,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "14",
+        "morph": "HVqj2ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1121,
-    "ordinal": 185,
-    "reduced": 68
-  }
+  ]
 }

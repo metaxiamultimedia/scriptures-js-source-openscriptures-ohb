@@ -1,34 +1,32 @@
 {
-  "text": "וְנַחְשׁוֹן הוֹלִיד אֶת שַׂלְמָא וְשַׂלְמָא הוֹלִיד אֶת בֹּעַז",
+  "text": "וְנַחְשׁוֹן֙ הוֹלִ֣יד אֶת שַׂלְמָ֔א וְשַׂלְמָ֖א הוֹלִ֥יד אֶת בֹּֽעַז",
   "words": [
     {
       "position": 1,
-      "text": "וְנַחְשׁוֹן",
+      "text": "וְנַחְשׁוֹן֙",
       "lemma": "c/5177",
       "morph": "HC/Np",
       "strongs": [
         "H5177"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 69,
-        "reduced": 33
+      "source": {
+        "lemma": "c/5177",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 2,
-      "text": "הוֹלִיד",
+      "text": "הוֹלִ֣יד",
       "lemma": "3205",
       "morph": "HVhp3ms",
       "strongs": [
         "H3205"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 37,
-        "reduced": 19
+      "source": {
+        "lemma": "3205",
+        "morph": "HVhp3ms"
       }
     },
     {
@@ -40,55 +38,51 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 4,
-      "text": "שַׂלְמָא",
+      "text": "שַׂלְמָ֔א",
       "lemma": "8007",
       "morph": "HNp",
       "strongs": [
         "H8007"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 371,
-        "ordinal": 47,
-        "reduced": 11
+      "source": {
+        "lemma": "8007",
+        "morph": "HNp"
       }
     },
     {
       "position": 5,
-      "text": "וְשַׂלְמָא",
+      "text": "וְשַׂלְמָ֖א",
       "lemma": "c/8007",
       "morph": "HC/Np",
       "strongs": [
         "H8007"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 377,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "c/8007",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 6,
-      "text": "הוֹלִיד",
+      "text": "הוֹלִ֥יד",
       "lemma": "3205",
       "morph": "HVhp3ms",
       "strongs": [
         "H3205"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 37,
-        "reduced": 19
+      "source": {
+        "lemma": "3205",
+        "morph": "HVhp3ms"
       }
     },
     {
@@ -100,31 +94,24 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 8,
-      "text": "בֹּעַז",
+      "text": "בֹּֽעַז",
       "lemma": "1162",
       "morph": "HNp",
       "strongs": [
         "H1162"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 79,
-        "ordinal": 25,
-        "reduced": 16
+      "source": {
+        "lemma": "1162",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2159,
-    "ordinal": 314,
-    "reduced": 125
-  }
+  ]
 }

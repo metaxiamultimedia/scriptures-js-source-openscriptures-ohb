@@ -1,5 +1,5 @@
 {
-  "text": "אִם לֹא אֶל בֵּית אָבִי תֵּלֵךְ וְאֶל מִשְׁפַּחְתִּי וְלָקַחְתָּ אִשָּׁה לִבְנִי",
+  "text": "אִם לֹ֧א אֶל בֵּית אָבִ֛י תֵּלֵ֖ךְ וְאֶל מִשְׁפַּחְתִּ֑י וְלָקַחְתָּ֥ אִשָּׁ֖ה לִבְנִֽי",
   "words": [
     {
       "position": 1,
@@ -10,25 +10,23 @@
         "H518"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 41,
-        "ordinal": 14,
-        "reduced": 5
+      "source": {
+        "lemma": "518 a",
+        "morph": "HC"
       }
     },
     {
       "position": 2,
-      "text": "לֹא",
+      "text": "לֹ֧א",
       "lemma": "3808",
       "morph": "HTn",
       "strongs": [
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "3808",
+        "morph": "HTn"
       }
     },
     {
@@ -40,10 +38,9 @@
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "413",
+        "morph": "HR"
       }
     },
     {
@@ -55,40 +52,37 @@
         "H1004"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 412,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "1004 b",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 5,
-      "text": "אָבִי",
+      "text": "אָבִ֛י",
       "lemma": "1",
       "morph": "HNcmsc/Sp1cs",
       "strongs": [
         "H1"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 13,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "1",
+        "morph": "HNcmsc/Sp1cs"
       }
     },
     {
       "position": 6,
-      "text": "תֵּלֵךְ",
+      "text": "תֵּלֵ֖ךְ",
       "lemma": "3212",
       "morph": "HVqi2ms",
       "strongs": [
         "H3212"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 450,
-        "ordinal": 45,
-        "reduced": 9
+      "source": {
+        "lemma": "3212",
+        "morph": "HVqi2ms"
       }
     },
     {
@@ -100,76 +94,66 @@
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/413",
+        "morph": "HC/R"
       }
     },
     {
       "position": 8,
-      "text": "מִשְׁפַּחְתִּי",
+      "text": "מִשְׁפַּחְתִּ֑י",
       "lemma": "4940",
       "morph": "HNcfsc/Sp1cs",
       "strongs": [
         "H4940"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 838,
-        "ordinal": 91,
-        "reduced": 28
+      "source": {
+        "lemma": "4940",
+        "morph": "HNcfsc/Sp1cs"
       }
     },
     {
       "position": 9,
-      "text": "וְלָקַחְתָּ",
+      "text": "וְלָקַחְתָּ֥",
       "lemma": "c/3947",
       "morph": "HC/Vqq2ms",
       "strongs": [
         "H3947"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 544,
-        "ordinal": 67,
-        "reduced": 22
+      "source": {
+        "lemma": "c/3947",
+        "morph": "HC/Vqq2ms"
       }
     },
     {
       "position": 10,
-      "text": "אִשָּׁה",
+      "text": "אִשָּׁ֖ה",
       "lemma": "802",
       "morph": "HNcfsa",
       "strongs": [
         "H802"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 306,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "802",
+        "morph": "HNcfsa"
       }
     },
     {
       "position": 11,
-      "text": "לִבְנִי",
+      "text": "לִבְנִֽי",
       "lemma": "l/1121 a",
       "morph": "HR/Ncmsc/Sp1cs",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 92,
-        "ordinal": 38,
-        "reduced": 11
+      "source": {
+        "lemma": "l/1121 a",
+        "morph": "HR/Ncmsc/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2795,
-    "ordinal": 374,
-    "reduced": 113
-  }
+  ]
 }

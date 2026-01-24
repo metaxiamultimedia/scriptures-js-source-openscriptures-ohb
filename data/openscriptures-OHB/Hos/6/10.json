@@ -1,49 +1,46 @@
 {
-  "text": "בְּבֵית יִשְׂרָאֵל רָאִיתִי שעריריה שָׁם זְנוּת לְאֶפְרַיִם נִטְמָא יִשְׂרָאֵל שַׁעֲרוּרִיָּה",
+  "text": "בְּבֵית֙ יִשְׂרָאֵ֔ל רָאִ֖יתִי שעריריה שָׁ֚ם זְנ֣וּת לְאֶפְרַ֔יִם נִטְמָ֖א יִשְׂרָאֵֽל שַׁעֲרֽוּרִיָּ֑ה",
   "words": [
     {
       "position": 1,
-      "text": "בְּבֵית",
+      "text": "בְּבֵית֙",
       "lemma": "b/1004 b",
       "morph": "HR/Ncmsc",
       "strongs": [
         "H1004"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 414,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "b/1004 b",
+        "morph": "HR/Ncmsc"
       }
     },
     {
       "position": 2,
-      "text": "יִשְׂרָאֵל",
+      "text": "יִשְׂרָאֵ֔ל",
       "lemma": "3478",
       "morph": "HNp",
       "strongs": [
         "H3478"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 541,
-        "ordinal": 64,
-        "reduced": 10
+      "source": {
+        "lemma": "3478",
+        "morph": "HNp"
       }
     },
     {
       "position": 3,
-      "text": "רָאִיתִי",
+      "text": "רָאִ֖יתִי",
       "lemma": "7200",
       "morph": "HVqp1cs",
       "strongs": [
         "H7200"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 621,
-        "ordinal": 63,
-        "reduced": 9
+      "source": {
+        "lemma": "7200",
+        "morph": "HVqp1cs"
       }
     },
     {
@@ -54,111 +51,98 @@
       "strongs": [
         "H8186"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 795,
-        "ordinal": 102,
-        "reduced": 21
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "8186 b",
+        "morph": "HAafsa",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "שָׁם",
+      "text": "שָׁ֚ם",
       "lemma": "8033",
       "morph": "HD",
       "strongs": [
         "H8033"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 340,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "8033",
+        "morph": "HD"
       }
     },
     {
       "position": 6,
-      "text": "זְנוּת",
+      "text": "זְנ֣וּת",
       "lemma": "2184",
       "morph": "HNcfsa",
       "strongs": [
         "H2184"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 463,
-        "ordinal": 49,
-        "reduced": 22
+      "source": {
+        "lemma": "2184",
+        "morph": "HNcfsa"
       }
     },
     {
       "position": 7,
-      "text": "לְאֶפְרַיִם",
+      "text": "לְאֶפְרַ֔יִם",
       "lemma": "l/669",
       "morph": "HR/Np",
       "strongs": [
         "H669"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 361,
-        "ordinal": 73,
-        "reduced": 19
+      "source": {
+        "lemma": "l/669",
+        "morph": "HR/Np"
       }
     },
     {
       "position": 8,
-      "text": "נִטְמָא",
+      "text": "נִטְמָ֖א",
       "lemma": "2930 a",
       "morph": "HVNp3ms",
       "strongs": [
         "H2930"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 37,
-        "reduced": 19
+      "source": {
+        "lemma": "2930 a",
+        "morph": "HVNp3ms"
       }
     },
     {
       "position": 9,
-      "text": "יִשְׂרָאֵל",
+      "text": "יִשְׂרָאֵֽל",
       "lemma": "3478",
       "morph": "HNp",
       "strongs": [
         "H3478"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 541,
-        "ordinal": 64,
-        "reduced": 10
+      "source": {
+        "lemma": "3478",
+        "morph": "HNp"
       }
     },
     {
       "position": 10,
-      "text": "שַׁעֲרוּרִיָּה",
+      "text": "שַׁעֲרֽוּרִיָּ֑ה",
       "lemma": "8186 b",
       "morph": "HAafsa",
       "strongs": [
         "H8186"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 791,
-        "ordinal": 98,
-        "reduced": 26
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8186 b",
+        "morph": "HAafsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4967,
-    "ordinal": 620,
-    "reduced": 152
-  }
+  ]
 }

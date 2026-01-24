@@ -1,5 +1,5 @@
 {
-  "text": "ושיא סֹפֵר וְצָדוֹק וְאֶבְיָתָר כֹּהֲנִים וּשְׁוָא",
+  "text": "ושיא סֹפֵ֑ר וְצָד֥וֹק וְאֶבְיָתָ֖ר כֹּהֲנִֽים וּשְׁוָ֖א",
   "words": [
     {
       "position": 1,
@@ -9,96 +9,84 @@
       "strongs": [
         "H7864"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 317,
-        "ordinal": 38,
-        "reduced": 11
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7864",
+        "morph": "HC/Np",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 2,
-      "text": "סֹפֵר",
+      "text": "סֹפֵ֑ר",
       "lemma": "5608 b",
       "morph": "HNcmsa",
       "strongs": [
         "H5608"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 340,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "5608 b",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 3,
-      "text": "וְצָדוֹק",
+      "text": "וְצָד֥וֹק",
       "lemma": "c/6659",
       "morph": "HC/Np",
       "strongs": [
         "H6659"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 206,
-        "ordinal": 53,
-        "reduced": 26
+      "source": {
+        "lemma": "c/6659",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 4,
-      "text": "וְאֶבְיָתָר",
+      "text": "וְאֶבְיָתָ֖ר",
       "lemma": "c/54",
       "morph": "HC/Np",
       "strongs": [
         "H54"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 619,
-        "ordinal": 61,
-        "reduced": 16
+      "source": {
+        "lemma": "c/54",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 5,
-      "text": "כֹּהֲנִים",
+      "text": "כֹּהֲנִֽים",
       "lemma": "3548",
       "morph": "HNcmpa",
       "strongs": [
         "H3548"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 125,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "3548",
+        "morph": "HNcmpa"
       }
     },
     {
       "position": 6,
-      "text": "וּשְׁוָא",
+      "text": "וּשְׁוָ֖א",
       "lemma": "c/7724",
       "morph": "HC/Np",
       "strongs": [
         "H7724"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 313,
-        "ordinal": 34,
-        "reduced": 16
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7724",
+        "morph": "HC/Np"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1920,
-    "ordinal": 291,
-    "reduced": 102
-  }
+  ]
 }

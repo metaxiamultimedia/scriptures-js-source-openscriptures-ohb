@@ -1,64 +1,60 @@
 {
-  "text": "בַּיּוֹם הַהוּא כֶּרֶם חֶמֶד עַנּוּ לָהּ",
+  "text": "בַּיּ֖וֹם הַה֑וּא כֶּ֥רֶם חֶ֖מֶד עַנּוּ לָֽהּ",
   "words": [
     {
       "position": 1,
-      "text": "בַּיּוֹם",
+      "text": "בַּיּ֖וֹם",
       "lemma": "b/3117",
       "morph": "HRd/Ncmsa",
       "strongs": [
         "H3117"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 58,
-        "ordinal": 31,
-        "reduced": 13
+      "source": {
+        "lemma": "b/3117",
+        "morph": "HRd/Ncmsa"
       }
     },
     {
       "position": 2,
-      "text": "הַהוּא",
+      "text": "הַה֑וּא",
       "lemma": "d/1931",
       "morph": "HTd/Pp3ms",
       "strongs": [
         "H1931"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 17,
-        "ordinal": 17,
-        "reduced": 17
+      "source": {
+        "lemma": "d/1931",
+        "morph": "HTd/Pp3ms"
       }
     },
     {
       "position": 3,
-      "text": "כֶּרֶם",
+      "text": "כֶּ֥רֶם",
       "lemma": "3754",
       "morph": "HNcbsc",
       "strongs": [
         "H3754"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 260,
-        "ordinal": 44,
-        "reduced": 8
+      "source": {
+        "lemma": "3754",
+        "morph": "HNcbsc"
       }
     },
     {
       "position": 4,
-      "text": "חֶמֶד",
+      "text": "חֶ֖מֶד",
       "lemma": "2531",
       "morph": "HNcmsa",
       "strongs": [
         "H2531"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 25,
-        "reduced": 16
+      "source": {
+        "lemma": "2531",
+        "morph": "HNcmsa"
       }
     },
     {
@@ -70,30 +66,23 @@
         "H6030"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 126,
-        "ordinal": 36,
-        "reduced": 18
+      "source": {
+        "lemma": "6030 c",
+        "morph": "HVpv2mp"
       }
     },
     {
       "position": 6,
-      "text": "לָהּ",
+      "text": "לָֽהּ",
       "lemma": "l",
       "morph": "HR/Sp3fs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 35,
-        "ordinal": 17,
-        "reduced": 8
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3fs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 548,
-    "ordinal": 170,
-    "reduced": 80
-  }
+  ]
 }

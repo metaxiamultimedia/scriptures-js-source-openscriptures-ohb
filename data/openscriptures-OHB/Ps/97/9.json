@@ -1,64 +1,60 @@
 {
-  "text": "כִּי אַתָּה יְהוָה עֶלְיוֹן עַל כָּל הָאָרֶץ מְאֹד נַעֲלֵיתָ עַל כָּל אֱלֹהִים",
+  "text": "כִּֽי אַתָּ֤ה יְהוָ֗ה עֶלְי֥וֹן עַל כָּל הָאָ֑רֶץ מְאֹ֥ד נַ֝עֲלֵ֗יתָ עַל כָּל אֱלֹהִֽים",
   "words": [
     {
       "position": 1,
-      "text": "כִּי",
+      "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
       "strongs": [
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 2,
-      "text": "אַתָּה",
+      "text": "אַתָּ֤ה",
       "lemma": "859 a",
       "morph": "HPp2ms",
       "strongs": [
         "H859"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 406,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "859 a",
+        "morph": "HPp2ms"
       }
     },
     {
       "position": 3,
-      "text": "יְהוָה",
+      "text": "יְהוָ֗ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "עֶלְיוֹן",
+      "text": "עֶלְי֥וֹן",
       "lemma": "5945 a",
       "morph": "HAamsa",
       "strongs": [
         "H5945"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 166,
-        "ordinal": 58,
-        "reduced": 22
+      "source": {
+        "lemma": "5945 a",
+        "morph": "HAamsa"
       }
     },
     {
@@ -70,10 +66,9 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
@@ -85,55 +80,51 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 7,
-      "text": "הָאָרֶץ",
+      "text": "הָאָ֑רֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 296,
-        "ordinal": 44,
-        "reduced": 17
+      "source": {
+        "lemma": "d/776",
+        "morph": "HTd/Ncbsa"
       }
     },
     {
       "position": 8,
-      "text": "מְאֹד",
+      "text": "מְאֹ֥ד",
       "lemma": "3966",
       "morph": "HD",
       "strongs": [
         "H3966"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "3966",
+        "morph": "HD"
       }
     },
     {
       "position": 9,
-      "text": "נַעֲלֵיתָ",
+      "text": "נַ֝עֲלֵ֗יתָ",
       "lemma": "5927",
       "morph": "HVNp2ms",
       "strongs": [
         "H5927"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 560,
-        "ordinal": 74,
-        "reduced": 20
+      "source": {
+        "lemma": "5927",
+        "morph": "HVNp2ms"
       }
     },
     {
@@ -145,10 +136,9 @@
         "H5921"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 100,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "5921 a",
+        "morph": "HR"
       }
     },
     {
@@ -160,31 +150,24 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 12,
-      "text": "אֱלֹהִים",
+      "text": "אֱלֹהִֽים",
       "lemma": "430",
       "morph": "HNcmpa",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 86,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "430",
+        "morph": "HNcmpa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1915,
-    "ordinal": 412,
-    "reduced": 142
-  }
+  ]
 }

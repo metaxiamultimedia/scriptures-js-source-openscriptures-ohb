@@ -296,13 +296,12 @@ function parseOsisFixed(xml: string): ParsedVerse[] {
                 for (const piece of text.split(/\s+/).filter(Boolean)) {
                   if (piece === MAQQEF) continue;
 
-                  // Build metadata for ketiv/qere variants
-                  const metadata: Record<string, unknown> = {};
+                  // Determine variant type for Qere/Ketiv
+                  let variant: 'ketiv' | 'qere' | undefined;
                   if (elemType === 'x-ketiv') {
-                    metadata.isKetiv = true;
-                  }
-                  if (isInsideQere) {
-                    metadata.isQere = true;
+                    variant = 'ketiv';
+                  } else if (isInsideQere) {
+                    variant = 'qere';
                   }
 
                   words.push({
@@ -311,7 +310,7 @@ function parseOsisFixed(xml: string): ParsedVerse[] {
                     lemma: lemma || null,
                     morph: morph || null,
                     strongs: strongs.length > 0 ? strongs : undefined,
-                    metadata,
+                    variant,
                   });
                 }
               }
@@ -425,21 +424,21 @@ describe('import script parsing - old vs new behavior', () => {
     }
   });
 
-  it('FIXED LOGIC: extracts ketiv with lemma and metadata', () => {
+  it('FIXED LOGIC: extracts ketiv with lemma and variant field', () => {
     const verses = parseOsisFixed(KETIV_QERE_XML);
     expect(verses).toHaveLength(1);
 
     const verse = verses[0];
 
     // Find ketiv word
-    const ketivWord = verse.words.find(w => w.metadata?.isKetiv === true);
+    const ketivWord = verse.words.find(w => w.variant === 'ketiv');
     expect(ketivWord).toBeDefined();
     expect(ketivWord!.text).toBe('הוצא');
     expect(ketivWord!.lemma).toBe('3318'); // Has lemma now!
     expect(ketivWord!.morph).toBe('HVhv2ms');
 
     // Find qere word
-    const qereWord = verse.words.find(w => w.metadata?.isQere === true);
+    const qereWord = verse.words.find(w => w.variant === 'qere');
     expect(qereWord).toBeDefined();
     expect(qereWord!.text).toBe('הַיְצֵא');
     expect(qereWord!.lemma).toBe('3318');
@@ -474,22 +473,20 @@ describe('import script parsing - old vs new behavior', () => {
     expect(verse.words[0].text).toBe('בְּרֵאשִׁית');
   });
 
-  it('FIXED LOGIC: users can filter by isKetiv/isQere metadata', () => {
+  it('FIXED LOGIC: users can filter by variant field', () => {
     const verses = parseOsisFixed(KETIV_QERE_XML);
     const verse = verses[0];
 
     // Users can get only ketiv forms
-    const ketivWords = verse.words.filter(w => w.metadata?.isKetiv);
+    const ketivWords = verse.words.filter(w => w.variant === 'ketiv');
     expect(ketivWords.length).toBeGreaterThan(0);
 
     // Users can get only qere forms
-    const qereWords = verse.words.filter(w => w.metadata?.isQere);
+    const qereWords = verse.words.filter(w => w.variant === 'qere');
     expect(qereWords.length).toBeGreaterThan(0);
 
     // Users can get only "standard" words (neither ketiv nor qere)
-    const standardWords = verse.words.filter(
-      w => !w.metadata?.isKetiv && !w.metadata?.isQere
-    );
+    const standardWords = verse.words.filter(w => !w.variant);
     expect(standardWords.length).toBeGreaterThan(0);
   });
 });
@@ -545,8 +542,9 @@ describe('actual data - short Strong\'s numbers bug', () => {
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', '1Chr', '1', '27.json');
     const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
+    // Find by lemma since text now includes cantillation marks
     const abrahamWord = data.words.find(
-      (w: { text: string }) => w.text === 'אַבְרָהָם'
+      (w: { lemma: string | null }) => w.lemma === '85'
     );
 
     expect(abrahamWord).toBeDefined();
@@ -617,13 +615,13 @@ describe('actual data verification - strict assertions', () => {
     expect(nullLemmaWords).toHaveLength(0);
   });
 
-  it('Genesis 8:17 - should have ketiv word with isKetiv metadata', async () => {
+  it('Genesis 8:17 - should have ketiv word with variant=ketiv', async () => {
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '8', '17.json');
     const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
     // Find ketiv word (הוצא - written form)
     const ketivWord = data.words.find(
-      (w: { metadata?: { isKetiv?: boolean } }) => w.metadata?.isKetiv === true
+      (w: { variant?: 'ketiv' | 'qere' }) => w.variant === 'ketiv'
     );
 
     expect(ketivWord).toBeDefined();
@@ -631,17 +629,18 @@ describe('actual data verification - strict assertions', () => {
     expect(ketivWord.lemma).toBe('3318');
   });
 
-  it('Genesis 8:17 - should have qere word with isQere metadata', async () => {
+  it('Genesis 8:17 - should have qere word with variant=qere', async () => {
     const dataPath = join(__dirname, '..', 'data', 'openscriptures-OHB', 'Gen', '8', '17.json');
     const data = JSON.parse(await readFile(dataPath, 'utf-8'));
 
-    // Find qere word (הַיְצֵא - read form)
+    // Find qere word (הַיְצֵא - read form, now includes cantillation marks)
     const qereWord = data.words.find(
-      (w: { metadata?: { isQere?: boolean } }) => w.metadata?.isQere === true
+      (w: { variant?: 'ketiv' | 'qere' }) => w.variant === 'qere'
     );
 
     expect(qereWord).toBeDefined();
-    expect(qereWord.text).toBe('הַיְצֵא');
+    // Text now includes cantillation marks
+    expect(qereWord.text).toBe('הַיְצֵ֣א');
     expect(qereWord.lemma).toBe('3318');
   });
 

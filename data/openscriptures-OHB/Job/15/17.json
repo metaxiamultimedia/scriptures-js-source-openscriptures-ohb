@@ -1,99 +1,88 @@
 {
-  "text": "אֲחַוְךָ שְׁמַע לִי וְזֶה חָזִיתִי וַאֲסַפֵּרָה",
+  "text": "אֲחַוְךָ֥ שְֽׁמַֽע לִ֑י וְזֶֽה חָ֝זִ֗יתִי וַאֲסַפֵּֽרָה",
   "words": [
     {
       "position": 1,
-      "text": "אֲחַוְךָ",
+      "text": "אֲחַוְךָ֥",
       "lemma": "2331",
       "morph": "HVpi1cs/Sp2ms",
       "strongs": [
         "H2331"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 35,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "2331",
+        "morph": "HVpi1cs/Sp2ms"
       }
     },
     {
       "position": 2,
-      "text": "שְׁמַע",
+      "text": "שְֽׁמַֽע",
       "lemma": "8085",
       "morph": "HVqv2ms",
       "strongs": [
         "H8085"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 410,
-        "ordinal": 50,
-        "reduced": 14
+      "source": {
+        "lemma": "8085",
+        "morph": "HVqv2ms"
       }
     },
     {
       "position": 3,
-      "text": "לִי",
+      "text": "לִ֑י",
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
       }
     },
     {
       "position": 4,
-      "text": "וְזֶה",
+      "text": "וְזֶֽה",
       "lemma": "c/2088",
       "morph": "HC/Pdxms",
       "strongs": [
         "H2088"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 18,
-        "ordinal": 18,
-        "reduced": 18
+      "source": {
+        "lemma": "c/2088",
+        "morph": "HC/Pdxms"
       }
     },
     {
       "position": 5,
-      "text": "חָזִיתִי",
+      "text": "חָ֝זִ֗יתִי",
       "lemma": "2372",
       "morph": "HVqp1cs",
       "strongs": [
         "H2372"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 435,
-        "ordinal": 57,
-        "reduced": 21
+      "source": {
+        "lemma": "2372",
+        "morph": "HVqp1cs"
       }
     },
     {
       "position": 6,
-      "text": "וַאֲסַפֵּרָה",
+      "text": "וַאֲסַפֵּֽרָה",
       "lemma": "c/5608 a",
       "morph": "HC/Vph1cs",
       "strongs": [
         "H5608"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 352,
-        "ordinal": 64,
-        "reduced": 28
+      "source": {
+        "lemma": "c/5608 a",
+        "morph": "HC/Vph1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1290,
-    "ordinal": 237,
-    "reduced": 102
-  }
+  ]
 }

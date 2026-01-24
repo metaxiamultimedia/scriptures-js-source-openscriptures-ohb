@@ -1,48 +1,45 @@
 {
-  "text": "בְּךָ יְהוָה חָסִיתִי אַל אֵבוֹשָׁה לְעוֹלָם",
+  "text": "בְּךָֽ יְהוָ֥ה חָסִ֑יתִי אַל אֵב֥וֹשָׁה לְעוֹלָֽם",
   "words": [
     {
       "position": 1,
-      "text": "בְּךָ",
+      "text": "בְּךָֽ",
       "lemma": "b",
       "morph": "HR/Sp2ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 22,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp2ms"
       }
     },
     {
       "position": 2,
-      "text": "יְהוָה",
+      "text": "יְהוָ֥ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 3,
-      "text": "חָסִיתִי",
+      "text": "חָסִ֑יתִי",
       "lemma": "2620",
       "morph": "HVqp1cs",
       "strongs": [
         "H2620"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 488,
-        "ordinal": 65,
-        "reduced": 20
+      "source": {
+        "lemma": "2620",
+        "morph": "HVqp1cs"
       }
     },
     {
@@ -54,46 +51,38 @@
         "H408"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "408",
+        "morph": "HTn"
       }
     },
     {
       "position": 5,
-      "text": "אֵבוֹשָׁה",
+      "text": "אֵב֥וֹשָׁה",
       "lemma": "954",
       "morph": "HVqh1cs",
       "strongs": [
         "H954"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 314,
-        "ordinal": 35,
-        "reduced": 17
+      "source": {
+        "lemma": "954",
+        "morph": "HVqh1cs"
       }
     },
     {
       "position": 6,
-      "text": "לְעוֹלָם",
+      "text": "לְעוֹלָֽם",
       "lemma": "l/5769",
       "morph": "HR/Ncmsa",
       "strongs": [
         "H5769"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 176,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "l/5769",
+        "morph": "HR/Ncmsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1057,
-    "ordinal": 211,
-    "reduced": 85
-  }
+  ]
 }

@@ -1,19 +1,18 @@
 {
-  "text": "לְעֵינֵיהֶם חֲתָר לְךָ בַקִּיר וְהוֹצֵאתָ בּוֹ",
+  "text": "לְעֵינֵיהֶ֖ם חֲתָר לְךָ֣ בַקִּ֑יר וְהוֹצֵאתָ֖ בּֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "לְעֵינֵיהֶם",
+      "text": "לְעֵינֵיהֶ֖ם",
       "lemma": "l/5869 a",
       "morph": "HR/Ncbdc/Sp3mp",
       "strongs": [
         "H5869"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 215,
-        "ordinal": 80,
-        "reduced": 26
+      "source": {
+        "lemma": "l/5869 a",
+        "morph": "HR/Ncbdc/Sp3mp"
       }
     },
     {
@@ -25,74 +24,64 @@
         "H2864"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 608,
-        "ordinal": 50,
-        "reduced": 14
+      "source": {
+        "lemma": "2864",
+        "morph": "HVqv2ms"
       }
     },
     {
       "position": 3,
-      "text": "לְךָ",
+      "text": "לְךָ֣",
       "lemma": "l",
       "morph": "HR/Sp2ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp2ms"
       }
     },
     {
       "position": 4,
-      "text": "בַקִּיר",
+      "text": "בַקִּ֑יר",
       "lemma": "b/7023",
       "morph": "HRd/Ncmsa",
       "strongs": [
         "H7023"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 312,
-        "ordinal": 51,
-        "reduced": 6
+      "source": {
+        "lemma": "b/7023",
+        "morph": "HRd/Ncmsa"
       }
     },
     {
       "position": 5,
-      "text": "וְהוֹצֵאתָ",
+      "text": "וְהוֹצֵאתָ֖",
       "lemma": "c/3318",
       "morph": "HC/Vhq2ms",
       "strongs": [
         "H3318"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 508,
-        "ordinal": 58,
-        "reduced": 31
+      "source": {
+        "lemma": "c/3318",
+        "morph": "HC/Vhq2ms"
       }
     },
     {
       "position": 6,
-      "text": "בּוֹ",
+      "text": "בּֽוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1701,
-    "ordinal": 270,
-    "reduced": 90
-  }
+  ]
 }

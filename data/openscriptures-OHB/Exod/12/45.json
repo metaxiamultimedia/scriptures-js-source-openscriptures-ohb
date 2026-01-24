@@ -1,34 +1,32 @@
 {
-  "text": "תּוֹשָׁב וְשָׂכִיר לֹא יֹאכַל בּוֹ",
+  "text": "תּוֹשָׁ֥ב וְשָׂכִ֖יר לֹא יֹ֥אכַל בּֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "תּוֹשָׁב",
+      "text": "תּוֹשָׁ֥ב",
       "lemma": "8453 a",
       "morph": "HNcmsa",
       "strongs": [
         "H8453"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 708,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "8453 a",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 2,
-      "text": "וְשָׂכִיר",
+      "text": "וְשָׂכִ֖יר",
       "lemma": "c/7916",
       "morph": "HC/Aamsa",
       "strongs": [
         "H7916"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 536,
-        "ordinal": 68,
-        "reduced": 14
+      "source": {
+        "lemma": "c/7916",
+        "morph": "HC/Aamsa"
       }
     },
     {
@@ -40,45 +38,37 @@
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "3808",
+        "morph": "HTn"
       }
     },
     {
       "position": 4,
-      "text": "יֹאכַל",
+      "text": "יֹ֥אכַל",
       "lemma": "398",
       "morph": "HVqi3ms",
       "strongs": [
         "H398"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "398",
+        "morph": "HVqi3ms"
       }
     },
     {
       "position": 5,
-      "text": "בּוֹ",
+      "text": "בּֽוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1344,
-    "ordinal": 174,
-    "reduced": 48
-  }
+  ]
 }

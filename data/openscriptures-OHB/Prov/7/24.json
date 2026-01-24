@@ -1,34 +1,32 @@
 {
-  "text": "וְעַתָּה בָנִים שִׁמְעוּ לִי וְהַקְשִׁיבוּ לְאִמְרֵי פִי",
+  "text": "וְעַתָּ֣ה בָ֭נִים שִׁמְעוּ לִ֑י וְ֝הַקְשִׁ֗יבוּ לְאִמְרֵי פִֽי",
   "words": [
     {
       "position": 1,
-      "text": "וְעַתָּה",
+      "text": "וְעַתָּ֣ה",
       "lemma": "c/6258",
       "morph": "HC/D",
       "strongs": [
         "H6258"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 481,
-        "ordinal": 49,
-        "reduced": 22
+      "source": {
+        "lemma": "c/6258",
+        "morph": "HC/D"
       }
     },
     {
       "position": 2,
-      "text": "בָנִים",
+      "text": "בָ֭נִים",
       "lemma": "1121 a",
       "morph": "HNcmpa",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 102,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpa"
       }
     },
     {
@@ -40,39 +38,36 @@
         "H8085"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 416,
-        "ordinal": 56,
-        "reduced": 20
+      "source": {
+        "lemma": "8085",
+        "morph": "HVqv2mp"
       }
     },
     {
       "position": 4,
-      "text": "לִי",
+      "text": "לִ֑י",
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
       }
     },
     {
       "position": 5,
-      "text": "וְהַקְשִׁיבוּ",
+      "text": "וְ֝הַקְשִׁ֗יבוּ",
       "lemma": "c/7181",
       "morph": "HC/Vhv2mp",
       "strongs": [
         "H7181"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 429,
-        "ordinal": 69,
-        "reduced": 24
+      "source": {
+        "lemma": "c/7181",
+        "morph": "HC/Vhv2mp"
       }
     },
     {
@@ -84,31 +79,24 @@
         "H561"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 281,
-        "ordinal": 56,
-        "reduced": 11
+      "source": {
+        "lemma": "l/561",
+        "morph": "HR/Ncmpc"
       }
     },
     {
       "position": 7,
-      "text": "פִי",
+      "text": "פִֽי",
       "lemma": "6310",
       "morph": "HNcmsc/Sp1cs",
       "strongs": [
         "H6310"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 90,
-        "ordinal": 27,
-        "reduced": 9
+      "source": {
+        "lemma": "6310",
+        "morph": "HNcmsc/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1839,
-    "ordinal": 318,
-    "reduced": 102
-  }
+  ]
 }

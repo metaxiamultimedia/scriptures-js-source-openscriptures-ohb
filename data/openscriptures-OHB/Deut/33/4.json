@@ -1,19 +1,18 @@
 {
-  "text": "תּוֹרָה צִוָּה לָנוּ מֹשֶׁה מוֹרָשָׁה קְהִלַּת יַעֲקֹב",
+  "text": "תּוֹרָ֥ה צִוָּה לָ֖נוּ מֹשֶׁ֑ה מוֹרָשָׁ֖ה קְהִלַּ֥ת יַעֲקֹֽב",
   "words": [
     {
       "position": 1,
-      "text": "תּוֹרָה",
+      "text": "תּוֹרָ֥ה",
       "lemma": "8451",
       "morph": "HNcfsa",
       "strongs": [
         "H8451"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 611,
-        "ordinal": 53,
-        "reduced": 17
+      "source": {
+        "lemma": "8451",
+        "morph": "HNcfsa"
       }
     },
     {
@@ -25,90 +24,79 @@
         "H6680"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 101,
-        "ordinal": 29,
-        "reduced": 20
+      "source": {
+        "lemma": "6680",
+        "morph": "HVpp3ms"
       }
     },
     {
       "position": 3,
-      "text": "לָנוּ",
+      "text": "לָ֖נוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 86,
-        "ordinal": 32,
-        "reduced": 14
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cp"
       }
     },
     {
       "position": 4,
-      "text": "מֹשֶׁה",
+      "text": "מֹשֶׁ֑ה",
       "lemma": "4872",
       "morph": "HNp",
       "strongs": [
         "H4872"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 345,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "4872",
+        "morph": "HNp"
       }
     },
     {
       "position": 5,
-      "text": "מוֹרָשָׁה",
+      "text": "מוֹרָשָׁ֖ה",
       "lemma": "4181",
       "morph": "HNcfsa",
       "strongs": [
         "H4181"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 551,
-        "ordinal": 65,
-        "reduced": 20
+      "source": {
+        "lemma": "4181",
+        "morph": "HNcfsa"
       }
     },
     {
       "position": 6,
-      "text": "קְהִלַּת",
+      "text": "קְהִלַּ֥ת",
       "lemma": "6952",
       "morph": "HNcfsc",
       "strongs": [
         "H6952"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 535,
-        "ordinal": 58,
-        "reduced": 13
+      "source": {
+        "lemma": "6952",
+        "morph": "HNcfsc"
       }
     },
     {
       "position": 7,
-      "text": "יַעֲקֹב",
+      "text": "יַעֲקֹֽב",
       "lemma": "3290",
       "morph": "HNp",
       "strongs": [
         "H3290"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 182,
-        "ordinal": 47,
-        "reduced": 11
+      "source": {
+        "lemma": "3290",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2411,
-    "ordinal": 323,
-    "reduced": 107
-  }
+  ]
 }

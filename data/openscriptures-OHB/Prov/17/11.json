@@ -1,5 +1,5 @@
 {
-  "text": "אַךְ מְרִי יְבַקֶּשׁ רָע וּמַלְאָךְ אַכְזָרִי יְשֻׁלַּח בּוֹ",
+  "text": "אַךְ מְרִ֥י יְבַקֶּשׁ רָ֑ע וּמַלְאָ֥ךְ אַ֝כְזָרִ֗י יְשֻׁלַּח בּֽוֹ",
   "words": [
     {
       "position": 1,
@@ -10,25 +10,23 @@
         "H389"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 21,
-        "ordinal": 12,
-        "reduced": 3
+      "source": {
+        "lemma": "389",
+        "morph": "HTa"
       }
     },
     {
       "position": 2,
-      "text": "מְרִי",
+      "text": "מְרִ֥י",
       "lemma": "4805",
       "morph": "HNcmsa",
       "strongs": [
         "H4805"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 250,
-        "ordinal": 43,
-        "reduced": 7
+      "source": {
+        "lemma": "4805",
+        "morph": "HNcmsa"
       }
     },
     {
@@ -40,55 +38,51 @@
         "H1245"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 412,
-        "ordinal": 52,
-        "reduced": 7
+      "source": {
+        "lemma": "1245",
+        "morph": "HVpi3ms"
       }
     },
     {
       "position": 4,
-      "text": "רָע",
+      "text": "רָ֑ע",
       "lemma": "7451 b",
       "morph": "HAamsa",
       "strongs": [
         "H7451"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 270,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "7451 b",
+        "morph": "HAamsa"
       }
     },
     {
       "position": 5,
-      "text": "וּמַלְאָךְ",
+      "text": "וּמַלְאָ֥ךְ",
       "lemma": "c/4397",
       "morph": "HC/Ncmsa",
       "strongs": [
         "H4397"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 97,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "c/4397",
+        "morph": "HC/Ncmsa"
       }
     },
     {
       "position": 6,
-      "text": "אַכְזָרִי",
+      "text": "אַ֝כְזָרִ֗י",
       "lemma": "394",
       "morph": "HAamsa",
       "strongs": [
         "H394"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 238,
-        "ordinal": 49,
-        "reduced": 13
+      "source": {
+        "lemma": "394",
+        "morph": "HAamsa"
       }
     },
     {
@@ -100,30 +94,23 @@
         "H7971"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 348,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "7971",
+        "morph": "HVPi3ms"
       }
     },
     {
       "position": 8,
-      "text": "בּוֹ",
+      "text": "בּֽוֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1644,
-    "ordinal": 294,
-    "reduced": 78
-  }
+  ]
 }

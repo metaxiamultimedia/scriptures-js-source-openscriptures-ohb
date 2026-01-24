@@ -1,34 +1,32 @@
 {
-  "text": "וַיַּצֵּל אֱלֹהִים אֶת מִקְנֵה אֲבִיכֶם וַיִּתֶּן לִי",
+  "text": "וַיַּצֵּ֧ל אֱלֹהִ֛ים אֶת מִקְנֵ֥ה אֲבִיכֶ֖ם וַיִּתֶּן לִֽי",
   "words": [
     {
       "position": 1,
-      "text": "וַיַּצֵּל",
+      "text": "וַיַּצֵּ֧ל",
       "lemma": "c/5337",
       "morph": "HC/Vhw3ms",
       "strongs": [
         "H5337"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 136,
-        "ordinal": 46,
-        "reduced": 19
+      "source": {
+        "lemma": "c/5337",
+        "morph": "HC/Vhw3ms"
       }
     },
     {
       "position": 2,
-      "text": "אֱלֹהִים",
+      "text": "אֱלֹהִ֛ים",
       "lemma": "430",
       "morph": "HNcmpa",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 86,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "430",
+        "morph": "HNcmpa"
       }
     },
     {
@@ -40,40 +38,37 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 4,
-      "text": "מִקְנֵה",
+      "text": "מִקְנֵ֥ה",
       "lemma": "4735",
       "morph": "HNcmsc",
       "strongs": [
         "H4735"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 195,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "4735",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 5,
-      "text": "אֲבִיכֶם",
+      "text": "אֲבִיכֶ֖ם",
       "lemma": "1",
       "morph": "HNcmsc/Sp2mp",
       "strongs": [
         "H1"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 73,
-        "ordinal": 37,
-        "reduced": 10
+      "source": {
+        "lemma": "1",
+        "morph": "HNcmsc/Sp2mp"
       }
     },
     {
@@ -85,30 +80,23 @@
         "H5414"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 466,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "c/5414",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 7,
-      "text": "לִי",
+      "text": "לִֽי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1397,
-    "ordinal": 272,
-    "reduced": 83
-  }
+  ]
 }

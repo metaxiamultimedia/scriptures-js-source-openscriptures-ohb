@@ -1,19 +1,18 @@
 {
-  "text": "לִקְדוֹשִׁים אֲשֶׁר בָּאָרֶץ הֵמָּה וְאַדִּירֵי כָּל חֶפְצִי בָם",
+  "text": "לִ֭קְדוֹשִׁים אֲשֶׁר בָּאָ֣רֶץ הֵ֑מָּה וְ֝אַדִּירֵ֗י כָּל חֶפְצִי בָֽם",
   "words": [
     {
       "position": 1,
-      "text": "לִקְדוֹשִׁים",
+      "text": "לִ֭קְדוֹשִׁים",
       "lemma": "l/6918",
       "morph": "HR/Aampa",
       "strongs": [
         "H6918"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 490,
-        "ordinal": 85,
-        "reduced": 22
+      "source": {
+        "lemma": "l/6918",
+        "morph": "HR/Aampa"
       }
     },
     {
@@ -25,55 +24,51 @@
         "H834"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 42,
-        "reduced": 6
+      "source": {
+        "lemma": "834 a",
+        "morph": "HTr"
       }
     },
     {
       "position": 3,
-      "text": "בָּאָרֶץ",
+      "text": "בָּאָ֣רֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 293,
-        "ordinal": 41,
-        "reduced": 14
+      "source": {
+        "lemma": "b/776",
+        "morph": "HRd/Ncbsa"
       }
     },
     {
       "position": 4,
-      "text": "הֵמָּה",
+      "text": "הֵ֑מָּה",
       "lemma": "1992",
       "morph": "HPp3mp",
       "strongs": [
         "H1992"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 14
+      "source": {
+        "lemma": "1992",
+        "morph": "HPp3mp"
       }
     },
     {
       "position": 5,
-      "text": "וְאַדִּירֵי",
+      "text": "וְ֝אַדִּירֵ֗י",
       "lemma": "c/117",
       "morph": "HC/Aampc",
       "strongs": [
         "H117"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 231,
-        "ordinal": 51,
-        "reduced": 15
+      "source": {
+        "lemma": "c/117",
+        "morph": "HC/Aampc"
       }
     },
     {
@@ -85,10 +80,9 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
@@ -100,30 +94,23 @@
         "H2656"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 188,
-        "ordinal": 53,
-        "reduced": 26
+      "source": {
+        "lemma": "2656",
+        "morph": "HNcmsc/Sp1cs"
       }
     },
     {
       "position": 8,
-      "text": "בָם",
+      "text": "בָֽם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 42,
-        "ordinal": 15,
-        "reduced": 6
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1845,
-    "ordinal": 333,
-    "reduced": 108
-  }
+  ]
 }

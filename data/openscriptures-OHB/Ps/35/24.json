@@ -1,64 +1,60 @@
 {
-  "text": "שָׁפְטֵנִי כְצִדְקְךָ יְהוָה אֱלֹהָי וְאַל יִשְׂמְחוּ לִי",
+  "text": "שָׁפְטֵ֣נִי כְ֭צִדְקְךָ יְהוָ֥ה אֱלֹהָ֗י וְאַל יִשְׂמְחוּ לִֽי",
   "words": [
     {
       "position": 1,
-      "text": "שָׁפְטֵנִי",
+      "text": "שָׁפְטֵ֣נִי",
       "lemma": "8199",
       "morph": "HVqv2ms/Sp1cs",
       "strongs": [
         "H8199"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 449,
-        "ordinal": 71,
-        "reduced": 26
+      "source": {
+        "lemma": "8199",
+        "morph": "HVqv2ms/Sp1cs"
       }
     },
     {
       "position": 2,
-      "text": "כְצִדְקְךָ",
+      "text": "כְ֭צִדְקְךָ",
       "lemma": "k/6664",
       "morph": "HR/Ncmsc/Sp2ms",
       "strongs": [
         "H6664"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 234,
-        "ordinal": 63,
-        "reduced": 18
+      "source": {
+        "lemma": "k/6664",
+        "morph": "HR/Ncmsc/Sp2ms"
       }
     },
     {
       "position": 3,
-      "text": "יְהוָה",
+      "text": "יְהוָ֥ה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "אֱלֹהָי",
+      "text": "אֱלֹהָ֗י",
       "lemma": "430",
       "morph": "HNcmpc/Sp1cs",
       "strongs": [
         "H430"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 46,
-        "ordinal": 28,
-        "reduced": 10
+      "source": {
+        "lemma": "430",
+        "morph": "HNcmpc/Sp1cs"
       }
     },
     {
@@ -70,10 +66,9 @@
         "H408"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/408",
+        "morph": "HC/Tn"
       }
     },
     {
@@ -85,30 +80,23 @@
         "H8055"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 364,
-        "ordinal": 58,
-        "reduced": 22
+      "source": {
+        "lemma": "8055",
+        "morph": "HVqj3mp"
       }
     },
     {
       "position": 7,
-      "text": "לִי",
+      "text": "לִֽי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 22,
-        "reduced": 4
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1196,
-    "ordinal": 287,
-    "reduced": 107
-  }
+  ]
 }

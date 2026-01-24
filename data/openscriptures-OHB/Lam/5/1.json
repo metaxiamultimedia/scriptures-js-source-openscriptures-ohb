@@ -1,78 +1,73 @@
 {
-  "text": "זְכֹר יְהוָה מֶה הָיָה לָנוּ הביט וּרְאֵה אֶת חֶרְפָּתֵנוּ הַבִּיטָה",
+  "text": "זְכֹ֤ר יְהוָה֙ מֶֽה הָ֣יָה לָ֔נוּ הביט וּרְאֵ֥ה אֶת חֶרְפָּתֵֽנוּ הַבִּ֖יטָה",
   "words": [
     {
       "position": 1,
-      "text": "זְכֹר",
+      "text": "זְכֹ֤ר",
       "lemma": "2142",
       "morph": "HVqv2ms",
       "strongs": [
         "H2142"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 227,
-        "ordinal": 38,
-        "reduced": 11
+      "source": {
+        "lemma": "2142",
+        "morph": "HVqv2ms"
       }
     },
     {
       "position": 2,
-      "text": "יְהוָה",
+      "text": "יְהוָה֙",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 3,
-      "text": "מֶה",
+      "text": "מֶֽה",
       "lemma": "4100",
       "morph": "HTi",
       "strongs": [
         "H4100"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "4100",
+        "morph": "HTi"
       }
     },
     {
       "position": 4,
-      "text": "הָיָה",
+      "text": "הָ֣יָה",
       "lemma": "1961",
       "morph": "HVqp3ms",
       "strongs": [
         "H1961"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 20,
-        "ordinal": 20,
-        "reduced": 11
+      "source": {
+        "lemma": "1961",
+        "morph": "HVqp3ms"
       }
     },
     {
       "position": 5,
-      "text": "לָנוּ",
+      "text": "לָ֔נוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 86,
-        "ordinal": 32,
-        "reduced": 14
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cp"
       }
     },
     {
@@ -83,28 +78,26 @@
       "strongs": [
         "H5027"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "5027",
+        "morph": "HVhv2ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 7,
-      "text": "וּרְאֵה",
+      "text": "וּרְאֵ֥ה",
       "lemma": "c/7200",
       "morph": "HC/Vqv2ms",
       "strongs": [
         "H7200"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 212,
-        "ordinal": 32,
-        "reduced": 14
+      "source": {
+        "lemma": "c/7200",
+        "morph": "HC/Vqv2ms"
       }
     },
     {
@@ -116,48 +109,39 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 9,
-      "text": "חֶרְפָּתֵנוּ",
+      "text": "חֶרְפָּתֵֽנוּ",
       "lemma": "2781",
       "morph": "HNcfsc/Sp1cp",
       "strongs": [
         "H2781"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 744,
-        "ordinal": 87,
-        "reduced": 33
+      "source": {
+        "lemma": "2781",
+        "morph": "HNcfsc/Sp1cp"
       }
     },
     {
       "position": 10,
-      "text": "הַבִּיטָה",
+      "text": "הַבִּ֖יטָה",
       "lemma": "5027",
       "morph": "HVhv2ms/Sh",
       "strongs": [
         "H5027"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 31,
-        "ordinal": 31,
-        "reduced": 22
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5027",
+        "morph": "HVhv2ms/Sh"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1818,
-    "ordinal": 333,
-    "reduced": 153
-  }
+  ]
 }

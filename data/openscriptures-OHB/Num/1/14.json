@@ -1,34 +1,32 @@
 {
-  "text": "לְגָד אֶלְיָסָף בֶּן דְּעוּאֵל",
+  "text": "לְגָ֕ד אֶלְיָסָ֖ף בֶּן דְּעוּאֵֽל",
   "words": [
     {
       "position": 1,
-      "text": "לְגָד",
+      "text": "לְגָ֕ד",
       "lemma": "l/1410",
       "morph": "HR/Np",
       "strongs": [
         "H1410"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "l/1410",
+        "morph": "HR/Np"
       }
     },
     {
       "position": 2,
-      "text": "אֶלְיָסָף",
+      "text": "אֶלְיָסָ֖ף",
       "lemma": "460",
       "morph": "HNp",
       "strongs": [
         "H460"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 181,
-        "ordinal": 55,
-        "reduced": 19
+      "source": {
+        "lemma": "460",
+        "morph": "HNp"
       }
     },
     {
@@ -40,31 +38,24 @@
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 52,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 4,
-      "text": "דְּעוּאֵל",
+      "text": "דְּעוּאֵֽל",
       "lemma": "1845",
       "morph": "HNp",
       "strongs": [
         "H1845"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 111,
-        "ordinal": 39,
-        "reduced": 21
+      "source": {
+        "lemma": "1845",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 381,
-    "ordinal": 129,
-    "reduced": 57
-  }
+  ]
 }

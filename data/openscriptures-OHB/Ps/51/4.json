@@ -1,21 +1,19 @@
 {
-  "text": "הֶרֶב הרבה כַּבְּסֵנִי מֵעֲוֺנִי וּמֵחַטָּאתִי טַהֲרֵנִי",
+  "text": "הֶ֭רֶב הרבה כַּבְּסֵ֣נִי מֵעֲוֺנִ֑י וּֽמֵחַטָּאתִ֥י טַהֲרֵֽנִי",
   "words": [
     {
       "position": 1,
-      "text": "הֶרֶב",
+      "text": "הֶ֭רֶב",
       "lemma": "7235 a",
       "morph": "HVhv2ms",
       "strongs": [
         "H7235"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 207,
-        "ordinal": 27,
-        "reduced": 9
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7235 a",
+        "morph": "HVhv2ms"
       }
     },
     {
@@ -26,79 +24,69 @@
       "strongs": [
         "H7235"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 212,
-        "ordinal": 32,
-        "reduced": 14
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "7235 a",
+        "morph": "HVha",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 3,
-      "text": "כַּבְּסֵנִי",
+      "text": "כַּבְּסֵ֣נִי",
       "lemma": "3526",
       "morph": "HVpv2ms/Sp1cs",
       "strongs": [
         "H3526"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 142,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "3526",
+        "morph": "HVpv2ms/Sp1cs"
       }
     },
     {
       "position": 4,
-      "text": "מֵעֲוֺנִי",
+      "text": "מֵעֲוֺנִ֑י",
       "lemma": "m/5771",
       "morph": "HR/Ncbsc/Sp1cs",
       "strongs": [
         "H5771"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 176,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "m/5771",
+        "morph": "HR/Ncbsc/Sp1cs"
       }
     },
     {
       "position": 5,
-      "text": "וּמֵחַטָּאתִי",
+      "text": "וּֽמֵחַטָּאתִ֥י",
       "lemma": "c/m/2403 b",
       "morph": "HC/R/Ncfsc/Sp1cs",
       "strongs": [
         "H2403"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 474,
-        "ordinal": 69,
-        "reduced": 33
+      "source": {
+        "lemma": "c/m/2403 b",
+        "morph": "HC/R/Ncfsc/Sp1cs"
       }
     },
     {
       "position": 6,
-      "text": "טַהֲרֵנִי",
+      "text": "טַהֲרֵֽנִי",
       "lemma": "2891",
       "morph": "HVpv2ms/Sp1cs",
       "strongs": [
         "H2891"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 274,
-        "ordinal": 58,
-        "reduced": 22
+      "source": {
+        "lemma": "2891",
+        "morph": "HVpv2ms/Sp1cs"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1485,
-    "ordinal": 297,
-    "reduced": 117
-  }
+  ]
 }

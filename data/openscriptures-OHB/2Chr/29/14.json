@@ -1,5 +1,5 @@
 {
-  "text": "וּמִן בְּנֵי הֵימָן יחואל וְשִׁמְעִי וּמִן בְּנֵי יְדוּתוּן שְׁמַעְיָה וְעֻזִּיאֵל יְחִיאֵל",
+  "text": "וּמִן בְּנֵ֥י הֵימָ֖ן יחואל וְשִׁמְעִ֑י וּמִן בְּנֵ֣י יְדוּת֔וּן שְׁמַֽעְיָ֖ה וְעֻזִּיאֵֽל יְחִיאֵ֣ל",
   "words": [
     {
       "position": 1,
@@ -10,40 +10,37 @@
         "H4480"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 96,
-        "ordinal": 33,
-        "reduced": 15
+      "source": {
+        "lemma": "c/4480 a",
+        "morph": "HC/R"
       }
     },
     {
       "position": 2,
-      "text": "בְּנֵי",
+      "text": "בְּנֵ֥י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 3,
-      "text": "הֵימָן",
+      "text": "הֵימָ֖ן",
       "lemma": "1968",
       "morph": "HNp",
       "strongs": [
         "H1968"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 105,
-        "ordinal": 42,
-        "reduced": 15
+      "source": {
+        "lemma": "1968",
+        "morph": "HNp"
       }
     },
     {
@@ -54,28 +51,26 @@
       "strongs": [
         "H3171"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 55,
-        "ordinal": 37,
-        "reduced": 19
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "3171",
+        "morph": "HNp",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "וְשִׁמְעִי",
+      "text": "וְשִׁמְעִ֑י",
       "lemma": "c/8096",
       "morph": "HC/Np",
       "strongs": [
         "H8096"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 426,
-        "ordinal": 66,
-        "reduced": 21
+      "source": {
+        "lemma": "c/8096",
+        "morph": "HC/Np"
       }
     },
     {
@@ -87,93 +82,81 @@
         "H4480"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 96,
-        "ordinal": 33,
-        "reduced": 15
+      "source": {
+        "lemma": "c/4480 a",
+        "morph": "HC/R"
       }
     },
     {
       "position": 7,
-      "text": "בְּנֵי",
+      "text": "בְּנֵ֣י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {
       "position": 8,
-      "text": "יְדוּתוּן",
+      "text": "יְדוּת֔וּן",
       "lemma": "3038",
       "morph": "HNp",
       "strongs": [
         "H3038"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 476,
-        "ordinal": 62,
-        "reduced": 26
+      "source": {
+        "lemma": "3038",
+        "morph": "HNp"
       }
     },
     {
       "position": 9,
-      "text": "שְׁמַעְיָה",
+      "text": "שְׁמַֽעְיָ֖ה",
       "lemma": "8098",
       "morph": "HNp",
       "strongs": [
         "H8098"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 425,
-        "ordinal": 65,
-        "reduced": 20
+      "source": {
+        "lemma": "8098",
+        "morph": "HNp"
       }
     },
     {
       "position": 10,
-      "text": "וְעֻזִּיאֵל",
+      "text": "וְעֻזִּיאֵֽל",
       "lemma": "c/5816",
       "morph": "HC/Np",
       "strongs": [
         "H5816"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 124,
-        "ordinal": 52,
-        "reduced": 25
+      "source": {
+        "lemma": "c/5816",
+        "morph": "HC/Np"
       }
     },
     {
       "position": 11,
-      "text": "יְחִיאֵל",
+      "text": "יְחִיאֵ֣ל",
       "lemma": "3171",
       "morph": "HNp",
       "strongs": [
         "H3171"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 59,
-        "ordinal": 41,
-        "reduced": 14
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3171",
+        "morph": "HNp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1986,
-    "ordinal": 483,
-    "reduced": 186
-  }
+  ]
 }

@@ -1,19 +1,18 @@
 {
-  "text": "תִּשָּׂאֵנִי אֶל רוּחַ תַּרְכִּיבֵנִי וּתְמֹגְגֵנִי תשוה תּוּשִׁיָּה",
+  "text": "תִּשָּׂאֵ֣נִי אֶל ר֭וּחַ תַּרְכִּיבֵ֑נִי וּ֝תְמֹגְגֵ֗נִי תשוה תּוּשִׁיָּֽה",
   "words": [
     {
       "position": 1,
-      "text": "תִּשָּׂאֵנִי",
+      "text": "תִּשָּׂאֵ֣נִי",
       "lemma": "5375",
       "morph": "HVqi2ms/Sp1cs",
       "strongs": [
         "H5375"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 761,
-        "ordinal": 68,
-        "reduced": 14
+      "source": {
+        "lemma": "5375",
+        "morph": "HVqi2ms/Sp1cs"
       }
     },
     {
@@ -25,55 +24,51 @@
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "413",
+        "morph": "HR"
       }
     },
     {
       "position": 3,
-      "text": "רוּחַ",
+      "text": "ר֭וּחַ",
       "lemma": "7307",
       "morph": "HNcbsa",
       "strongs": [
         "H7307"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 214,
-        "ordinal": 34,
-        "reduced": 16
+      "source": {
+        "lemma": "7307",
+        "morph": "HNcbsa"
       }
     },
     {
       "position": 4,
-      "text": "תַּרְכִּיבֵנִי",
+      "text": "תַּרְכִּיבֵ֑נִי",
       "lemma": "7392",
       "morph": "HVhi2ms/Sp1cs",
       "strongs": [
         "H7392"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 692,
-        "ordinal": 89,
-        "reduced": 17
+      "source": {
+        "lemma": "7392",
+        "morph": "HVhi2ms/Sp1cs"
       }
     },
     {
       "position": 5,
-      "text": "וּתְמֹגְגֵנִי",
+      "text": "וּ֝תְמֹגְגֵ֗נִי",
       "lemma": "c/4127",
       "morph": "HC/Voi2ms/Sp1cs",
       "strongs": [
         "H4127"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 512,
-        "ordinal": 71,
-        "reduced": 26
+      "source": {
+        "lemma": "c/4127",
+        "morph": "HC/Voi2ms/Sp1cs"
       }
     },
     {
@@ -84,36 +79,28 @@
       "strongs": [
         "H7738"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 711,
-        "ordinal": 54,
-        "reduced": 18
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "7738",
+        "morph": "HVPi2ms",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 7,
-      "text": "תּוּשִׁיָּה",
+      "text": "תּוּשִׁיָּֽה",
       "lemma": "8454",
       "morph": "HNcfsa",
       "strongs": [
         "H8454"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 721,
-        "ordinal": 64,
-        "reduced": 19
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8454",
+        "morph": "HNcfsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3642,
-    "ordinal": 393,
-    "reduced": 114
-  }
+  ]
 }

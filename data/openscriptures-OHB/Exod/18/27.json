@@ -1,34 +1,32 @@
 {
-  "text": "וַיְשַׁלַּח מֹשֶׁה אֶת חֹתְנוֹ וַיֵּלֶךְ לוֹ אֶל אַרְצוֹ",
+  "text": "וַיְשַׁלַּ֥ח מֹשֶׁ֖ה אֶת חֹתְנ֑וֹ וַיֵּ֥לֶךְ ל֖וֹ אֶל אַרְצֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "וַיְשַׁלַּח",
+      "text": "וַיְשַׁלַּ֥ח",
       "lemma": "c/7971",
       "morph": "HC/Vpw3ms",
       "strongs": [
         "H7971"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 354,
-        "ordinal": 57,
-        "reduced": 21
+      "source": {
+        "lemma": "c/7971",
+        "morph": "HC/Vpw3ms"
       }
     },
     {
       "position": 2,
-      "text": "מֹשֶׁה",
+      "text": "מֹשֶׁ֖ה",
       "lemma": "4872",
       "morph": "HNp",
       "strongs": [
         "H4872"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 345,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "4872",
+        "morph": "HNp"
       }
     },
     {
@@ -40,54 +38,50 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 4,
-      "text": "חֹתְנוֹ",
+      "text": "חֹתְנ֑וֹ",
       "lemma": "2859 a",
       "morph": "HVqrmsc/Sp3ms",
       "strongs": [
         "H2859"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 464,
-        "ordinal": 50,
-        "reduced": 23
+      "source": {
+        "lemma": "2859 a",
+        "morph": "HVqrmsc/Sp3ms"
       }
     },
     {
       "position": 5,
-      "text": "וַיֵּלֶךְ",
+      "text": "וַיֵּ֥לֶךְ",
       "lemma": "c/3212",
       "morph": "HC/Vqw3ms",
       "strongs": [
         "H3212"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 66,
-        "ordinal": 39,
-        "reduced": 12
+      "source": {
+        "lemma": "c/3212",
+        "morph": "HC/Vqw3ms"
       }
     },
     {
       "position": 6,
-      "text": "לוֹ",
+      "text": "ל֖וֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
       }
     },
     {
@@ -99,31 +93,24 @@
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "413",
+        "morph": "HR"
       }
     },
     {
       "position": 8,
-      "text": "אַרְצוֹ",
+      "text": "אַרְצֽוֹ",
       "lemma": "776",
       "morph": "HNcbsc/Sp3ms",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 297,
-        "ordinal": 45,
-        "reduced": 18
+      "source": {
+        "lemma": "776",
+        "morph": "HNcbsc/Sp3ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1994,
-    "ordinal": 284,
-    "reduced": 104
-  }
+  ]
 }

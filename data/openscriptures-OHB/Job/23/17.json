@@ -1,49 +1,46 @@
 {
-  "text": "כִּי לֹא נִצְמַתִּי מִפְּנֵי חֹשֶׁךְ וּמִפָּנַי כִּסָּה אֹפֶל",
+  "text": "כִּֽי לֹ֣א נִ֭צְמַתִּי מִפְּנֵי חֹ֑שֶׁךְ וּ֝מִפָּנַ֗י כִּסָּה אֹֽפֶל",
   "words": [
     {
       "position": 1,
-      "text": "כִּי",
+      "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
       "strongs": [
         "H3588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 30,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "3588 a",
+        "morph": "HC"
       }
     },
     {
       "position": 2,
-      "text": "לֹא",
+      "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
       "strongs": [
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "3808",
+        "morph": "HTn"
       }
     },
     {
       "position": 3,
-      "text": "נִצְמַתִּי",
+      "text": "נִ֭צְמַתִּי",
       "lemma": "6789",
       "morph": "HVNp1cs",
       "strongs": [
         "H6789"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 590,
-        "ordinal": 77,
-        "reduced": 23
+      "source": {
+        "lemma": "6789",
+        "morph": "HVNp1cs"
       }
     },
     {
@@ -55,40 +52,37 @@
         "H6440"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 180,
-        "ordinal": 54,
-        "reduced": 18
+      "source": {
+        "lemma": "m/6440",
+        "morph": "HR/Ncbpc"
       }
     },
     {
       "position": 5,
-      "text": "חֹשֶׁךְ",
+      "text": "חֹ֑שֶׁךְ",
       "lemma": "2822",
       "morph": "HNcmsa",
       "strongs": [
         "H2822"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 328,
-        "ordinal": 40,
-        "reduced": 13
+      "source": {
+        "lemma": "2822",
+        "morph": "HNcmsa"
       }
     },
     {
       "position": 6,
-      "text": "וּמִפָּנַי",
+      "text": "וּ֝מִפָּנַ֗י",
       "lemma": "c/m/6440",
       "morph": "HC/R/Ncbpc/Sp1cs",
       "strongs": [
         "H6440"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 186,
-        "ordinal": 60,
-        "reduced": 24
+      "source": {
+        "lemma": "c/m/6440",
+        "morph": "HC/R/Ncbpc/Sp1cs"
       }
     },
     {
@@ -100,31 +94,24 @@
         "H3680"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 85,
-        "ordinal": 31,
-        "reduced": 13
+      "source": {
+        "lemma": "3680",
+        "morph": "HVpp3ms"
       }
     },
     {
       "position": 8,
-      "text": "אֹפֶל",
+      "text": "אֹֽפֶל",
       "lemma": "652",
       "morph": "HNcmsa",
       "strongs": [
         "H652"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 111,
-        "ordinal": 30,
-        "reduced": 12
+      "source": {
+        "lemma": "652",
+        "morph": "HNcmsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1541,
-    "ordinal": 326,
-    "reduced": 110
-  }
+  ]
 }

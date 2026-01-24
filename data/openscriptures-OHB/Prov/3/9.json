@@ -1,19 +1,18 @@
 {
-  "text": "כַּבֵּד אֶת יְהוָה מֵהוֹנֶךָ וּמֵרֵאשִׁית כָּל תְּבוּאָתֶךָ",
+  "text": "כַּבֵּ֣ד אֶת יְ֭הוָה מֵהוֹנֶ֑ךָ וּ֝מֵרֵאשִׁ֗ית כָּל תְּבוּאָתֶֽךָ",
   "words": [
     {
       "position": 1,
-      "text": "כַּבֵּד",
+      "text": "כַּבֵּ֣ד",
       "lemma": "3513",
       "morph": "HVpv2ms",
       "strongs": [
         "H3513"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 17,
-        "reduced": 8
+      "source": {
+        "lemma": "3513",
+        "morph": "HVpv2ms"
       }
     },
     {
@@ -25,55 +24,51 @@
         "H853"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 401,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
       }
     },
     {
       "position": 3,
-      "text": "יְהוָה",
+      "text": "יְ֭הוָה",
       "lemma": "3068",
       "morph": "HNp",
       "strongs": [
         "H3068"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 17
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
       }
     },
     {
       "position": 4,
-      "text": "מֵהוֹנֶךָ",
+      "text": "מֵהוֹנֶ֑ךָ",
       "lemma": "m/1952",
       "morph": "HR/Ncmsc/Sp2ms",
       "strongs": [
         "H1952"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 121,
-        "ordinal": 49,
-        "reduced": 22
+      "source": {
+        "lemma": "m/1952",
+        "morph": "HR/Ncmsc/Sp2ms"
       }
     },
     {
       "position": 5,
-      "text": "וּמֵרֵאשִׁית",
+      "text": "וּ֝מֵרֵאשִׁ֗ית",
       "lemma": "c/m/7225",
       "morph": "HC/R/Ncfsc",
       "strongs": [
         "H7225"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 957,
-        "ordinal": 93,
-        "reduced": 21
+      "source": {
+        "lemma": "c/m/7225",
+        "morph": "HC/R/Ncfsc"
       }
     },
     {
@@ -85,31 +80,24 @@
         "H3605"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 50,
-        "ordinal": 23,
-        "reduced": 5
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
       }
     },
     {
       "position": 7,
-      "text": "תְּבוּאָתֶךָ",
+      "text": "תְּבוּאָתֶֽךָ",
       "lemma": "8393",
       "morph": "HNcfsc/Sp2ms",
       "strongs": [
         "H8393"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 829,
-        "ordinal": 64,
-        "reduced": 19
+      "source": {
+        "lemma": "8393",
+        "morph": "HNcfsc/Sp2ms"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2410,
-    "ordinal": 295,
-    "reduced": 97
-  }
+  ]
 }

@@ -1,49 +1,46 @@
 {
-  "text": "אִסְפִּי מֵאֶרֶץ כִּנְעָתֵךְ ישבתי בַּמָּצוֹר יֹשֶׁבֶת",
+  "text": "אִסְפִּ֥י מֵאֶ֖רֶץ כִּנְעָתֵ֑ךְ ישבתי בַּמָּצֽוֹר יֹשֶׁ֖בֶת",
   "words": [
     {
       "position": 1,
-      "text": "אִסְפִּי",
+      "text": "אִסְפִּ֥י",
       "lemma": "622",
       "morph": "HVqv2fs",
       "strongs": [
         "H622"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 151,
-        "ordinal": 43,
-        "reduced": 16
+      "source": {
+        "lemma": "622",
+        "morph": "HVqv2fs"
       }
     },
     {
       "position": 2,
-      "text": "מֵאֶרֶץ",
+      "text": "מֵאֶ֖רֶץ",
       "lemma": "m/776",
       "morph": "HR/Ncbsc",
       "strongs": [
         "H776"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 331,
-        "ordinal": 52,
-        "reduced": 16
+      "source": {
+        "lemma": "m/776",
+        "morph": "HR/Ncbsc"
       }
     },
     {
       "position": 3,
-      "text": "כִּנְעָתֵךְ",
+      "text": "כִּנְעָתֵ֑ךְ",
       "lemma": "3666",
       "morph": "HNcfsc/Sp2fs",
       "strongs": [
         "H3666"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 560,
-        "ordinal": 74,
-        "reduced": 20
+      "source": {
+        "lemma": "3666",
+        "morph": "HNcfsc/Sp2fs"
       }
     },
     {
@@ -54,51 +51,42 @@
       "strongs": [
         "H3427"
       ],
-      "metadata": {
-        "isKetiv": true
-      },
-      "gematria": {
-        "standard": 722,
-        "ordinal": 65,
-        "reduced": 11
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "3427",
+        "morph": "HVqrfsa",
+        "type": "x-ketiv"
       }
     },
     {
       "position": 5,
-      "text": "בַּמָּצוֹר",
+      "text": "בַּמָּצֽוֹר",
       "lemma": "b/4692",
       "morph": "HRd/Ncmsa",
       "strongs": [
         "H4692"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 338,
-        "ordinal": 59,
-        "reduced": 23
+      "source": {
+        "lemma": "b/4692",
+        "morph": "HRd/Ncmsa"
       }
     },
     {
       "position": 6,
-      "text": "יֹשֶׁבֶת",
+      "text": "יֹשֶׁ֖בֶת",
       "lemma": "3427",
       "morph": "HVqrfsa",
       "strongs": [
         "H3427"
       ],
-      "metadata": {
-        "isQere": true
-      },
-      "gematria": {
-        "standard": 712,
-        "ordinal": 55,
-        "reduced": 10
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3427",
+        "morph": "HVqrfsa"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2814,
-    "ordinal": 348,
-    "reduced": 96
-  }
+  ]
 }

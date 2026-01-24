@@ -1,5 +1,5 @@
 {
-  "text": "אִם בָּנֶיךָ חָטְאוּ לוֹ וַיְשַׁלְּחֵם בְּיַד פִּשְׁעָם",
+  "text": "אִם בָּנֶ֥יךָ חָֽטְאוּ ל֑וֹ וַֽ֝יְשַׁלְּחֵ֗ם בְּיַד פִּשְׁעָֽם",
   "words": [
     {
       "position": 1,
@@ -10,69 +10,64 @@
         "H518"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 41,
-        "ordinal": 14,
-        "reduced": 5
+      "source": {
+        "lemma": "518 a",
+        "morph": "HC"
       }
     },
     {
       "position": 2,
-      "text": "בָּנֶיךָ",
+      "text": "בָּנֶ֥יךָ",
       "lemma": "1121 a",
       "morph": "HNcmpc/Sp2ms",
       "strongs": [
         "H1121"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 82,
-        "ordinal": 37,
-        "reduced": 10
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc/Sp2ms"
       }
     },
     {
       "position": 3,
-      "text": "חָטְאוּ",
+      "text": "חָֽטְאוּ",
       "lemma": "2398",
       "morph": "HVqp3cp",
       "strongs": [
         "H2398"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 24,
-        "ordinal": 24,
-        "reduced": 24
+      "source": {
+        "lemma": "2398",
+        "morph": "HVqp3cp"
       }
     },
     {
       "position": 4,
-      "text": "לוֹ",
+      "text": "ל֑וֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 36,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
       }
     },
     {
       "position": 5,
-      "text": "וַיְשַׁלְּחֵם",
+      "text": "וַֽ֝יְשַׁלְּחֵ֗ם",
       "lemma": "c/7971",
       "morph": "HC/Vpw3ms/Sp3mp",
       "strongs": [
         "H7971"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 394,
-        "ordinal": 70,
-        "reduced": 25
+      "source": {
+        "lemma": "c/7971",
+        "morph": "HC/Vpw3ms/Sp3mp"
       }
     },
     {
@@ -84,31 +79,24 @@
         "H3027"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 16,
-        "ordinal": 16,
-        "reduced": 7
+      "source": {
+        "lemma": "b/3027",
+        "morph": "HR/Ncbsc"
       }
     },
     {
       "position": 7,
-      "text": "פִּשְׁעָם",
+      "text": "פִּשְׁעָֽם",
       "lemma": "6588",
       "morph": "HNcmsc/Sp3mp",
       "strongs": [
         "H6588"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 490,
-        "ordinal": 67,
-        "reduced": 22
+      "source": {
+        "lemma": "6588",
+        "morph": "HNcmsc/Sp3mp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1083,
-    "ordinal": 246,
-    "reduced": 102
-  }
+  ]
 }

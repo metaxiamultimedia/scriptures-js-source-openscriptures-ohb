@@ -1,78 +1,73 @@
 {
-  "text": "אֵלֶיךָ זָעֲקוּ וְנִמְלָטוּ בְּךָ בָטְחוּ וְלֹא בוֹשׁוּ",
+  "text": "אֵלֶ֣יךָ זָעֲק֣וּ וְנִמְלָ֑טוּ בְּךָ֖ בָטְח֣וּ וְלֹא בֽוֹשׁוּ",
   "words": [
     {
       "position": 1,
-      "text": "אֵלֶיךָ",
+      "text": "אֵלֶ֣יךָ",
       "lemma": "413",
       "morph": "HR/Sp2ms",
       "strongs": [
         "H413"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "413",
+        "morph": "HR/Sp2ms"
       }
     },
     {
       "position": 2,
-      "text": "זָעֲקוּ",
+      "text": "זָעֲק֣וּ",
       "lemma": "2199",
       "morph": "HVqp3cp",
       "strongs": [
         "H2199"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 183,
-        "ordinal": 48,
-        "reduced": 21
+      "source": {
+        "lemma": "2199",
+        "morph": "HVqp3cp"
       }
     },
     {
       "position": 3,
-      "text": "וְנִמְלָטוּ",
+      "text": "וְנִמְלָ֑טוּ",
       "lemma": "c/4422",
       "morph": "HC/VNp3cp",
       "strongs": [
         "H4422"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 141,
-        "ordinal": 60,
-        "reduced": 33
+      "source": {
+        "lemma": "c/4422",
+        "morph": "HC/VNp3cp"
       }
     },
     {
       "position": 4,
-      "text": "בְּךָ",
+      "text": "בְּךָ֖",
       "lemma": "b",
       "morph": "HR/Sp2ms",
       "metadata": {
         "isPrefixOnly": true
       },
-      "gematria": {
-        "standard": 22,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "b",
+        "morph": "HR/Sp2ms"
       }
     },
     {
       "position": 5,
-      "text": "בָטְחוּ",
+      "text": "בָטְח֣וּ",
       "lemma": "982",
       "morph": "HVqp3cp",
       "strongs": [
         "H982"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 25,
-        "ordinal": 25,
-        "reduced": 25
+      "source": {
+        "lemma": "982",
+        "morph": "HVqp3cp"
       }
     },
     {
@@ -84,31 +79,24 @@
         "H3808"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 37,
-        "ordinal": 19,
-        "reduced": 10
+      "source": {
+        "lemma": "c/3808",
+        "morph": "HC/Tn"
       }
     },
     {
       "position": 7,
-      "text": "בוֹשׁוּ",
+      "text": "בֽוֹשׁוּ",
       "lemma": "954",
       "morph": "HVqp3cp",
       "strongs": [
         "H954"
       ],
       "metadata": {},
-      "gematria": {
-        "standard": 314,
-        "ordinal": 35,
-        "reduced": 17
+      "source": {
+        "lemma": "954",
+        "morph": "HVqp3cp"
       }
     }
-  ],
-  "gematria": {
-    "standard": 783,
-    "ordinal": 234,
-    "reduced": 117
-  }
+  ]
 }
