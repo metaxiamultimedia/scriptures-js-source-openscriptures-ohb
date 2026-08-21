@@ -1,6 +1,6 @@
 {
   "name": "@metaxia/scriptures-source-openscriptures-ohb",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Open Hebrew Bible (Hebrew) data for @metaxia/scriptures. Source: Open Scriptures Project.",
   "type": "module",
   "main": "./dist/index.js",
@@ -47,7 +47,7 @@
     "morphology"
   ],
   "author": "Benjamin Plunkert",
-  "license": "MIT",
+  "license": "(MIT AND CC-BY-4.0)",
   "repository": {
     "type": "git",
     "url": "https://github.com/metaxiamultimedia/scriptures-js-source-openscriptures-ohb"

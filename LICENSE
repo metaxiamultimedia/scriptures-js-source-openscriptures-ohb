@@ -1,4 +1,9 @@
-MIT License
+This package is dual-licensed:
+- Code: MIT License (below)
+- Data: CC BY 4.0 (the Hebrew text and morphology are not relicensed)
+
+--------------------------------------------------------------------------------
+MIT License (code)
 
 Copyright (c) 2025 Benjamin Plunkert
 
@@ -20,29 +25,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
+--------------------------------------------------------------------------------
+CC BY 4.0 (data)
 
-ATTRIBUTION (Required by upstream CC-BY-4.0 license):
+The Hebrew text and morphology are from the Open Scriptures Hebrew Bible,
+licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Scripture text: Open Scriptures Hebrew Bible (Morphological Hebrew Bible)
 Source: https://github.com/openscriptures/morphhb
-Original license: Creative Commons Attribution 4.0 International (CC-BY-4.0)
-Attribution: Open Scriptures Hebrew Bible Morphology Project
+License: https://creativecommons.org/licenses/by/4.0/
 
-The scripture data in this package is derived from the Open Scriptures Hebrew
-Bible project and is used in accordance with the CC-BY-4.0 license terms.
-
----
-
-MODIFICATIONS FROM ORIGINAL DATA
-
-This package processes the original MorphHB data as follows:
-- Converted from OSIS XML to JSON format
-- Restructured into per-verse files organized by book/chapter
-- Standardized word structure with position, text, lemma, morph, strongs fields
-- Cantillation marks (Hebrew: טעמים) are preserved in the text
-- Qere/Ketiv textual variants are flagged with a `variant` field ('ketiv' or 'qere')
-- Strong's numbers extracted and normalized to array format (e.g., ["H1234"])
-
-Gematria values are NOT pre-computed in the stored data; they are computed
-on-demand by the scriptures-core library when accessed.
+Required attribution: Open Scriptures Hebrew Bible, CC BY 4.0.
