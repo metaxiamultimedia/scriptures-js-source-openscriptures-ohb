@@ -1,0 +1,409 @@
+{
+  "text": "יְהוָ֣ה אֱלֹהֵ֣י הַשָּׁמַ֗יִם אֲשֶׁ֨ר לְקָחַ֜נִי מִבֵּ֣ית אָבִי֮ וּמֵאֶ֣רֶץ מֽוֹלַדְתִּי֒ וַאֲשֶׁ֨ר דִּבֶּר לִ֜י וַאֲשֶׁ֤ר נִֽשְׁבַּֽע לִי֙ לֵאמֹ֔ר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת הָאָ֣רֶץ הַזֹּ֑את ה֗וּא יִשְׁלַ֤ח מַלְאָכוֹ֙ לְפָנֶ֔יךָ וְלָקַחְתָּ֥ אִשָּׁ֛ה לִבְנִ֖י מִשָּֽׁם",
+  "words": [
+    {
+      "position": 1,
+      "text": "יְהוָ֣ה",
+      "lemma": "3068",
+      "morph": "HNp",
+      "strongs": [
+        "H3068"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "3068",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 2,
+      "text": "אֱלֹהֵ֣י",
+      "lemma": "430",
+      "morph": "HNcmpc",
+      "strongs": [
+        "H430"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "430",
+        "morph": "HNcmpc"
+      }
+    },
+    {
+      "position": 3,
+      "text": "הַשָּׁמַ֗יִם",
+      "lemma": "d/8064",
+      "morph": "HTd/Ncmpa",
+      "strongs": [
+        "H8064"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "d/8064",
+        "morph": "HTd/Ncmpa"
+      }
+    },
+    {
+      "position": 4,
+      "text": "אֲשֶׁ֨ר",
+      "lemma": "834 a",
+      "morph": "HTr",
+      "strongs": [
+        "H834"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "834 a",
+        "morph": "HTr"
+      }
+    },
+    {
+      "position": 5,
+      "text": "לְקָחַ֜נִי",
+      "lemma": "3947",
+      "morph": "HVqp3ms/Sp1cs",
+      "strongs": [
+        "H3947"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "3947",
+        "morph": "HVqp3ms/Sp1cs"
+      }
+    },
+    {
+      "position": 6,
+      "text": "מִבֵּ֣ית",
+      "lemma": "m/1004 b",
+      "morph": "HR/Ncmsc",
+      "strongs": [
+        "H1004"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "m/1004 b",
+        "morph": "HR/Ncmsc"
+      }
+    },
+    {
+      "position": 7,
+      "text": "אָבִי֮",
+      "lemma": "1",
+      "morph": "HNcmsc/Sp1cs",
+      "strongs": [
+        "H1"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "1",
+        "morph": "HNcmsc/Sp1cs"
+      }
+    },
+    {
+      "position": 8,
+      "text": "וּמֵאֶ֣רֶץ",
+      "lemma": "c/m/776",
+      "morph": "HC/R/Ncbsc",
+      "strongs": [
+        "H776"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/m/776",
+        "morph": "HC/R/Ncbsc"
+      }
+    },
+    {
+      "position": 9,
+      "text": "מֽוֹלַדְתִּי֒",
+      "lemma": "4138",
+      "morph": "HNcfsc/Sp1cs",
+      "strongs": [
+        "H4138"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "4138",
+        "morph": "HNcfsc/Sp1cs"
+      }
+    },
+    {
+      "position": 10,
+      "text": "וַאֲשֶׁ֨ר",
+      "lemma": "c/834 a",
+      "morph": "HC/Tr",
+      "strongs": [
+        "H834"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/834 a",
+        "morph": "HC/Tr"
+      }
+    },
+    {
+      "position": 11,
+      "text": "דִּבֶּר",
+      "lemma": "1696",
+      "morph": "HVpp3ms",
+      "strongs": [
+        "H1696"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "1696",
+        "morph": "HVpp3ms"
+      }
+    },
+    {
+      "position": 12,
+      "text": "לִ֜י",
+      "lemma": "l",
+      "morph": "HR/Sp1cs",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
+      }
+    },
+    {
+      "position": 13,
+      "text": "וַאֲשֶׁ֤ר",
+      "lemma": "c/834 a",
+      "morph": "HC/Tr",
+      "strongs": [
+        "H834"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/834 a",
+        "morph": "HC/Tr"
+      }
+    },
+    {
+      "position": 14,
+      "text": "נִֽשְׁבַּֽע",
+      "lemma": "7650",
+      "morph": "HVNp3ms",
+      "strongs": [
+        "H7650"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "7650",
+        "morph": "HVNp3ms"
+      }
+    },
+    {
+      "position": 15,
+      "text": "לִי֙",
+      "lemma": "l",
+      "morph": "HR/Sp1cs",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp1cs"
+      }
+    },
+    {
+      "position": 16,
+      "text": "לֵאמֹ֔ר",
+      "lemma": "l/559",
+      "morph": "HR/Vqc",
+      "strongs": [
+        "H559"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "l/559",
+        "morph": "HR/Vqc"
+      }
+    },
+    {
+      "position": 17,
+      "text": "לְזַ֨רְעֲךָ֔",
+      "lemma": "l/2233",
+      "morph": "HR/Ncmsc/Sp2ms",
+      "strongs": [
+        "H2233"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "l/2233",
+        "morph": "HR/Ncmsc/Sp2ms"
+      }
+    },
+    {
+      "position": 18,
+      "text": "אֶתֵּ֖ן",
+      "lemma": "5414",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H5414"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "5414",
+        "morph": "HVqi1cs"
+      }
+    },
+    {
+      "position": 19,
+      "text": "אֶת",
+      "lemma": "853",
+      "morph": "HTo",
+      "strongs": [
+        "H853"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "853",
+        "morph": "HTo"
+      }
+    },
+    {
+      "position": 20,
+      "text": "הָאָ֣רֶץ",
+      "lemma": "d/776",
+      "morph": "HTd/Ncbsa",
+      "strongs": [
+        "H776"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "d/776",
+        "morph": "HTd/Ncbsa"
+      }
+    },
+    {
+      "position": 21,
+      "text": "הַזֹּ֑את",
+      "lemma": "d/2063",
+      "morph": "HTd/Pdxfs",
+      "strongs": [
+        "H2063"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "d/2063",
+        "morph": "HTd/Pdxfs"
+      }
+    },
+    {
+      "position": 22,
+      "text": "ה֗וּא",
+      "lemma": "1931",
+      "morph": "HPp3ms",
+      "strongs": [
+        "H1931"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "1931",
+        "morph": "HPp3ms"
+      }
+    },
+    {
+      "position": 23,
+      "text": "יִשְׁלַ֤ח",
+      "lemma": "7971",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H7971"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "7971",
+        "morph": "HVqi3ms"
+      }
+    },
+    {
+      "position": 24,
+      "text": "מַלְאָכוֹ֙",
+      "lemma": "4397",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H4397"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "4397",
+        "morph": "HNcmsc/Sp3ms"
+      }
+    },
+    {
+      "position": 25,
+      "text": "לְפָנֶ֔יךָ",
+      "lemma": "l/6440",
+      "morph": "HR/Ncbpc/Sp2ms",
+      "strongs": [
+        "H6440"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "l/6440",
+        "morph": "HR/Ncbpc/Sp2ms"
+      }
+    },
+    {
+      "position": 26,
+      "text": "וְלָקַחְתָּ֥",
+      "lemma": "c/3947",
+      "morph": "HC/Vqq2ms",
+      "strongs": [
+        "H3947"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/3947",
+        "morph": "HC/Vqq2ms"
+      }
+    },
+    {
+      "position": 27,
+      "text": "אִשָּׁ֛ה",
+      "lemma": "802",
+      "morph": "HNcfsa",
+      "strongs": [
+        "H802"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "802",
+        "morph": "HNcfsa"
+      }
+    },
+    {
+      "position": 28,
+      "text": "לִבְנִ֖י",
+      "lemma": "l/1121 a",
+      "morph": "HR/Ncmsc/Sp1cs",
+      "strongs": [
+        "H1121"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "l/1121 a",
+        "morph": "HR/Ncmsc/Sp1cs"
+      }
+    },
+    {
+      "position": 29,
+      "text": "מִשָּֽׁם",
+      "lemma": "m/8033",
+      "morph": "HR/D",
+      "strongs": [
+        "H8033"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "m/8033",
+        "morph": "HR/D"
+      }
+    }
+  ]
+}
