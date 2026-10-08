@@ -774,3 +774,115 @@ describe('special letters (litterae majusculae/minusculae/suspensae)', () => {
     expect(oren.metadata.specialLetters[0]).toMatchObject({ type: 'small', index: 2 });
   });
 });
+
+describe('reversed nun (nun hafukha, U+05C6) — verse-level scribal mark', () => {
+  // The WLC encodes the reversed nun as <seg type="x-reversednun"> placed AFTER
+  // the sof-pasuq, outside the words. It must be preserved as verse-level
+  // metadata (for rendering) but must NEVER enter words[] — so it cannot affect
+  // gematria or word counts. Regression guard for the "9 reversed nuns silently
+  // dropped" bug (Num 10:34/36 bracketing vv35-36; Ps 107:20-25,39).
+  const REVERSED_NUN = '׆';
+  const MARKED: Array<[string, string, string]> = [
+    ['Num', '10', '34'],
+    ['Num', '10', '36'],
+    ['Ps', '107', '20'],
+    ['Ps', '107', '21'],
+    ['Ps', '107', '22'],
+    ['Ps', '107', '23'],
+    ['Ps', '107', '24'],
+    ['Ps', '107', '25'],
+    ['Ps', '107', '39'],
+  ];
+
+  const read = async (book: string, ch: string, v: string) =>
+    JSON.parse(
+      await readFile(
+        join(__dirname, '..', 'data', 'openscriptures-OHB', book, ch, `${v}.json`),
+        'utf-8'
+      )
+    );
+
+  it('all 9 attested verses carry the reversed-nun mark (verse-level, position after)', async () => {
+    for (const [book, ch, v] of MARKED) {
+      const data = await read(book, ch, v);
+      expect(data.metadata?.scribalMarks, `${book} ${ch}:${v}`).toEqual([
+        { type: 'reversed-nun', position: 'after' },
+      ]);
+    }
+  });
+
+  it('the mark never leaks into words[] (no U+05C6, no empty tokens)', async () => {
+    for (const [book, ch, v] of MARKED) {
+      const data = await read(book, ch, v);
+      for (const w of data.words) {
+        expect(w.text).not.toContain(REVERSED_NUN);
+        expect(w.text.length).toBeGreaterThan(0);
+      }
+      expect(data.text).not.toContain(REVERSED_NUN);
+    }
+  });
+
+  it('verses without a reversed nun have no scribalMarks', async () => {
+    const plain = await read('Num', '10', '35'); // between the two bracketing nuns
+    expect(plain.metadata?.scribalMarks).toBeUndefined();
+    const gen = await read('Gen', '1', '1');
+    expect(gen.metadata?.scribalMarks).toBeUndefined();
+  });
+});
+
+describe('paragraph markers (petuhah/setumah) — verse-level breaks', () => {
+  // The WLC encodes parashah breaks as <seg type="x-pe"> (פ, open) and
+  // <seg type="x-samekh"> (ס, closed) placed between words — usually after the
+  // sof-pasuq (verse-trailing), occasionally mid-verse. They are preserved as
+  // verse-level metadata.paragraphBreaks ({type, afterWordPosition}) and must
+  // never enter words[] (no effect on gematria or word counts). Regression
+  // guard for the "3,162 paragraph markers silently dropped" bug.
+  const read = async (book: string, ch: string, v: string) =>
+    JSON.parse(
+      await readFile(
+        join(__dirname, '..', 'data', 'openscriptures-OHB', book, ch, `${v}.json`),
+        'utf-8'
+      )
+    );
+
+  it('Genesis 1:5 — trailing petuhah attaches to the last word', async () => {
+    const data = await read('Gen', '1', '5');
+    expect(data.metadata.paragraphBreaks).toEqual([
+      { type: 'petuhah', afterWordPosition: data.words.length },
+    ]);
+  });
+
+  it('Genesis 35:22 — mid-verse break attaches mid-word (not the last word)', async () => {
+    const data = await read('Gen', '35', '22');
+    const breaks = data.metadata.paragraphBreaks;
+    expect(breaks).toHaveLength(1);
+    expect(breaks[0].afterWordPosition).toBeGreaterThan(0);
+    expect(breaks[0].afterWordPosition).toBeLessThan(data.words.length);
+  });
+
+  it('a verse can carry BOTH a scribal mark and a paragraph break (Num 10:34)', async () => {
+    const data = await read('Num', '10', '34');
+    expect(data.metadata.scribalMarks).toEqual([
+      { type: 'reversed-nun', position: 'after' },
+    ]);
+    expect(data.metadata.paragraphBreaks).toEqual([
+      { type: 'setumah', afterWordPosition: data.words.length },
+    ]);
+  });
+
+  it('afterWordPosition is always within the verse word range', async () => {
+    for (const [b, c, v] of [
+      ['Gen', '1', '5'],
+      ['Gen', '35', '22'],
+      ['Num', '10', '34'],
+      ['Exod', '40', '38'],
+    ] as Array<[string, string, string]>) {
+      const data = await read(b, c, v);
+      for (const pb of data.metadata?.paragraphBreaks ?? []) {
+        expect(pb.afterWordPosition).toBeGreaterThanOrEqual(1);
+        expect(pb.afterWordPosition).toBeLessThanOrEqual(data.words.length);
+        expect(['petuhah', 'setumah']).toContain(pb.type);
+      }
+    }
+  });
+});

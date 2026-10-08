@@ -55,9 +55,39 @@ interface WordEntry {
   };
 }
 
+/**
+ * A scribal mark that belongs to the verse as a whole rather than to any word
+ * (e.g. the reversed nun / nun hafukha, which the WLC places after the
+ * sof-pasuq). Recorded as verse-level metadata so it never enters `words[]` and
+ * therefore cannot affect gematria or word counts; renderers use it to display
+ * the mark at the verse boundary.
+ */
+interface ScribalMark {
+  type: 'reversed-nun';
+  /** Where the mark sits relative to the verse. All attested cases are 'after'. */
+  position: 'after';
+}
+
+/**
+ * A Masoretic paragraph division (parashah break) that follows a word.
+ * petuhah (פ) = open paragraph; setumah (ס) = closed paragraph. Recorded at the
+ * verse level (never in words[]) so it cannot affect gematria or word counts;
+ * `afterWordPosition` is the final 1-based position of the word it follows
+ * (= last word for a verse-trailing break, or the specific word for a mid-verse
+ * break such as the one inside Gen 35:22).
+ */
+interface ParagraphBreak {
+  type: 'petuhah' | 'setumah';
+  afterWordPosition: number;
+}
+
 interface VerseData {
   text: string;
   words: WordEntry[];
+  metadata?: {
+    scribalMarks?: ScribalMark[];
+    paragraphBreaks?: ParagraphBreak[];
+  };
 }
 
 // Hebrew maqqef character (U+05BE) - used as a word connector like a hyphen
@@ -90,6 +120,53 @@ interface SpecialLetter {
   char: string;
   /** 0-based index of the marked consonant among the word's base consonants. */
   index: number;
+}
+
+// Paragraph-division markers (petuhah/setumah). The WLC encodes these as
+// <seg type="x-pe"> (פ, open paragraph) and <seg type="x-samekh"> (ס, closed
+// paragraph) placed BETWEEN words — usually verse-trailing (after the
+// sof-pasuq), occasionally mid-verse (e.g. the break inside Gen 35:22). With
+// preserveOrder:false the XML parser would bucket them into an unordered `seg`
+// array, losing which word they follow. So before parsing we relocate each one
+// INTO the preceding <w> as a Private-Use sentinel, which rides along as plain
+// text in the right position; extractParagraphMarks() later strips the sentinel
+// and records the break against that word (afterWordPosition).
+const MARK_START = '';
+const MARK_END = '';
+const PARAGRAPH_TYPE_CODE: Record<string, 'petuhah' | 'setumah'> = {
+  pe: 'petuhah',
+  samekh: 'setumah',
+};
+const PARAGRAPH_CODE_BY_TYPE: Record<string, string> = {
+  pe: 'P',
+  samekh: 'C',
+};
+const PARAGRAPH_TYPE_BY_CODE: Record<string, 'petuhah' | 'setumah'> = {
+  P: 'petuhah',
+  C: 'setumah',
+};
+
+type ParagraphType = 'petuhah' | 'setumah';
+
+/**
+ * Pull any paragraph-marker sentinels off a word piece, returning the clean
+ * word text and the list of paragraph breaks that follow this word (in order).
+ */
+function extractParagraphMarks(piece: string): {
+  clean: string;
+  paragraphs: ParagraphType[];
+} {
+  if (!piece.includes(MARK_START)) return { clean: piece, paragraphs: [] };
+  const paragraphs: ParagraphType[] = [];
+  const clean = piece.replace(
+    new RegExp(`${MARK_START}(.)${MARK_END}`, 'g'),
+    (_m, code: string) => {
+      const type = PARAGRAPH_TYPE_BY_CODE[code];
+      if (type) paragraphs.push(type);
+      return '';
+    }
+  );
+  return { clean, paragraphs };
 }
 
 // A Hebrew base consonant (alef..tav, incl. final forms). Points, dagesh, and
@@ -191,6 +268,7 @@ interface ParsedVerse {
   chapter: number;
   number: number;
   text: string;
+  scribalMarks?: ScribalMark[];
   words: Array<{
     position: number;
     text: string;
@@ -204,6 +282,8 @@ interface ParsedVerse {
       morph?: string;
       type?: string;
     };
+    /** Transient: paragraph breaks (petuhah/setumah) that follow this word. */
+    paragraphsAfter?: ParagraphType[];
   }>;
 }
 
@@ -223,6 +303,28 @@ function parseOsis(xml: string): ParsedVerse[] {
     /<seg type="x-(large|small|suspended)">([\s\S]*?)<\/seg>/g,
     (_m, type: string, inner: string) =>
       `${SPECIAL_START}${SPECIAL_TYPE_CODE[type]}${inner}${SPECIAL_END}`
+  );
+
+  // Relocate paragraph-division markers (x-pe / x-samekh) that follow a word
+  // into the preceding <w> as ordered sentinels, so their position (which word
+  // they follow) survives the preserveOrder:false parse. A marker can sit at
+  // the end of a seg run (after sof-pasuq, maqqef, …); we lift only the pe/
+  // samekh out of that run and leave the other segs in place (they continue to
+  // be handled/skipped as before). Verse-trailing markers attach to the last
+  // word; mid-verse markers (e.g. Gen 35:22) attach to the word they follow.
+  xml = xml.replace(
+    /<\/w>((?:\s*(?:<seg type="x-[a-z-]+">[^<]*<\/seg>|<note\b[^>]*>[\s\S]*?<\/note>))+)/g,
+    (_m, run: string) => {
+      let sentinels = '';
+      const kept = run.replace(
+        /<seg type="x-(pe|samekh)">[^<]*<\/seg>/g,
+        (_s, t: string) => {
+          sentinels += `${MARK_START}${PARAGRAPH_CODE_BY_TYPE[t]}${MARK_END}`;
+          return '';
+        }
+      );
+      return `${sentinels}</w>${kept}`;
+    }
   );
 
   const parser = new XMLParser({
@@ -265,7 +367,8 @@ function parseOsis(xml: string): ParsedVerse[] {
             const cleanText = content.replace(/\//g, '').trim();
             if (cleanText) {
               for (const rawWord of cleanText.split(/\s+/).filter(Boolean)) {
-                const { clean: word, specials } = extractSpecialLetters(rawWord);
+                const { clean: afterParas, paragraphs } = extractParagraphMarks(rawWord);
+                const { clean: word, specials } = extractSpecialLetters(afterParas);
                 // Skip maqqef-only entries (punctuation, not words)
                 if (word === MAQQEF) continue;
                 words.push({
@@ -275,6 +378,7 @@ function parseOsis(xml: string): ParsedVerse[] {
                   morph: null,
                   metadata: specials.length > 0 ? { specialLetters: specials } : {},
                   source: {},
+                  ...(paragraphs.length > 0 ? { paragraphsAfter: paragraphs } : {}),
                 });
               }
             }
@@ -311,7 +415,8 @@ function parseOsis(xml: string): ParsedVerse[] {
               if (text) {
                 const strongs = extractStrongs(lemma || null, text);
                 for (const rawPiece of text.split(/\s+/).filter(Boolean)) {
-                  const { clean: piece, specials } = extractSpecialLetters(rawPiece);
+                  const { clean: afterParas, paragraphs } = extractParagraphMarks(rawPiece);
+                  const { clean: piece, specials } = extractSpecialLetters(afterParas);
                   // Skip maqqef-only entries (punctuation, not words)
                   if (piece === MAQQEF) continue;
 
@@ -338,6 +443,7 @@ function parseOsis(xml: string): ParsedVerse[] {
                     variant,
                     metadata: specials.length > 0 ? { specialLetters: specials } : undefined,
                     source: Object.keys(source).length > 0 ? source : undefined,
+                    ...(paragraphs.length > 0 ? { paragraphsAfter: paragraphs } : {}),
                   });
                 }
               }
@@ -406,6 +512,26 @@ function parseOsis(xml: string): ParsedVerse[] {
           }
         }
 
+        // Capture verse-level scribal marks that the importer would otherwise
+        // drop via the generic "skip x-* seg" rule. The reversed nun (nun
+        // hafukha, U+05C6) is encoded as <seg type="x-reversednun"> and the WLC
+        // always places it after the sof-pasuq, outside the words — so it is
+        // recorded as verse metadata and never enters words[] (no effect on
+        // gematria or word counts). All 9 attested marks (Num 10:34/36,
+        // Ps 107:20-25/39) are verse-trailing, hence position 'after'.
+        const scribalMarks: ScribalMark[] = [];
+        const rawSeg = record['seg'];
+        const segList = Array.isArray(rawSeg) ? rawSeg : rawSeg ? [rawSeg] : [];
+        for (const seg of segList) {
+          if (
+            seg &&
+            typeof seg === 'object' &&
+            (seg as Record<string, unknown>)['@_type'] === 'x-reversednun'
+          ) {
+            scribalMarks.push({ type: 'reversed-nun', position: 'after' });
+          }
+        }
+
         if (words.length > 0) {
           const text = words.map(w => w.text).join(' ');
 
@@ -414,6 +540,7 @@ function parseOsis(xml: string): ParsedVerse[] {
             chapter: parseInt(chap, 10),
             number: parseInt(num, 10),
             text,
+            ...(scribalMarks.length > 0 ? { scribalMarks } : {}),
             words,
           });
         }
@@ -455,6 +582,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
 
   // Filter out textual critical notes and paragraph markers, renumber positions
   const filteredWords: WordEntry[] = [];
+  const paragraphBreaks: ParagraphBreak[] = [];
   let position = 1;
   for (const w of verse.words) {
     if (isTextualCriticalNote(w)) continue;
@@ -465,8 +593,18 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
       metadata.isPrefixOnly = true;
     }
 
+    const finalPosition = position++;
+
+    // Record any paragraph breaks that follow this word against its final
+    // (renumbered) position. Verse-level, never in words[].
+    if (w.paragraphsAfter) {
+      for (const type of w.paragraphsAfter) {
+        paragraphBreaks.push({ type, afterWordPosition: finalPosition });
+      }
+    }
+
     filteredWords.push({
-      position: position++,
+      position: finalPosition,
       text: w.text,
       lemma: w.lemma,
       morph: w.morph,
@@ -485,6 +623,17 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
     text,
     words: wordEntries,
   };
+
+  const metadata: VerseData['metadata'] = {};
+  if (verse.scribalMarks && verse.scribalMarks.length > 0) {
+    metadata.scribalMarks = verse.scribalMarks;
+  }
+  if (paragraphBreaks.length > 0) {
+    metadata.paragraphBreaks = paragraphBreaks;
+  }
+  if (Object.keys(metadata).length > 0) {
+    data.metadata = metadata;
+  }
 
   const filePath = join(verseDir, `${verse.number}.json`);
   await writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');
