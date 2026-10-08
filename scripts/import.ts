@@ -274,6 +274,47 @@ function extractSpecialLetters(piece: string): {
   return { clean, specials };
 }
 
+// Extraordinary points (puncta extraordinaria). The WLC marks the traditional
+// fifteen dotted passages with combining dots placed on the letters: HEBREW
+// MARK UPPER DOT (U+05C4) above and HEBREW MARK LOWER DOT (U+05C5) below. These
+// ride in the word text as ordinary combining marks (so they never affect
+// gematria — the engine sums only base consonants U+05D0–U+05EA — nor word
+// counts), but they are not otherwise surfaced. extractPoints() reads them off
+// the finished word text and records which base consonant each dot sits on
+// (0-based consonant index, same convention as special letters), so a renderer
+// can show them without re-scanning for combining marks. The dots are left in
+// `text`, faithful to the source.
+const PUNCTUM_UPPER = 'ׄ';
+const PUNCTUM_LOWER = 'ׅ';
+
+interface ExtraordinaryPoint {
+  /** 0-based index of the dotted base consonant among the word's consonants. */
+  index: number;
+  /** The dotted base consonant. */
+  char: string;
+  /** Dot position: above (U+05C4) or below (U+05C5) the letter. */
+  mark: 'upper' | 'lower';
+}
+
+function extractPoints(word: string): ExtraordinaryPoint[] {
+  if (!word.includes(PUNCTUM_UPPER) && !word.includes(PUNCTUM_LOWER)) return [];
+  const points: ExtraordinaryPoint[] = [];
+  let consonantIdx = -1;
+  let currentConsonant = '';
+  for (const ch of word) {
+    const cp = ch.codePointAt(0)!;
+    if (isHebrewConsonant(cp)) {
+      consonantIdx++;
+      currentConsonant = ch;
+    } else if (ch === PUNCTUM_UPPER) {
+      points.push({ index: consonantIdx, char: currentConsonant, mark: 'upper' });
+    } else if (ch === PUNCTUM_LOWER) {
+      points.push({ index: consonantIdx, char: currentConsonant, mark: 'lower' });
+    }
+  }
+  return points;
+}
+
 function extractStrongs(value: string | null, wordText?: string): string[] {
   if (!value) return [];
 
@@ -447,12 +488,16 @@ function parseOsis(xml: string): ParsedVerse[] {
                 const { clean: word, specials } = extractSpecialLetters(afterPunct);
                 // Skip maqqef-only entries (punctuation, not words)
                 if (word === MAQQEF) continue;
+                const points = extractPoints(word);
+                const wordMeta: Record<string, unknown> = {};
+                if (specials.length > 0) wordMeta.specialLetters = specials;
+                if (points.length > 0) wordMeta.points = points;
                 words.push({
                   position: pos++,
                   text: word,
                   lemma: null,
                   morph: null,
-                  metadata: specials.length > 0 ? { specialLetters: specials } : {},
+                  metadata: wordMeta,
                   source: {},
                   ...(paragraphs.length > 0 ? { paragraphsAfter: paragraphs } : {}),
                   ...(punctuation.length > 0 ? { punctuationAfter: punctuation } : {}),
@@ -497,6 +542,7 @@ function parseOsis(xml: string): ParsedVerse[] {
                   const { clean: piece, specials } = extractSpecialLetters(afterPunct);
                   // Skip maqqef-only entries (punctuation, not words)
                   if (piece === MAQQEF) continue;
+                  const points = extractPoints(piece);
 
                   // Determine variant type for Qere/Ketiv
                   let variant: 'ketiv' | 'qere' | undefined;
@@ -519,7 +565,13 @@ function parseOsis(xml: string): ParsedVerse[] {
                     morph: morph || null,
                     strongs: strongs.length > 0 ? strongs : undefined,
                     variant,
-                    metadata: specials.length > 0 ? { specialLetters: specials } : undefined,
+                    metadata:
+                      specials.length > 0 || points.length > 0
+                        ? {
+                            ...(specials.length > 0 ? { specialLetters: specials } : {}),
+                            ...(points.length > 0 ? { points } : {}),
+                          }
+                        : undefined,
                     source: Object.keys(source).length > 0 ? source : undefined,
                     ...(paragraphs.length > 0 ? { paragraphsAfter: paragraphs } : {}),
                     ...(punctuation.length > 0 ? { punctuationAfter: punctuation } : {}),

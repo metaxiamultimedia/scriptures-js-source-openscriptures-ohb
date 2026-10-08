@@ -63,6 +63,23 @@
       "lemma": "l",
       "morph": "HR/Sp1cp",
       "metadata": {
+        "points": [
+          {
+            "index": 0,
+            "char": "ל",
+            "mark": "upper"
+          },
+          {
+            "index": 1,
+            "char": "נ",
+            "mark": "upper"
+          },
+          {
+            "index": 2,
+            "char": "ו",
+            "mark": "upper"
+          }
+        ],
         "isPrefixOnly": true
       },
       "source": {
@@ -78,7 +95,45 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {},
+      "metadata": {
+        "points": [
+          {
+            "index": 0,
+            "char": "ו",
+            "mark": "upper"
+          },
+          {
+            "index": 1,
+            "char": "ל",
+            "mark": "upper"
+          },
+          {
+            "index": 2,
+            "char": "ב",
+            "mark": "upper"
+          },
+          {
+            "index": 3,
+            "char": "נ",
+            "mark": "upper"
+          },
+          {
+            "index": 4,
+            "char": "י",
+            "mark": "upper"
+          },
+          {
+            "index": 5,
+            "char": "נ",
+            "mark": "upper"
+          },
+          {
+            "index": 6,
+            "char": "ו",
+            "mark": "upper"
+          }
+        ]
+      },
       "source": {
         "lemma": "c/l/1121 a",
         "morph": "HC/R/Ncmpc/Sp1cp"

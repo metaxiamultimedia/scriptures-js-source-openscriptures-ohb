@@ -106,9 +106,19 @@ preserved separately so a renderer can reproduce a faithful text:
   1-based positions of the words it follows.
 - **`metadata.paragraphBreaks`**, **`metadata.scribalMarks`** — petuhah/setumah
   parashah breaks and the reversed nun (nun hafukha), likewise verse-level.
+- **`words[].metadata.points`** — the extraordinary points (puncta extraordinaria),
+  the traditional fifteen dotted passages. Each entry `{index, char, mark}` names
+  the dotted base consonant (0-based `index`) and whether the dot sits `upper`
+  (U+05C4) or `lower` (U+05C5). The dots are retained in the word `text` as
+  combining marks; because they lie outside the consonant range they do not
+  affect gematria or counts.
+- **`words[].metadata.specialLetters`** — enlarged / small / suspended letters
+  (litterae majusculae / minusculae / suspensae), `{type, char, index}`.
 
-All of these are structural only: they never enter `words[]` and never carry a
-numeric value.
+All of these are structural only: they never enter `words[]` as separate tokens
+and never carry a numeric value. Everything here is the Leningrad (WLC) tradition
+as encoded by OpenScriptures; a broader received-Masoretic layer (Ginsburg) for
+the fuller majuscule/minuscule lists is tracked separately.
 
 ## Morphology Codes
 

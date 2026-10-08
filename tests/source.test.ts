@@ -122,6 +122,39 @@ describe('Masoretic punctuation preservation (#5)', () => {
     expect(data.metadata?.terminator).toBeUndefined();
   });
 
+  it('surfaces extraordinary points (puncta) on exactly the 15 dotted verses', async () => {
+    const dotted = [
+      ['Gen','16','5'],['Gen','18','9'],['Gen','19','33'],['Gen','33','4'],['Gen','37','12'],
+      ['Num','3','39'],['Num','9','10'],['Num','21','30'],['Num','29','15'],['Deut','29','28'],
+      ['2Sam','19','20'],['Isa','44','9'],['Ezek','41','20'],['Ezek','46','22'],['Ps','27','13'],
+    ];
+    for (const [b,c,v] of dotted) {
+      const d = await load(b,c,`${v}.json`);
+      const withPoints = d.words.filter((w:{metadata?:{points?:unknown[]}}) => w.metadata?.points);
+      expect(withPoints.length).toBeGreaterThan(0);
+    }
+  });
+
+  it('records the dotted consonant precisely (Num 21:30 = resh only; Gen 33:4 = all six)', async () => {
+    const num = await load('Num','21','30.json');
+    const resh = num.words.find((w:{metadata?:{points?:{index:number;char:string;mark:string}[]}}) => w.metadata?.points);
+    expect(resh.metadata.points).toEqual([{ index: 2, char: 'ר', mark: 'upper' }]);
+
+    const gen = await load('Gen','33','4.json');
+    const kissed = gen.words.find((w:{metadata?:{points?:unknown[]}}) => w.metadata?.points);
+    expect(kissed.metadata.points.map((p:{index:number}) => p.index)).toEqual([0,1,2,3,4,5]);
+    expect(kissed.metadata.points.every((p:{mark:string}) => p.mark === 'upper')).toBe(true);
+  });
+
+  it('keeps extraordinary points out of the gematria consonant stream', async () => {
+    // The dots (U+05C4/U+05C5) are combining marks; stripping them must not
+    // change the extracted consonants.
+    const d = await load('Ps','27','13.json');
+    const w = d.words.find((x:{metadata?:{points?:unknown[]}}) => x.metadata?.points);
+    const bare = w.text.replace(/[ׅׄ]/g, '');
+    expect(extractConsonants(w.text)).toBe(extractConsonants(bare));
+  });
+
   it('never leaks a punctuation glyph into word text (gematria integrity)', async () => {
     // Punctuation is metadata only; valued word text must stay glyph-free so
     // gematria totals and word counts are untouched.
