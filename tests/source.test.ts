@@ -31,6 +31,33 @@ describe('word data', () => {
   });
 });
 
+describe('maqqef word segmentation (#3)', () => {
+  // Decision (finalized): maqqef-joined units are kept as SEPARATE words — each
+  // maqqef element has its own lexical identity + Strong's, so its own box. The
+  // connection is preserved via metadata.joinNext ('maqqef'). Verse gematria
+  // totals are unaffected (sum of parts = whole); only word counts differ.
+  it('splits בְּכָל־לְבָבְךָ into two words in Deut 6:5, with joinNext on the first', async () => {
+    const data = JSON.parse(
+      await readFile(join(__dirname, '..', 'data', 'openscriptures-OHB', 'Deut', '6', '5.json'), 'utf-8')
+    );
+    const cons = (s: string) => s.replace(/[^א-ת]/g, '');
+
+    // The two joined elements are present as separate, adjacent words.
+    const bekhol = data.words.find((w: { text: string }) => cons(w.text) === 'בכל');
+    const levavkha = data.words.find((w: { text: string }) => cons(w.text) === 'לבבך');
+    expect(bekhol).toBeDefined();
+    expect(levavkha).toBeDefined();
+    expect(levavkha.position).toBe(bekhol.position + 1);
+
+    // The joined unit never appears as a single token.
+    const joined = data.words.find((w: { text: string }) => cons(w.text) === 'בכללבבך');
+    expect(joined).toBeUndefined();
+
+    // The maqqef connection is recorded on the first element.
+    expect(bekhol.metadata?.joinNext).toBe('maqqef');
+  });
+});
+
 describe('maqqef punctuation handling', () => {
   it('should not include maqqef marks as separate word entries', async () => {
     // Genesis 1:2 contains maqqef (־) connecting words like "al-penei"
@@ -60,6 +87,51 @@ describe('maqqef punctuation handling', () => {
     // All null-lemma words should have actual Hebrew content
     for (const word of nullLemmaWords) {
       expect(word.text.length).toBeGreaterThan(0);
+    }
+  });
+});
+
+describe('special-letter tradition layer (#2)', () => {
+  const load = async (...p: string[]) =>
+    JSON.parse(await readFile(join(__dirname, '..', 'data', 'openscriptures-OHB', ...p), 'utf-8'));
+  const special = (w: { metadata?: { specialLetters?: Array<{ type: string; char: string; index: number; tradition?: string; source?: string }> } }) =>
+    w.metadata?.specialLetters ?? [];
+
+  it('adds the famous received-tradition majuscule — Genesis 1:1 large bet — cited', async () => {
+    const d = await load('Gen', '1', '1.json');
+    const sl = special(d.words.find((w: { position: number }) => w.position === 1));
+    const bet = sl.find(s => s.type === 'large' && s.char === 'ב');
+    expect(bet).toBeDefined();
+    expect(bet!.index).toBe(0);
+    expect(bet!.tradition).toBe('masoretic-received');
+    expect(bet!.source).toMatch(/Jewish Encyclopedia/);
+  });
+
+  it('adds the small alef of Leviticus 1:1 (received tradition)', async () => {
+    const d = await load('Lev', '1', '1.json');
+    const sl = special(d.words.find((w: { position: number }) => w.position === 1));
+    expect(sl.some(s => s.type === 'small' && s.char === 'א' && s.tradition === 'masoretic-received')).toBe(true);
+  });
+
+  it('tags the WLC’s own markings as leningrad and does NOT duplicate them', async () => {
+    // Deut 6:4 large ayin is marked in the WLC itself.
+    const d = await load('Deut', '6', '4.json');
+    const sl = special(d.words.find((w: { position: number }) => w.position === 1));
+    const ayin = sl.filter(s => s.type === 'large' && s.char === 'ע');
+    expect(ayin).toHaveLength(1); // no duplicate supplement entry
+    expect(ayin[0].tradition).toBe('leningrad');
+    expect(ayin[0].source).toMatch(/WLC/);
+  });
+
+  it('every specialLetter carries a tradition + source', async () => {
+    for (const [b, c, v] of [['Gen','1','1'],['Lev','1','1'],['Deut','6','4'],['1Chr','1','1'],['Prov','30','15']]) {
+      const d = await load(b, c, `${v}.json`);
+      for (const w of d.words as { metadata?: { specialLetters?: { tradition?: string; source?: string }[] } }[]) {
+        for (const s of special(w)) {
+          expect(s.tradition === 'leningrad' || s.tradition === 'masoretic-received').toBe(true);
+          expect(typeof s.source).toBe('string');
+        }
+      }
     }
   });
 });

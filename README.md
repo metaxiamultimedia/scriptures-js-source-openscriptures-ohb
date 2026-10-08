@@ -113,12 +113,37 @@ preserved separately so a renderer can reproduce a faithful text:
   combining marks; because they lie outside the consonant range they do not
   affect gematria or counts.
 - **`words[].metadata.specialLetters`** — enlarged / small / suspended letters
-  (litterae majusculae / minusculae / suspensae), `{type, char, index}`.
+  (litterae majusculae / minusculae / suspensae), `{type, char, index, tradition, source}`.
+  Each entry is tagged by **tradition**:
+  - `tradition: "leningrad"` — marked in the WLC manuscript itself (`source: "WLC / OpenScriptures"`).
+  - `tradition: "masoretic-received"` — the broader received-Masoretic
+    majuscules/minuscules the Leningrad codex does not mark, supplied from a
+    cited enumeration (`source` = Jewish Encyclopedia 1906 + A.E. Brouwer),
+    occurrence-adjudicated against L. Cohen, *Windows into the Text* (HUC, 2000).
+    Only entries those sources attest with a single unambiguous location are
+    included; contested either/or and occurrence-ambiguous cases are excluded.
 
 All of these are structural only: they never enter `words[]` as separate tokens
-and never carry a numeric value. Everything here is the Leningrad (WLC) tradition
-as encoded by OpenScriptures; a broader received-Masoretic layer (Ginsburg) for
-the fuller majuscule/minuscule lists is tracked separately.
+and never carry a numeric value. A renderer can show the WLC base alone
+(`tradition === "leningrad"`) or the full received tradition.
+
+### Word segmentation (maqqef)
+
+Maqqef-joined units are stored as **separate words**, by design. The maqqef
+(־, U+05BE) binds words into one Masoretic accent unit (e.g. `אֶת־כָּל־`), but
+each joined element keeps its own lexical identity and Strong's number, so each
+occupies its own entry in `words[]`. For example Deut 6:5 `בְּכָל־לְבָבְךָ`
+("with all thy heart") is two words — `בְּכָל` then `לְבָבְךָ` — not one.
+
+Consequences to expect:
+- **Word counts** count each maqqef-joined element separately. A source that
+  counts a maqqef unit as a single word will report fewer words; this is a
+  convention difference, not an error.
+- **Per-word gematria** is computed per element. Verse/phrase **totals are
+  unaffected** — the sum of the split parts equals the sum of the joined whole.
+- The connection is not lost: the preceding word carries
+  `metadata.joinNext: "maqqef"`, so a renderer can re-join the unit for display
+  or for an alternative word count.
 
 ## Morphology Codes
 

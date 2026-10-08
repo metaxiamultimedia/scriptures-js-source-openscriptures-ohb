@@ -9,7 +9,7 @@
 
 import { XMLParser } from 'fast-xml-parser';
 import { mkdir, writeFile, readFile } from 'fs/promises';
-import { existsSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -33,6 +33,34 @@ const BOOKS = [
 
 const SOURCE_DIR = join(ROOT_DIR, 'source');
 const DATA_DIR = join(ROOT_DIR, 'data', 'openscriptures-OHB');
+
+// Received-Masoretic special-letter supplement (#2): majuscules/minuscules the
+// Leningrad codex does not itself mark, drawn from a cited enumeration and
+// occurrence-adjudicated against a scholarly source. Only entries attested by
+// multiple sources with a single unambiguous location are included; contested
+// (either/or) and occurrence-ambiguous cases are excluded. Keyed
+// `${book}|${chapter}|${verse}` -> entries; merged into words[].metadata.specialLetters
+// at save time, tagged tradition:'masoretic-received' with the citation.
+const SPECIAL_SUPPLEMENT_SOURCE =
+  'Jewish Encyclopedia (1906), "Small and Large Letters"; A.E. Brouwer, "Typographic details in the Hebrew Bible"; L. Cohen, "Windows into the Text: Majuscules and Minuscules in the Hebrew Bible" (HUC, 2000)';
+const SPECIAL_SUPPLEMENT: Record<
+  string,
+  Array<{ position: number; type: 'large' | 'small'; char: string; index: number }>
+> = (() => {
+  const raw = JSON.parse(
+    readFileSync(join(__dirname, 'overlays', 'special-letters-supplement.json'), 'utf-8')
+  );
+  const map: Record<string, Array<{ position: number; type: 'large' | 'small'; char: string; index: number }>> = {};
+  for (const e of raw.entries) {
+    (map[`${e.book}|${e.chapter}|${e.verse}`] ??= []).push({
+      position: e.position,
+      type: e.type,
+      char: e.char,
+      index: e.index,
+    });
+  }
+  return map;
+})();
 
 const STRONGS_RE = /(?:strongs?:)?([HGhg]?\d{1,5})/g;
 
@@ -133,6 +161,15 @@ interface SpecialLetter {
   char: string;
   /** 0-based index of the marked consonant among the word's base consonants. */
   index: number;
+  /**
+   * Which tradition attests this marking. `leningrad` = marked in the WLC
+   * manuscript itself (our base source). `masoretic-received` = the broader
+   * received Masoretic tradition, supplied from a cited enumeration (see
+   * `source`) and not marked in the Leningrad codex.
+   */
+  tradition?: 'leningrad' | 'masoretic-received';
+  /** Citation for the marking (set for supplement entries). */
+  source?: string;
 }
 
 // Paragraph-division markers (petuhah/setumah). The WLC encodes these as
@@ -258,7 +295,14 @@ function extractSpecialLetters(piece: string): {
     }
     if (ch === SPECIAL_END) {
       if (current && current.index >= 0) {
-        specials.push({ type: current.type, char: current.char, index: current.index });
+        // These come from the WLC manuscript's own markup (the Leningrad tradition).
+        specials.push({
+          type: current.type,
+          char: current.char,
+          index: current.index,
+          tradition: 'leningrad',
+          source: 'WLC / OpenScriptures',
+        });
       }
       current = null;
       continue;
@@ -769,6 +813,30 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
     });
   }
   const wordEntries = filteredWords;
+
+  // Merge the received-Masoretic special-letter supplement onto the matching
+  // words (by final position). These are additive, cited, and tagged
+  // tradition:'masoretic-received' so they are distinguishable from the WLC's
+  // own (leningrad) markings; like all specialLetters they are structural and
+  // never affect gematria or counts.
+  const supp = SPECIAL_SUPPLEMENT[`${verse.book}|${verse.chapter}|${verse.number}`];
+  if (supp) {
+    for (const s of supp) {
+      const w = wordEntries.find(x => x.position === s.position);
+      if (!w) continue;
+      const meta = (w.metadata ??= {}) as Record<string, unknown>;
+      const list = (meta.specialLetters ??= []) as SpecialLetter[];
+      // Skip if the WLC already marks this same letter (avoid a duplicate).
+      if (list.some(e => e.type === s.type && e.index === s.index)) continue;
+      list.push({
+        type: s.type,
+        char: s.char,
+        index: s.index,
+        tradition: 'masoretic-received',
+        source: SPECIAL_SUPPLEMENT_SOURCE,
+      });
+    }
+  }
 
   // Rebuild text from filtered words (excludes textual critical notes)
   const text = wordEntries.map(w => w.text).join(' ');

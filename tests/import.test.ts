@@ -749,12 +749,13 @@ describe('special letters (litterae majusculae/minusculae/suspensae)', () => {
 
   it('Deut 6:4 - records special-letter metadata (type + consonant index)', async () => {
     const data = await read('Deut', '6', '4');
-    expect(data.words[0].metadata.specialLetters).toEqual([
-      { type: 'large', char: 'ע', index: 2 },
+    // WLC-marked letters now also carry tradition/source provenance (#2).
+    expect(data.words[0].metadata.specialLetters).toMatchObject([
+      { type: 'large', char: 'ע', index: 2, tradition: 'leningrad' },
     ]);
     const last = data.words[data.words.length - 1];
-    expect(last.metadata.specialLetters).toEqual([
-      { type: 'large', char: 'ד', index: 2 },
+    expect(last.metadata.specialLetters).toMatchObject([
+      { type: 'large', char: 'ד', index: 2, tradition: 'leningrad' },
     ]);
   });
 
