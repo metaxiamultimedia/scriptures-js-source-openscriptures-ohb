@@ -163,7 +163,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3605",
         "morph": "HNcmsc"
@@ -289,7 +291,9 @@
       "strongs": [
         "H5704"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5704",
         "morph": "HR"
@@ -323,5 +327,11 @@
         "morph": "HTd/Aomsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      11
+    ]
+  }
 }

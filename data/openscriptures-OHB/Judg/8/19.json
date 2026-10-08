@@ -37,7 +37,9 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1121 a",
         "morph": "HNcmpc"
@@ -79,7 +81,9 @@
       "strongs": [
         "H2416"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2416 a",
         "morph": "HAamsa"
@@ -183,5 +187,8 @@
         "morph": "HTo/Sp2mp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

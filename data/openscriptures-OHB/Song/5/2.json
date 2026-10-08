@@ -107,7 +107,9 @@
       "strongs": [
         "H6605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "6605 a",
         "morph": "HVqv2fs"
@@ -204,7 +206,9 @@
       "strongs": [
         "H4390"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4390",
         "morph": "HVNsmsa"
@@ -266,5 +270,11 @@
         "morph": "HNcmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      5
+    ]
+  }
 }

@@ -79,7 +79,9 @@
       "strongs": [
         "H2005"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2005",
         "morph": "HTm/Sp1cs"
@@ -121,7 +123,9 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "853",
         "morph": "HTo"
@@ -155,5 +159,8 @@
         "morph": "HC/Vpq1cs/Sp3mp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

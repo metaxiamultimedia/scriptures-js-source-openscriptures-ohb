@@ -65,7 +65,9 @@
       "strongs": [
         "H5848"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5848 b",
         "morph": "HVqi3mp"
@@ -107,7 +109,9 @@
       "strongs": [
         "H637"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "637",
         "morph": "HTa"
@@ -127,5 +131,11 @@
         "morph": "HVqi3mp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
+    ]
+  }
 }

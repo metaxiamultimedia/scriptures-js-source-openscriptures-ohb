@@ -93,7 +93,9 @@
       "strongs": [
         "H310"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "310 a",
         "morph": "HR"
@@ -177,7 +179,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -329,6 +333,7 @@
         "type": "petuhah",
         "afterWordPosition": 23
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

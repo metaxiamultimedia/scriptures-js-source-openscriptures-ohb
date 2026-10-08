@@ -135,7 +135,9 @@
       "strongs": [
         "H3808"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3808",
         "morph": "HTn"
@@ -275,7 +277,9 @@
       "strongs": [
         "H854"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "854",
         "morph": "HR"
@@ -309,5 +313,12 @@
         "morph": "HR/Ncbpc/Sp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2,
+      6
+    ]
+  }
 }

@@ -51,7 +51,9 @@
       "strongs": [
         "H834"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "834 a",
         "morph": "HTr"
@@ -79,7 +81,9 @@
       "strongs": [
         "H270"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/270",
         "morph": "HC/Vqv2fs"
@@ -147,7 +151,9 @@
       "strongs": [
         "H8337"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "8337",
         "morph": "HAcfsa"
@@ -223,5 +229,8 @@
         "morph": "HTd/Ncfsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

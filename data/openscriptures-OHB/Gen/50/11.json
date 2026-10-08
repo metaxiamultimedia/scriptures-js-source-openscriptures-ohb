@@ -65,7 +65,9 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "853",
         "morph": "HTo"
@@ -135,7 +137,9 @@
       "strongs": [
         "H60"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "60",
         "morph": "HNcmsa"
@@ -191,7 +195,9 @@
       "strongs": [
         "H5921"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5921 a",
         "morph": "HR"
@@ -309,5 +315,8 @@
         "morph": "HTd/Np"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

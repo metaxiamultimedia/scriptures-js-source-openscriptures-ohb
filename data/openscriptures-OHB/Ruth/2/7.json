@@ -23,7 +23,9 @@
       "strongs": [
         "H3950"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3950",
         "morph": "HVph1cs"
@@ -163,7 +165,9 @@
       "strongs": [
         "H5704"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/5704",
         "morph": "HC/R"
@@ -239,5 +243,8 @@
         "morph": "HAamsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

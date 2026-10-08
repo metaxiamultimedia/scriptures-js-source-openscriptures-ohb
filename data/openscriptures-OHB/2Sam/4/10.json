@@ -64,7 +64,9 @@
       "strongs": [
         "H2009"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2009",
         "morph": "HTm"
@@ -106,7 +108,9 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1931",
         "morph": "HC/Pp3ms"
@@ -231,7 +235,9 @@
       "strongs": [
         "H5414"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/5414",
         "morph": "HR/Vqc/Sp1cs"
@@ -264,5 +270,8 @@
         "morph": "HNcfsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

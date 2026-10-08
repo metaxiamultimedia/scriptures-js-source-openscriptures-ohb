@@ -93,7 +93,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -107,7 +109,9 @@
       "strongs": [
         "H2022"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2022",
         "morph": "HNcmsc"
@@ -135,7 +139,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/413",
         "morph": "HC/R"
@@ -303,7 +309,9 @@
       "strongs": [
         "H1697"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1697",
         "morph": "HC/Ncmsc"
@@ -337,5 +345,11 @@
         "morph": "HR/Np"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      5
+    ]
+  }
 }

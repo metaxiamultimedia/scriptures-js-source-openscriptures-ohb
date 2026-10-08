@@ -23,7 +23,9 @@
       "strongs": [
         "H251"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "251",
         "morph": "HNcmpc"
@@ -164,7 +166,9 @@
         "H3808"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3808",
         "morph": "HTn",
@@ -199,5 +203,11 @@
         "morph": "HR/Sp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      3
+    ]
+  }
 }

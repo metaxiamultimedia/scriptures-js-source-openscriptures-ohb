@@ -121,7 +121,9 @@
       "strongs": [
         "H702"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "702",
         "morph": "HAcfsa"
@@ -191,7 +193,9 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1121 a",
         "morph": "HNcmpc"
@@ -232,6 +236,7 @@
         "type": "petuhah",
         "afterWordPosition": 16
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

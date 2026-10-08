@@ -37,7 +37,9 @@
       "strongs": [
         "H3541"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3541",
         "morph": "HD"
@@ -149,7 +151,9 @@
       "strongs": [
         "H5704"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5704",
         "morph": "HR"
@@ -253,5 +257,11 @@
         "morph": "HTd/Vqrmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      1
+    ]
+  }
 }

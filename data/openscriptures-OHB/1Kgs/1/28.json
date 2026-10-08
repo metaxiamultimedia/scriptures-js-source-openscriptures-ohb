@@ -65,7 +65,9 @@
       "strongs": [
         "H7121"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7121",
         "morph": "HVqv2mp"
@@ -92,7 +94,9 @@
       "strongs": [
         "H1339"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/1339+",
         "morph": "HR/Np"
@@ -196,5 +200,8 @@
         "morph": "HTd/Ncmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

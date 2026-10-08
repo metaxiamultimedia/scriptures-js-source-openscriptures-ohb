@@ -79,7 +79,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/3605",
         "morph": "HC/Ncmsc"
@@ -107,7 +109,9 @@
       "strongs": [
         "H2009"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/2009",
         "morph": "HC/Tm"
@@ -191,7 +195,9 @@
       "strongs": [
         "H1571"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1571",
         "morph": "HC/Ta"
@@ -281,5 +287,8 @@
         "morph": "HNp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

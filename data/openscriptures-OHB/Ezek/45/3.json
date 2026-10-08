@@ -9,7 +9,9 @@
       "strongs": [
         "H4480"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/4480 a",
         "morph": "HC/R"
@@ -163,7 +165,8 @@
       "lemma": "c/b",
       "morph": "HC/R/Sp3ms",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "c/b",
@@ -241,5 +244,8 @@
         "morph": "HAcmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

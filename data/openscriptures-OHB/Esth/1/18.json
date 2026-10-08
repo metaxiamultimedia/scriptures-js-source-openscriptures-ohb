@@ -65,7 +65,9 @@
       "strongs": [
         "H6539"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "6539",
         "morph": "HNp"
@@ -121,7 +123,9 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "853",
         "morph": "HTo"
@@ -239,5 +243,11 @@
         "morph": "HC/Ncmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      3
+    ]
+  }
 }

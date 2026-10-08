@@ -23,7 +23,9 @@
       "strongs": [
         "H6213"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "6213 a",
         "morph": "HVqi2ms"
@@ -51,7 +53,9 @@
       "strongs": [
         "H518"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "518 a",
         "morph": "HC"
@@ -113,5 +117,11 @@
         "morph": "HTj"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      6
+    ]
+  }
 }

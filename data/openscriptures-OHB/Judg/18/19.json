@@ -50,7 +50,9 @@
       "strongs": [
         "H7760"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7760 a",
         "morph": "HVqv2ms"
@@ -78,7 +80,9 @@
       "strongs": [
         "H5921"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5921 a",
         "morph": "HR"
@@ -134,7 +138,9 @@
       "strongs": [
         "H1961"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1961",
         "morph": "HC/Vqv2ms"
@@ -349,5 +355,11 @@
         "morph": "HR/Np"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      14
+    ]
+  }
 }

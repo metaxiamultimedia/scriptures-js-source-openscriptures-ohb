@@ -135,7 +135,9 @@
       "strongs": [
         "H7218"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7218 a",
         "morph": "HNcmsc"
@@ -251,7 +253,9 @@
       "strongs": [
         "H2568"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "b/2568",
         "morph": "HR/Acmsa"
@@ -286,5 +290,8 @@
         "morph": "HNcmpa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

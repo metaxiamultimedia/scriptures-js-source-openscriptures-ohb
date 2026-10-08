@@ -232,7 +232,9 @@
       "strongs": [
         "H3588"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3588 c",
         "morph": "HC"
@@ -247,7 +249,9 @@
         "H5921"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5921 b",
         "morph": "HR",
@@ -262,7 +266,9 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1121 a",
         "morph": "HNcmsc"
@@ -326,5 +332,8 @@
         "morph": "HTm"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

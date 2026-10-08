@@ -9,7 +9,9 @@
       "strongs": [
         "H2388"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2388",
         "morph": "HVpi3mp"
@@ -134,7 +136,9 @@
       "strongs": [
         "H7200"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7200",
         "morph": "HVqi3ms"
@@ -153,5 +157,11 @@
         "morph": "HR/Sp3mp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
+    ]
+  }
 }

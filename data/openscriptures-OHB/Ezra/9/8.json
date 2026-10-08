@@ -23,7 +23,9 @@
       "strongs": [
         "H4592"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "k/4592",
         "morph": "HR/Ncmsa"
@@ -162,7 +164,9 @@
       "strongs": [
         "H5414"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/l/5414",
         "morph": "HC/R/Vqc"
@@ -321,5 +325,11 @@
         "morph": "HR/Ncfsc/Sp1cp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      6
+    ]
+  }
 }

@@ -52,7 +52,9 @@
         "H7080"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "k/7080",
         "morph": "HR/Vqc",
@@ -136,7 +138,9 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1931",
         "morph": "HC/Pp3ms"
@@ -191,6 +195,7 @@
         "type": "petuhah",
         "afterWordPosition": 13
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

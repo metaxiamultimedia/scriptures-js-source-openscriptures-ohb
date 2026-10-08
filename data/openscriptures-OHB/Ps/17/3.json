@@ -79,7 +79,9 @@
       "strongs": [
         "H1077"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1077",
         "morph": "HTn"
@@ -121,7 +123,9 @@
       "strongs": [
         "H1077"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1077",
         "morph": "HTn"
@@ -135,7 +139,9 @@
       "strongs": [
         "H5674"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5674 a",
         "morph": "HVqi3ms"
@@ -155,5 +161,11 @@
         "morph": "HNcmsc/Sp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
+    ]
+  }
 }

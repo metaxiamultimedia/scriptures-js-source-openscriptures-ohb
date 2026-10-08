@@ -51,7 +51,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3605",
         "morph": "HNcmsc"
@@ -65,7 +67,9 @@
       "strongs": [
         "H2416"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2416 c",
         "morph": "HNcfsc/Sp3ms"
@@ -93,7 +97,9 @@
       "strongs": [
         "H1571"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1571",
         "morph": "HTa"
@@ -121,7 +127,9 @@
       "strongs": [
         "H1571"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1571",
         "morph": "HTa"
@@ -281,5 +289,8 @@
         "morph": "HVpp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

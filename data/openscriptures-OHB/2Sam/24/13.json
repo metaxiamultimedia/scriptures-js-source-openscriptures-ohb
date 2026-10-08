@@ -9,7 +9,9 @@
       "strongs": [
         "H935"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/935",
         "morph": "HC/Vqw3ms"
@@ -37,7 +39,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -65,7 +69,9 @@
       "strongs": [
         "H5046"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/5046",
         "morph": "HC/Vhw3ms"
@@ -202,7 +208,9 @@
       "strongs": [
         "H518"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "518 a",
         "morph": "HC"
@@ -258,7 +266,9 @@
       "strongs": [
         "H6440"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/6440",
         "morph": "HR/Ncbpc"
@@ -314,7 +324,9 @@
       "strongs": [
         "H518"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/518 a",
         "morph": "HC/C"
@@ -440,7 +452,9 @@
       "strongs": [
         "H4100"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4100",
         "morph": "HTi"
@@ -495,6 +509,11 @@
         "type": "setumah",
         "afterWordPosition": 35
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      12,
+      13
     ]
   }
 }

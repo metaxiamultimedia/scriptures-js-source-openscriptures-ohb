@@ -52,7 +52,9 @@
         "H3212"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3212",
         "morph": "HVqv2ms",
@@ -95,7 +97,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -263,7 +267,9 @@
       "strongs": [
         "H6895"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/6895",
         "morph": "HC/Vqv2ms/Sp3ms"
@@ -311,5 +317,8 @@
         "morph": "HVqv2ms/Sh"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

@@ -37,7 +37,9 @@
       "strongs": [
         "H8641"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "8641",
         "morph": "HNcfsc"
@@ -331,7 +333,9 @@
       "strongs": [
         "H4720"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4720",
         "morph": "HNcmsc"
@@ -365,5 +369,8 @@
         "morph": "HR/Ncmsc/Sp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

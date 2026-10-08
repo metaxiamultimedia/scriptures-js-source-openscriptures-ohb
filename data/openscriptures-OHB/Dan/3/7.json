@@ -9,7 +9,9 @@
       "strongs": [
         "H3606"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "k/3606",
         "morph": "AC/C"
@@ -49,7 +51,8 @@
       "lemma": "b",
       "morph": "AR/Sp3ms",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "b",
@@ -106,7 +109,9 @@
       "strongs": [
         "H3606"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3606",
         "morph": "ANcmsc"
@@ -276,7 +281,9 @@
       "strongs": [
         "H3606"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3606",
         "morph": "ANcmsc"
@@ -437,5 +444,8 @@
         "morph": "ANcmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

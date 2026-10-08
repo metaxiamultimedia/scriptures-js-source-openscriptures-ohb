@@ -107,7 +107,9 @@
       "strongs": [
         "H1980"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1980",
         "morph": "HVqp3cp"
@@ -135,7 +137,9 @@
       "strongs": [
         "H6299"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/6299",
         "morph": "HR/Vqc"
@@ -389,5 +393,8 @@
         "morph": "HC/Ncmpc/Sp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

@@ -93,7 +93,9 @@
       "strongs": [
         "H7262"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7262+",
         "morph": "HNp"
@@ -149,7 +151,9 @@
       "strongs": [
         "H4428"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4428",
         "morph": "HNcmsc"
@@ -379,5 +383,12 @@
         "morph": "HTd/VNrfsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      5,
+      12
+    ]
+  }
 }

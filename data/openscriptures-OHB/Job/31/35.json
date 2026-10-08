@@ -23,7 +23,9 @@
       "strongs": [
         "H5414"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5414",
         "morph": "HVqi3ms"
@@ -77,7 +79,9 @@
       "strongs": [
         "H2005"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2005",
         "morph": "HTj"
@@ -181,5 +185,11 @@
         "morph": "HNcbsc/Sp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      3
+    ]
+  }
 }

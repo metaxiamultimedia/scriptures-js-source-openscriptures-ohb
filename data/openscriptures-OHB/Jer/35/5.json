@@ -51,7 +51,9 @@
       "strongs": [
         "H1004"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1004 b",
         "morph": "HNcmsc"
@@ -163,7 +165,9 @@
       "strongs": [
         "H8354"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "8354",
         "morph": "HVqv2mp"
@@ -183,5 +187,11 @@
         "morph": "HNcmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
+    ]
+  }
 }

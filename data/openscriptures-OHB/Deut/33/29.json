@@ -135,7 +135,9 @@
       "strongs": [
         "H834"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/834 a",
         "morph": "HC/Tr"
@@ -232,7 +234,9 @@
       "strongs": [
         "H5921"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5921 a",
         "morph": "HR"
@@ -273,6 +277,7 @@
         "type": "setumah",
         "afterWordPosition": 19
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

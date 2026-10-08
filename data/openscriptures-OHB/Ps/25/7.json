@@ -51,7 +51,9 @@
       "strongs": [
         "H408"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "408",
         "morph": "HTn"
@@ -93,7 +95,9 @@
       "strongs": [
         "H2142"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2142",
         "morph": "HVqv2ms"
@@ -105,7 +109,8 @@
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "l",
@@ -168,5 +173,11 @@
         "morph": "HNp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
+    ]
+  }
 }

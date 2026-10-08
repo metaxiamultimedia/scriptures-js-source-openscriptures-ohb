@@ -79,7 +79,9 @@
       "strongs": [
         "H520"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/520 a",
         "morph": "HC/Ncfsa"
@@ -149,7 +151,9 @@
       "strongs": [
         "H8337"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "8337",
         "morph": "HAcfsa"
@@ -225,5 +229,8 @@
         "morph": "HR/D"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

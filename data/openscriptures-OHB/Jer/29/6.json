@@ -121,7 +121,9 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/853",
         "morph": "HC/To"
@@ -219,7 +221,9 @@
       "strongs": [
         "H7235"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/7235 a",
         "morph": "HC/Vqv2mp"
@@ -247,7 +251,9 @@
       "strongs": [
         "H408"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/408",
         "morph": "HC/Tn"
@@ -267,5 +273,8 @@
         "morph": "HVqj2mp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

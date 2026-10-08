@@ -9,7 +9,9 @@
       "strongs": [
         "H518"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/518 a",
         "morph": "HC/C"
@@ -93,7 +95,9 @@
       "strongs": [
         "H6908"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "6908",
         "morph": "HVqi3ms"
@@ -168,5 +172,11 @@
         "morph": "HVpi3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      3
+    ]
+  }
 }

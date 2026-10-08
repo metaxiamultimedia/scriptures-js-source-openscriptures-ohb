@@ -51,7 +51,9 @@
       "strongs": [
         "H160"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/160",
         "morph": "HC/Ncfsa"
@@ -107,7 +109,9 @@
       "strongs": [
         "H8135"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/8135",
         "morph": "HC/Ncfsa"
@@ -126,5 +130,8 @@
         "morph": "HR/Sp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

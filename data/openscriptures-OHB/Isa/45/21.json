@@ -205,7 +205,9 @@
       "strongs": [
         "H369"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/369",
         "morph": "HC/Tn"
@@ -261,7 +263,9 @@
       "strongs": [
         "H410"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "410",
         "morph": "HNcmsa"
@@ -323,5 +327,8 @@
         "morph": "HR/Sp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

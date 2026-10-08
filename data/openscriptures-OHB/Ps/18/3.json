@@ -93,7 +93,9 @@
       "strongs": [
         "H2620"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2620",
         "morph": "HVqi1cs"
@@ -134,7 +136,9 @@
       "strongs": [
         "H7161"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/7161 a",
         "morph": "HC/Ncbsc"
@@ -168,5 +172,11 @@
         "morph": "HNcmsc/Sp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      1
+    ]
+  }
 }

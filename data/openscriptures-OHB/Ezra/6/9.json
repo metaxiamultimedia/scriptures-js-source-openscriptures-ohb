@@ -219,7 +219,9 @@
       "strongs": [
         "H1768"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1768",
         "morph": "ATr"
@@ -316,7 +318,9 @@
       "strongs": [
         "H1768"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1768",
         "morph": "AC"
@@ -350,5 +354,14 @@
         "morph": "ANcfsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      6,
+      7,
+      11,
+      21
+    ]
+  }
 }

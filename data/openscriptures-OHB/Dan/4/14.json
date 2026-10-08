@@ -138,7 +138,9 @@
       "strongs": [
         "H5705"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5705",
         "morph": "AR"
@@ -208,7 +210,9 @@
       "strongs": [
         "H1768"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1768",
         "morph": "ATr"
@@ -282,7 +286,9 @@
       "strongs": [
         "H4479"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/l/4479",
         "morph": "AC/R/Pfxcs"
@@ -388,5 +394,8 @@
         "type": "x-ketiv"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

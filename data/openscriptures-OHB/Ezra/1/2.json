@@ -190,7 +190,9 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1931",
         "morph": "HC/Pp3ms"
@@ -232,7 +234,9 @@
       "strongs": [
         "H1129"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/1129",
         "morph": "HR/Vqc"
@@ -307,5 +311,8 @@
         "morph": "HR/Np"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

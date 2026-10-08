@@ -9,7 +9,9 @@
       "strongs": [
         "H408"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "408",
         "morph": "HTn"
@@ -93,7 +95,9 @@
       "strongs": [
         "H4964"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "b/4964",
         "morph": "HR/Ncmsa"
@@ -183,5 +187,11 @@
         "morph": "HR/Sp2ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
+    ]
+  }
 }

@@ -37,7 +37,9 @@
       "strongs": [
         "H1130"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1130+",
         "morph": "HC/Np"
@@ -135,7 +137,9 @@
       "strongs": [
         "H7970"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7970",
         "morph": "HAcbpa"
@@ -197,5 +201,8 @@
         "morph": "HTo/Sp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

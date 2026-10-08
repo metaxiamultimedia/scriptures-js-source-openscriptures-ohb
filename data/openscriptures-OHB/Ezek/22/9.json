@@ -78,7 +78,9 @@
       "strongs": [
         "H8210"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "8210",
         "morph": "HVqc"
@@ -106,7 +108,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/413",
         "morph": "HC/R"
@@ -195,5 +199,8 @@
         "morph": "HR/Ncmsc/Sp2fs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

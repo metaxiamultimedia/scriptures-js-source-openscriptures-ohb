@@ -23,7 +23,9 @@
       "strongs": [
         "H5066"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5066",
         "morph": "HVqv2ms"
@@ -79,7 +81,9 @@
       "strongs": [
         "H935"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "935",
         "morph": "HVqp3ms"
@@ -279,5 +283,11 @@
         "morph": "HTd/Ncfsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      1
+    ]
+  }
 }

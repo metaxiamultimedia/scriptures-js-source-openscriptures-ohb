@@ -50,7 +50,9 @@
       "strongs": [
         "H4100"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4100",
         "morph": "HTi"
@@ -78,7 +80,9 @@
       "strongs": [
         "H4100"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/4100",
         "morph": "HC/Ti"
@@ -148,7 +152,9 @@
       "strongs": [
         "H518"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "518 b",
         "morph": "HC"
@@ -246,7 +252,9 @@
       "strongs": [
         "H5973"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5973 a",
         "morph": "HR"
@@ -273,6 +281,7 @@
         "type": "petuhah",
         "afterWordPosition": 19
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

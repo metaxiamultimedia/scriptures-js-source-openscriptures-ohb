@@ -37,7 +37,9 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "853",
         "morph": "HTo"
@@ -204,7 +206,9 @@
       "strongs": [
         "H376"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "376",
         "morph": "HNcmpc"
@@ -280,5 +284,11 @@
         "morph": "HTn"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      19
+    ]
+  }
 }

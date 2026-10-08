@@ -65,7 +65,9 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "m/1121 a",
         "morph": "HR/Ncmpc"
@@ -177,7 +179,9 @@
       "strongs": [
         "H376"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "376",
         "morph": "HNcmpc"
@@ -197,5 +201,8 @@
         "morph": "HNcmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

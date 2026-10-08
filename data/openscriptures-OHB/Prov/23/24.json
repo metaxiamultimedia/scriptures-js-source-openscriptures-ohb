@@ -100,7 +100,9 @@
         "H8055"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/8055",
         "morph": "HC/Vqi3ms",
@@ -181,5 +183,8 @@
         "morph": "HVqi3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

@@ -51,7 +51,9 @@
       "strongs": [
         "H3027"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3027",
         "morph": "HNcbsc"
@@ -79,7 +81,9 @@
       "strongs": [
         "H1961"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1961",
         "morph": "HVqp3fs"
@@ -250,5 +254,11 @@
         "morph": "HD"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      1
+    ]
+  }
 }

@@ -23,7 +23,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -79,7 +81,9 @@
       "strongs": [
         "H7617"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7617",
         "morph": "HVNp3cp"
@@ -225,5 +229,11 @@
         "morph": "HVqp1cp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      8
+    ]
+  }
 }

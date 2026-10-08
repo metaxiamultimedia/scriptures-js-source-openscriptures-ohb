@@ -51,7 +51,9 @@
       "strongs": [
         "H3205"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3205",
         "morph": "HVqp3ms"
@@ -78,7 +80,9 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "853",
         "morph": "HTo"
@@ -315,6 +319,10 @@
         "type": "petuhah",
         "afterWordPosition": 22
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      11
     ]
   }
 }

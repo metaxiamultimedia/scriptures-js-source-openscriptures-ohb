@@ -107,7 +107,9 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1931",
         "morph": "HPp3ms"
@@ -177,7 +179,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/3605",
         "morph": "HR/Ncmsc"
@@ -232,6 +236,7 @@
         "type": "petuhah",
         "afterWordPosition": 16
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

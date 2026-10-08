@@ -9,7 +9,9 @@
       "strongs": [
         "H518"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/518 a",
         "morph": "HC/C"
@@ -37,7 +39,9 @@
       "strongs": [
         "H859"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "859 c",
         "morph": "HPp2ms"
@@ -120,7 +124,9 @@
       "strongs": [
         "H518"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "518 a",
         "morph": "HC"
@@ -176,7 +182,9 @@
       "strongs": [
         "H408"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/408",
         "morph": "HC/Tn"
@@ -217,6 +225,10 @@
         "type": "petuhah",
         "afterWordPosition": 15
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
     ]
   }
 }

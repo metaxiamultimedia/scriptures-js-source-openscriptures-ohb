@@ -40,7 +40,9 @@
         "H1323"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1323",
         "morph": "HNcfsc",
@@ -69,7 +71,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3605",
         "morph": "HNcmsc"
@@ -139,7 +143,9 @@
       "strongs": [
         "H3808"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3808",
         "morph": "HTn"
@@ -195,7 +201,9 @@
       "strongs": [
         "H3808"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "b/3808",
         "morph": "HR/Tn"
@@ -265,6 +273,7 @@
         "type": "setumah",
         "afterWordPosition": 17
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

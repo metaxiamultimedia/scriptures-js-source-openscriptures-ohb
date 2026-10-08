@@ -51,7 +51,9 @@
       "strongs": [
         "H7218"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/7218 a",
         "morph": "HC/Ncmsa"
@@ -149,7 +151,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -253,5 +257,8 @@
         "morph": "HTd/Ncbpa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

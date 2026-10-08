@@ -93,7 +93,9 @@
       "strongs": [
         "H2009"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/2009",
         "morph": "HC/Tm"
@@ -149,7 +151,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/3605",
         "morph": "HR/Ncmsc"
@@ -246,6 +250,7 @@
         "type": "setumah",
         "afterWordPosition": 17
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

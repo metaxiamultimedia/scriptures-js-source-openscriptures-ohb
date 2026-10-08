@@ -65,7 +65,9 @@
       "strongs": [
         "H6440"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/6440",
         "morph": "HR/Ncbpc"
@@ -107,7 +109,9 @@
       "strongs": [
         "H1077"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1077",
         "morph": "HTn"
@@ -162,6 +166,10 @@
         "type": "petuhah",
         "afterWordPosition": 11
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
     ]
   }
 }

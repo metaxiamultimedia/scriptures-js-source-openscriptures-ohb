@@ -192,7 +192,9 @@
         "H1961"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1961",
         "morph": "HVqi3ms",
@@ -340,5 +342,8 @@
         "morph": "HVqi3mp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

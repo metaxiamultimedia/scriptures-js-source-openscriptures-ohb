@@ -37,7 +37,9 @@
       "strongs": [
         "H1768"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1768",
         "morph": "ATr"
@@ -93,7 +95,9 @@
       "strongs": [
         "H5675"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5675",
         "morph": "ANp"
@@ -219,7 +223,9 @@
       "strongs": [
         "H5922"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5922",
         "morph": "AR"
@@ -253,5 +259,11 @@
         "morph": "ANcmsd/Td"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      5
+    ]
+  }
 }

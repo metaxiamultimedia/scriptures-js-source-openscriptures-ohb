@@ -65,7 +65,9 @@
       "strongs": [
         "H571"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/571",
         "morph": "HC/Ncfsc"
@@ -107,7 +109,9 @@
       "strongs": [
         "H1984"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1984 b",
         "morph": "HVpv2mp"
@@ -127,5 +131,11 @@
         "morph": "HNp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      3
+    ]
+  }
 }

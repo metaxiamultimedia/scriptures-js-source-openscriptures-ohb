@@ -79,7 +79,9 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1121 a",
         "morph": "HNcmsc"
@@ -107,7 +109,9 @@
       "strongs": [
         "H2022"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2022",
         "morph": "HNcmsc"
@@ -134,6 +138,7 @@
         "type": "setumah",
         "afterWordPosition": 9
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

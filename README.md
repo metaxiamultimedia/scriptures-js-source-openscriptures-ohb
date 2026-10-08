@@ -90,6 +90,26 @@ Each verse includes morphological annotations:
 }
 ```
 
+### Masoretic marks (structural metadata)
+
+The data model is **words-only**: every word's `text` carries just the letters,
+points, and cantillation, so gematria totals and word counts are never affected
+by scribal punctuation. The Masoretic marks the WLC places *around* words are
+preserved separately so a renderer can reproduce a faithful text:
+
+- **`words[].metadata.joinNext: "maqqef"`** — the maqqef (־, U+05BE) connector;
+  recorded on the word it binds to the following word.
+- **`metadata.terminator: "sof-pasuq"`** — the verse-ending sof-pasuq (׃,
+  U+05C3). Recorded once per verse; omitted for the handful of verses the WLC
+  leaves open (e.g. the enjambed divine-name formula of Exod 34:6).
+- **`metadata.paseq: [n, …]`** — the paseq disjunctive (׀, U+05C0), as the
+  1-based positions of the words it follows.
+- **`metadata.paragraphBreaks`**, **`metadata.scribalMarks`** — petuhah/setumah
+  parashah breaks and the reversed nun (nun hafukha), likewise verse-level.
+
+All of these are structural only: they never enter `words[]` and never carry a
+numeric value.
+
 ## Morphology Codes
 
 This edition includes Hebrew morphology codes:

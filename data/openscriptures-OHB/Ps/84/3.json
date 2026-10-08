@@ -23,7 +23,9 @@
       "strongs": [
         "H1571"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1571",
         "morph": "HC/Ta"
@@ -149,7 +151,9 @@
       "strongs": [
         "H410"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "410",
         "morph": "HNcmsa"
@@ -169,5 +173,11 @@
         "morph": "HAamsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      3
+    ]
+  }
 }

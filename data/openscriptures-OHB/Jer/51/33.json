@@ -107,7 +107,9 @@
       "strongs": [
         "H1323"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1323",
         "morph": "HNcfsc"
@@ -219,7 +221,9 @@
       "strongs": [
         "H6256"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "6256",
         "morph": "HNcbsc"
@@ -252,5 +256,8 @@
         "morph": "HR/Sp3fs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

@@ -147,7 +147,9 @@
       "strongs": [
         "H776"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "b/776",
         "morph": "HR/Ncbsc"
@@ -189,7 +191,9 @@
       "strongs": [
         "H1097"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1097",
         "morph": "HTn"
@@ -209,5 +213,12 @@
         "morph": "HNcmpa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      1,
+      6
+    ]
+  }
 }

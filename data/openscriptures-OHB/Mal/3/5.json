@@ -163,7 +163,9 @@
       "strongs": [
         "H7939"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7939",
         "morph": "HNcmsc"
@@ -219,7 +221,9 @@
       "strongs": [
         "H5186"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/5186",
         "morph": "HC/Vhrmpc"
@@ -309,5 +313,11 @@
         "morph": "HNcbpa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      4
+    ]
+  }
 }

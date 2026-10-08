@@ -107,7 +107,9 @@
       "strongs": [
         "H5921"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5921 a",
         "morph": "HR"
@@ -289,7 +291,9 @@
       "strongs": [
         "H5892"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "d/5892 b",
         "morph": "HTd/Ncfsa"
@@ -323,5 +327,12 @@
         "morph": "HR/Ncmsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      5,
+      11
+    ]
+  }
 }

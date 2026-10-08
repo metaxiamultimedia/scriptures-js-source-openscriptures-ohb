@@ -93,7 +93,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -163,7 +165,9 @@
       "strongs": [
         "H1130"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1130+",
         "morph": "HNp"
@@ -205,7 +209,9 @@
       "strongs": [
         "H2421"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2421",
         "morph": "HVqj3fs"
@@ -309,5 +315,8 @@
         "morph": "HPp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

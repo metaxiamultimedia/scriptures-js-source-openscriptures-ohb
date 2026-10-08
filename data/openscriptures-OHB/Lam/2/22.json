@@ -121,7 +121,9 @@
       "strongs": [
         "H639"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "639",
         "morph": "HTa"
@@ -177,7 +179,9 @@
       "strongs": [
         "H834"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "834 a",
         "morph": "HTr"
@@ -246,6 +250,7 @@
         "type": "petuhah",
         "afterWordPosition": 17
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

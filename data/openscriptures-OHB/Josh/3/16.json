@@ -79,7 +79,9 @@
       "strongs": [
         "H5067"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5067",
         "morph": "HNcmsa"
@@ -263,7 +265,9 @@
       "strongs": [
         "H3220"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3220",
         "morph": "HNcmsc"
@@ -382,5 +386,8 @@
         "morph": "HR/Np"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

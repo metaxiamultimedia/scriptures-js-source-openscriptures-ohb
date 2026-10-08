@@ -107,7 +107,9 @@
       "strongs": [
         "H1870"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1870",
         "morph": "HNcbsc"
@@ -135,7 +137,9 @@
       "strongs": [
         "H3820"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "b/3820 a",
         "morph": "HR/Ncmsc"
@@ -197,5 +201,11 @@
         "morph": "HR/Ncfsa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
+    ]
+  }
 }

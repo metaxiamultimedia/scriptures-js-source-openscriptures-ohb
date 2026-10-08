@@ -177,7 +177,9 @@
       "strongs": [
         "H398"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/398",
         "morph": "HR/Vqc"
@@ -205,7 +207,9 @@
       "strongs": [
         "H5973"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5973 a",
         "morph": "HR"
@@ -267,5 +271,11 @@
         "morph": "HTd/Ncmpa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      10
+    ]
+  }
 }

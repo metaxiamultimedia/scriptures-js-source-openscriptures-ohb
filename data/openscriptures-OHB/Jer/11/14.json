@@ -23,7 +23,9 @@
       "strongs": [
         "H408"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "408",
         "morph": "HTn"
@@ -51,7 +53,9 @@
       "strongs": [
         "H1157"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1157",
         "morph": "HR"
@@ -93,7 +97,9 @@
       "strongs": [
         "H408"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/408",
         "morph": "HC/Tn"
@@ -274,6 +280,7 @@
         "type": "setumah",
         "afterWordPosition": 19
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

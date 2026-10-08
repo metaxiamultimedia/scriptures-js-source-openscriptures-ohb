@@ -64,7 +64,9 @@
       "strongs": [
         "H1130"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1130+",
         "morph": "HNp"
@@ -118,7 +120,8 @@
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "l",
@@ -187,7 +190,8 @@
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "l",
@@ -208,5 +212,8 @@
         "morph": "HPp3mp"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

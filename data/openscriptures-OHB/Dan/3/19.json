@@ -109,7 +109,9 @@
       "strongs": [
         "H5922"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5922",
         "morph": "AR"
@@ -235,7 +237,9 @@
       "strongs": [
         "H2298"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2298",
         "morph": "AAcmsa"
@@ -326,5 +330,8 @@
         "morph": "AVPp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

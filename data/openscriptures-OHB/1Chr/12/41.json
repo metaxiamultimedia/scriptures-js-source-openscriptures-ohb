@@ -23,7 +23,9 @@
       "strongs": [
         "H7138"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "d/7138",
         "morph": "HTd/Aampa"
@@ -51,7 +53,9 @@
       "strongs": [
         "H5704"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5704",
         "morph": "HR"
@@ -247,7 +251,9 @@
       "strongs": [
         "H3196"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/3196",
         "morph": "HC/Ncmsa"
@@ -358,6 +364,10 @@
         "type": "petuhah",
         "afterWordPosition": 25
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      12
     ]
   }
 }

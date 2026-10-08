@@ -93,7 +93,9 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "853",
         "morph": "HTo"
@@ -293,7 +295,9 @@
       "strongs": [
         "H5002"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5002",
         "morph": "HNcmsc"
@@ -335,6 +339,7 @@
         "type": "setumah",
         "afterWordPosition": 22
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

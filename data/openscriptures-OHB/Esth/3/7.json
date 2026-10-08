@@ -37,7 +37,9 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1931",
         "morph": "HPp3ms"
@@ -289,7 +291,9 @@
       "strongs": [
         "H8147"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "8147",
         "morph": "HAcmda"
@@ -317,7 +321,9 @@
       "strongs": [
         "H1931"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1931",
         "morph": "HPp3ms"
@@ -358,6 +364,10 @@
         "type": "setumah",
         "afterWordPosition": 25
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      17
     ]
   }
 }

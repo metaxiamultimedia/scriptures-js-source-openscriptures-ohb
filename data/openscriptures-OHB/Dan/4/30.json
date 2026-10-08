@@ -7,7 +7,8 @@
       "lemma": "b",
       "morph": "AR/Sp3fs",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "b",
@@ -64,7 +65,9 @@
       "strongs": [
         "H5922"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5922",
         "morph": "AR"
@@ -92,7 +95,9 @@
       "strongs": [
         "H4481"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/4481",
         "morph": "AC/R"
@@ -322,5 +327,8 @@
         "morph": "AR/Ncfpa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

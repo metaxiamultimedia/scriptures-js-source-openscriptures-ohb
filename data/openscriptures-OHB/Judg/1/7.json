@@ -23,7 +23,9 @@
       "strongs": [
         "H137"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "137+",
         "morph": "HNp"
@@ -233,7 +235,9 @@
       "strongs": [
         "H7999"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7999 a",
         "morph": "HVpp3ms"
@@ -329,6 +333,10 @@
         "type": "petuhah",
         "afterWordPosition": 23
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      4
     ]
   }
 }

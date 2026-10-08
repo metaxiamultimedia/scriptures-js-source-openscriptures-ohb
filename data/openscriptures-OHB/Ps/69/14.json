@@ -23,7 +23,9 @@
       "strongs": [
         "H8605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "8605",
         "morph": "HNcfsc/Sp1cs"
@@ -106,7 +108,9 @@
       "strongs": [
         "H7230"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "b/7230",
         "morph": "HR/Ncbsc"
@@ -168,5 +172,11 @@
         "morph": "HNcmsc/Sp2ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      3
+    ]
+  }
 }

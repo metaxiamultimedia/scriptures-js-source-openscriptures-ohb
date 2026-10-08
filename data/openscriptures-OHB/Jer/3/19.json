@@ -79,7 +79,9 @@
       "strongs": [
         "H5414"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/5414",
         "morph": "HC/Vqi1cs"
@@ -219,7 +221,9 @@
         "H7121"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7121",
         "morph": "HVqi2mp",
@@ -314,5 +318,8 @@
         "morph": "HVqi2fs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

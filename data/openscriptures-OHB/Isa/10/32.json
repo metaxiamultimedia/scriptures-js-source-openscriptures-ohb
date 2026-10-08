@@ -108,7 +108,9 @@
         "H1004"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1004 b",
         "morph": "HNcmsc",
@@ -179,6 +181,7 @@
         "type": "setumah",
         "afterWordPosition": 11
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

@@ -37,7 +37,9 @@
       "strongs": [
         "H1008"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1008+",
         "morph": "HNp"
@@ -65,7 +67,9 @@
       "strongs": [
         "H6213"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/6213 a",
         "morph": "HC/Vqi1cs"
@@ -239,5 +243,8 @@
         "morph": "HVqp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

@@ -7,7 +7,8 @@
       "lemma": "l",
       "morph": "HR/Sp1cs",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "l",
@@ -84,5 +85,8 @@
         "morph": "HNcfsc/Sp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

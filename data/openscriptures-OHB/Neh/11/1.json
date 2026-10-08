@@ -23,7 +23,9 @@
       "strongs": [
         "H8269"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "8269",
         "morph": "HNcmpc"
@@ -149,7 +151,9 @@
       "strongs": [
         "H4480"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4480 a",
         "morph": "HR"
@@ -267,5 +271,11 @@
         "morph": "HRd/Ncfpa"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      9
+    ]
+  }
 }

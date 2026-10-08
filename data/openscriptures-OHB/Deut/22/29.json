@@ -121,7 +121,8 @@
       "lemma": "c/l",
       "morph": "HC/R/Sp3ms",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "c/l",
@@ -206,7 +207,9 @@
       "strongs": [
         "H3808"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3808",
         "morph": "HTn"
@@ -248,7 +251,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3605",
         "morph": "HNcmsc"
@@ -290,6 +295,7 @@
         "type": "setumah",
         "afterWordPosition": 19
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

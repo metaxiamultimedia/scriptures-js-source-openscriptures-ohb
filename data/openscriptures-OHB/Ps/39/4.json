@@ -9,7 +9,9 @@
       "strongs": [
         "H2552"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "2552",
         "morph": "HVqp3ms"
@@ -65,7 +67,9 @@
       "strongs": [
         "H1197"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1197 a",
         "morph": "HVqi3fs"
@@ -113,5 +117,11 @@
         "morph": "HR/Ncbsc/Sp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      2
+    ]
+  }
 }

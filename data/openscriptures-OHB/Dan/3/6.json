@@ -9,7 +9,9 @@
       "strongs": [
         "H4479"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/4479",
         "morph": "AC/Pf3bs"
@@ -23,7 +25,9 @@
       "strongs": [
         "H1768"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1768",
         "morph": "APf3bs"
@@ -77,7 +81,8 @@
       "lemma": "b",
       "morph": "AR/Sp3ms",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "b",
@@ -120,7 +125,9 @@
       "strongs": [
         "H1459"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/1459",
         "morph": "AR/Ncmsc"
@@ -168,5 +175,8 @@
         "morph": "AVqrfsd/Td"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

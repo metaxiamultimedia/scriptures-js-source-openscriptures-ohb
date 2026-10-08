@@ -7,7 +7,8 @@
       "lemma": "i",
       "morph": "HTi",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "i",
@@ -36,7 +37,9 @@
       "strongs": [
         "H1580"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1580",
         "morph": "HVqi2mp"
@@ -120,7 +123,9 @@
       "strongs": [
         "H3808"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "i/3808",
         "morph": "HTi/Tn"
@@ -210,5 +215,8 @@
         "morph": "HC/Vow3ms/Sp2ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

@@ -51,7 +51,9 @@
       "strongs": [
         "H1077"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1077",
         "morph": "HTn"
@@ -107,7 +109,9 @@
       "strongs": [
         "H7068"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7068",
         "morph": "HNcfsc"
@@ -135,7 +139,9 @@
       "strongs": [
         "H637"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "637",
         "morph": "HTa"
@@ -190,6 +196,7 @@
         "type": "setumah",
         "afterWordPosition": 13
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

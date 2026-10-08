@@ -9,7 +9,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/3605",
         "morph": "HC/Ncmsc"
@@ -37,7 +39,9 @@
       "strongs": [
         "H1101"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1101 a",
         "morph": "HVqsfsa"
@@ -79,7 +83,9 @@
       "strongs": [
         "H3605"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/3605",
         "morph": "HR/Ncmsc"
@@ -162,6 +168,7 @@
         "type": "petuhah",
         "afterWordPosition": 11
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

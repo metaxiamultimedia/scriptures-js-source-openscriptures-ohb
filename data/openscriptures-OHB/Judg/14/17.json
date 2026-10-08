@@ -65,7 +65,9 @@
       "strongs": [
         "H834"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "834 a",
         "morph": "HTr"
@@ -162,7 +164,9 @@
       "strongs": [
         "H5046"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/5046",
         "morph": "HC/Vhw3ms"
@@ -265,5 +269,11 @@
         "morph": "HNcmsc/Sp3fs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      9
+    ]
+  }
 }

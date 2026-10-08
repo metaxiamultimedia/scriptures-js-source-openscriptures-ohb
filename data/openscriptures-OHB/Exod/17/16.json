@@ -23,7 +23,9 @@
       "strongs": [
         "H3588"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3588 a",
         "morph": "HC"
@@ -51,7 +53,9 @@
       "strongs": [
         "H5921"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5921 a",
         "morph": "HR"
@@ -162,6 +166,7 @@
         "type": "petuhah",
         "afterWordPosition": 11
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

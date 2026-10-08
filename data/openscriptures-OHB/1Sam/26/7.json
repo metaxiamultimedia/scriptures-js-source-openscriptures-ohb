@@ -51,7 +51,9 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -177,7 +179,9 @@
       "strongs": [
         "H4600"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4600",
         "morph": "HVqsfsa"
@@ -308,6 +312,10 @@
         "type": "setumah",
         "afterWordPosition": 19
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      3
     ]
   }
 }

@@ -52,7 +52,9 @@
         "H1419"
       ],
       "variant": "ketiv",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/1419 a",
         "morph": "HC/Aamsc",
@@ -228,5 +230,8 @@
         "morph": "HC/Aamsc"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

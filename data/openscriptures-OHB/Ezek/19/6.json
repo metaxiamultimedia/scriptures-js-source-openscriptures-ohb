@@ -23,7 +23,9 @@
       "strongs": [
         "H8432"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "b/8432",
         "morph": "HR/Ncmsc"
@@ -93,7 +95,9 @@
       "strongs": [
         "H2963"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/2963",
         "morph": "HR/Vqc"
@@ -141,5 +145,8 @@
         "morph": "HVqp3ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

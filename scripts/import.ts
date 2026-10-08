@@ -87,6 +87,19 @@ interface VerseData {
   metadata?: {
     scribalMarks?: ScribalMark[];
     paragraphBreaks?: ParagraphBreak[];
+    /**
+     * Masoretic verse terminator. The WLC closes every verse with a sof-pasuq
+     * (׃ U+05C3); recorded once per verse rather than as a redundant per-verse
+     * mark. Omitted if the source verse carries no sof-pasuq. Structural only —
+     * never valued, never in words[].
+     */
+    terminator?: 'sof-pasuq';
+    /**
+     * Paseq (׀ U+05C0) — a disjunctive mark the WLC places *between* two words.
+     * Recorded as the 1-based final positions of the words it follows (verse
+     * level, never in words[]), so gematria/word-count paths are untouched.
+     */
+    paseq?: number[];
   };
 }
 
@@ -147,6 +160,51 @@ const PARAGRAPH_TYPE_BY_CODE: Record<string, 'petuhah' | 'setumah'> = {
 };
 
 type ParagraphType = 'petuhah' | 'setumah';
+
+// Masoretic inter-word punctuation (maqqef / paseq). Like the paragraph markers
+// above, the WLC encodes these as <seg> placed BETWEEN words — maqqef
+// (x-maqqef, ־ U+05BE) connects a word to the next; paseq (x-paseq, ׀ U+05C0)
+// disjoins them. With preserveOrder:false the XML parser buckets segs into an
+// unordered `seg` array, losing which word they follow, so we relocate each one
+// INTO the preceding <w> as a Private-Use sentinel (distinct from the paragraph
+// sentinels above) that rides along as plain text in the right position;
+// extractPunctuation() later strips the sentinel and records which word it
+// follows. (sof-pasuq is handled separately: it is always verse-final and
+// one-per-verse, so it is detected by scanning the verse's segs and recorded as
+// a single verse-level `terminator` rather than relocated.)
+const PUNCT_START = '\uE002';
+const PUNCT_END = '\uE003';
+const PUNCT_TYPE_CODE: Record<string, string> = {
+  maqqef: 'M',
+  paseq: 'K',
+};
+const PUNCT_TYPE_BY_CODE: Record<string, 'maqqef' | 'paseq'> = {
+  M: 'maqqef',
+  K: 'paseq',
+};
+
+type PunctuationType = 'maqqef' | 'paseq';
+
+/**
+ * Pull any punctuation-marker sentinels off a word piece, returning the clean
+ * word text and the list of inter-word marks that follow this word (in order).
+ */
+function extractPunctuation(piece: string): {
+  clean: string;
+  punctuation: PunctuationType[];
+} {
+  if (!piece.includes(PUNCT_START)) return { clean: piece, punctuation: [] };
+  const punctuation: PunctuationType[] = [];
+  const clean = piece.replace(
+    new RegExp(`${PUNCT_START}(.)${PUNCT_END}`, 'g'),
+    (_m, code: string) => {
+      const type = PUNCT_TYPE_BY_CODE[code];
+      if (type) punctuation.push(type);
+      return '';
+    }
+  );
+  return { clean, punctuation };
+}
 
 /**
  * Pull any paragraph-marker sentinels off a word piece, returning the clean
@@ -269,6 +327,8 @@ interface ParsedVerse {
   number: number;
   text: string;
   scribalMarks?: ScribalMark[];
+  /** Transient: the verse carries a sof-pasuq terminator (always verse-final). */
+  hasSofPasuq?: boolean;
   words: Array<{
     position: number;
     text: string;
@@ -284,6 +344,8 @@ interface ParsedVerse {
     };
     /** Transient: paragraph breaks (petuhah/setumah) that follow this word. */
     paragraphsAfter?: ParagraphType[];
+    /** Transient: inter-word punctuation (maqqef/paseq) that follows this word. */
+    punctuationAfter?: PunctuationType[];
   }>;
 }
 
@@ -305,21 +367,34 @@ function parseOsis(xml: string): ParsedVerse[] {
       `${SPECIAL_START}${SPECIAL_TYPE_CODE[type]}${inner}${SPECIAL_END}`
   );
 
-  // Relocate paragraph-division markers (x-pe / x-samekh) that follow a word
-  // into the preceding <w> as ordered sentinels, so their position (which word
-  // they follow) survives the preserveOrder:false parse. A marker can sit at
-  // the end of a seg run (after sof-pasuq, maqqef, …); we lift only the pe/
-  // samekh out of that run and leave the other segs in place (they continue to
-  // be handled/skipped as before). Verse-trailing markers attach to the last
-  // word; mid-verse markers (e.g. Gen 35:22) attach to the word they follow.
+  // Relocate inter-word markers that follow a word into the preceding <w> as
+  // ordered sentinels, so their position (which word they follow) survives the
+  // preserveOrder:false parse. Two independent families ride in distinct
+  // Private-Use sentinels:
+  //   - paragraph divisions (x-pe / x-samekh)  -> MARK_*  (extractParagraphMarks)
+  //   - inter-word punctuation (x-maqqef / x-paseq) -> PUNCT_* (extractPunctuation)
+  // A marker can sit anywhere in a seg run (which may also contain sof-pasuq,
+  // notes, …); we lift only these families and leave the rest of the run in
+  // place (sof-pasuq stays a seg and is detected separately as the verse
+  // terminator; notes continue to be handled/skipped as before). Verse-trailing
+  // paragraph markers attach to the last word; mid-verse markers (e.g. the break
+  // inside Gen 35:22, or a maqqef between עַל and פְּנֵי) attach to the word they
+  // follow.
   xml = xml.replace(
     /<\/w>((?:\s*(?:<seg type="x-[a-z-]+">[^<]*<\/seg>|<note\b[^>]*>[\s\S]*?<\/note>))+)/g,
     (_m, run: string) => {
       let sentinels = '';
-      const kept = run.replace(
+      let kept = run.replace(
         /<seg type="x-(pe|samekh)">[^<]*<\/seg>/g,
         (_s, t: string) => {
           sentinels += `${MARK_START}${PARAGRAPH_CODE_BY_TYPE[t]}${MARK_END}`;
+          return '';
+        }
+      );
+      kept = kept.replace(
+        /<seg type="x-(maqqef|paseq)">[^<]*<\/seg>/g,
+        (_s, t: string) => {
+          sentinels += `${PUNCT_START}${PUNCT_TYPE_CODE[t]}${PUNCT_END}`;
           return '';
         }
       );
@@ -368,7 +443,8 @@ function parseOsis(xml: string): ParsedVerse[] {
             if (cleanText) {
               for (const rawWord of cleanText.split(/\s+/).filter(Boolean)) {
                 const { clean: afterParas, paragraphs } = extractParagraphMarks(rawWord);
-                const { clean: word, specials } = extractSpecialLetters(afterParas);
+                const { clean: afterPunct, punctuation } = extractPunctuation(afterParas);
+                const { clean: word, specials } = extractSpecialLetters(afterPunct);
                 // Skip maqqef-only entries (punctuation, not words)
                 if (word === MAQQEF) continue;
                 words.push({
@@ -379,6 +455,7 @@ function parseOsis(xml: string): ParsedVerse[] {
                   metadata: specials.length > 0 ? { specialLetters: specials } : {},
                   source: {},
                   ...(paragraphs.length > 0 ? { paragraphsAfter: paragraphs } : {}),
+                  ...(punctuation.length > 0 ? { punctuationAfter: punctuation } : {}),
                 });
               }
             }
@@ -416,7 +493,8 @@ function parseOsis(xml: string): ParsedVerse[] {
                 const strongs = extractStrongs(lemma || null, text);
                 for (const rawPiece of text.split(/\s+/).filter(Boolean)) {
                   const { clean: afterParas, paragraphs } = extractParagraphMarks(rawPiece);
-                  const { clean: piece, specials } = extractSpecialLetters(afterParas);
+                  const { clean: afterPunct, punctuation } = extractPunctuation(afterParas);
+                  const { clean: piece, specials } = extractSpecialLetters(afterPunct);
                   // Skip maqqef-only entries (punctuation, not words)
                   if (piece === MAQQEF) continue;
 
@@ -444,6 +522,7 @@ function parseOsis(xml: string): ParsedVerse[] {
                     metadata: specials.length > 0 ? { specialLetters: specials } : undefined,
                     source: Object.keys(source).length > 0 ? source : undefined,
                     ...(paragraphs.length > 0 ? { paragraphsAfter: paragraphs } : {}),
+                    ...(punctuation.length > 0 ? { punctuationAfter: punctuation } : {}),
                   });
                 }
               }
@@ -519,16 +598,23 @@ function parseOsis(xml: string): ParsedVerse[] {
         // recorded as verse metadata and never enters words[] (no effect on
         // gematria or word counts). All 9 attested marks (Num 10:34/36,
         // Ps 107:20-25/39) are verse-trailing, hence position 'after'.
+        // The sof-pasuq (׃ U+05C3) is the verse terminator: the WLC closes every
+        // verse with exactly one, always verse-final. Position is therefore
+        // fixed, so (unlike maqqef/paseq) it need not be relocated into a word —
+        // its mere presence is detected here from the unordered seg bucket and
+        // recorded once as a verse-level terminator.
         const scribalMarks: ScribalMark[] = [];
+        let hasSofPasuq = false;
         const rawSeg = record['seg'];
         const segList = Array.isArray(rawSeg) ? rawSeg : rawSeg ? [rawSeg] : [];
         for (const seg of segList) {
-          if (
-            seg &&
-            typeof seg === 'object' &&
-            (seg as Record<string, unknown>)['@_type'] === 'x-reversednun'
-          ) {
-            scribalMarks.push({ type: 'reversed-nun', position: 'after' });
+          if (seg && typeof seg === 'object') {
+            const segType = (seg as Record<string, unknown>)['@_type'];
+            if (segType === 'x-reversednun') {
+              scribalMarks.push({ type: 'reversed-nun', position: 'after' });
+            } else if (segType === 'x-sof-pasuq') {
+              hasSofPasuq = true;
+            }
           }
         }
 
@@ -541,6 +627,7 @@ function parseOsis(xml: string): ParsedVerse[] {
             number: parseInt(num, 10),
             text,
             ...(scribalMarks.length > 0 ? { scribalMarks } : {}),
+            ...(hasSofPasuq ? { hasSofPasuq: true } : {}),
             words,
           });
         }
@@ -583,6 +670,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
   // Filter out textual critical notes and paragraph markers, renumber positions
   const filteredWords: WordEntry[] = [];
   const paragraphBreaks: ParagraphBreak[] = [];
+  const paseqPositions: number[] = [];
   let position = 1;
   for (const w of verse.words) {
     if (isTextualCriticalNote(w)) continue;
@@ -600,6 +688,20 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
     if (w.paragraphsAfter) {
       for (const type of w.paragraphsAfter) {
         paragraphBreaks.push({ type, afterWordPosition: finalPosition });
+      }
+    }
+
+    // Record inter-word punctuation that follows this word. maqqef is a
+    // connector, so it rides on the word itself as `joinNext` (renderers join it
+    // to the following word); paseq is a verse-level disjunctive recorded by the
+    // position it follows. Neither is valued or enters the word count.
+    if (w.punctuationAfter) {
+      for (const type of w.punctuationAfter) {
+        if (type === 'maqqef') {
+          metadata.joinNext = 'maqqef';
+        } else if (type === 'paseq') {
+          paseqPositions.push(finalPosition);
+        }
       }
     }
 
@@ -630,6 +732,12 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
   }
   if (paragraphBreaks.length > 0) {
     metadata.paragraphBreaks = paragraphBreaks;
+  }
+  if (verse.hasSofPasuq) {
+    metadata.terminator = 'sof-pasuq';
+  }
+  if (paseqPositions.length > 0) {
+    metadata.paseq = paseqPositions;
   }
   if (Object.keys(metadata).length > 0) {
     data.metadata = metadata;

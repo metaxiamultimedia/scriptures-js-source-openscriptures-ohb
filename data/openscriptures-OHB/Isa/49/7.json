@@ -23,7 +23,9 @@
       "strongs": [
         "H559"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "559",
         "morph": "HVqp3ms"
@@ -93,7 +95,9 @@
       "strongs": [
         "H960"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/960",
         "morph": "HR/Vqc"
@@ -337,5 +341,8 @@
         "morph": "HC/Vqw3ms/Sp2ms"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

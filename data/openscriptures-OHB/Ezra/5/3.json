@@ -7,7 +7,8 @@
       "lemma": "b",
       "morph": "AR/Sp3ms",
       "metadata": {
-        "isPrefixOnly": true
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
       },
       "source": {
         "lemma": "b",
@@ -92,7 +93,9 @@
       "strongs": [
         "H5675"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5675",
         "morph": "ANp"
@@ -203,7 +206,9 @@
       "strongs": [
         "H4479"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4479",
         "morph": "APi3ms"
@@ -341,6 +346,7 @@
         "type": "setumah",
         "afterWordPosition": 24
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

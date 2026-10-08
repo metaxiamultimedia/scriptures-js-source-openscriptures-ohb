@@ -107,7 +107,9 @@
       "strongs": [
         "H3947"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/3947",
         "morph": "HC/Vqv2ms"
@@ -247,7 +249,9 @@
       "strongs": [
         "H518"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/518 a",
         "morph": "HC/C"
@@ -310,5 +314,11 @@
         "morph": "HTn"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq",
+    "paseq": [
+      13
+    ]
+  }
 }

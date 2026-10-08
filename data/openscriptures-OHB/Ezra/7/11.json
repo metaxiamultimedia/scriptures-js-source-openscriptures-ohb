@@ -177,7 +177,9 @@
       "strongs": [
         "H4687"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "4687",
         "morph": "HNcfpc"
@@ -219,7 +221,9 @@
       "strongs": [
         "H5921"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5921 a",
         "morph": "HR"
@@ -246,6 +250,10 @@
         "type": "petuhah",
         "afterWordPosition": 17
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      1
     ]
   }
 }

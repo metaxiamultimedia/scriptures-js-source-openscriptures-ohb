@@ -37,7 +37,9 @@
       "strongs": [
         "H1961"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1961",
         "morph": "HVqj3ms"
@@ -65,7 +67,9 @@
       "strongs": [
         "H1697"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1697",
         "morph": "HNcmsc"
@@ -302,6 +306,10 @@
         "type": "petuhah",
         "afterWordPosition": 21
       }
+    ],
+    "terminator": "sof-pasuq",
+    "paseq": [
+      9
     ]
   }
 }

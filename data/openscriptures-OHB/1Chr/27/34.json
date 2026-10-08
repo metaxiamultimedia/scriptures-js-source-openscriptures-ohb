@@ -51,7 +51,9 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "1121 a",
         "morph": "HNcmsc"
@@ -93,7 +95,9 @@
       "strongs": [
         "H8269"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/8269",
         "morph": "HC/Ncmsc"
@@ -148,6 +152,7 @@
         "type": "petuhah",
         "afterWordPosition": 10
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }

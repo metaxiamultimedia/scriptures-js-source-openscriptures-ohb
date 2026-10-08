@@ -79,7 +79,9 @@
       "strongs": [
         "H5401"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "c/5401 a",
         "morph": "HC/Vqw3ms"
@@ -120,7 +122,9 @@
       "strongs": [
         "H376"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "376",
         "morph": "HNcmsa"
@@ -182,5 +186,8 @@
         "morph": "HTd/Ncmsa/Sd"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

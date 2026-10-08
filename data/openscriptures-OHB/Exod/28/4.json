@@ -177,7 +177,9 @@
       "strongs": [
         "H899"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "899 b",
         "morph": "HNcmpc"
@@ -247,7 +249,9 @@
       "strongs": [
         "H3547"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "l/3547",
         "morph": "HR/Vpc/Sp3ms"
@@ -266,5 +270,8 @@
         "morph": "HR/Sp1cs"
       }
     }
-  ]
+  ],
+  "metadata": {
+    "terminator": "sof-pasuq"
+  }
 }

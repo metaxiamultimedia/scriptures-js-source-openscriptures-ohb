@@ -120,7 +120,9 @@
       "strongs": [
         "H5921"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "5921 a",
         "morph": "HR"
@@ -176,7 +178,9 @@
       "strongs": [
         "H3966"
       ],
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "3966",
         "morph": "HD"
@@ -203,6 +207,7 @@
         "type": "setumah",
         "afterWordPosition": 14
       }
-    ]
+    ],
+    "terminator": "sof-pasuq"
   }
 }
