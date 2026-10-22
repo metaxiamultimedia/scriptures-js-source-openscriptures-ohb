@@ -67,17 +67,23 @@
           {
             "index": 0,
             "char": "ל",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 1,
             "char": "נ",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 2,
             "char": "ו",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           }
         ],
         "isPrefixOnly": true
@@ -100,37 +106,51 @@
           {
             "index": 0,
             "char": "ו",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 1,
             "char": "ל",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 2,
             "char": "ב",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 3,
             "char": "נ",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 4,
             "char": "י",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 5,
             "char": "נ",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 6,
             "char": "ו",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           }
         ]
       },
@@ -148,7 +168,16 @@
         "H5704"
       ],
       "metadata": {
-        "joinNext": "maqqef"
+        "joinNext": "maqqef",
+        "points": [
+          {
+            "index": 0,
+            "char": "ע",
+            "mark": "upper",
+            "tradition": "masoretic-received",
+            "source": "Avot de-Rabbi Natan (A) 34; A.E. Brouwer, \"Typographic details in the Hebrew Bible\" (https://aeb.win.tue.nl/natlang/hebrew/hebrew_bible.html)"
+          }
+        ]
       },
       "source": {
         "lemma": "5704",

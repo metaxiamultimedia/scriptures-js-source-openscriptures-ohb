@@ -28,22 +28,32 @@
           {
             "index": 0,
             "char": "א",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 1,
             "char": "ל",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures",
+            "received": false,
+            "receivedSource": "Avot de-Rabbi Natan (A) 34; A.E. Brouwer, \"Typographic details in the Hebrew Bible\" (https://aeb.win.tue.nl/natlang/hebrew/hebrew_bible.html)"
           },
           {
             "index": 2,
             "char": "י",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           },
           {
             "index": 3,
             "char": "ו",
-            "mark": "upper"
+            "mark": "upper",
+            "tradition": "leningrad",
+            "source": "WLC / OpenScriptures"
           }
         ]
       },

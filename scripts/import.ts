@@ -62,7 +62,39 @@ const SPECIAL_SUPPLEMENT: Record<
   return map;
 })();
 
-const STRONGS_RE = /(?:strongs?:)?([HGhg]?\d{1,5})/g;
+// Received-Masoretic extraordinary-point supplement: where the received
+// tradition's dotted letters differ from the dots the WLC carries. Keyed
+// `${book}|${chapter}|${verse}` -> entries, merged into words[].metadata.points
+// at save time. kind 'add' = a dot the WLC lacks (tradition 'masoretic-received');
+// kind 'not-received' = a WLC dot the received tradition does not count (it keeps
+// tradition 'leningrad' and gains received:false). Each entry carries its citation.
+interface PointSupplementEntry {
+  position: number;
+  kind: 'add' | 'not-received';
+  index: number;
+  char: string;
+  mark: 'upper' | 'lower';
+  source: string;
+}
+const POINT_SUPPLEMENT: Record<string, PointSupplementEntry[]> = (() => {
+  const raw = JSON.parse(
+    readFileSync(join(__dirname, 'overlays', 'points-supplement.json'), 'utf-8')
+  );
+  const map: Record<string, PointSupplementEntry[]> = {};
+  for (const e of raw.entries) {
+    (map[`${e.book}|${e.chapter}|${e.verse}`] ??= []).push({
+      position: e.position,
+      kind: e.kind,
+      index: e.index,
+      char: e.char,
+      mark: e.mark,
+      source: (e.sources as string[]).map(k => raw.sources[k]).join('; '),
+    });
+  }
+  return map;
+})();
+
+const STRONGS_RE =/(?:strongs?:)?([HGhg]?\d{1,5})/g;
 
 interface WordEntry {
   position: number;
@@ -327,7 +359,11 @@ function extractSpecialLetters(piece: string): {
 // the finished word text and records which base consonant each dot sits on
 // (0-based consonant index, same convention as special letters), so a renderer
 // can show them without re-scanning for combining marks. The dots are left in
-// `text`, faithful to the source.
+// `text`, faithful to the source. A dot belongs to the base consonant that
+// precedes it in the text, as for any combining mark; in Gen 19:33 and Num 29:15
+// the WLC text places the dot after the consonant before the vav (קׄוּ, רׄוֹ),
+// so those are recorded on ק and ר. Differences from the received tradition are
+// applied from scripts/overlays/points-supplement.json (see POINT_SUPPLEMENT).
 const PUNCTUM_UPPER = 'ׄ';
 const PUNCTUM_LOWER = 'ׅ';
 
@@ -338,6 +374,18 @@ interface ExtraordinaryPoint {
   char: string;
   /** Dot position: above (U+05C4) or below (U+05C5) the letter. */
   mark: 'upper' | 'lower';
+  /**
+   * `leningrad` = the dot is in the WLC text itself. `masoretic-received` = a
+   * dot the received Masoretic tradition counts that the WLC text lacks; it is
+   * metadata only and is not inserted into the word `text`.
+   */
+  tradition: 'leningrad' | 'masoretic-received';
+  /** Citation for the dot. */
+  source: string;
+  /** false = the received tradition does not count this WLC dot. */
+  received?: false;
+  /** Citation for `received: false`. */
+  receivedSource?: string;
 }
 
 function extractPoints(word: string): ExtraordinaryPoint[] {
@@ -350,10 +398,14 @@ function extractPoints(word: string): ExtraordinaryPoint[] {
     if (isHebrewConsonant(cp)) {
       consonantIdx++;
       currentConsonant = ch;
-    } else if (ch === PUNCTUM_UPPER) {
-      points.push({ index: consonantIdx, char: currentConsonant, mark: 'upper' });
-    } else if (ch === PUNCTUM_LOWER) {
-      points.push({ index: consonantIdx, char: currentConsonant, mark: 'lower' });
+    } else if (ch === PUNCTUM_UPPER || ch === PUNCTUM_LOWER) {
+      points.push({
+        index: consonantIdx,
+        char: currentConsonant,
+        mark: ch === PUNCTUM_UPPER ? 'upper' : 'lower',
+        tradition: 'leningrad',
+        source: 'WLC / OpenScriptures',
+      });
     }
   }
   return points;
@@ -835,6 +887,34 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
         tradition: 'masoretic-received',
         source: SPECIAL_SUPPLEMENT_SOURCE,
       });
+    }
+  }
+
+  // Merge the received-Masoretic extraordinary-point supplement. Added dots are
+  // metadata only (the word text keeps the WLC's dots), so the consonant stream,
+  // gematria, and counts are unchanged.
+  const pointSupp = POINT_SUPPLEMENT[`${verse.book}|${verse.chapter}|${verse.number}`];
+  if (pointSupp) {
+    for (const s of pointSupp) {
+      const w = wordEntries.find(x => x.position === s.position);
+      if (!w) continue;
+      const meta = (w.metadata ??= {}) as Record<string, unknown>;
+      const list = (meta.points ??= []) as ExtraordinaryPoint[];
+      const existing = list.find(p => p.index === s.index && p.mark === s.mark);
+      if (s.kind === 'not-received') {
+        if (existing) {
+          existing.received = false;
+          existing.receivedSource = s.source;
+        }
+      } else if (!existing) {
+        list.push({
+          index: s.index,
+          char: s.char,
+          mark: s.mark,
+          tradition: 'masoretic-received',
+          source: s.source,
+        });
+      }
     }
   }
 

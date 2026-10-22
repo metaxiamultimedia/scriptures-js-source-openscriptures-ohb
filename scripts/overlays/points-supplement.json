@@ -1,0 +1,82 @@
+{
+  "_source": "Received-Masoretic extraordinary points (puncta extraordinaria) where the received tradition differs from the dots the WLC (Leningrad Codex) carries. The dotted letters are as enumerated in Avot de-Rabbi Natan (A) 34 (the ten Torah passages) and in A.E. Brouwer, 'Typographic details in the Hebrew Bible' (all fifteen passages). 'add' = a dot the received tradition counts that the WLC lacks (tradition 'masoretic-received'). 'not-received' = a WLC dot the received tradition does not count; it stays tagged 'leningrad' and gains received:false.",
+  "_tradition": "masoretic-received",
+  "sources": {
+    "ARN34": "Avot de-Rabbi Natan (A) 34",
+    "BROUWER": "A.E. Brouwer, \"Typographic details in the Hebrew Bible\" (https://aeb.win.tue.nl/natlang/hebrew/hebrew_bible.html)"
+  },
+  "entries": [
+    {
+      "book": "Gen",
+      "chapter": 18,
+      "verse": 9,
+      "position": 2,
+      "kind": "not-received",
+      "index": 1,
+      "char": "ל",
+      "mark": "upper",
+      "sources": ["ARN34", "BROUWER"],
+      "note": "ARN 34: dotted on א, י, ו of אליו. Brouwer: 3 dots on איו; BHS also dots the ל."
+    },
+    {
+      "book": "Gen",
+      "chapter": 19,
+      "verse": 33,
+      "position": 15,
+      "kind": "not-received",
+      "index": 2,
+      "char": "ק",
+      "mark": "upper",
+      "sources": ["ARN34", "BROUWER"],
+      "note": "The WLC encodes U+05C4 after the ק, before the shureq vav."
+    },
+    {
+      "book": "Gen",
+      "chapter": 19,
+      "verse": 33,
+      "position": 15,
+      "kind": "add",
+      "index": 3,
+      "char": "ו",
+      "mark": "upper",
+      "sources": ["ARN34", "BROUWER"],
+      "note": "ARN 34: dotted on the vav of the first ובקומה. Brouwer: 1 dot on ו."
+    },
+    {
+      "book": "Num",
+      "chapter": 29,
+      "verse": 15,
+      "position": 1,
+      "kind": "not-received",
+      "index": 3,
+      "char": "ר",
+      "mark": "upper",
+      "sources": ["ARN34", "BROUWER"],
+      "note": "The WLC encodes U+05C4 after the ר, before the holam vav."
+    },
+    {
+      "book": "Num",
+      "chapter": 29,
+      "verse": 15,
+      "position": 1,
+      "kind": "add",
+      "index": 4,
+      "char": "ו",
+      "mark": "upper",
+      "sources": ["ARN34", "BROUWER"],
+      "note": "ARN 34: dotted on the vav of עשרון. Brouwer: 1 dot on ו."
+    },
+    {
+      "book": "Deut",
+      "chapter": 29,
+      "verse": 28,
+      "position": 7,
+      "kind": "add",
+      "index": 0,
+      "char": "ע",
+      "mark": "upper",
+      "sources": ["ARN34", "BROUWER"],
+      "note": "ARN 34: dotted on לנו ולבנינו and on the ע of עד (11 dots). Brouwer: 11 dots; BHS does not dot the ע."
+    }
+  ]
+}

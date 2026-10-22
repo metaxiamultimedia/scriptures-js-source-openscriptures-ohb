@@ -1,5 +1,7 @@
 # @metaxia/scriptures-source-openscriptures-ohb
 
+It is a data source for [GematriaBible.com](https://gematriabible.com) — an interlinear Bible with gematria values and Strong's numbers.
+
 Open Scriptures Hebrew Bible (Hebrew) data for [@metaxia/scriptures](https://github.com/metaxiamultimedia/scriptures-js).
 
 ## Source
@@ -107,11 +109,25 @@ preserved separately so a renderer can reproduce a faithful text:
 - **`metadata.paragraphBreaks`**, **`metadata.scribalMarks`** — petuhah/setumah
   parashah breaks and the reversed nun (nun hafukha), likewise verse-level.
 - **`words[].metadata.points`** — the extraordinary points (puncta extraordinaria),
-  the traditional fifteen dotted passages. Each entry `{index, char, mark}` names
-  the dotted base consonant (0-based `index`) and whether the dot sits `upper`
-  (U+05C4) or `lower` (U+05C5). The dots are retained in the word `text` as
-  combining marks; because they lie outside the consonant range they do not
-  affect gematria or counts.
+  the traditional fifteen dotted passages. Each entry `{index, char, mark, tradition, source}`
+  names the dotted base consonant (0-based `index`) and whether the dot sits `upper`
+  (U+05C4) or `lower` (U+05C5). Each entry is tagged by **tradition**:
+  - `tradition: "leningrad"` — the dot is in the WLC text (`source: "WLC / OpenScriptures"`).
+    These dots are retained in the word `text` as combining marks; because they
+    lie outside the consonant range they do not affect gematria or counts.
+  - `tradition: "masoretic-received"` — a dot the received Masoretic tradition
+    counts that the WLC text lacks, with its `source` citation (Avot de-Rabbi
+    Natan A 34; A.E. Brouwer). These are metadata only: the word `text` is not
+    changed. Example: the ayin of עד in Deut 29:28, the eleventh dot of that verse.
+  - `received: false` (with `receivedSource`) on a `leningrad` dot that the
+    received tradition does not count. Examples: the ל of אליו in Gen 18:9 (the
+    received tradition dots א, י, ו), and Gen 19:33 / Num 29:15, where the WLC
+    text places the dot on the letter before the vav (ק, ר) and the received
+    tradition places it on the vav.
+
+  To render the WLC dots, use the entries with `tradition === "leningrad"`; to
+  render the received tradition, use the entries with `received !== false`.
+  The supplement is `scripts/overlays/points-supplement.json`.
 - **`words[].metadata.specialLetters`** — enlarged / small / suspended letters
   (litterae majusculae / minusculae / suspensae), `{type, char, index, tradition, source}`.
   Each entry is tagged by **tradition**:
