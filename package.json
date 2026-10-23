@@ -1,6 +1,6 @@
 {
   "name": "@metaxia/scriptures-source-openscriptures-ohb",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "description": "Open Hebrew Bible (Hebrew) data for @metaxia/scriptures. Source: Open Scriptures Project.",
   "type": "module",
   "publishConfig": {
@@ -60,10 +60,10 @@
   },
   "homepage": "https://github.com/metaxiamultimedia/scriptures-js-source-openscriptures-ohb#readme",
   "peerDependencies": {
-    "@metaxia/scriptures-core": "^2.0.0"
+    "@metaxia/scriptures-core": "^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
-    "@metaxia/scriptures-core": "^2.0.0",
+    "@metaxia/scriptures-core": "^3.1.0",
     "@types/node": "^22.0.0",
     "fast-xml-parser": "^4.3.0",
     "tsx": "^4.7.0",
