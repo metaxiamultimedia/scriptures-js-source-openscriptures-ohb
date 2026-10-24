@@ -1,5 +1,5 @@
 {
-  "text": "פְּנֵ֤י יְהוָה֙ חִלְּקָ֔ם לֹ֥א יוֹסִ֖יף לְהַבִּיטָ֑ם פְּנֵ֤י כֹהֲנִים֙ לֹ֣א נָשָׂ֔אוּ זקנים לֹ֥א חָנָֽנוּ וּזְקֵנִ֖ים",
+  "text": "פְּנֵ֤י יְהוָה֙ חִלְּקָ֔ם לֹ֥א יוֹסִ֖יף לְהַבִּיטָ֑ם פְּנֵ֤י כֹהֲנִים֙ לֹ֣א נָשָׂ֔אוּ זקנים וּזְקֵנִ֖ים לֹ֥א חָנָֽנוּ",
   "words": [
     {
       "position": 1,
@@ -159,6 +159,21 @@
     },
     {
       "position": 12,
+      "text": "וּזְקֵנִ֖ים",
+      "lemma": "c/2205",
+      "morph": "HC/Aampa",
+      "strongs": [
+        "H2205"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/2205",
+        "morph": "HC/Aampa"
+      }
+    },
+    {
+      "position": 13,
       "text": "לֹ֥א",
       "lemma": "3808",
       "morph": "HTn",
@@ -172,7 +187,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "חָנָֽנוּ",
       "lemma": "2603 a",
       "morph": "HVqp3cp",
@@ -184,28 +199,13 @@
         "lemma": "2603 a",
         "morph": "HVqp3cp"
       }
-    },
-    {
-      "position": 14,
-      "text": "וּזְקֵנִ֖ים",
-      "lemma": "c/2205",
-      "morph": "HC/Aampa",
-      "strongs": [
-        "H2205"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/2205",
-        "morph": "HC/Aampa"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 13
+        "afterWordPosition": 14
       }
     ],
     "terminator": "sof-pasuq"

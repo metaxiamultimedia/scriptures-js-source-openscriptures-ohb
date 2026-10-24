@@ -1,23 +1,8 @@
 {
-  "text": "וְאַתָּ֥ה וְ֭נַפְשִׁי נִבְהֲלָ֣ה מְאֹ֑ד ואת יְ֝הוָ֗ה עַד מָתָֽי",
+  "text": "וְ֭נַפְשִׁי נִבְהֲלָ֣ה מְאֹ֑ד ואת וְאַתָּ֥ה יְ֝הוָ֗ה עַד מָתָֽי",
   "words": [
     {
       "position": 1,
-      "text": "וְאַתָּ֥ה",
-      "lemma": "c/859 c",
-      "morph": "HC/Pp2ms",
-      "strongs": [
-        "H859"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/859 c",
-        "morph": "HC/Pp2ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "וְ֭נַפְשִׁי",
       "lemma": "c/5315",
       "morph": "HC/Ncbsc/Sp1cs",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "נִבְהֲלָ֣ה",
       "lemma": "926",
       "morph": "HVNp3fs",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "מְאֹ֑ד",
       "lemma": "3966",
       "morph": "HD",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "ואת",
       "lemma": "c/859 c",
       "morph": "HC/Pp2ms",
@@ -72,6 +57,21 @@
         "lemma": "c/859 c",
         "morph": "HC/Pp2ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 5,
+      "text": "וְאַתָּ֥ה",
+      "lemma": "c/859 c",
+      "morph": "HC/Pp2ms",
+      "strongs": [
+        "H859"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/859 c",
+        "morph": "HC/Pp2ms"
       }
     },
     {

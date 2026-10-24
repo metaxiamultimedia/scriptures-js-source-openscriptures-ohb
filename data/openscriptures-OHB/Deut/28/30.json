@@ -1,5 +1,5 @@
 {
-  "text": "אִשָּׁ֣ה תְאָרֵ֗שׂ וְאִ֤ישׁ אַחֵר֙ ישגלנה בַּ֥יִת תִּבְנֶ֖ה וְלֹא תֵשֵׁ֣ב בּ֑וֹ כֶּ֥רֶם תִּטַּ֖ע וְלֹ֥א תְחַלְּלֶּֽנּוּ יִשְׁכָּבֶ֔נָּה",
+  "text": "אִשָּׁ֣ה תְאָרֵ֗שׂ וְאִ֤ישׁ אַחֵר֙ ישגלנה יִשְׁכָּבֶ֔נָּה בַּ֥יִת תִּבְנֶ֖ה וְלֹא תֵשֵׁ֣ב בּ֑וֹ כֶּ֥רֶם תִּטַּ֖ע וְלֹ֥א תְחַלְּלֶּֽנּוּ",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "יִשְׁכָּבֶ֔נָּה",
+      "lemma": "7901",
+      "morph": "HVqi3ms/Sp3fs",
+      "strongs": [
+        "H7901"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7901",
+        "morph": "HVqi3ms/Sp3fs"
+      }
+    },
+    {
+      "position": 7,
       "text": "בַּ֥יִת",
       "lemma": "1004 b",
       "morph": "HNcmsa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תִּבְנֶ֖ה",
       "lemma": "1129",
       "morph": "HVqi2ms",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "תֵשֵׁ֣ב",
       "lemma": "3427",
       "morph": "HVqi2ms",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בּ֑וֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
@@ -145,7 +160,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "כֶּ֥רֶם",
       "lemma": "3754",
       "morph": "HNcbsa",
@@ -159,7 +174,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "תִּטַּ֖ע",
       "lemma": "5193",
       "morph": "HVqi2ms",
@@ -173,7 +188,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְלֹ֥א",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -187,7 +202,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "תְחַלְּלֶּֽנּוּ",
       "lemma": "2490 c",
       "morph": "HVpi2ms/Sp3ms",
@@ -198,21 +213,6 @@
       "source": {
         "lemma": "2490 c",
         "morph": "HVpi2ms/Sp3ms"
-      }
-    },
-    {
-      "position": 15,
-      "text": "יִשְׁכָּבֶ֔נָּה",
-      "lemma": "7901",
-      "morph": "HVqi3ms/Sp3fs",
-      "strongs": [
-        "H7901"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7901",
-        "morph": "HVqi3ms/Sp3fs"
       }
     }
   ],

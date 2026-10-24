@@ -1,5 +1,5 @@
 {
-  "text": "כִּ֥י כָל משפטו לְנֶגְדִּ֑י וְחֻקֹּתָ֖יו לֹא אָס֥וּר מִמֶּֽנָּה מִשְׁפָּטָ֖יו",
+  "text": "כִּ֥י כָל משפטו מִשְׁפָּטָ֖יו לְנֶגְדִּ֑י וְחֻקֹּתָ֖יו לֹא אָס֥וּר מִמֶּֽנָּה",
   "words": [
     {
       "position": 1,
@@ -49,6 +49,21 @@
     },
     {
       "position": 4,
+      "text": "מִשְׁפָּטָ֖יו",
+      "lemma": "4941",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H4941"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4941",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 5,
       "text": "לְנֶגְדִּ֑י",
       "lemma": "l/5048",
       "morph": "HR/R/Sp1cs",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְחֻקֹּתָ֖יו",
       "lemma": "c/2708",
       "morph": "HC/Ncbpc/Sp3ms",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אָס֥וּר",
       "lemma": "5493",
       "morph": "HVqi1cs",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִמֶּֽנָּה",
       "lemma": "4480 a",
       "morph": "HR/Sp3fs",
@@ -117,21 +132,6 @@
       "source": {
         "lemma": "4480 a",
         "morph": "HR/Sp3fs"
-      }
-    },
-    {
-      "position": 9,
-      "text": "מִשְׁפָּטָ֖יו",
-      "lemma": "4941",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H4941"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4941",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "שכנתי עַל מַ֣יִם רַבִּ֔ים רַבַּ֖ת אֽוֹצָרֹ֑ת בָּ֥א קִצֵּ֖ךְ אַמַּ֥ת בִּצְעֵֽךְ שֹׁכַנְתְּ֙",
+  "text": "שכנתי שֹׁכַנְתְּ֙ עַל מַ֣יִם רַבִּ֔ים רַבַּ֖ת אֽוֹצָרֹ֑ת בָּ֥א קִצֵּ֖ךְ אַמַּ֥ת בִּצְעֵֽךְ",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "שֹׁכַנְתְּ֙",
+      "lemma": "7931",
+      "morph": "HVqrfsc",
+      "strongs": [
+        "H7931"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7931",
+        "morph": "HVqrfsc"
+      }
+    },
+    {
+      "position": 3,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -34,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מַ֣יִם",
       "lemma": "4325",
       "morph": "HNcmpa",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "רַבִּ֔ים",
       "lemma": "7227 a",
       "morph": "HAampa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רַבַּ֖ת",
       "lemma": "7227 a",
       "morph": "HAafsc",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֽוֹצָרֹ֑ת",
       "lemma": "214",
       "morph": "HNcmpa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בָּ֥א",
       "lemma": "935",
       "morph": "HVqp3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "קִצֵּ֖ךְ",
       "lemma": "7093",
       "morph": "HNcmsc/Sp2fs",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אַמַּ֥ת",
       "lemma": "520 a",
       "morph": "HNcfsc",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בִּצְעֵֽךְ",
       "lemma": "1215",
       "morph": "HNcmsc/Sp2fs",
@@ -143,21 +158,6 @@
       "source": {
         "lemma": "1215",
         "morph": "HNcmsc/Sp2fs"
-      }
-    },
-    {
-      "position": 11,
-      "text": "שֹׁכַנְתְּ֙",
-      "lemma": "7931",
-      "morph": "HVqrfsc",
-      "strongs": [
-        "H7931"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7931",
-        "morph": "HVqrfsc"
       }
     }
   ],

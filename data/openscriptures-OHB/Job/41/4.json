@@ -1,22 +1,8 @@
 {
-  "text": "לֽוֹ לא אַחֲרִ֥ישׁ בַּדָּ֑יו וּדְבַר גְּ֝בוּר֗וֹת וְחִ֣ין עֶרְכּֽוֹ",
+  "text": "לא לֽוֹ אַחֲרִ֥ישׁ בַּדָּ֑יו וּדְבַר גְּ֝בוּר֗וֹת וְחִ֣ין עֶרְכּֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "לֽוֹ",
-      "lemma": "l",
-      "morph": "HR/Sp3ms",
-      "variant": "qere",
-      "metadata": {
-        "isPrefixOnly": true
-      },
-      "source": {
-        "lemma": "l",
-        "morph": "HR/Sp3ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "לא",
       "lemma": "3808",
       "morph": "HTn",
@@ -24,13 +10,26 @@
         "H3808"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "3808",
         "morph": "HTn",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 2,
+      "text": "לֽוֹ",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "variant": "qere",
+      "metadata": {
+        "isPrefixOnly": true,
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
       }
     },
     {

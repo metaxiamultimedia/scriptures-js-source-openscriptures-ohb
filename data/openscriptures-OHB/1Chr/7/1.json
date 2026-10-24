@@ -1,5 +1,5 @@
 {
-  "text": "וְלִבְנֵ֣י יִשָׂשכָ֗ר תּוֹלָ֧ע וּפוּאָ֛ה ישיב וְשִׁמְר֖וֹן אַרְבָּעָֽה יָשׁ֥וּב",
+  "text": "וְלִבְנֵ֣י יִשָׂשכָ֗ר תּוֹלָ֧ע וּפוּאָ֛ה ישיב יָשׁ֥וּב וְשִׁמְר֖וֹן אַרְבָּעָֽה",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "יָשׁ֥וּב",
+      "lemma": "3437",
+      "morph": "HNp",
+      "strongs": [
+        "H3437"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3437",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 7,
       "text": "וְשִׁמְר֖וֹן",
       "lemma": "c/8110 b",
       "morph": "HC/Np",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אַרְבָּעָֽה",
       "lemma": "702",
       "morph": "HAcmsa",
@@ -100,28 +115,13 @@
         "lemma": "702",
         "morph": "HAcmsa"
       }
-    },
-    {
-      "position": 8,
-      "text": "יָשׁ֥וּב",
-      "lemma": "3437",
-      "morph": "HNp",
-      "strongs": [
-        "H3437"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3437",
-        "morph": "HNp"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 7
+        "afterWordPosition": 8
       }
     ],
     "terminator": "sof-pasuq"

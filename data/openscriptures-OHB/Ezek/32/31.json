@@ -1,5 +1,5 @@
 {
-  "text": "אוֹתָם֙ יִרְאֶ֣ה פַרְעֹ֔ה וְנִחַ֖ם עַל כָּל המונה חַלְלֵי חֶ֨רֶב֙ פַּרְעֹ֣ה וְכָל חֵיל֔וֹ נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה הֲמוֹנ֑וֹ",
+  "text": "אוֹתָם֙ יִרְאֶ֣ה פַרְעֹ֔ה וְנִחַ֖ם עַל כָּל המונה הֲמוֹנ֑וֹ חַלְלֵי חֶ֨רֶב֙ פַּרְעֹ֣ה וְכָל חֵיל֔וֹ נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה",
   "words": [
     {
       "position": 1,
@@ -107,6 +107,21 @@
     },
     {
       "position": 8,
+      "text": "הֲמוֹנ֑וֹ",
+      "lemma": "1995 a",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H1995"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1995 a",
+        "morph": "HNcmsc/Sp3ms"
+      }
+    },
+    {
+      "position": 9,
       "text": "חַלְלֵי",
       "lemma": "2491 a",
       "morph": "HAampc",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "חֶ֨רֶב֙",
       "lemma": "2719",
       "morph": "HNcfsa",
@@ -136,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "פַּרְעֹ֣ה",
       "lemma": "6547",
       "morph": "HNp",
@@ -150,7 +165,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -166,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "חֵיל֔וֹ",
       "lemma": "2428",
       "morph": "HNcmsc/Sp3ms",
@@ -180,7 +195,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "נְאֻ֖ם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֲדֹנָ֥י",
       "lemma": "136",
       "morph": "HNcmpc/Sp1cs",
@@ -208,7 +223,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יְהוִֽה",
       "lemma": "3069",
       "morph": "HNp",
@@ -219,21 +234,6 @@
       "source": {
         "lemma": "3069",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 16,
-      "text": "הֲמוֹנ֑וֹ",
-      "lemma": "1995 a",
-      "morph": "HNcmsc/Sp3ms",
-      "strongs": [
-        "H1995"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1995 a",
-        "morph": "HNcmsc/Sp3ms"
       }
     }
   ],

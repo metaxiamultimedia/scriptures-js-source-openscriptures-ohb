@@ -9,7 +9,7 @@
 
 import { describe, it, expect } from 'vitest';
 import { XMLParser } from 'fast-xml-parser';
-import { readFile } from 'fs/promises';
+import { readFile, readdir } from 'fs/promises';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -885,5 +885,93 @@ describe('paragraph markers (petuhah/setumah) — verse-level breaks', () => {
         expect(['petuhah', 'setumah']).toContain(pb.type);
       }
     }
+  });
+});
+
+describe('ketiv/qere reading order', () => {
+  // The XML parse groups a verse's children by tag, which used to put every
+  // qere word (inside <note><rdg type="x-qere">) at the end or the start of the
+  // verse instead of right after its ketiv. parseOsis now numbers each <w> in
+  // document order and restores that order.
+  const root = join(__dirname, '..', 'data', 'openscriptures-OHB');
+  const read = async (book: string, ch: string, v: string) =>
+    JSON.parse(await readFile(join(root, book, ch, `${v}.json`), 'utf-8'));
+  type W = { position: number; text: string; variant?: string };
+  const variants = (data: { words: W[] }) =>
+    data.words.filter(w => w.variant).map(w => [w.position, w.variant]);
+
+  it('Neh 2:13 - qere הם פרוצים follows the ketiv המפרוצים', async () => {
+    const data = await read('Neh', '2', '13');
+    expect(variants(data)).toEqual([[17, 'ketiv'], [18, 'qere'], [19, 'qere']]);
+    expect(data.words[16].text).toBe('המפרוצים');
+    // The paseq sits inside the qere, between הֵם and פְּרוּצִים (it used to be
+    // lifted out of the <note> onto the ketiv).
+    expect(data.metadata.paseq).toEqual([18]);
+  });
+
+  it('Job 38:1 - paseq and maqqef inside a two-word qere stay on the qere word', async () => {
+    const job = await read('Job', '38', '1');
+    expect(variants(job)).toEqual([[5, 'ketiv'], [6, 'ketiv'], [7, 'qere'], [8, 'qere']]);
+    expect(job.metadata.paseq).toEqual([7]);
+    const exod = await read('Exod', '4', '2');
+    // מַה־זֶּה: the maqqef joins the two qere words.
+    expect(exod.words[4].metadata.joinNext).toBe('maqqef');
+    expect(exod.words[3].metadata.joinNext).toBeUndefined();
+  });
+
+  it('Isa 9:6 - ketiv לםרבה (final mem mid-word) comes first, then the qere', async () => {
+    const data = await read('Isa', '9', '6');
+    expect(variants(data)).toEqual([[1, 'ketiv'], [2, 'qere']]);
+    expect(data.words[0].text).toBe('לםרבה');
+  });
+
+  it('Isa 56:10 - qere follows the ketiv צפו (large tsadi stays on the ketiv)', async () => {
+    const data = await read('Isa', '56', '10');
+    expect(variants(data)).toEqual([[1, 'ketiv'], [2, 'qere']]);
+    expect(data.words[0].metadata.specialLetters).toMatchObject([{ type: 'large', char: 'צ', index: 0 }]);
+  });
+
+  it('every qere directly follows its ketiv, except qere without ketiv', async () => {
+    const qereOnly: string[] = [];
+    const ketivOnly: string[] = [];
+    for (const book of await readdir(root)) {
+      if (book.endsWith('.json')) continue;
+      for (const ch of await readdir(join(root, book))) {
+        for (const f of await readdir(join(root, book, ch))) {
+          const data = JSON.parse(await readFile(join(root, book, ch, f), 'utf-8'));
+          const seq = data.words.map((w: W) => (w.variant === 'ketiv' ? 'K' : w.variant === 'qere' ? 'Q' : '.')).join('');
+          const ref = `${book} ${ch}:${f.replace('.json', '')}`;
+          for (let i = 0; i < seq.length; i++) {
+            if (seq[i] === 'Q' && (i === 0 || seq[i - 1] === '.')) qereOnly.push(ref);
+            if (seq[i] === 'K' && (i + 1 === seq.length || seq[i + 1] === '.')) ketivOnly.push(ref);
+          }
+        }
+      }
+    }
+    // Qere without ketiv (vowels only in the WLC line) and ketiv without qere.
+    expect(qereOnly.sort()).toEqual([
+      '2Kgs 19:31', '2Kgs 19:37', '2Sam 16:23', '2Sam 8:3', 'Jer 31:38',
+      'Jer 50:29', 'Judg 20:13', 'Ruth 3:17', 'Ruth 3:5',
+    ]);
+    expect(ketivOnly.sort()).toEqual([
+      '2Kgs 5:18', 'Ezek 48:16', 'Jer 38:16', 'Jer 39:12', 'Jer 51:3', 'Ruth 3:12',
+    ]);
+  }, 60000);
+
+  it('Nah 1:3 - the small samekh supplement still lands on בסופה', async () => {
+    const data = await read('Nah', '1', '3');
+    const w = data.words.find((x: W) => x.text.replace(/[֑-ׇ]/g, '') === 'בסופה');
+    expect(w.metadata.specialLetters).toMatchObject([{ type: 'small', char: 'ס', index: 1 }]);
+  });
+});
+
+describe('Dan 6:20 בשפרפרא', () => {
+  it('first pe small, second pe large (Minchat Shai; Mechon Mamre)', async () => {
+    const data = JSON.parse(
+      await readFile(join(__dirname, '..', 'data', 'openscriptures-OHB', 'Dan', '6', '20.json'), 'utf-8')
+    );
+    const w = data.words.find((x: { text: string }) => x.text.replace(/[֑-ׇ]/g, '') === 'בשפרפרא');
+    const marks = w.metadata.specialLetters.map((s: { type: string; index: number }) => [s.type, s.index]);
+    expect(marks.sort()).toEqual([['large', 4], ['small', 2]]);
   });
 });

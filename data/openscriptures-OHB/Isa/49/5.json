@@ -1,5 +1,5 @@
 {
-  "text": "וְעַתָּ֣ה אָמַ֣ר יְהוָ֗ה יֹצְרִ֤י מִבֶּ֨טֶן֙ לְעֶ֣בֶד ל֔וֹ לְשׁוֹבֵ֤ב יַֽעֲקֹב֙ אֵלָ֔יו וְיִשְׂרָאֵ֖ל לא יֵאָסֵ֑ף וְאֶכָּבֵד֙ בְּעֵינֵ֣י יְהוָ֔ה וֵאלֹהַ֖י הָיָ֥ה עֻזִּֽי ל֣וֹ",
+  "text": "וְעַתָּ֣ה אָמַ֣ר יְהוָ֗ה יֹצְרִ֤י מִבֶּ֨טֶן֙ לְעֶ֣בֶד ל֔וֹ לְשׁוֹבֵ֤ב יַֽעֲקֹב֙ אֵלָ֔יו וְיִשְׂרָאֵ֖ל לא ל֣וֹ יֵאָסֵ֑ף וְאֶכָּבֵד֙ בְּעֵינֵ֣י יְהוָ֔ה וֵאלֹהַ֖י הָיָ֥ה עֻזִּֽי",
   "words": [
     {
       "position": 1,
@@ -172,6 +172,20 @@
     },
     {
       "position": 13,
+      "text": "ל֣וֹ",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "variant": "qere",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
+      }
+    },
+    {
+      "position": 14,
       "text": "יֵאָסֵ֑ף",
       "lemma": "622",
       "morph": "HVNi3ms",
@@ -185,7 +199,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְאֶכָּבֵד֙",
       "lemma": "c/3513",
       "morph": "HC/VNi1cs",
@@ -199,7 +213,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בְּעֵינֵ֣י",
       "lemma": "b/5869 a",
       "morph": "HR/Ncbdc",
@@ -213,7 +227,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "יְהוָ֔ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -227,7 +241,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וֵאלֹהַ֖י",
       "lemma": "c/430",
       "morph": "HC/Ncmpc/Sp1cs",
@@ -241,7 +255,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "הָיָ֥ה",
       "lemma": "1961",
       "morph": "HVqp3ms",
@@ -255,7 +269,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עֻזִּֽי",
       "lemma": "5797",
       "morph": "HNcmsc/Sp1cs",
@@ -266,20 +280,6 @@
       "source": {
         "lemma": "5797",
         "morph": "HNcmsc/Sp1cs"
-      }
-    },
-    {
-      "position": 20,
-      "text": "ל֣וֹ",
-      "lemma": "l",
-      "morph": "HR/Sp3ms",
-      "variant": "qere",
-      "metadata": {
-        "isPrefixOnly": true
-      },
-      "source": {
-        "lemma": "l",
-        "morph": "HR/Sp3ms"
       }
     }
   ],

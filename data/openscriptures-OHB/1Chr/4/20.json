@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵ֣י שִׁימ֔וֹן אַמְנ֣וֹן וְרִנָּ֔ה בֶּן חָנָ֖ן ותולון וּבְנֵ֣י יִשְׁעִ֔י זוֹחֵ֖ת וּבֶן זוֹחֵֽת וְתִיל֑וֹן",
+  "text": "וּבְנֵ֣י שִׁימ֔וֹן אַמְנ֣וֹן וְרִנָּ֔ה בֶּן חָנָ֖ן ותולון וְתִיל֑וֹן וּבְנֵ֣י יִשְׁעִ֔י זוֹחֵ֖ת וּבֶן זוֹחֵֽת",
   "words": [
     {
       "position": 1,
@@ -105,6 +105,21 @@
     },
     {
       "position": 8,
+      "text": "וְתִיל֑וֹן",
+      "lemma": "c/8436",
+      "morph": "HC/Np",
+      "strongs": [
+        "H8436"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/8436",
+        "morph": "HC/Np"
+      }
+    },
+    {
+      "position": 9,
       "text": "וּבְנֵ֣י",
       "lemma": "c/1121 a",
       "morph": "HC/Ncmpc",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יִשְׁעִ֔י",
       "lemma": "3469",
       "morph": "HNp",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "זוֹחֵ֖ת",
       "lemma": "2105",
       "morph": "HNp",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וּבֶן",
       "lemma": "c/1132+",
       "morph": "HC/Np",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "זוֹחֵֽת",
       "lemma": "1132",
       "morph": "HNp",
@@ -173,21 +188,6 @@
       "source": {
         "lemma": "1132",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 13,
-      "text": "וְתִיל֑וֹן",
-      "lemma": "c/8436",
-      "morph": "HC/Np",
-      "strongs": [
-        "H8436"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/8436",
-        "morph": "HC/Np"
       }
     }
   ],

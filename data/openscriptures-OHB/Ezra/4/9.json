@@ -1,5 +1,5 @@
 {
-  "text": "אֱדַ֜יִן רְח֣וּם בְּעֵל טְעֵ֗ם וְשִׁמְשַׁי֙ סָֽפְרָ֔א וּשְׁאָ֖ר כְּנָוָתְה֑וֹן דִּ֠ינָיֵא וַאֲפַרְסַתְכָיֵ֞א טַרְפְּלָיֵ֣א אֲפָֽרְסָיֵ֗א ארכוי בָבְלָיֵא֙ שֽׁוּשַׁנְכָיֵ֔א דהוא עֵלְמָיֵֽא אַרְכְּוָיֵ֤א דֶּהָיֵ֖א",
+  "text": "אֱדַ֜יִן רְח֣וּם בְּעֵל טְעֵ֗ם וְשִׁמְשַׁי֙ סָֽפְרָ֔א וּשְׁאָ֖ר כְּנָוָתְה֑וֹן דִּ֠ינָיֵא וַאֲפַרְסַתְכָיֵ֞א טַרְפְּלָיֵ֣א אֲפָֽרְסָיֵ֗א ארכוי אַרְכְּוָיֵ֤א בָבְלָיֵא֙ שֽׁוּשַׁנְכָיֵ֔א דהוא דֶּהָיֵ֖א עֵלְמָיֵֽא",
   "words": [
     {
       "position": 1,
@@ -189,6 +189,21 @@
     },
     {
       "position": 14,
+      "text": "אַרְכְּוָיֵ֤א",
+      "lemma": "756",
+      "morph": "ANgmpd/Td",
+      "strongs": [
+        "H756"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "756",
+        "morph": "ANgmpd/Td"
+      }
+    },
+    {
+      "position": 15,
       "text": "בָבְלָיֵא֙",
       "lemma": "896",
       "morph": "ANgmpd/Td",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שֽׁוּשַׁנְכָיֵ֔א",
       "lemma": "7801",
       "morph": "ANgmpd/Td",
@@ -216,7 +231,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "דהוא",
       "lemma": "1768",
       "morph": "ATr/Ta",
@@ -232,36 +247,7 @@
       }
     },
     {
-      "position": 17,
-      "text": "עֵלְמָיֵֽא",
-      "lemma": "5962",
-      "morph": "ANgmpd/Td",
-      "strongs": [
-        "H5962"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "5962",
-        "morph": "ANgmpd/Td"
-      }
-    },
-    {
       "position": 18,
-      "text": "אַרְכְּוָיֵ֤א",
-      "lemma": "756",
-      "morph": "ANgmpd/Td",
-      "strongs": [
-        "H756"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "756",
-        "morph": "ANgmpd/Td"
-      }
-    },
-    {
-      "position": 19,
       "text": "דֶּהָיֵ֖א",
       "lemma": "1723",
       "morph": "ANgmpd/Td",
@@ -272,6 +258,20 @@
       "metadata": {},
       "source": {
         "lemma": "1723",
+        "morph": "ANgmpd/Td"
+      }
+    },
+    {
+      "position": 19,
+      "text": "עֵלְמָיֵֽא",
+      "lemma": "5962",
+      "morph": "ANgmpd/Td",
+      "strongs": [
+        "H5962"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "5962",
         "morph": "ANgmpd/Td"
       }
     }

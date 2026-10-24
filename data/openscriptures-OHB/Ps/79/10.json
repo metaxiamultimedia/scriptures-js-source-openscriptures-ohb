@@ -1,5 +1,5 @@
 {
-  "text": "לָ֤מָּה יֹאמְר֣וּ הַגּוֹיִם֮ אַיֵּ֪ה אֱֽלֹהֵ֫יהֶ֥ם יִוָּדַ֣ע בגיים לְעֵינֵ֑ינוּ נִ֝קְמַ֗ת דַּֽם עֲבָדֶ֥יךָ הַשָּׁפֽוּךְ בַּגּוֹיִ֣ם",
+  "text": "לָ֤מָּה יֹאמְר֣וּ הַגּוֹיִם֮ אַיֵּ֪ה אֱֽלֹהֵ֫יהֶ֥ם יִוָּדַ֣ע בגיים בַּגּוֹיִ֣ם לְעֵינֵ֑ינוּ נִ֝קְמַ֗ת דַּֽם עֲבָדֶ֥יךָ הַשָּׁפֽוּךְ",
   "words": [
     {
       "position": 1,
@@ -103,6 +103,21 @@
     },
     {
       "position": 8,
+      "text": "בַּגּוֹיִ֣ם",
+      "lemma": "b/1471 a",
+      "morph": "HRd/Ncmpa",
+      "strongs": [
+        "H1471"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/1471 a",
+        "morph": "HRd/Ncmpa"
+      }
+    },
+    {
+      "position": 9,
       "text": "לְעֵינֵ֑ינוּ",
       "lemma": "l/5869 a",
       "morph": "HR/Ncbdc/Sp1cp",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "נִ֝קְמַ֗ת",
       "lemma": "5360",
       "morph": "HNcfsc",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "דַּֽם",
       "lemma": "1818",
       "morph": "HNcmsc",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עֲבָדֶ֥יךָ",
       "lemma": "5650",
       "morph": "HNcmpc/Sp2ms",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַשָּׁפֽוּךְ",
       "lemma": "d/8210",
       "morph": "HTd/Vqsmsa",
@@ -171,21 +186,6 @@
       "source": {
         "lemma": "d/8210",
         "morph": "HTd/Vqsmsa"
-      }
-    },
-    {
-      "position": 13,
-      "text": "בַּגּוֹיִ֣ם",
-      "lemma": "b/1471 a",
-      "morph": "HRd/Ncmpa",
-      "strongs": [
-        "H1471"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/1471 a",
-        "morph": "HRd/Ncmpa"
       }
     }
   ],

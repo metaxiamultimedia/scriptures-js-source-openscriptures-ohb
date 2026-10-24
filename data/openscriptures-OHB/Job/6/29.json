@@ -1,5 +1,5 @@
 {
-  "text": "שֻֽׁבוּ נָ֭א אַל תְּהִ֣י עַוְלָ֑ה ושבי ע֝וֹד צִדְקִי בָֽהּ וְשׁ֥וּבוּ",
+  "text": "שֻֽׁבוּ נָ֭א אַל תְּהִ֣י עַוְלָ֑ה ושבי וְשׁ֥וּבוּ ע֝וֹד צִדְקִי בָֽהּ",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "וְשׁ֥וּבוּ",
+      "lemma": "c/7725",
+      "morph": "HC/Vqv2mp",
+      "strongs": [
+        "H7725"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7725",
+        "morph": "HC/Vqv2mp"
+      }
+    },
+    {
+      "position": 8,
       "text": "ע֝וֹד",
       "lemma": "5750",
       "morph": "HD",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "צִדְקִי",
       "lemma": "6664",
       "morph": "HNcmsc/Sp1cs",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בָֽהּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
@@ -132,21 +147,6 @@
       "source": {
         "lemma": "b",
         "morph": "HR/Sp3fs"
-      }
-    },
-    {
-      "position": 10,
-      "text": "וְשׁ֥וּבוּ",
-      "lemma": "c/7725",
-      "morph": "HC/Vqv2mp",
-      "strongs": [
-        "H7725"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7725",
-        "morph": "HC/Vqv2mp"
       }
     }
   ],

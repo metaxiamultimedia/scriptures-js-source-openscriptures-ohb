@@ -1,23 +1,8 @@
 {
-  "text": "הַיְשַׁ֖ר יְהוָ֤ה נְחֵ֬נִי בְצִדְקָתֶ֗ךָ לְמַ֥עַן שׁוֹרְרָ֑י הושר לְפָנַ֣י דַּרְכֶּֽךָ",
+  "text": "יְהוָ֤ה נְחֵ֬נִי בְצִדְקָתֶ֗ךָ לְמַ֥עַן שׁוֹרְרָ֑י הושר הַיְשַׁ֖ר לְפָנַ֣י דַּרְכֶּֽךָ",
   "words": [
     {
       "position": 1,
-      "text": "הַיְשַׁ֖ר",
-      "lemma": "3474",
-      "morph": "HVhv2ms",
-      "strongs": [
-        "H3474"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3474",
-        "morph": "HVhv2ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "יְהוָ֤ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "נְחֵ֬נִי",
       "lemma": "5148",
       "morph": "HVqv2ms/Sp1cs",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "בְצִדְקָתֶ֗ךָ",
       "lemma": "b/6666",
       "morph": "HR/Ncfsc/Sp2ms",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "לְמַ֥עַן",
       "lemma": "4616",
       "morph": "HR",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "שׁוֹרְרָ֑י",
       "lemma": "8324",
       "morph": "HNcmpc/Sp1cs",
@@ -87,7 +72,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "הושר",
       "lemma": "3474",
       "morph": "HVhv2ms",
@@ -100,6 +85,21 @@
         "lemma": "3474",
         "morph": "HVhv2ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 7,
+      "text": "הַיְשַׁ֖ר",
+      "lemma": "3474",
+      "morph": "HVhv2ms",
+      "strongs": [
+        "H3474"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3474",
+        "morph": "HVhv2ms"
       }
     },
     {
@@ -134,7 +134,7 @@
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      2
+      1
     ]
   }
 }

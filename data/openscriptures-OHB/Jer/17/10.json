@@ -1,5 +1,5 @@
 {
-  "text": "אֲנִ֧י יְהוָ֛ה חֹקֵ֥ר לֵ֖ב בֹּחֵ֣ן כְּלָי֑וֹת וְלָתֵ֤ת לְאִישׁ֙ כדרכו כִּפְרִ֖י מַעֲלָלָֽיו כִּדְרָכָ֔יו",
+  "text": "אֲנִ֧י יְהוָ֛ה חֹקֵ֥ר לֵ֖ב בֹּחֵ֣ן כְּלָי֑וֹת וְלָתֵ֤ת לְאִישׁ֙ כדרכו כִּדְרָכָ֔יו כִּפְרִ֖י מַעֲלָלָֽיו",
   "words": [
     {
       "position": 1,
@@ -131,6 +131,21 @@
     },
     {
       "position": 10,
+      "text": "כִּדְרָכָ֔יו",
+      "lemma": "k/1870",
+      "morph": "HR/Ncbpc/Sp3ms",
+      "strongs": [
+        "H1870"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "k/1870",
+        "morph": "HR/Ncbpc/Sp3ms"
+      }
+    },
+    {
+      "position": 11,
       "text": "כִּפְרִ֖י",
       "lemma": "k/6529",
       "morph": "HR/Ncmsc",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מַעֲלָלָֽיו",
       "lemma": "4611",
       "morph": "HNcmpc/Sp3ms",
@@ -156,28 +171,13 @@
         "lemma": "4611",
         "morph": "HNcmpc/Sp3ms"
       }
-    },
-    {
-      "position": 12,
-      "text": "כִּדְרָכָ֔יו",
-      "lemma": "k/1870",
-      "morph": "HR/Ncbpc/Sp3ms",
-      "strongs": [
-        "H1870"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "k/1870",
-        "morph": "HR/Ncbpc/Sp3ms"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 11
+        "afterWordPosition": 12
       }
     ],
     "terminator": "sof-pasuq"

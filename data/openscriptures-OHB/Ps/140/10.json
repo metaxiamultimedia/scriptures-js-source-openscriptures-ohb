@@ -1,23 +1,8 @@
 {
-  "text": "יְכַסֵּֽמוֹ רֹ֥אשׁ מְסִבָּ֑י עֲמַ֖ל שְׂפָתֵ֣ימוֹ יכסומו",
+  "text": "רֹ֥אשׁ מְסִבָּ֑י עֲמַ֖ל שְׂפָתֵ֣ימוֹ יכסומו יְכַסֵּֽמוֹ",
   "words": [
     {
       "position": 1,
-      "text": "יְכַסֵּֽמוֹ",
-      "lemma": "3680",
-      "morph": "HVpj3ms/Sp3mp",
-      "strongs": [
-        "H3680"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3680",
-        "morph": "HVpj3ms/Sp3mp"
-      }
-    },
-    {
-      "position": 2,
       "text": "רֹ֥אשׁ",
       "lemma": "7218 a",
       "morph": "HNcmsc",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "מְסִבָּ֑י",
       "lemma": "4524",
       "morph": "HVhrmpc/Sp1cs",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "עֲמַ֖ל",
       "lemma": "5999",
       "morph": "HNcbsc",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "שְׂפָתֵ֣ימוֹ",
       "lemma": "8193",
       "morph": "HNcfdc/Sp3mp",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "יכסומו",
       "lemma": "3680",
       "morph": "HVpj3mp/Sp3mp",
@@ -86,6 +71,21 @@
         "lemma": "3680",
         "morph": "HVpj3mp/Sp3mp",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 6,
+      "text": "יְכַסֵּֽמוֹ",
+      "lemma": "3680",
+      "morph": "HVpj3ms/Sp3mp",
+      "strongs": [
+        "H3680"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3680",
+        "morph": "HVpj3ms/Sp3mp"
       }
     }
   ],

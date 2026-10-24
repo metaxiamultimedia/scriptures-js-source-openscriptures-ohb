@@ -1,5 +1,5 @@
 {
-  "text": "הֲיִנְטֹ֣ר לְעוֹלָ֔ם אִם יִשְׁמֹ֖ר לָנֶ֑צַח הִנֵּ֥ה דברתי וַתַּעֲשִׂ֥י הָרָע֖וֹת וַתּוּכָֽל דִבַּ֛רְתְּ",
+  "text": "הֲיִנְטֹ֣ר לְעוֹלָ֔ם אִם יִשְׁמֹ֖ר לָנֶ֑צַח הִנֵּ֥ה דברתי דִבַּ֛רְתְּ וַתַּעֲשִׂ֥י הָרָע֖וֹת וַתּוּכָֽל",
   "words": [
     {
       "position": 1,
@@ -105,6 +105,21 @@
     },
     {
       "position": 8,
+      "text": "דִבַּ֛רְתְּ",
+      "lemma": "1696",
+      "morph": "HVpp2fs",
+      "strongs": [
+        "H1696"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1696",
+        "morph": "HVpp2fs"
+      }
+    },
+    {
+      "position": 9,
       "text": "וַתַּעֲשִׂ֥י",
       "lemma": "c/6213 a",
       "morph": "HC/Vqw2fs",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הָרָע֖וֹת",
       "lemma": "d/7451 a",
       "morph": "HTd/Ncfpa",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וַתּוּכָֽל",
       "lemma": "c/3201",
       "morph": "HC/Vqw2ms",
@@ -144,28 +159,13 @@
         "lemma": "c/3201",
         "morph": "HC/Vqw2ms"
       }
-    },
-    {
-      "position": 11,
-      "text": "דִבַּ֛רְתְּ",
-      "lemma": "1696",
-      "morph": "HVpp2fs",
-      "strongs": [
-        "H1696"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1696",
-        "morph": "HVpp2fs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 10
+        "afterWordPosition": 11
       }
     ],
     "terminator": "sof-pasuq"

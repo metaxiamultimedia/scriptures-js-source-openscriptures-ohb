@@ -1,5 +1,5 @@
 {
-  "text": "וְלֹא אַשְׁמִ֨יעַ אֵלַ֤יִךְ עוֹד֙ כְּלִמַּ֣ת הַגּוֹיִ֔ם וְחֶרְפַּ֥ת עַמִּ֖ים לֹ֣א תִשְׂאִי ע֑וֹד וגויך לֹא תַכְשִׁ֣לִי ע֔וֹד נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה וְגוֹיַ֨יִךְ֙",
+  "text": "וְלֹא אַשְׁמִ֨יעַ אֵלַ֤יִךְ עוֹד֙ כְּלִמַּ֣ת הַגּוֹיִ֔ם וְחֶרְפַּ֥ת עַמִּ֖ים לֹ֣א תִשְׂאִי ע֑וֹד וגויך וְגוֹיַ֨יִךְ֙ לֹא תַכְשִׁ֣לִי ע֔וֹד נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה",
   "words": [
     {
       "position": 1,
@@ -177,6 +177,21 @@
     },
     {
       "position": 13,
+      "text": "וְגוֹיַ֨יִךְ֙",
+      "lemma": "c/1471 a",
+      "morph": "HC/Ncmpc/Sp2fs",
+      "strongs": [
+        "H1471"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1471 a",
+        "morph": "HC/Ncmpc/Sp2fs"
+      }
+    },
+    {
+      "position": 14,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "תַכְשִׁ֣לִי",
       "lemma": "3782",
       "morph": "HVhi2fs",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "ע֔וֹד",
       "lemma": "5750",
       "morph": "HD",
@@ -220,7 +235,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "נְאֻ֖ם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -234,7 +249,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֲדֹנָ֥י",
       "lemma": "136",
       "morph": "HNcmpc/Sp1cs",
@@ -248,7 +263,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "יְהוִֽה",
       "lemma": "3069",
       "morph": "HNp",
@@ -260,28 +275,13 @@
         "lemma": "3069",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 19,
-      "text": "וְגוֹיַ֨יִךְ֙",
-      "lemma": "c/1471 a",
-      "morph": "HC/Ncmpc/Sp2fs",
-      "strongs": [
-        "H1471"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/1471 a",
-        "morph": "HC/Ncmpc/Sp2fs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 18
+        "afterWordPosition": 19
       }
     ],
     "terminator": "sof-pasuq"

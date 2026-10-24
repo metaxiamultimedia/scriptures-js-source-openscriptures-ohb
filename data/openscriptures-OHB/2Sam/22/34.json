@@ -1,5 +1,5 @@
 {
-  "text": "מְשַׁוֶּ֥ה רגליו כָּאַיָּל֑וֹת וְעַ֥ל בָּמוֹתַ֖י יַעֲמִדֵֽנִי רַגְלַ֖י",
+  "text": "מְשַׁוֶּ֥ה רגליו רַגְלַ֖י כָּאַיָּל֑וֹת וְעַ֥ל בָּמוֹתַ֖י יַעֲמִדֵֽנִי",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "רַגְלַ֖י",
+      "lemma": "7272",
+      "morph": "HNcfdc/Sp1cs",
+      "strongs": [
+        "H7272"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7272",
+        "morph": "HNcfdc/Sp1cs"
+      }
+    },
+    {
+      "position": 4,
       "text": "כָּאַיָּל֑וֹת",
       "lemma": "k/355",
       "morph": "HRd/Ncfpa",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְעַ֥ל",
       "lemma": "c/5921 a",
       "morph": "HC/R",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בָּמוֹתַ֖י",
       "lemma": "1116",
       "morph": "HNcfpc/Sp1cs",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יַעֲמִדֵֽנִי",
       "lemma": "5975",
       "morph": "HVhi3ms/Sp1cs",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "5975",
         "morph": "HVhi3ms/Sp1cs"
-      }
-    },
-    {
-      "position": 7,
-      "text": "רַגְלַ֖י",
-      "lemma": "7272",
-      "morph": "HNcfdc/Sp1cs",
-      "strongs": [
-        "H7272"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7272",
-        "morph": "HNcfdc/Sp1cs"
       }
     }
   ],

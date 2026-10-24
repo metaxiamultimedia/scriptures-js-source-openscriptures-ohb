@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י שֶׁ֚קֶר הַנְּבִאִים֙ נִבְּאִ֣ים בִּשְׁמִ֔י לֹ֤א שְׁלַחְתִּים֙ וְלֹ֣א צִוִּיתִ֔ים וְלֹ֥א דִבַּ֖רְתִּי אֲלֵיהֶ֑ם חֲז֨וֹן שֶׁ֜קֶר וְקֶ֤סֶם ואלול ותרמות לִבָּ֔ם הֵ֖מָּה מִֽתְנַבְּאִ֥ים לָכֶֽם וֶֽאֱלִיל֙ וְתַרְמִ֣ית",
+  "text": "וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י שֶׁ֚קֶר הַנְּבִאִים֙ נִבְּאִ֣ים בִּשְׁמִ֔י לֹ֤א שְׁלַחְתִּים֙ וְלֹ֣א צִוִּיתִ֔ים וְלֹ֥א דִבַּ֖רְתִּי אֲלֵיהֶ֑ם חֲז֨וֹן שֶׁ֜קֶר וְקֶ֤סֶם ואלול וֶֽאֱלִיל֙ ותרמות וְתַרְמִ֣ית לִבָּ֔ם הֵ֖מָּה מִֽתְנַבְּאִ֥ים לָכֶֽם",
   "words": [
     {
       "position": 1,
@@ -257,6 +257,21 @@
     },
     {
       "position": 19,
+      "text": "וֶֽאֱלִיל֙",
+      "lemma": "c/457",
+      "morph": "HC/Ncmsa",
+      "strongs": [
+        "H457"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/457",
+        "morph": "HC/Ncmsa"
+      }
+    },
+    {
+      "position": 20,
       "text": "ותרמות",
       "lemma": "c/8649 b",
       "morph": "HC/Ncfsc",
@@ -272,7 +287,22 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
+      "text": "וְתַרְמִ֣ית",
+      "lemma": "c/8649 b",
+      "morph": "HC/Ncfsc",
+      "strongs": [
+        "H8649"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/8649 b",
+        "morph": "HC/Ncfsc"
+      }
+    },
+    {
+      "position": 22,
       "text": "לִבָּ֔ם",
       "lemma": "3820 a",
       "morph": "HNcmsc/Sp3mp",
@@ -286,7 +316,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 23,
       "text": "הֵ֖מָּה",
       "lemma": "1992",
       "morph": "HPp3mp",
@@ -300,7 +330,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 24,
       "text": "מִֽתְנַבְּאִ֥ים",
       "lemma": "5012",
       "morph": "HVtrmpa",
@@ -314,7 +344,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 25,
       "text": "לָכֶֽם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
@@ -325,43 +355,13 @@
         "lemma": "l",
         "morph": "HR/Sp2mp"
       }
-    },
-    {
-      "position": 24,
-      "text": "וֶֽאֱלִיל֙",
-      "lemma": "c/457",
-      "morph": "HC/Ncmsa",
-      "strongs": [
-        "H457"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/457",
-        "morph": "HC/Ncmsa"
-      }
-    },
-    {
-      "position": 25,
-      "text": "וְתַרְמִ֣ית",
-      "lemma": "c/8649 b",
-      "morph": "HC/Ncfsc",
-      "strongs": [
-        "H8649"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/8649 b",
-        "morph": "HC/Ncfsc"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 23
+        "afterWordPosition": 25
       }
     ],
     "terminator": "sof-pasuq"

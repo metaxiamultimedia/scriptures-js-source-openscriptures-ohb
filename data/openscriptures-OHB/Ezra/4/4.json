@@ -1,5 +1,5 @@
 {
-  "text": "וַיְהִי֙ עַם הָאָ֔רֶץ מְרַפִּ֖ים יְדֵ֣י עַם יְהוּדָ֑ה ומבלהים אוֹתָ֖ם לִבְנֽוֹת וּֽמְבַהֲלִ֥ים",
+  "text": "וַיְהִי֙ עַם הָאָ֔רֶץ מְרַפִּ֖ים יְדֵ֣י עַם יְהוּדָ֑ה ומבלהים וּֽמְבַהֲלִ֥ים אוֹתָ֖ם לִבְנֽוֹת",
   "words": [
     {
       "position": 1,
@@ -121,6 +121,21 @@
     },
     {
       "position": 9,
+      "text": "וּֽמְבַהֲלִ֥ים",
+      "lemma": "c/926",
+      "morph": "HC/Vprmpa",
+      "strongs": [
+        "H926"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/926",
+        "morph": "HC/Vprmpa"
+      }
+    },
+    {
+      "position": 10,
       "text": "אוֹתָ֖ם",
       "lemma": "853",
       "morph": "HTo/Sp3mp",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לִבְנֽוֹת",
       "lemma": "l/1129",
       "morph": "HR/Vqc",
@@ -145,21 +160,6 @@
       "source": {
         "lemma": "l/1129",
         "morph": "HR/Vqc"
-      }
-    },
-    {
-      "position": 11,
-      "text": "וּֽמְבַהֲלִ֥ים",
-      "lemma": "c/926",
-      "morph": "HC/Vprmpa",
-      "strongs": [
-        "H926"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/926",
-        "morph": "HC/Vprmpa"
       }
     }
   ],

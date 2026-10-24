@@ -1,5 +1,5 @@
 {
-  "text": "הַ֤עַל זֹאת֙ לֹֽא תִרְגַּ֣ז הָאָ֔רֶץ וְאָבַ֖ל כָּל יוֹשֵׁ֣ב בָּ֑הּ וְעָלְתָ֤ה כָאֹר֙ כֻּלָּ֔הּ וְנִגְרְשָׁ֥ה ונשקה כִּיא֥וֹר מִצְרָֽיִם וְנִשְׁקְעָ֖ה",
+  "text": "הַ֤עַל זֹאת֙ לֹֽא תִרְגַּ֣ז הָאָ֔רֶץ וְאָבַ֖ל כָּל יוֹשֵׁ֣ב בָּ֑הּ וְעָלְתָ֤ה כָאֹר֙ כֻּלָּ֔הּ וְנִגְרְשָׁ֥ה ונשקה וְנִשְׁקְעָ֖ה כִּיא֥וֹר מִצְרָֽיִם",
   "words": [
     {
       "position": 1,
@@ -204,6 +204,21 @@
     },
     {
       "position": 15,
+      "text": "וְנִשְׁקְעָ֖ה",
+      "lemma": "c/8257",
+      "morph": "HC/VNq3fs",
+      "strongs": [
+        "H8257"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/8257",
+        "morph": "HC/VNq3fs"
+      }
+    },
+    {
+      "position": 16,
       "text": "כִּיא֥וֹר",
       "lemma": "k/2975",
       "morph": "HR/Np",
@@ -217,7 +232,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מִצְרָֽיִם",
       "lemma": "4714",
       "morph": "HNp",
@@ -229,28 +244,13 @@
         "lemma": "4714",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 17,
-      "text": "וְנִשְׁקְעָ֖ה",
-      "lemma": "c/8257",
-      "morph": "HC/VNq3fs",
-      "strongs": [
-        "H8257"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/8257",
-        "morph": "HC/VNq3fs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 16
+        "afterWordPosition": 17
       }
     ],
     "terminator": "sof-pasuq"

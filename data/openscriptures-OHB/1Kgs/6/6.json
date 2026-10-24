@@ -1,5 +1,5 @@
 {
-  "text": "היצוע הַתַּחְתֹּנָ֜ה חָמֵ֧שׁ בָּאַמָּ֣ה רָחְבָּ֗הּ וְהַתִּֽיכֹנָה֙ שֵׁ֤שׁ בָּֽאַמָּה֙ רָחְבָּ֔הּ וְהַ֨שְּׁלִישִׁ֔ית שֶׁ֥בַע בָּאַמָּ֖ה רָחְבָּ֑הּ כִּ֡י מִגְרָעוֹת֩ נָתַ֨ן לַבַּ֤יִת סָבִיב֙ ח֔וּצָה לְבִלְתִּ֖י אֲחֹ֥ז בְּקִֽירוֹת הַבָּֽיִת הַיָּצִ֨יעַ",
+  "text": "היצוע הַיָּצִ֨יעַ הַתַּחְתֹּנָ֜ה חָמֵ֧שׁ בָּאַמָּ֣ה רָחְבָּ֗הּ וְהַתִּֽיכֹנָה֙ שֵׁ֤שׁ בָּֽאַמָּה֙ רָחְבָּ֔הּ וְהַ֨שְּׁלִישִׁ֔ית שֶׁ֥בַע בָּאַמָּ֖ה רָחְבָּ֑הּ כִּ֡י מִגְרָעוֹת֩ נָתַ֨ן לַבַּ֤יִת סָבִיב֙ ח֔וּצָה לְבִלְתִּ֖י אֲחֹ֥ז בְּקִֽירוֹת הַבָּֽיִת",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "הַיָּצִ֨יעַ",
+      "lemma": "d/3326 b",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H3326"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/3326 b",
+        "morph": "HTd/Ncmsa"
+      }
+    },
+    {
+      "position": 3,
       "text": "הַתַּחְתֹּנָ֜ה",
       "lemma": "d/8481",
       "morph": "HTd/Aafsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "חָמֵ֧שׁ",
       "lemma": "2568",
       "morph": "HAcfsa",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בָּאַמָּ֣ה",
       "lemma": "b/520 a",
       "morph": "HRd/Ncfsa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רָחְבָּ֗הּ",
       "lemma": "7341",
       "morph": "HNcmsc/Sp3fs",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְהַתִּֽיכֹנָה֙",
       "lemma": "c/d/8484",
       "morph": "HC/Td/Aafsa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שֵׁ֤שׁ",
       "lemma": "8337",
       "morph": "HAcfsa",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בָּֽאַמָּה֙",
       "lemma": "b/520 a",
       "morph": "HRd/Ncfsa",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "רָחְבָּ֔הּ",
       "lemma": "7341",
       "morph": "HNcmsc/Sp3fs",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְהַ֨שְּׁלִישִׁ֔ית",
       "lemma": "c/d/7992",
       "morph": "HC/Td/Aofsa",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "שֶׁ֥בַע",
       "lemma": "7651",
       "morph": "HAcfsa",
@@ -158,7 +173,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בָּאַמָּ֖ה",
       "lemma": "b/520 a",
       "morph": "HRd/Ncfsa",
@@ -172,7 +187,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "רָחְבָּ֑הּ",
       "lemma": "7341",
       "morph": "HNcmsc/Sp3fs",
@@ -186,7 +201,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כִּ֡י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -200,7 +215,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "מִגְרָעוֹת֩",
       "lemma": "4052",
       "morph": "HNcfpa",
@@ -214,7 +229,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "נָתַ֨ן",
       "lemma": "5414",
       "morph": "HVqp3ms",
@@ -228,7 +243,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לַבַּ֤יִת",
       "lemma": "l/1004 b",
       "morph": "HRd/Ncmsa",
@@ -242,7 +257,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "סָבִיב֙",
       "lemma": "5439",
       "morph": "HNcbsa",
@@ -256,7 +271,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "ח֔וּצָה",
       "lemma": "2351",
       "morph": "HNcmsa/Sd",
@@ -270,7 +285,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לְבִלְתִּ֖י",
       "lemma": "l/1115",
       "morph": "HR/C",
@@ -284,7 +299,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אֲחֹ֥ז",
       "lemma": "270",
       "morph": "HVqc",
@@ -298,7 +313,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "בְּקִֽירוֹת",
       "lemma": "b/7023",
       "morph": "HR/Ncmpc",
@@ -314,7 +329,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "הַבָּֽיִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
@@ -324,21 +339,6 @@
       "metadata": {},
       "source": {
         "lemma": "d/1004 b",
-        "morph": "HTd/Ncmsa"
-      }
-    },
-    {
-      "position": 24,
-      "text": "הַיָּצִ֨יעַ",
-      "lemma": "d/3326 b",
-      "morph": "HTd/Ncmsa",
-      "strongs": [
-        "H3326"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/3326 b",
         "morph": "HTd/Ncmsa"
       }
     }

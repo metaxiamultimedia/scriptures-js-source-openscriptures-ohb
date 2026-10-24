@@ -1,5 +1,5 @@
 {
-  "text": "גַּ֣ם בַּיָּמִ֣ים הָהֵ֗ם רָאִ֤יתִי אֶת הַיְּהוּדִים֙ הֹשִׁ֗יבוּ נָשִׁים֙ אשדודיות עמוניות מוֹאֲבִיּֽוֹת אַשְׁדֳּדִיּ֔וֹת עַמֳּנִיּ֖וֹת",
+  "text": "גַּ֣ם בַּיָּמִ֣ים הָהֵ֗ם רָאִ֤יתִי אֶת הַיְּהוּדִים֙ הֹשִׁ֗יבוּ נָשִׁים֙ אשדודיות אַשְׁדֳּדִיּ֔וֹת עמוניות עַמֳּנִיּ֖וֹת מוֹאֲבִיּֽוֹת",
   "words": [
     {
       "position": 1,
@@ -133,6 +133,21 @@
     },
     {
       "position": 10,
+      "text": "אַשְׁדֳּדִיּ֔וֹת",
+      "lemma": "796",
+      "morph": "HNgfpa",
+      "strongs": [
+        "H796"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "796",
+        "morph": "HNgfpa"
+      }
+    },
+    {
+      "position": 11,
       "text": "עמוניות",
       "lemma": "5984",
       "morph": "HNgfpa",
@@ -148,36 +163,7 @@
       }
     },
     {
-      "position": 11,
-      "text": "מוֹאֲבִיּֽוֹת",
-      "lemma": "4125",
-      "morph": "HNgfpa",
-      "strongs": [
-        "H4125"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "4125",
-        "morph": "HNgfpa"
-      }
-    },
-    {
       "position": 12,
-      "text": "אַשְׁדֳּדִיּ֔וֹת",
-      "lemma": "796",
-      "morph": "HNgfpa",
-      "strongs": [
-        "H796"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "796",
-        "morph": "HNgfpa"
-      }
-    },
-    {
-      "position": 13,
       "text": "עַמֳּנִיּ֖וֹת",
       "lemma": "5984",
       "morph": "HNgfpa",
@@ -188,6 +174,20 @@
       "metadata": {},
       "source": {
         "lemma": "5984",
+        "morph": "HNgfpa"
+      }
+    },
+    {
+      "position": 13,
+      "text": "מוֹאֲבִיּֽוֹת",
+      "lemma": "4125",
+      "morph": "HNgfpa",
+      "strongs": [
+        "H4125"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "4125",
         "morph": "HNgfpa"
       }
     }

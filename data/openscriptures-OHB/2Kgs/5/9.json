@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֹ֥א נַעֲמָ֖ן בסוסו וּבְרִכְבּ֑וֹ וַיַּעֲמֹ֥ד פֶּֽתַח הַבַּ֖יִת לֶאֱלִישָֽׁע בְּסוּסָ֣יו",
+  "text": "וַיָּבֹ֥א נַעֲמָ֖ן בסוסו בְּסוּסָ֣יו וּבְרִכְבּ֑וֹ וַיַּעֲמֹ֥ד פֶּֽתַח הַבַּ֖יִת לֶאֱלִישָֽׁע",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "בְּסוּסָ֣יו",
+      "lemma": "b/5483 b",
+      "morph": "HR/Ncmpc/Sp3ms",
+      "strongs": [
+        "H5483"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/5483 b",
+        "morph": "HR/Ncmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 5,
       "text": "וּבְרִכְבּ֑וֹ",
       "lemma": "c/b/7393",
       "morph": "HC/R/Ncmsc/Sp3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וַיַּעֲמֹ֥ד",
       "lemma": "c/5975",
       "morph": "HC/Vqw3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "פֶּֽתַח",
       "lemma": "6607",
       "morph": "HNcmsc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַבַּ֖יִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לֶאֱלִישָֽׁע",
       "lemma": "l/477",
       "morph": "HR/Np",
@@ -115,21 +130,6 @@
       "source": {
         "lemma": "l/477",
         "morph": "HR/Np"
-      }
-    },
-    {
-      "position": 9,
-      "text": "בְּסוּסָ֣יו",
-      "lemma": "b/5483 b",
-      "morph": "HR/Ncmpc/Sp3ms",
-      "strongs": [
-        "H5483"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/5483 b",
-        "morph": "HR/Ncmpc/Sp3ms"
       }
     }
   ],

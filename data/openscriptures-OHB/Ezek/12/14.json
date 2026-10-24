@@ -1,5 +1,5 @@
 {
-  "text": "וְכֹל֩ אֲשֶׁ֨ר סְבִיבֹתָ֥יו עזרה וְכָל אֲגַפָּ֖יו אֱזָרֶ֣ה לְכָל ר֑וּחַ וְחֶ֖רֶב אָרִ֥יק אַחֲרֵיהֶֽם עֶזְר֛וֹ",
+  "text": "וְכֹל֩ אֲשֶׁ֨ר סְבִיבֹתָ֥יו עזרה עֶזְר֛וֹ וְכָל אֲגַפָּ֖יו אֱזָרֶ֣ה לְכָל ר֑וּחַ וְחֶ֖רֶב אָרִ֥יק אַחֲרֵיהֶֽם",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "עֶזְר֛וֹ",
+      "lemma": "5828",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H5828"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5828",
+        "morph": "HNcmsc/Sp3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֲגַפָּ֖יו",
       "lemma": "102",
       "morph": "HNcmpc/Sp3ms",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֱזָרֶ֣ה",
       "lemma": "2219",
       "morph": "HVpi1cs",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לְכָל",
       "lemma": "l/3605",
       "morph": "HR/Ncmsc",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "ר֑וּחַ",
       "lemma": "7307",
       "morph": "HNcbsa",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְחֶ֖רֶב",
       "lemma": "c/2719",
       "morph": "HC/Ncfsa",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אָרִ֥יק",
       "lemma": "7324",
       "morph": "HVhi1cs",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אַחֲרֵיהֶֽם",
       "lemma": "310 a",
       "morph": "HR/Sp3mp",
@@ -173,21 +188,6 @@
       "source": {
         "lemma": "310 a",
         "morph": "HR/Sp3mp"
-      }
-    },
-    {
-      "position": 13,
-      "text": "עֶזְר֛וֹ",
-      "lemma": "5828",
-      "morph": "HNcmsc/Sp3ms",
-      "strongs": [
-        "H5828"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5828",
-        "morph": "HNcmsc/Sp3ms"
       }
     }
   ],

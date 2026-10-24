@@ -1,5 +1,5 @@
 {
-  "text": "בָּז לְרֵעֵ֥הוּ חוֹטֵ֑א וּמְחוֹנֵ֖ן עניים אַשְׁרָֽיו עֲנָוִ֣ים",
+  "text": "בָּז לְרֵעֵ֥הוּ חוֹטֵ֑א וּמְחוֹנֵ֖ן עניים עֲנָוִ֣ים אַשְׁרָֽיו",
   "words": [
     {
       "position": 1,
@@ -77,20 +77,6 @@
     },
     {
       "position": 6,
-      "text": "אַשְׁרָֽיו",
-      "lemma": "835",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H835"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "835",
-        "morph": "HNcmpc/Sp3ms"
-      }
-    },
-    {
-      "position": 7,
       "text": "עֲנָוִ֣ים",
       "lemma": "6035",
       "morph": "HAampa",
@@ -102,6 +88,20 @@
       "source": {
         "lemma": "6035",
         "morph": "HAampa"
+      }
+    },
+    {
+      "position": 7,
+      "text": "אַשְׁרָֽיו",
+      "lemma": "835",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H835"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "835",
+        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "אִסְפִּ֥י מֵאֶ֖רֶץ כִּנְעָתֵ֑ךְ ישבתי בַּמָּצֽוֹר יֹשֶׁ֖בֶת",
+  "text": "אִסְפִּ֥י מֵאֶ֖רֶץ כִּנְעָתֵ֑ךְ ישבתי יֹשֶׁ֖בֶת בַּמָּצֽוֹר",
   "words": [
     {
       "position": 1,
@@ -61,20 +61,6 @@
     },
     {
       "position": 5,
-      "text": "בַּמָּצֽוֹר",
-      "lemma": "b/4692",
-      "morph": "HRd/Ncmsa",
-      "strongs": [
-        "H4692"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "b/4692",
-        "morph": "HRd/Ncmsa"
-      }
-    },
-    {
-      "position": 6,
       "text": "יֹשֶׁ֖בֶת",
       "lemma": "3427",
       "morph": "HVqrfsa",
@@ -87,13 +73,27 @@
         "lemma": "3427",
         "morph": "HVqrfsa"
       }
+    },
+    {
+      "position": 6,
+      "text": "בַּמָּצֽוֹר",
+      "lemma": "b/4692",
+      "morph": "HRd/Ncmsa",
+      "strongs": [
+        "H4692"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "b/4692",
+        "morph": "HRd/Ncmsa"
+      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 5
+        "afterWordPosition": 6
       }
     ],
     "terminator": "sof-pasuq"

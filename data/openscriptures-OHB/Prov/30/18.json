@@ -1,5 +1,5 @@
 {
-  "text": "שְׁלֹשָׁ֣ה הֵ֭מָּה נִפְלְא֣וּ מִמֶּ֑נִּי וארבע לֹ֣א יְדַעְתִּֽים וְ֝אַרְבָּעָ֗ה",
+  "text": "שְׁלֹשָׁ֣ה הֵ֭מָּה נִפְלְא֣וּ מִמֶּ֑נִּי וארבע וְ֝אַרְבָּעָ֗ה לֹ֣א יְדַעְתִּֽים",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "וְ֝אַרְבָּעָ֗ה",
+      "lemma": "c/702",
+      "morph": "HC/Acmsa",
+      "strongs": [
+        "H702"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/702",
+        "morph": "HC/Acmsa"
+      }
+    },
+    {
+      "position": 7,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְדַעְתִּֽים",
       "lemma": "3045",
       "morph": "HVqp1cs/Sp3mp",
@@ -99,21 +114,6 @@
       "source": {
         "lemma": "3045",
         "morph": "HVqp1cs/Sp3mp"
-      }
-    },
-    {
-      "position": 8,
-      "text": "וְ֝אַרְבָּעָ֗ה",
-      "lemma": "c/702",
-      "morph": "HC/Acmsa",
-      "strongs": [
-        "H702"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/702",
-        "morph": "HC/Acmsa"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וַתִּכְתֹּ֤ב סְפָרִים֙ בְּשֵׁ֣ם אַחְאָ֔ב וַתַּחְתֹּ֖ם בְּחֹתָמ֑וֹ וַתִּשְׁלַ֣ח הספרים אֶל הַזְקֵנִ֤ים וְאֶל הַֽחֹרִים֙ אֲשֶׁ֣ר בְּעִיר֔וֹ הַיֹּשְׁבִ֖ים אֶת נָבֽוֹת סְפָרִ֗ים",
+  "text": "וַתִּכְתֹּ֤ב סְפָרִים֙ בְּשֵׁ֣ם אַחְאָ֔ב וַתַּחְתֹּ֖ם בְּחֹתָמ֑וֹ וַתִּשְׁלַ֣ח הספרים סְפָרִ֗ים אֶל הַזְקֵנִ֤ים וְאֶל הַֽחֹרִים֙ אֲשֶׁ֣ר בְּעִיר֔וֹ הַיֹּשְׁבִ֖ים אֶת נָבֽוֹת",
   "words": [
     {
       "position": 1,
@@ -117,6 +117,21 @@
     },
     {
       "position": 9,
+      "text": "סְפָרִ֗ים",
+      "lemma": "5612 a",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H5612"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5612 a",
+        "morph": "HNcmpa"
+      }
+    },
+    {
+      "position": 10,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הַזְקֵנִ֤ים",
       "lemma": "d/2205",
       "morph": "HTd/Aampa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְאֶל",
       "lemma": "c/413",
       "morph": "HC/R",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַֽחֹרִים֙",
       "lemma": "d/2715",
       "morph": "HTd/Ncmpa",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲשֶׁ֣ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בְּעִיר֔וֹ",
       "lemma": "b/5892 b",
       "morph": "HR/Ncfsc/Sp3ms",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַיֹּשְׁבִ֖ים",
       "lemma": "d/3427",
       "morph": "HTd/Vqrmpa",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֶת",
       "lemma": "854",
       "morph": "HR",
@@ -234,7 +249,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "נָבֽוֹת",
       "lemma": "5022",
       "morph": "HNp",
@@ -245,21 +260,6 @@
       "source": {
         "lemma": "5022",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 18,
-      "text": "סְפָרִ֗ים",
-      "lemma": "5612 a",
-      "morph": "HNcmpa",
-      "strongs": [
-        "H5612"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5612 a",
-        "morph": "HNcmpa"
       }
     }
   ],

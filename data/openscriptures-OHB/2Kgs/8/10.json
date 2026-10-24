@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֤אמֶר אֵלָיו֙ אֱלִישָׁ֔ע לֵ֥ךְ אֱמָר לא חָיֹ֣ה תִחְיֶ֑ה וְהִרְאַ֥נִי יְהוָ֖ה כִּֽי מ֥וֹת יָמֽוּת ל֖וֹ",
+  "text": "וַיֹּ֤אמֶר אֵלָיו֙ אֱלִישָׁ֔ע לֵ֥ךְ אֱמָר לא ל֖וֹ חָיֹ֣ה תִחְיֶ֑ה וְהִרְאַ֥נִי יְהוָ֖ה כִּֽי מ֥וֹת יָמֽוּת",
   "words": [
     {
       "position": 1,
@@ -91,6 +91,20 @@
     },
     {
       "position": 7,
+      "text": "ל֖וֹ",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "variant": "qere",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
+      }
+    },
+    {
+      "position": 8,
       "text": "חָיֹ֣ה",
       "lemma": "2421",
       "morph": "HVqa",
@@ -104,7 +118,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תִחְיֶ֑ה",
       "lemma": "2421",
       "morph": "HVqi2ms",
@@ -118,7 +132,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְהִרְאַ֥נִי",
       "lemma": "c/7200",
       "morph": "HC/Vhp3ms/Sp1cs",
@@ -132,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יְהוָ֖ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -146,7 +160,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -162,7 +176,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מ֥וֹת",
       "lemma": "4191",
       "morph": "HVqa",
@@ -176,7 +190,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יָמֽוּת",
       "lemma": "4191",
       "morph": "HVqi3ms",
@@ -187,20 +201,6 @@
       "source": {
         "lemma": "4191",
         "morph": "HVqi3ms"
-      }
-    },
-    {
-      "position": 14,
-      "text": "ל֖וֹ",
-      "lemma": "l",
-      "morph": "HR/Sp3ms",
-      "variant": "qere",
-      "metadata": {
-        "isPrefixOnly": true
-      },
-      "source": {
-        "lemma": "l",
-        "morph": "HR/Sp3ms"
       }
     }
   ],

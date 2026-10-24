@@ -1,5 +1,5 @@
 {
-  "text": "יָ֘חִ֤ילוּ דרכו בְּכָל עֵ֗ת מָר֣וֹם מִ֭שְׁפָּטֶיךָ מִנֶּגְדּ֑וֹ כָּל צ֝וֹרְרָ֗יו יָפִ֥יחַ בָּהֶֽם דְרָכָ֨יו",
+  "text": "יָ֘חִ֤ילוּ דרכו דְרָכָ֨יו בְּכָל עֵ֗ת מָר֣וֹם מִ֭שְׁפָּטֶיךָ מִנֶּגְדּ֑וֹ כָּל צ֝וֹרְרָ֗יו יָפִ֥יחַ בָּהֶֽם",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "דְרָכָ֨יו",
+      "lemma": "1870",
+      "morph": "HNcbpc/Sp3ms",
+      "strongs": [
+        "H1870"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1870",
+        "morph": "HNcbpc/Sp3ms"
+      }
+    },
+    {
+      "position": 4,
       "text": "בְּכָל",
       "lemma": "b/3605",
       "morph": "HR/Ncmsc",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "עֵ֗ת",
       "lemma": "6256",
       "morph": "HNcbsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מָר֣וֹם",
       "lemma": "4791",
       "morph": "HNcmsa",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מִ֭שְׁפָּטֶיךָ",
       "lemma": "4941",
       "morph": "HNcmpc/Sp2ms",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מִנֶּגְדּ֑וֹ",
       "lemma": "m/5048",
       "morph": "HR/R/Sp3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "צ֝וֹרְרָ֗יו",
       "lemma": "6887 d",
       "morph": "HVqrmpc/Sp3ms",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יָפִ֥יחַ",
       "lemma": "6315",
       "morph": "HVhi3ms",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בָּהֶֽם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
@@ -159,27 +174,12 @@
         "lemma": "b",
         "morph": "HR/Sp3mp"
       }
-    },
-    {
-      "position": 12,
-      "text": "דְרָכָ֨יו",
-      "lemma": "1870",
-      "morph": "HNcbpc/Sp3ms",
-      "strongs": [
-        "H1870"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1870",
-        "morph": "HNcbpc/Sp3ms"
-      }
     }
   ],
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      2
+      3
     ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "text": "וְכֵ֨ן לִפְאַ֤ת צָפוֹן֙ בָּאֹ֔רֶךְ קְלָעִ֖ים מֵ֣אָה אֹ֑רֶךְ ועמדו עֶשְׂרִ֗ים וְאַדְנֵיהֶ֤ם עֶשְׂרִים֙ נְחֹ֔שֶׁת וָוֵ֧י הָֽעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף וְעַמּוּדָ֣יו",
+  "text": "וְכֵ֨ן לִפְאַ֤ת צָפוֹן֙ בָּאֹ֔רֶךְ קְלָעִ֖ים מֵ֣אָה אֹ֑רֶךְ ועמדו וְעַמּוּדָ֣יו עֶשְׂרִ֗ים וְאַדְנֵיהֶ֤ם עֶשְׂרִים֙ נְחֹ֔שֶׁת וָוֵ֧י הָֽעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף",
   "words": [
     {
       "position": 1,
@@ -117,6 +117,21 @@
     },
     {
       "position": 9,
+      "text": "וְעַמּוּדָ֣יו",
+      "lemma": "c/5982",
+      "morph": "HC/Ncmpc/Sp3ms",
+      "strongs": [
+        "H5982"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/5982",
+        "morph": "HC/Ncmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 10,
       "text": "עֶשְׂרִ֗ים",
       "lemma": "6242",
       "morph": "HAcbpa",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְאַדְנֵיהֶ֤ם",
       "lemma": "c/134",
       "morph": "HC/Ncmpc/Sp3mp",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עֶשְׂרִים֙",
       "lemma": "6242",
       "morph": "HAcbpa",
@@ -158,7 +173,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "נְחֹ֔שֶׁת",
       "lemma": "5178 a",
       "morph": "HNcfsa",
@@ -172,7 +187,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וָוֵ֧י",
       "lemma": "2053",
       "morph": "HNcmpc",
@@ -186,7 +201,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הָֽעַמֻּדִ֛ים",
       "lemma": "d/5982",
       "morph": "HTd/Ncmpa",
@@ -200,7 +215,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וַחֲשֻׁקֵיהֶ֖ם",
       "lemma": "c/2838",
       "morph": "HC/Ncmpc/Sp3mp",
@@ -214,7 +229,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "כָּֽסֶף",
       "lemma": "3701",
       "morph": "HNcmsa",
@@ -225,21 +240,6 @@
       "source": {
         "lemma": "3701",
         "morph": "HNcmsa"
-      }
-    },
-    {
-      "position": 17,
-      "text": "וְעַמּוּדָ֣יו",
-      "lemma": "c/5982",
-      "morph": "HC/Ncmpc/Sp3ms",
-      "strongs": [
-        "H5982"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/5982",
-        "morph": "HC/Ncmpc/Sp3ms"
       }
     }
   ],

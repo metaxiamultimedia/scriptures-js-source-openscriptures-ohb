@@ -1,23 +1,8 @@
 {
-  "text": "צוּף֙ בֶּן ציף בֶּן אֶלְקָנָ֔ה בֶּן מַ֖חַת בֶּן עֲמָשָֽׂי",
+  "text": "בֶּן ציף צוּף֙ בֶּן אֶלְקָנָ֔ה בֶּן מַ֖חַת בֶּן עֲמָשָֽׂי",
   "words": [
     {
       "position": 1,
-      "text": "צוּף֙",
-      "lemma": "6689",
-      "morph": "HNp",
-      "strongs": [
-        "H6689"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6689",
-        "morph": "HNp"
-      }
-    },
-    {
-      "position": 2,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -33,7 +18,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "ציף",
       "lemma": "6689",
       "morph": "HNp",
@@ -46,6 +31,21 @@
         "lemma": "6689",
         "morph": "HNp",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 3,
+      "text": "צוּף֙",
+      "lemma": "6689",
+      "morph": "HNp",
+      "strongs": [
+        "H6689"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6689",
+        "morph": "HNp"
       }
     },
     {

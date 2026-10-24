@@ -1,5 +1,5 @@
 {
-  "text": "כְּעַ֞ן הֵ֧ן אִֽיתֵיכ֣וֹן עֲתִידִ֗ין דִּ֣י בְעִדָּנָ֡א דִּֽי תִשְׁמְע֡וּן קָ֣ל קַרְנָ֣א מַשְׁרוֹקִיתָ֣א קיתרס שַׂבְּכָ֡א פְּסַנְתֵּרִין֩ וְסוּמְפֹּ֨נְיָ֜ה וְכֹ֣ל זְנֵ֣י זְמָרָ֗א תִּפְּל֣וּן וְתִסְגְּדוּן֮ לְצַלְמָ֣א דִֽי עַבְדֵת֒ וְהֵן֙ לָ֣א תִסְגְּד֔וּן בַּהּ שַׁעֲתָ֣ה תִתְרְמ֔וֹן לְגֽוֹא אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּ֑א וּמַן ה֣וּא אֱלָ֔הּ דֵּ֥י יְשֵֽׁיזְבִנְכ֖וֹן מִן יְדָֽי קַתְר֣וֹס",
+  "text": "כְּעַ֞ן הֵ֧ן אִֽיתֵיכ֣וֹן עֲתִידִ֗ין דִּ֣י בְעִדָּנָ֡א דִּֽי תִשְׁמְע֡וּן קָ֣ל קַרְנָ֣א מַשְׁרוֹקִיתָ֣א קיתרס קַתְר֣וֹס שַׂבְּכָ֡א פְּסַנְתֵּרִין֩ וְסוּמְפֹּ֨נְיָ֜ה וְכֹ֣ל זְנֵ֣י זְמָרָ֗א תִּפְּל֣וּן וְתִסְגְּדוּן֮ לְצַלְמָ֣א דִֽי עַבְדֵת֒ וְהֵן֙ לָ֣א תִסְגְּד֔וּן בַּהּ שַׁעֲתָ֣ה תִתְרְמ֔וֹן לְגֽוֹא אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּ֑א וּמַן ה֣וּא אֱלָ֔הּ דֵּ֥י יְשֵֽׁיזְבִנְכ֖וֹן מִן יְדָֽי",
   "words": [
     {
       "position": 1,
@@ -175,6 +175,21 @@
     },
     {
       "position": 13,
+      "text": "קַתְר֣וֹס",
+      "lemma": "7030",
+      "morph": "ANcmsa",
+      "strongs": [
+        "H7030"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7030",
+        "morph": "ANcmsa"
+      }
+    },
+    {
+      "position": 14,
       "text": "שַׂבְּכָ֡א",
       "lemma": "5443",
       "morph": "ANcfsa",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "פְּסַנְתֵּרִין֩",
       "lemma": "6460",
       "morph": "ANcmsa",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְסוּמְפֹּ֨נְיָ֜ה",
       "lemma": "c/5481",
       "morph": "AC/Ncfsa",
@@ -216,7 +231,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְכֹ֣ל",
       "lemma": "c/3606",
       "morph": "AC/Ncmsc",
@@ -230,7 +245,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "זְנֵ֣י",
       "lemma": "2178",
       "morph": "ANcmpc",
@@ -244,7 +259,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "זְמָרָ֗א",
       "lemma": "2170",
       "morph": "ANcmsd/Td",
@@ -258,7 +273,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "תִּפְּל֣וּן",
       "lemma": "5308",
       "morph": "AVqi2mp",
@@ -272,7 +287,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וְתִסְגְּדוּן֮",
       "lemma": "c/5457",
       "morph": "AC/Vqi2mp",
@@ -286,7 +301,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "לְצַלְמָ֣א",
       "lemma": "l/6755",
       "morph": "AR/Ncmsd/Td",
@@ -300,7 +315,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "דִֽי",
       "lemma": "1768",
       "morph": "ATr",
@@ -316,7 +331,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "עַבְדֵת֒",
       "lemma": "5648",
       "morph": "AVqp1cs",
@@ -330,7 +345,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "וְהֵן֙",
       "lemma": "c/2006 a",
       "morph": "AC/C",
@@ -344,7 +359,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "לָ֣א",
       "lemma": "3809",
       "morph": "ATn",
@@ -358,7 +373,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "תִסְגְּד֔וּן",
       "lemma": "5457",
       "morph": "AVqi2mp",
@@ -372,7 +387,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "בַּהּ",
       "lemma": "b",
       "morph": "AR/Sp3ms",
@@ -386,7 +401,7 @@
       }
     },
     {
-      "position": 28,
+      "position": 29,
       "text": "שַׁעֲתָ֣ה",
       "lemma": "8160",
       "morph": "ANcfsd/Td",
@@ -400,7 +415,7 @@
       }
     },
     {
-      "position": 29,
+      "position": 30,
       "text": "תִתְרְמ֔וֹן",
       "lemma": "7412",
       "morph": "AVui2mp",
@@ -414,7 +429,7 @@
       }
     },
     {
-      "position": 30,
+      "position": 31,
       "text": "לְגֽוֹא",
       "lemma": "l/1459",
       "morph": "AR/Ncmsc",
@@ -430,7 +445,7 @@
       }
     },
     {
-      "position": 31,
+      "position": 32,
       "text": "אַתּ֥וּן",
       "lemma": "861",
       "morph": "ANcmsc",
@@ -444,7 +459,7 @@
       }
     },
     {
-      "position": 32,
+      "position": 33,
       "text": "נוּרָ֖א",
       "lemma": "5135",
       "morph": "ANcbsd/Td",
@@ -458,7 +473,7 @@
       }
     },
     {
-      "position": 33,
+      "position": 34,
       "text": "יָקִֽדְתָּ֑א",
       "lemma": "3345",
       "morph": "AVqrfsd/Td",
@@ -472,7 +487,7 @@
       }
     },
     {
-      "position": 34,
+      "position": 35,
       "text": "וּמַן",
       "lemma": "c/4479",
       "morph": "AC/Pi3cs",
@@ -488,7 +503,7 @@
       }
     },
     {
-      "position": 35,
+      "position": 36,
       "text": "ה֣וּא",
       "lemma": "1932",
       "morph": "ATa",
@@ -502,7 +517,7 @@
       }
     },
     {
-      "position": 36,
+      "position": 37,
       "text": "אֱלָ֔הּ",
       "lemma": "426",
       "morph": "ANcmsa",
@@ -516,7 +531,7 @@
       }
     },
     {
-      "position": 37,
+      "position": 38,
       "text": "דֵּ֥י",
       "lemma": "1768",
       "morph": "ATr",
@@ -530,7 +545,7 @@
       }
     },
     {
-      "position": 38,
+      "position": 39,
       "text": "יְשֵֽׁיזְבִנְכ֖וֹן",
       "lemma": "7804",
       "morph": "AVei3ms/Sp2mp",
@@ -544,7 +559,7 @@
       }
     },
     {
-      "position": 39,
+      "position": 40,
       "text": "מִן",
       "lemma": "4481",
       "morph": "AR",
@@ -560,7 +575,7 @@
       }
     },
     {
-      "position": 40,
+      "position": 41,
       "text": "יְדָֽי",
       "lemma": "3028",
       "morph": "ANcfpc/Sp1cs",
@@ -572,27 +587,12 @@
         "lemma": "3028",
         "morph": "ANcfpc/Sp1cs"
       }
-    },
-    {
-      "position": 41,
-      "text": "קַתְר֣וֹס",
-      "lemma": "7030",
-      "morph": "ANcmsa",
-      "strongs": [
-        "H7030"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7030",
-        "morph": "ANcmsa"
-      }
     }
   ],
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      16
+      17
     ]
   }
 }

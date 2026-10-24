@@ -1,5 +1,5 @@
 {
-  "text": "כִּ֤י תשמחי כִּ֣י תעלזי שֹׁסֵ֖י נַחֲלָתִ֑י כִּ֤י תפושי כְּעֶגְלָ֣ה דָשָׁ֔ה ותצהלי כָּאֲבִּרִֽים תִשְׂמְחוּ֙ תַֽעֲלְז֔וּ תָפ֨וּשׁוּ֙ וְתִצְהֲל֖וּ",
+  "text": "כִּ֤י תשמחי תִשְׂמְחוּ֙ כִּ֣י תעלזי תַֽעֲלְז֔וּ שֹׁסֵ֖י נַחֲלָתִ֑י כִּ֤י תפושי תָפ֨וּשׁוּ֙ כְּעֶגְלָ֣ה דָשָׁ֔ה ותצהלי וְתִצְהֲל֖וּ כָּאֲבִּרִֽים",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "תִשְׂמְחוּ֙",
+      "lemma": "8055",
+      "morph": "HVqi2mp",
+      "strongs": [
+        "H8055"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8055",
+        "morph": "HVqi2mp"
+      }
+    },
+    {
+      "position": 4,
       "text": "כִּ֣י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "תעלזי",
       "lemma": "5937",
       "morph": "HVqi2fs",
@@ -62,7 +77,22 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
+      "text": "תַֽעֲלְז֔וּ",
+      "lemma": "5937",
+      "morph": "HVqi2mp",
+      "strongs": [
+        "H5937"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5937",
+        "morph": "HVqi2mp"
+      }
+    },
+    {
+      "position": 7,
       "text": "שֹׁסֵ֖י",
       "lemma": "8154",
       "morph": "HVqrmpc",
@@ -76,7 +106,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "נַחֲלָתִ֑י",
       "lemma": "5159",
       "morph": "HNcfsc/Sp1cs",
@@ -90,7 +120,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "כִּ֤י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -104,7 +134,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "תפושי",
       "lemma": "6335 a",
       "morph": "HVqi2fs",
@@ -120,7 +150,22 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
+      "text": "תָפ֨וּשׁוּ֙",
+      "lemma": "6335 a",
+      "morph": "HVqi2mp",
+      "strongs": [
+        "H6335"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6335 a",
+        "morph": "HVqi2mp"
+      }
+    },
+    {
+      "position": 12,
       "text": "כְּעֶגְלָ֣ה",
       "lemma": "k/5697 a",
       "morph": "HR/Ncfsa",
@@ -134,7 +179,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 13,
       "text": "דָשָׁ֔ה",
       "lemma": "1877",
       "morph": "HVqrfsa",
@@ -148,7 +193,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 14,
       "text": "ותצהלי",
       "lemma": "c/6670 a",
       "morph": "HC/Vqi2fs",
@@ -164,66 +209,7 @@
       }
     },
     {
-      "position": 12,
-      "text": "כָּאֲבִּרִֽים",
-      "lemma": "k/47",
-      "morph": "HRd/Aampa",
-      "strongs": [
-        "H47"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "k/47",
-        "morph": "HRd/Aampa"
-      }
-    },
-    {
-      "position": 13,
-      "text": "תִשְׂמְחוּ֙",
-      "lemma": "8055",
-      "morph": "HVqi2mp",
-      "strongs": [
-        "H8055"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8055",
-        "morph": "HVqi2mp"
-      }
-    },
-    {
-      "position": 14,
-      "text": "תַֽעֲלְז֔וּ",
-      "lemma": "5937",
-      "morph": "HVqi2mp",
-      "strongs": [
-        "H5937"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5937",
-        "morph": "HVqi2mp"
-      }
-    },
-    {
       "position": 15,
-      "text": "תָפ֨וּשׁוּ֙",
-      "lemma": "6335 a",
-      "morph": "HVqi2mp",
-      "strongs": [
-        "H6335"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6335 a",
-        "morph": "HVqi2mp"
-      }
-    },
-    {
-      "position": 16,
       "text": "וְתִצְהֲל֖וּ",
       "lemma": "c/6670 a",
       "morph": "HC/Vqi2mp",
@@ -235,6 +221,20 @@
       "source": {
         "lemma": "c/6670 a",
         "morph": "HC/Vqi2mp"
+      }
+    },
+    {
+      "position": 16,
+      "text": "כָּאֲבִּרִֽים",
+      "lemma": "k/47",
+      "morph": "HRd/Aampa",
+      "strongs": [
+        "H47"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "k/47",
+        "morph": "HRd/Aampa"
       }
     }
   ],

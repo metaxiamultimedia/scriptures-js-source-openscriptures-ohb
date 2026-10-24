@@ -1,5 +1,5 @@
 {
-  "text": "אַל תֵּ֥רֶא יַיִן֮ כִּ֪י יִתְאַ֫דָּ֥ם כִּֽי יִתֵּ֣ן בכיס עֵינ֑וֹ יִ֝תְהַלֵּ֗ךְ בְּמֵישָׁרִֽים בַּכּ֣וֹס",
+  "text": "אַל תֵּ֥רֶא יַיִן֮ כִּ֪י יִתְאַ֫דָּ֥ם כִּֽי יִתֵּ֣ן בכיס בַּכּ֣וֹס עֵינ֑וֹ יִ֝תְהַלֵּ֗ךְ בְּמֵישָׁרִֽים",
   "words": [
     {
       "position": 1,
@@ -121,6 +121,21 @@
     },
     {
       "position": 9,
+      "text": "בַּכּ֣וֹס",
+      "lemma": "b/3563 a",
+      "morph": "HRd/Ncfsa",
+      "strongs": [
+        "H3563"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/3563 a",
+        "morph": "HRd/Ncfsa"
+      }
+    },
+    {
+      "position": 10,
       "text": "עֵינ֑וֹ",
       "lemma": "5869 a",
       "morph": "HNcbsc/Sp3ms",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִ֝תְהַלֵּ֗ךְ",
       "lemma": "1980",
       "morph": "HVti3ms",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בְּמֵישָׁרִֽים",
       "lemma": "b/4339",
       "morph": "HR/Ncmpa",
@@ -159,21 +174,6 @@
       "source": {
         "lemma": "b/4339",
         "morph": "HR/Ncmpa"
-      }
-    },
-    {
-      "position": 12,
-      "text": "בַּכּ֣וֹס",
-      "lemma": "b/3563 a",
-      "morph": "HRd/Ncfsa",
-      "strongs": [
-        "H3563"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/3563 a",
-        "morph": "HRd/Ncfsa"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וּבְגִבְע֛וֹן יָשְׁב֥וּ אֲבִֽי גִבְע֖וֹן יעואל וְשֵׁ֥ם אִשְׁתּ֖וֹ מַעֲכָֽה יְעִיאֵ֑ל",
+  "text": "וּבְגִבְע֛וֹן יָשְׁב֥וּ אֲבִֽי גִבְע֖וֹן יעואל יְעִיאֵ֑ל וְשֵׁ֥ם אִשְׁתּ֖וֹ מַעֲכָֽה",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "יְעִיאֵ֑ל",
+      "lemma": "3273",
+      "morph": "HNp",
+      "strongs": [
+        "H3273"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3273",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 7,
       "text": "וְשֵׁ֥ם",
       "lemma": "c/8034",
       "morph": "HC/Ncmsc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אִשְׁתּ֖וֹ",
       "lemma": "802",
       "morph": "HNcfsc/Sp3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מַעֲכָֽה",
       "lemma": "4601",
       "morph": "HNp",
@@ -114,21 +129,6 @@
       "metadata": {},
       "source": {
         "lemma": "4601",
-        "morph": "HNp"
-      }
-    },
-    {
-      "position": 9,
-      "text": "יְעִיאֵ֑ל",
-      "lemma": "3273",
-      "morph": "HNp",
-      "strongs": [
-        "H3273"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3273",
         "morph": "HNp"
       }
     }

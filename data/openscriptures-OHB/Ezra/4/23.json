@@ -1,5 +1,5 @@
 {
-  "text": "אֱדַ֗יִן מִן דִּ֞י פַּרְשֶׁ֤גֶן נִשְׁתְּוָנָא֙ דִּ֚י ארתחששתא מַלְכָּ֔א קֱרִ֧י קֳדָם רְח֛וּם וְשִׁמְשַׁ֥י סָפְרָ֖א וּכְנָוָתְה֑וֹן אֲזַ֨לוּ בִבְהִיל֤וּ לִירֽוּשְׁלֶם֙ עַל יְה֣וּדָיֵ֔א וּבַטִּ֥לוּ הִמּ֖וֹ בְּאֶדְרָ֥ע וְחָֽיִל אַרְתַּחְשַׁ֣שְׂתְּ",
+  "text": "אֱדַ֗יִן מִן דִּ֞י פַּרְשֶׁ֤גֶן נִשְׁתְּוָנָא֙ דִּ֚י ארתחששתא אַרְתַּחְשַׁ֣שְׂתְּ מַלְכָּ֔א קֱרִ֧י קֳדָם רְח֛וּם וְשִׁמְשַׁ֥י סָפְרָ֖א וּכְנָוָתְה֑וֹן אֲזַ֨לוּ בִבְהִיל֤וּ לִירֽוּשְׁלֶם֙ עַל יְה֣וּדָיֵ֔א וּבַטִּ֥לוּ הִמּ֖וֹ בְּאֶדְרָ֥ע וְחָֽיִל",
   "words": [
     {
       "position": 1,
@@ -105,6 +105,21 @@
     },
     {
       "position": 8,
+      "text": "אַרְתַּחְשַׁ֣שְׂתְּ",
+      "lemma": "783 b",
+      "morph": "ANp",
+      "strongs": [
+        "H783"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "783 b",
+        "morph": "ANp"
+      }
+    },
+    {
+      "position": 9,
       "text": "מַלְכָּ֔א",
       "lemma": "4430",
       "morph": "ANcmsd/Td",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "קֱרִ֧י",
       "lemma": "7123",
       "morph": "AVQp3ms",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "קֳדָם",
       "lemma": "6925",
       "morph": "AR",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "רְח֛וּם",
       "lemma": "7348 b",
       "morph": "ANp",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְשִׁמְשַׁ֥י",
       "lemma": "c/8124",
       "morph": "AC/Np",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "סָפְרָ֖א",
       "lemma": "5613",
       "morph": "ANcmsd/Td",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וּכְנָוָתְה֑וֹן",
       "lemma": "c/3675",
       "morph": "AC/Ncmpc/Sp3mp",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֲזַ֨לוּ",
       "lemma": "236",
       "morph": "AVqp3mp",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בִבְהִיל֤וּ",
       "lemma": "b/924",
       "morph": "AR/Ncfsa",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לִירֽוּשְׁלֶם֙",
       "lemma": "l/3390",
       "morph": "AR/Np",
@@ -246,7 +261,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "עַל",
       "lemma": "5922",
       "morph": "AR",
@@ -262,7 +277,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "יְה֣וּדָיֵ֔א",
       "lemma": "3062",
       "morph": "ANgmpd/Td",
@@ -276,7 +291,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "וּבַטִּ֥לוּ",
       "lemma": "c/989",
       "morph": "AC/Vpp3mp",
@@ -290,7 +305,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "הִמּ֖וֹ",
       "lemma": "1994",
       "morph": "APp3mp",
@@ -304,7 +319,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "בְּאֶדְרָ֥ע",
       "lemma": "b/153",
       "morph": "AR/Ncfsa",
@@ -318,7 +333,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "וְחָֽיִל",
       "lemma": "c/2429",
       "morph": "AC/Ncmsa",
@@ -330,28 +345,13 @@
         "lemma": "c/2429",
         "morph": "AC/Ncmsa"
       }
-    },
-    {
-      "position": 24,
-      "text": "אַרְתַּחְשַׁ֣שְׂתְּ",
-      "lemma": "783 b",
-      "morph": "ANp",
-      "strongs": [
-        "H783"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "783 b",
-        "morph": "ANp"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 23
+        "afterWordPosition": 24
       }
     ],
     "terminator": "sof-pasuq"

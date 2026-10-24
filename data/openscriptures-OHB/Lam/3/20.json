@@ -1,5 +1,5 @@
 {
-  "text": "זָכ֣וֹר תִּזְכּ֔וֹר ותשיח עָלַ֖י נַפְשִֽׁי וְתָשׁ֥וֹחַ",
+  "text": "זָכ֣וֹר תִּזְכּ֔וֹר ותשיח וְתָשׁ֥וֹחַ עָלַ֖י נַפְשִֽׁי",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "וְתָשׁ֥וֹחַ",
+      "lemma": "c/7743",
+      "morph": "HC/Vqi3fs",
+      "strongs": [
+        "H7743"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7743",
+        "morph": "HC/Vqi3fs"
+      }
+    },
+    {
+      "position": 5,
       "text": "עָלַ֖י",
       "lemma": "5921 a",
       "morph": "HR/Sp1cs",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "נַפְשִֽׁי",
       "lemma": "5315",
       "morph": "HNcbsc/Sp1cs",
@@ -71,21 +86,6 @@
       "source": {
         "lemma": "5315",
         "morph": "HNcbsc/Sp1cs"
-      }
-    },
-    {
-      "position": 6,
-      "text": "וְתָשׁ֥וֹחַ",
-      "lemma": "c/7743",
-      "morph": "HC/Vqi3fs",
-      "strongs": [
-        "H7743"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7743",
-        "morph": "HC/Vqi3fs"
       }
     }
   ],

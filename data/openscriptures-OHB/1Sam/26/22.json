@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּ֤עַן דָּוִד֙ וַיֹּ֔אמֶר הִנֵּ֖ה החנית הַמֶּ֑לֶךְ וְיַעֲבֹ֛ר אֶחָ֥ד מֵֽהַנְּעָרִ֖ים וְיִקָּחֶֽהָ חֲנִ֣ית",
+  "text": "וַיַּ֤עַן דָּוִד֙ וַיֹּ֔אמֶר הִנֵּ֖ה החנית חֲנִ֣ית הַמֶּ֑לֶךְ וְיַעֲבֹ֛ר אֶחָ֥ד מֵֽהַנְּעָרִ֖ים וְיִקָּחֶֽהָ",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "חֲנִ֣ית",
+      "lemma": "2595",
+      "morph": "HNcfsa",
+      "strongs": [
+        "H2595"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2595",
+        "morph": "HNcfsa"
+      }
+    },
+    {
+      "position": 7,
       "text": "הַמֶּ֑לֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְיַעֲבֹ֛ר",
       "lemma": "c/5674 a",
       "morph": "HC/Vqi3ms",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֶחָ֥ד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מֵֽהַנְּעָרִ֖ים",
       "lemma": "m/d/5288",
       "morph": "HR/Td/Ncmpa",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְיִקָּחֶֽהָ",
       "lemma": "c/3947",
       "morph": "HC/Vqi3ms/Sp3fs",
@@ -141,21 +156,6 @@
       "source": {
         "lemma": "c/3947",
         "morph": "HC/Vqi3ms/Sp3fs"
-      }
-    },
-    {
-      "position": 11,
-      "text": "חֲנִ֣ית",
-      "lemma": "2595",
-      "morph": "HNcfsa",
-      "strongs": [
-        "H2595"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2595",
-        "morph": "HNcfsa"
       }
     }
   ],

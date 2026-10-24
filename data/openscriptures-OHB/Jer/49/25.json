@@ -1,5 +1,5 @@
 {
-  "text": "אֵ֥יךְ לֹֽא עֻזְּבָ֖ה עִ֣יר תהלה קִרְיַ֖ת מְשׂוֹשִֽׂי תְּהִלָּ֑ת",
+  "text": "אֵ֥יךְ לֹֽא עֻזְּבָ֖ה עִ֣יר תהלה תְּהִלָּ֑ת קִרְיַ֖ת מְשׂוֹשִֽׂי",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "תְּהִלָּ֑ת",
+      "lemma": "8416",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H8416"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8416",
+        "morph": "HNcfsc"
+      }
+    },
+    {
+      "position": 7,
       "text": "קִרְיַ֖ת",
       "lemma": "7151",
       "morph": "HNcfsc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מְשׂוֹשִֽׂי",
       "lemma": "4885",
       "morph": "HNcmsc/Sp1cs",
@@ -101,21 +116,6 @@
       "source": {
         "lemma": "4885",
         "morph": "HNcmsc/Sp1cs"
-      }
-    },
-    {
-      "position": 8,
-      "text": "תְּהִלָּ֑ת",
-      "lemma": "8416",
-      "morph": "HNcfsc",
-      "strongs": [
-        "H8416"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8416",
-        "morph": "HNcfsc"
       }
     }
   ],

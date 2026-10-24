@@ -1,23 +1,8 @@
 {
-  "text": "עִלָּאָ֑ה אָֽתַיָּא֙ וְתִמְהַיָּ֔א דִּ֚י עֲבַ֣ד עִמִּ֔י אֱלָהָ֖א עליא שְׁפַ֥ר קָֽדָמַ֖י לְהַחֲוָיָֽה",
+  "text": "אָֽתַיָּא֙ וְתִמְהַיָּ֔א דִּ֚י עֲבַ֣ד עִמִּ֔י אֱלָהָ֖א עליא עִלָּאָ֑ה שְׁפַ֥ר קָֽדָמַ֖י לְהַחֲוָיָֽה",
   "words": [
     {
       "position": 1,
-      "text": "עִלָּאָ֑ה",
-      "lemma": "5943",
-      "morph": "AAamsd/Td",
-      "strongs": [
-        "H5943"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5943",
-        "morph": "AAamsd/Td"
-      }
-    },
-    {
-      "position": 2,
       "text": "אָֽתַיָּא֙",
       "lemma": "852",
       "morph": "ANcmpd/Td",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "וְתִמְהַיָּ֔א",
       "lemma": "c/8540",
       "morph": "AC/Ncmpd/Td",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "דִּ֚י",
       "lemma": "1768",
       "morph": "ATr",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "עֲבַ֣ד",
       "lemma": "5648",
       "morph": "AVqp3ms",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "עִמִּ֔י",
       "lemma": "5974",
       "morph": "AR/Sp1cs",
@@ -87,7 +72,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "אֱלָהָ֖א",
       "lemma": "426",
       "morph": "ANcmsd/Td",
@@ -101,7 +86,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "עליא",
       "lemma": "5943",
       "morph": "AAamsd/Td",
@@ -114,6 +99,21 @@
         "lemma": "5943",
         "morph": "AAamsd/Td",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 8,
+      "text": "עִלָּאָ֑ה",
+      "lemma": "5943",
+      "morph": "AAamsd/Td",
+      "strongs": [
+        "H5943"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5943",
+        "morph": "AAamsd/Td"
       }
     },
     {

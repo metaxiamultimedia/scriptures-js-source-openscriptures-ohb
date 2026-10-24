@@ -1,5 +1,5 @@
 {
-  "text": "וַאֲנִ֗י כִּ֭מְעַט נטוי רַגְלָ֑י כְּ֝אַ֗יִן שפכה אֲשֻׁרָֽי נָטָ֣יוּ שֻׁפְּכ֥וּ",
+  "text": "וַאֲנִ֗י כִּ֭מְעַט נטוי נָטָ֣יוּ רַגְלָ֑י כְּ֝אַ֗יִן שפכה שֻׁפְּכ֥וּ אֲשֻׁרָֽי",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "נָטָ֣יוּ",
+      "lemma": "5186",
+      "morph": "HVqp3cp",
+      "strongs": [
+        "H5186"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5186",
+        "morph": "HVqp3cp"
+      }
+    },
+    {
+      "position": 5,
       "text": "רַגְלָ֑י",
       "lemma": "7272",
       "morph": "HNcfdc/Sp1cs",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כְּ֝אַ֗יִן",
       "lemma": "k/369",
       "morph": "HR/Tn",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "שפכה",
       "lemma": "8210",
       "morph": "HVQp3fs",
@@ -90,36 +105,7 @@
       }
     },
     {
-      "position": 7,
-      "text": "אֲשֻׁרָֽי",
-      "lemma": "838 a",
-      "morph": "HNcfpc/Sp1cs",
-      "strongs": [
-        "H838"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "838 a",
-        "morph": "HNcfpc/Sp1cs"
-      }
-    },
-    {
       "position": 8,
-      "text": "נָטָ֣יוּ",
-      "lemma": "5186",
-      "morph": "HVqp3cp",
-      "strongs": [
-        "H5186"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5186",
-        "morph": "HVqp3cp"
-      }
-    },
-    {
-      "position": 9,
       "text": "שֻׁפְּכ֥וּ",
       "lemma": "8210",
       "morph": "HVQp3cp",
@@ -131,6 +117,20 @@
       "source": {
         "lemma": "8210",
         "morph": "HVQp3cp"
+      }
+    },
+    {
+      "position": 9,
+      "text": "אֲשֻׁרָֽי",
+      "lemma": "838 a",
+      "morph": "HNcfpc/Sp1cs",
+      "strongs": [
+        "H838"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "838 a",
+        "morph": "HNcfpc/Sp1cs"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "אַשְׁדּ֞וֹד בְּנוֹתֶ֣יהָ וַחֲצֵרֶ֗יהָ עַזָּ֥ה בְּנוֹתֶ֥יהָ וַחֲצֵרֶ֖יהָ עַד נַ֣חַל מִצְרָ֑יִם וְהַיָּ֥ם הגבול וּגְבֽוּל הַגָּד֖וֹל",
+  "text": "אַשְׁדּ֞וֹד בְּנוֹתֶ֣יהָ וַחֲצֵרֶ֗יהָ עַזָּ֥ה בְּנוֹתֶ֥יהָ וַחֲצֵרֶ֖יהָ עַד נַ֣חַל מִצְרָ֑יִם וְהַיָּ֥ם הגבול הַגָּד֖וֹל וּגְבֽוּל",
   "words": [
     {
       "position": 1,
@@ -161,20 +161,6 @@
     },
     {
       "position": 12,
-      "text": "וּגְבֽוּל",
-      "lemma": "c/1366",
-      "morph": "HC/Ncmsa",
-      "strongs": [
-        "H1366"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "c/1366",
-        "morph": "HC/Ncmsa"
-      }
-    },
-    {
-      "position": 13,
       "text": "הַגָּד֖וֹל",
       "lemma": "d/1419 a",
       "morph": "HTd/Aamsa",
@@ -187,13 +173,27 @@
         "lemma": "d/1419 a",
         "morph": "HTd/Aamsa"
       }
+    },
+    {
+      "position": 13,
+      "text": "וּגְבֽוּל",
+      "lemma": "c/1366",
+      "morph": "HC/Ncmsa",
+      "strongs": [
+        "H1366"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/1366",
+        "morph": "HC/Ncmsa"
+      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 12
+        "afterWordPosition": 13
       }
     ],
     "terminator": "sof-pasuq"

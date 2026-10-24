@@ -1,5 +1,5 @@
 {
-  "text": "אַל תַּלְשֵׁ֣ן עֶ֭בֶד אֶל אדנו פֶּֽן יְקַלֶּלְךָ֥ וְאָשָֽׁמְתָּ אֲדֹנָ֑יו",
+  "text": "אַל תַּלְשֵׁ֣ן עֶ֭בֶד אֶל אדנו אֲדֹנָ֑יו פֶּֽן יְקַלֶּלְךָ֥ וְאָשָֽׁמְתָּ",
   "words": [
     {
       "position": 1,
@@ -79,6 +79,21 @@
     },
     {
       "position": 6,
+      "text": "אֲדֹנָ֑יו",
+      "lemma": "113",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H113"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "113",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 7,
       "text": "פֶּֽן",
       "lemma": "6435",
       "morph": "HC",
@@ -94,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יְקַלֶּלְךָ֥",
       "lemma": "7043",
       "morph": "HVpi3ms/Sp2ms",
@@ -108,7 +123,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְאָשָֽׁמְתָּ",
       "lemma": "c/816",
       "morph": "HC/Vqq2ms",
@@ -119,21 +134,6 @@
       "source": {
         "lemma": "c/816",
         "morph": "HC/Vqq2ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "אֲדֹנָ֑יו",
-      "lemma": "113",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H113"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "113",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

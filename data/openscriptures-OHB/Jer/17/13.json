@@ -1,5 +1,5 @@
 {
-  "text": "מִקְוֵ֤ה יִשְׂרָאֵל֙ יְהוָ֔ה כָּל עֹזְבֶ֖יךָ יֵבֹ֑שׁוּ יסורי בָּאָ֣רֶץ יִכָּתֵ֔בוּ כִּ֥י עָזְב֛וּ מְק֥וֹר מַֽיִם חַיִּ֖ים אֶת יְהוָֽה וְסוּרַי֙",
+  "text": "מִקְוֵ֤ה יִשְׂרָאֵל֙ יְהוָ֔ה כָּל עֹזְבֶ֖יךָ יֵבֹ֑שׁוּ יסורי וְסוּרַי֙ בָּאָ֣רֶץ יִכָּתֵ֔בוּ כִּ֥י עָזְב֛וּ מְק֥וֹר מַֽיִם חַיִּ֖ים אֶת יְהוָֽה",
   "words": [
     {
       "position": 1,
@@ -105,6 +105,21 @@
     },
     {
       "position": 8,
+      "text": "וְסוּרַי֙",
+      "lemma": "c/5493",
+      "morph": "HC/Vqrmpc/Sp1cs",
+      "strongs": [
+        "H5493"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/5493",
+        "morph": "HC/Vqrmpc/Sp1cs"
+      }
+    },
+    {
+      "position": 9,
       "text": "בָּאָ֣רֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יִכָּתֵ֔בוּ",
       "lemma": "3789",
       "morph": "HVNi3mp",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "כִּ֥י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עָזְב֛וּ",
       "lemma": "5800 a",
       "morph": "HVqp3cp",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מְק֥וֹר",
       "lemma": "4726",
       "morph": "HNcmsc",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מַֽיִם",
       "lemma": "4325",
       "morph": "HNcmpa",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "חַיִּ֖ים",
       "lemma": "2416 a",
       "morph": "HAampa",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -220,7 +235,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "יְהוָֽה",
       "lemma": "3068",
       "morph": "HNp",
@@ -232,28 +247,13 @@
         "lemma": "3068",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 17,
-      "text": "וְסוּרַי֙",
-      "lemma": "c/5493",
-      "morph": "HC/Vqrmpc/Sp1cs",
-      "strongs": [
-        "H5493"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/5493",
-        "morph": "HC/Vqrmpc/Sp1cs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 16
+        "afterWordPosition": 17
       }
     ],
     "terminator": "sof-pasuq"

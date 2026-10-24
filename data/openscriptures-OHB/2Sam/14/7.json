@@ -1,5 +1,5 @@
 {
-  "text": "וְהִנֵּה֩ קָ֨מָה כָֽל הַמִּשְׁפָּחָ֜ה עַל שִׁפְחָתֶ֗ךָ וַיֹּֽאמְרוּ֙ תְּנִ֣י אֶת מַכֵּ֣ה אָחִ֗יו וּנְמִתֵ֨הוּ֙ בְּנֶ֤פֶשׁ אָחִיו֙ אֲשֶׁ֣ר הָרָ֔ג וְנַשְׁמִ֖ידָה גַּ֣ם אֶת הַיּוֹרֵ֑שׁ וְכִבּ֗וּ אֶת גַּֽחַלְתִּי֙ אֲשֶׁ֣ר נִשְׁאָ֔רָה לְבִלְתִּ֧י שום לְאִישִׁ֛י שֵׁ֥ם וּשְׁאֵרִ֖ית עַל פְּנֵ֥י הָאֲדָמָֽה שִׂים",
+  "text": "וְהִנֵּה֩ קָ֨מָה כָֽל הַמִּשְׁפָּחָ֜ה עַל שִׁפְחָתֶ֗ךָ וַיֹּֽאמְרוּ֙ תְּנִ֣י אֶת מַכֵּ֣ה אָחִ֗יו וּנְמִתֵ֨הוּ֙ בְּנֶ֤פֶשׁ אָחִיו֙ אֲשֶׁ֣ר הָרָ֔ג וְנַשְׁמִ֖ידָה גַּ֣ם אֶת הַיּוֹרֵ֑שׁ וְכִבּ֗וּ אֶת גַּֽחַלְתִּי֙ אֲשֶׁ֣ר נִשְׁאָ֔רָה לְבִלְתִּ֧י שום שִׂים לְאִישִׁ֛י שֵׁ֥ם וּשְׁאֵרִ֖ית עַל פְּנֵ֥י הָאֲדָמָֽה",
   "words": [
     {
       "position": 1,
@@ -384,9 +384,7 @@
         "H7760"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "7760 a",
         "morph": "HVqc",
@@ -395,6 +393,23 @@
     },
     {
       "position": 28,
+      "text": "שִׂים",
+      "lemma": "7760 a",
+      "morph": "HVqc",
+      "strongs": [
+        "H7760"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "7760 a",
+        "morph": "HVqc"
+      }
+    },
+    {
+      "position": 29,
       "text": "לְאִישִׁ֛י",
       "lemma": "l/376",
       "morph": "HR/Ncmsc/Sp1cs",
@@ -408,7 +423,7 @@
       }
     },
     {
-      "position": 29,
+      "position": 30,
       "text": "שֵׁ֥ם",
       "lemma": "8034",
       "morph": "HNcmsa",
@@ -422,7 +437,7 @@
       }
     },
     {
-      "position": 30,
+      "position": 31,
       "text": "וּשְׁאֵרִ֖ית",
       "lemma": "c/7611",
       "morph": "HC/Ncfsa",
@@ -436,7 +451,7 @@
       }
     },
     {
-      "position": 31,
+      "position": 32,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -452,7 +467,7 @@
       }
     },
     {
-      "position": 32,
+      "position": 33,
       "text": "פְּנֵ֥י",
       "lemma": "6440",
       "morph": "HNcbpc",
@@ -466,7 +481,7 @@
       }
     },
     {
-      "position": 33,
+      "position": 34,
       "text": "הָאֲדָמָֽה",
       "lemma": "d/127",
       "morph": "HTd/Ncfsa",
@@ -478,28 +493,13 @@
         "lemma": "d/127",
         "morph": "HTd/Ncfsa"
       }
-    },
-    {
-      "position": 34,
-      "text": "שִׂים",
-      "lemma": "7760 a",
-      "morph": "HVqc",
-      "strongs": [
-        "H7760"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7760 a",
-        "morph": "HVqc"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 33
+        "afterWordPosition": 34
       }
     ],
     "terminator": "sof-pasuq",

@@ -1,5 +1,5 @@
 {
-  "text": "עָנֵ֣ה וְאָמַ֗ר הָֽא אֲנָ֨ה חָזֵ֜ה גֻּבְרִ֣ין אַרְבְּעָ֗ה שְׁרַ֨יִן֙ מַהְלְכִ֣ין בְּגֽוֹא נוּרָ֔א וַחֲבָ֖ל לָא אִיתַ֣י בְּה֑וֹן וְרֵוֵהּ֙ דִּ֣י רביעיא דָּמֵ֖ה לְבַר אֱלָהִֽין רְֽבִיעָאָ֔ה",
+  "text": "עָנֵ֣ה וְאָמַ֗ר הָֽא אֲנָ֨ה חָזֵ֜ה גֻּבְרִ֣ין אַרְבְּעָ֗ה שְׁרַ֨יִן֙ מַהְלְכִ֣ין בְּגֽוֹא נוּרָ֔א וַחֲבָ֖ל לָא אִיתַ֣י בְּה֑וֹן וְרֵוֵהּ֙ דִּ֣י רביעיא רְֽבִיעָאָ֔ה דָּמֵ֖ה לְבַר אֱלָהִֽין",
   "words": [
     {
       "position": 1,
@@ -262,6 +262,21 @@
     },
     {
       "position": 19,
+      "text": "רְֽבִיעָאָ֔ה",
+      "lemma": "7244",
+      "morph": "AAomsd/Td",
+      "strongs": [
+        "H7244"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7244",
+        "morph": "AAomsd/Td"
+      }
+    },
+    {
+      "position": 20,
       "text": "דָּמֵ֖ה",
       "lemma": "1821",
       "morph": "AVqrmsa",
@@ -275,7 +290,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לְבַר",
       "lemma": "l/1247",
       "morph": "AR/Ncmsc",
@@ -291,7 +306,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אֱלָהִֽין",
       "lemma": "426",
       "morph": "ANcmpa",
@@ -303,28 +318,13 @@
         "lemma": "426",
         "morph": "ANcmpa"
       }
-    },
-    {
-      "position": 22,
-      "text": "רְֽבִיעָאָ֔ה",
-      "lemma": "7244",
-      "morph": "AAomsd/Td",
-      "strongs": [
-        "H7244"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7244",
-        "morph": "AAomsd/Td"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 21
+        "afterWordPosition": 22
       }
     ],
     "terminator": "sof-pasuq"

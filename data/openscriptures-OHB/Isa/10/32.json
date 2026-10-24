@@ -1,5 +1,5 @@
 {
-  "text": "ע֥וֹד הַיּ֖וֹם בְּנֹ֣ב לַֽעֲמֹ֑ד יְנֹפֵ֤ף יָדוֹ֙ הַ֣ר בית צִיּ֔וֹן גִּבְעַ֖ת יְרוּשָׁלִָֽם בַּת",
+  "text": "ע֥וֹד הַיּ֖וֹם בְּנֹ֣ב לַֽעֲמֹ֑ד יְנֹפֵ֤ף יָדוֹ֙ הַ֣ר בית בַּת צִיּ֔וֹן גִּבְעַ֖ת יְרוּשָׁלִָֽם",
   "words": [
     {
       "position": 1,
@@ -108,9 +108,7 @@
         "H1004"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "1004 b",
         "morph": "HNcmsc",
@@ -119,6 +117,23 @@
     },
     {
       "position": 9,
+      "text": "בַּת",
+      "lemma": "1323",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H1323"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "1323",
+        "morph": "HNcfsc"
+      }
+    },
+    {
+      "position": 10,
       "text": "צִיּ֔וֹן",
       "lemma": "1323",
       "morph": "HNp",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "גִּבְעַ֖ת",
       "lemma": "1389",
       "morph": "HNcfsc",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְרוּשָׁלִָֽם",
       "lemma": "3389",
       "morph": "HNp",
@@ -158,28 +173,13 @@
         "lemma": "3389",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 12,
-      "text": "בַּת",
-      "lemma": "1323",
-      "morph": "HNcfsc",
-      "strongs": [
-        "H1323"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1323",
-        "morph": "HNcfsc"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 11
+        "afterWordPosition": 12
       }
     ],
     "terminator": "sof-pasuq"

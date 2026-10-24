@@ -1,5 +1,5 @@
 {
-  "text": "עַד יֵ֨עָרֶ֥ה עָלֵ֛ינוּ ר֖וּחַ מִמָּר֑וֹם וְהָיָ֤ה מִדְבָּר֙ לַכַּרְמֶ֔ל וכרמל לַיַּ֥עַר יֵחָשֵֽׁב וְהַכַּרְמֶ֖ל",
+  "text": "עַד יֵ֨עָרֶ֥ה עָלֵ֛ינוּ ר֖וּחַ מִמָּר֑וֹם וְהָיָ֤ה מִדְבָּר֙ לַכַּרְמֶ֔ל וכרמל וְהַכַּרְמֶ֖ל לַיַּ֥עַר יֵחָשֵֽׁב",
   "words": [
     {
       "position": 1,
@@ -133,6 +133,21 @@
     },
     {
       "position": 10,
+      "text": "וְהַכַּרְמֶ֖ל",
+      "lemma": "c/d/3759",
+      "morph": "HC/Td/Ncmsa",
+      "strongs": [
+        "H3759"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/d/3759",
+        "morph": "HC/Td/Ncmsa"
+      }
+    },
+    {
+      "position": 11,
       "text": "לַיַּ֥עַר",
       "lemma": "l/3293 a",
       "morph": "HRd/Ncmsa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יֵחָשֵֽׁב",
       "lemma": "2803",
       "morph": "HVNi3ms",
@@ -157,21 +172,6 @@
       "source": {
         "lemma": "2803",
         "morph": "HVNi3ms"
-      }
-    },
-    {
-      "position": 12,
-      "text": "וְהַכַּרְמֶ֖ל",
-      "lemma": "c/d/3759",
-      "morph": "HC/Td/Ncmsa",
-      "strongs": [
-        "H3759"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/d/3759",
-        "morph": "HC/Td/Ncmsa"
       }
     }
   ],

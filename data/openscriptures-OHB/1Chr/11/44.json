@@ -1,5 +1,5 @@
 {
-  "text": "עֻזִיָּ֖א הָעֲשְׁתְּרָתִ֑י שָׁמָע֙ ויעואל בְּנֵ֖י חוֹתָ֥ם הָעֲרֹעֵרִֽי וִֽיעִיאֵ֔ל",
+  "text": "עֻזִיָּ֖א הָעֲשְׁתְּרָתִ֑י שָׁמָע֙ ויעואל וִֽיעִיאֵ֔ל בְּנֵ֖י חוֹתָ֥ם הָעֲרֹעֵרִֽי",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "וִֽיעִיאֵ֔ל",
+      "lemma": "c/3273",
+      "morph": "HC/Np",
+      "strongs": [
+        "H3273"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3273",
+        "morph": "HC/Np"
+      }
+    },
+    {
+      "position": 6,
       "text": "בְּנֵ֖י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "חוֹתָ֥ם",
       "lemma": "2369",
       "morph": "HNp",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הָעֲרֹעֵרִֽי",
       "lemma": "d/6200",
       "morph": "HTd/Ngmsa",
@@ -100,32 +115,17 @@
         "lemma": "d/6200",
         "morph": "HTd/Ngmsa"
       }
-    },
-    {
-      "position": 8,
-      "text": "וִֽיעִיאֵ֔ל",
-      "lemma": "c/3273",
-      "morph": "HC/Np",
-      "strongs": [
-        "H3273"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/3273",
-        "morph": "HC/Np"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 4
+        "afterWordPosition": 5
       },
       {
         "type": "setumah",
-        "afterWordPosition": 7
+        "afterWordPosition": 8
       }
     ],
     "terminator": "sof-pasuq"

@@ -1,5 +1,5 @@
 {
-  "text": "וְהִנֵּ֞ה הָאִ֣ישׁ לְבֻ֣שׁ הַבַּדִּ֗ים אֲשֶׁ֤ר הַקֶּ֨סֶת֙ בְּמָתְנָ֔יו מֵשִׁ֥יב דָּבָ֖ר לֵאמֹ֑ר עָשִׂ֕יתִי כאשר צִוִּיתָֽנִי כְּכֹ֖ל אֲשֶׁ֥ר",
+  "text": "וְהִנֵּ֞ה הָאִ֣ישׁ לְבֻ֣שׁ הַבַּדִּ֗ים אֲשֶׁ֤ר הַקֶּ֨סֶת֙ בְּמָתְנָ֔יו מֵשִׁ֥יב דָּבָ֖ר לֵאמֹ֑ר עָשִׂ֕יתִי כאשר כְּכֹ֖ל אֲשֶׁ֥ר צִוִּיתָֽנִי",
   "words": [
     {
       "position": 1,
@@ -173,20 +173,6 @@
     },
     {
       "position": 13,
-      "text": "צִוִּיתָֽנִי",
-      "lemma": "6680",
-      "morph": "HVpp2ms/Sp1cs",
-      "strongs": [
-        "H6680"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "6680",
-        "morph": "HVpp2ms/Sp1cs"
-      }
-    },
-    {
-      "position": 14,
       "text": "כְּכֹ֖ל",
       "lemma": "k/3605",
       "morph": "HR/Ncmsa",
@@ -201,7 +187,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 14,
       "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -214,13 +200,27 @@
         "lemma": "834 a",
         "morph": "HTr"
       }
+    },
+    {
+      "position": 15,
+      "text": "צִוִּיתָֽנִי",
+      "lemma": "6680",
+      "morph": "HVpp2ms/Sp1cs",
+      "strongs": [
+        "H6680"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "6680",
+        "morph": "HVpp2ms/Sp1cs"
+      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 13
+        "afterWordPosition": 15
       }
     ],
     "terminator": "sof-pasuq",

@@ -1,23 +1,8 @@
 {
-  "text": "רָֽדְפִי וּמְשַׁלְּמֵ֣י רָ֭עָה תַּ֣חַת טוֹבָ֑ה יִ֝שְׂטְנ֗וּנִי תַּ֣חַת רדופי טֽוֹב",
+  "text": "וּמְשַׁלְּמֵ֣י רָ֭עָה תַּ֣חַת טוֹבָ֑ה יִ֝שְׂטְנ֗וּנִי תַּ֣חַת רדופי רָֽדְפִי טֽוֹב",
   "words": [
     {
       "position": 1,
-      "text": "רָֽדְפִי",
-      "lemma": "7291",
-      "morph": "HVqc/Sp1cs",
-      "strongs": [
-        "H7291"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7291",
-        "morph": "HVqc/Sp1cs"
-      }
-    },
-    {
-      "position": 2,
       "text": "וּמְשַׁלְּמֵ֣י",
       "lemma": "c/7999 a",
       "morph": "HC/Vprmpc",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "רָ֭עָה",
       "lemma": "7451 c",
       "morph": "HNcfsa",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "תַּ֣חַת",
       "lemma": "8478",
       "morph": "HR",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "טוֹבָ֑ה",
       "lemma": "2896 c",
       "morph": "HAafsa",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "יִ֝שְׂטְנ֗וּנִי",
       "lemma": "7853",
       "morph": "HVqi3mp/Sp1cs",
@@ -87,7 +72,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "תַּ֣חַת",
       "lemma": "8478",
       "morph": "HR",
@@ -101,7 +86,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "רדופי",
       "lemma": "7291",
       "morph": "HVqc/Sp1cs",
@@ -109,13 +94,28 @@
         "H7291"
       ],
       "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "7291",
+        "morph": "HVqc/Sp1cs",
+        "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 8,
+      "text": "רָֽדְפִי",
+      "lemma": "7291",
+      "morph": "HVqc/Sp1cs",
+      "strongs": [
+        "H7291"
+      ],
+      "variant": "qere",
       "metadata": {
         "joinNext": "maqqef"
       },
       "source": {
         "lemma": "7291",
-        "morph": "HVqc/Sp1cs",
-        "type": "x-ketiv"
+        "morph": "HVqc/Sp1cs"
       }
     },
     {

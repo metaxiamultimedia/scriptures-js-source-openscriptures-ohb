@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּשֶׂם֩ הַמֶּ֨לֶךְ אחשרש מַ֛ס עַל הָאָ֖רֶץ וְאִיֵּ֥י הַיָּֽם אֲחַשְׁוֵר֧וֹשׁ",
+  "text": "וַיָּשֶׂם֩ הַמֶּ֨לֶךְ אחשרש אֲחַשְׁוֵר֧וֹשׁ מַ֛ס עַל הָאָ֖רֶץ וְאִיֵּ֥י הַיָּֽם",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "אֲחַשְׁוֵר֧וֹשׁ",
+      "lemma": "325",
+      "morph": "HNp",
+      "strongs": [
+        "H325"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "325",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 5,
       "text": "מַ֛ס",
       "lemma": "4522",
       "morph": "HNcmsa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הָאָ֖רֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְאִיֵּ֥י",
       "lemma": "c/339",
       "morph": "HC/Ncmpc",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הַיָּֽם",
       "lemma": "d/3220",
       "morph": "HTd/Ncmsa",
@@ -116,27 +131,12 @@
         "lemma": "d/3220",
         "morph": "HTd/Ncmsa"
       }
-    },
-    {
-      "position": 9,
-      "text": "אֲחַשְׁוֵר֧וֹשׁ",
-      "lemma": "325",
-      "morph": "HNp",
-      "strongs": [
-        "H325"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "325",
-        "morph": "HNp"
-      }
     }
   ],
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      3
+      4
     ]
   }
 }

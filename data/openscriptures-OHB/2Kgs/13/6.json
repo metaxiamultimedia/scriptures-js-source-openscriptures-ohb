@@ -1,5 +1,5 @@
 {
-  "text": "אַ֠ךְ לֹֽא סָ֜רוּ מֵחַטֹּ֧אות בֵּית יָרָבְעָ֛ם אֲשֶׁר החטי אֶת יִשְׂרָאֵ֖ל בָּ֣הּ הָלָ֑ךְ וְגַם֙ הָאֲשֵׁרָ֔ה עָמְדָ֖ה בְּשֹׁמְרֽוֹן הֶחֱטִ֥יא",
+  "text": "אַ֠ךְ לֹֽא סָ֜רוּ מֵחַטֹּ֧אות בֵּית יָרָבְעָ֛ם אֲשֶׁר החטי הֶחֱטִ֥יא אֶת יִשְׂרָאֵ֖ל בָּ֣הּ הָלָ֑ךְ וְגַם֙ הָאֲשֵׁרָ֔ה עָמְדָ֖ה בְּשֹׁמְרֽוֹן",
   "words": [
     {
       "position": 1,
@@ -123,6 +123,21 @@
     },
     {
       "position": 9,
+      "text": "הֶחֱטִ֥יא",
+      "lemma": "2398",
+      "morph": "HVhp3ms",
+      "strongs": [
+        "H2398"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2398",
+        "morph": "HVhp3ms"
+      }
+    },
+    {
+      "position": 10,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -138,7 +153,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִשְׂרָאֵ֖ל",
       "lemma": "3478",
       "morph": "HNp",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בָּ֣הּ",
       "lemma": "b",
       "morph": "HR/Sp3fs",
@@ -165,7 +180,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הָלָ֑ךְ",
       "lemma": "1980",
       "morph": "HVqp3ms",
@@ -179,7 +194,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְגַם֙",
       "lemma": "c/1571",
       "morph": "HC/Ta",
@@ -193,7 +208,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הָאֲשֵׁרָ֔ה",
       "lemma": "d/842",
       "morph": "HTd/Np",
@@ -207,7 +222,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עָמְדָ֖ה",
       "lemma": "5975",
       "morph": "HVqp3fs",
@@ -221,7 +236,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "בְּשֹׁמְרֽוֹן",
       "lemma": "b/8111",
       "morph": "HR/Np",
@@ -232,21 +247,6 @@
       "source": {
         "lemma": "b/8111",
         "morph": "HR/Np"
-      }
-    },
-    {
-      "position": 17,
-      "text": "הֶחֱטִ֥יא",
-      "lemma": "2398",
-      "morph": "HVhp3ms",
-      "strongs": [
-        "H2398"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2398",
-        "morph": "HVhp3ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "אכתוב ל֔וֹ רבו תּֽוֹרָתִ֑י כְּמוֹ זָ֖ר נֶחְשָֽׁבוּ אֶ֨כְתָּב רֻבֵּ֖י",
+  "text": "אכתוב אֶ֨כְתָּב ל֔וֹ רבו רֻבֵּ֖י תּֽוֹרָתִ֑י כְּמוֹ זָ֖ר נֶחְשָֽׁבוּ",
   "words": [
     {
       "position": 1,
@@ -10,9 +10,7 @@
         "H3789"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "3789",
         "morph": "HVqi1cs",
@@ -21,6 +19,23 @@
     },
     {
       "position": 2,
+      "text": "אֶ֨כְתָּב",
+      "lemma": "3789",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H3789"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "3789",
+        "morph": "HVqi1cs"
+      }
+    },
+    {
+      "position": 3,
       "text": "ל֔וֹ",
       "lemma": "l/3789",
       "morph": "HR/Sp3ms",
@@ -34,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "רבו",
       "lemma": "7239",
       "morph": "HNcbsc",
@@ -50,7 +65,22 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
+      "text": "רֻבֵּ֖י",
+      "lemma": "7230",
+      "morph": "HNcbsc",
+      "strongs": [
+        "H7230"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7230",
+        "morph": "HNcbsc"
+      }
+    },
+    {
+      "position": 6,
       "text": "תּֽוֹרָתִ֑י",
       "lemma": "8451",
       "morph": "HNcfsc/Sp1cs",
@@ -64,7 +94,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "כְּמוֹ",
       "lemma": "3644",
       "morph": "HR",
@@ -80,7 +110,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "זָ֖ר",
       "lemma": "2114 a",
       "morph": "HAamsa",
@@ -94,7 +124,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "נֶחְשָֽׁבוּ",
       "lemma": "2803",
       "morph": "HVNp3cp",
@@ -105,36 +135,6 @@
       "source": {
         "lemma": "2803",
         "morph": "HVNp3cp"
-      }
-    },
-    {
-      "position": 8,
-      "text": "אֶ֨כְתָּב",
-      "lemma": "3789",
-      "morph": "HVqi1cs",
-      "strongs": [
-        "H3789"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3789",
-        "morph": "HVqi1cs"
-      }
-    },
-    {
-      "position": 9,
-      "text": "רֻבֵּ֖י",
-      "lemma": "7230",
-      "morph": "HNcbsc",
-      "strongs": [
-        "H7230"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7230",
-        "morph": "HNcbsc"
       }
     }
   ],

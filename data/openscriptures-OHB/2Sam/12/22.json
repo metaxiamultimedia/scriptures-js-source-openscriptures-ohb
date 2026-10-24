@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֕אמֶר בְּעוֹד֙ הַיֶּ֣לֶד חַ֔י צַ֖מְתִּי וָֽאֶבְכֶּ֑ה כִּ֤י אָמַ֨רְתִּי֙ מִ֣י יוֹדֵ֔עַ יחנני יְהוָ֖ה וְחַ֥י הַיָּֽלֶד וְחַנַּ֥נִי",
+  "text": "וַיֹּ֕אמֶר בְּעוֹד֙ הַיֶּ֣לֶד חַ֔י צַ֖מְתִּי וָֽאֶבְכֶּ֑ה כִּ֤י אָמַ֨רְתִּי֙ מִ֣י יוֹדֵ֔עַ יחנני וְחַנַּ֥נִי יְהוָ֖ה וְחַ֥י הַיָּֽלֶד",
   "words": [
     {
       "position": 1,
@@ -159,6 +159,21 @@
     },
     {
       "position": 12,
+      "text": "וְחַנַּ֥נִי",
+      "lemma": "c/2603 a",
+      "morph": "HC/Vqq3ms/Sp1cs",
+      "strongs": [
+        "H2603"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/2603 a",
+        "morph": "HC/Vqq3ms/Sp1cs"
+      }
+    },
+    {
+      "position": 13,
       "text": "יְהוָ֖ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -172,7 +187,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְחַ֥י",
       "lemma": "c/2416 a",
       "morph": "HC/Vqq3ms",
@@ -186,7 +201,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הַיָּֽלֶד",
       "lemma": "d/3206",
       "morph": "HTd/Ncmsa",
@@ -197,21 +212,6 @@
       "source": {
         "lemma": "d/3206",
         "morph": "HTd/Ncmsa"
-      }
-    },
-    {
-      "position": 15,
-      "text": "וְחַנַּ֥נִי",
-      "lemma": "c/2603 a",
-      "morph": "HC/Vqq3ms/Sp1cs",
-      "strongs": [
-        "H2603"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/2603 a",
-        "morph": "HC/Vqq3ms/Sp1cs"
       }
     }
   ],

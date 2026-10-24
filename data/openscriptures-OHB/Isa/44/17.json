@@ -1,5 +1,5 @@
 {
-  "text": "וּשְׁאֵ֣רִית֔וֹ לְאֵ֥ל עָשָׂ֖ה לְפִסְל֑וֹ יסגוד ל֤וֹ וְיִשְׁתַּ֨חוּ֙ וְיִתְפַּלֵּ֣ל אֵלָ֔יו וְיֹאמַר֙ הַצִּילֵ֔נִי כִּ֥י אֵלִ֖י אָֽתָּה יִסְגָּד",
+  "text": "וּשְׁאֵ֣רִית֔וֹ לְאֵ֥ל עָשָׂ֖ה לְפִסְל֑וֹ יסגוד יִסְגָּד ל֤וֹ וְיִשְׁתַּ֨חוּ֙ וְיִתְפַּלֵּ֣ל אֵלָ֔יו וְיֹאמַר֙ הַצִּילֵ֔נִי כִּ֥י אֵלִ֖י אָֽתָּה",
   "words": [
     {
       "position": 1,
@@ -66,9 +66,7 @@
         "H5456"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "5456",
         "morph": "HVqi3ms",
@@ -77,6 +75,23 @@
     },
     {
       "position": 6,
+      "text": "יִסְגָּד",
+      "lemma": "5456",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H5456"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "5456",
+        "morph": "HVqi3ms"
+      }
+    },
+    {
+      "position": 7,
       "text": "ל֤וֹ",
       "lemma": "l/5456",
       "morph": "HR/Sp3ms",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְיִשְׁתַּ֨חוּ֙",
       "lemma": "c/7812",
       "morph": "HC/Vvi3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְיִתְפַּלֵּ֣ל",
       "lemma": "c/6419",
       "morph": "HC/Vti3ms",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֵלָ֔יו",
       "lemma": "413",
       "morph": "HR/Sp3ms",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְיֹאמַר֙",
       "lemma": "c/559",
       "morph": "HC/Vqi3ms",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "הַצִּילֵ֔נִי",
       "lemma": "5337",
       "morph": "HVhv2ms/Sp1cs",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כִּ֥י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֵלִ֖י",
       "lemma": "410",
       "morph": "HNcmsc/Sp1cs",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אָֽתָּה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -199,21 +214,6 @@
       "source": {
         "lemma": "859 a",
         "morph": "HPp2ms"
-      }
-    },
-    {
-      "position": 15,
-      "text": "יִסְגָּד",
-      "lemma": "5456",
-      "morph": "HVqi3ms",
-      "strongs": [
-        "H5456"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5456",
-        "morph": "HVqi3ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "ידעת כִּי כֹ֣ל תּוּכָ֑ל וְלֹא יִבָּצֵ֖ר מִמְּךָ֣ מְזִמָּֽה יָ֭דַעְתִּי",
+  "text": "ידעת יָ֭דַעְתִּי כִּי כֹ֣ל תּוּכָ֑ל וְלֹא יִבָּצֵ֖ר מִמְּךָ֣ מְזִמָּֽה",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "יָ֭דַעְתִּי",
+      "lemma": "3045",
+      "morph": "HVqp1cs",
+      "strongs": [
+        "H3045"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3045",
+        "morph": "HVqp1cs"
+      }
+    },
+    {
+      "position": 3,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -34,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "כֹ֣ל",
       "lemma": "3605",
       "morph": "HNcmsa",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "תּוּכָ֑ל",
       "lemma": "3201",
       "morph": "HVqi2ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -78,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִבָּצֵ֖ר",
       "lemma": "1219",
       "morph": "HVNi3ms",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מִמְּךָ֣",
       "lemma": "4480 a",
       "morph": "HR/Sp2ms",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מְזִמָּֽה",
       "lemma": "4209",
       "morph": "HNcfsa",
@@ -117,21 +132,6 @@
       "source": {
         "lemma": "4209",
         "morph": "HNcfsa"
-      }
-    },
-    {
-      "position": 9,
-      "text": "יָ֭דַעְתִּי",
-      "lemma": "3045",
-      "morph": "HVqp1cs",
-      "strongs": [
-        "H3045"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3045",
-        "morph": "HVqp1cs"
       }
     }
   ],

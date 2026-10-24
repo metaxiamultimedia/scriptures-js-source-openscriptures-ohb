@@ -1,23 +1,8 @@
 {
-  "text": "תָּר֥וּם כִּֽי תִפְאֶ֣רֶת עֻזָּ֣מוֹ אָ֑תָּה וּ֝בִרְצֹנְךָ֗ תרים קַרְנֵֽנוּ",
+  "text": "כִּֽי תִפְאֶ֣רֶת עֻזָּ֣מוֹ אָ֑תָּה וּ֝בִרְצֹנְךָ֗ תרים תָּר֥וּם קַרְנֵֽנוּ",
   "words": [
     {
       "position": 1,
-      "text": "תָּר֥וּם",
-      "lemma": "7311 a",
-      "morph": "HVqi3fs",
-      "strongs": [
-        "H7311"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7311 a",
-        "morph": "HVqi3fs"
-      }
-    },
-    {
-      "position": 2,
       "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -33,7 +18,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "תִפְאֶ֣רֶת",
       "lemma": "8597",
       "morph": "HNcfsc",
@@ -47,7 +32,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "עֻזָּ֣מוֹ",
       "lemma": "5797",
       "morph": "HNcmsc/Sp3mp",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "אָ֑תָּה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -75,7 +60,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "וּ֝בִרְצֹנְךָ֗",
       "lemma": "c/b/7522",
       "morph": "HC/R/Ncmsc/Sp2ms",
@@ -89,7 +74,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "תרים",
       "lemma": "7311 a",
       "morph": "HVhi2ms",
@@ -102,6 +87,21 @@
         "lemma": "7311 a",
         "morph": "HVhi2ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 7,
+      "text": "תָּר֥וּם",
+      "lemma": "7311 a",
+      "morph": "HVqi3fs",
+      "strongs": [
+        "H7311"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7311 a",
+        "morph": "HVqi3fs"
       }
     },
     {

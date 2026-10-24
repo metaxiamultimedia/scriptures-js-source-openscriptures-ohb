@@ -1,5 +1,5 @@
 {
-  "text": "שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם ומדבריך פָּחַ֥ד לִבִּֽי וּ֝מִדְּבָרְךָ֗",
+  "text": "שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם ומדבריך וּ֝מִדְּבָרְךָ֗ פָּחַ֥ד לִבִּֽי",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "וּ֝מִדְּבָרְךָ֗",
+      "lemma": "c/m/1697",
+      "morph": "HC/R/Ncmsc/Sp2ms",
+      "strongs": [
+        "H1697"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/m/1697",
+        "morph": "HC/R/Ncmsc/Sp2ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "פָּחַ֥ד",
       "lemma": "6342",
       "morph": "HVqp3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לִבִּֽי",
       "lemma": "3820 a",
       "morph": "HNcmsc/Sp1cs",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "3820 a",
         "morph": "HNcmsc/Sp1cs"
-      }
-    },
-    {
-      "position": 7,
-      "text": "וּ֝מִדְּבָרְךָ֗",
-      "lemma": "c/m/1697",
-      "morph": "HC/R/Ncmsc/Sp2ms",
-      "strongs": [
-        "H1697"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/m/1697",
-        "morph": "HC/R/Ncmsc/Sp2ms"
       }
     }
   ],

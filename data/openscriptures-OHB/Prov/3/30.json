@@ -1,5 +1,5 @@
 {
-  "text": "אַל תרוב עִם אָדָ֣ם חִנָּ֑ם אִם לֹ֖א גְמָלְךָ֣ רָעָֽה תָּרִ֣יב",
+  "text": "אַל תרוב תָּרִ֣יב עִם אָדָ֣ם חִנָּ֑ם אִם לֹ֖א גְמָלְךָ֣ רָעָֽה",
   "words": [
     {
       "position": 1,
@@ -35,6 +35,21 @@
     },
     {
       "position": 3,
+      "text": "תָּרִ֣יב",
+      "lemma": "7378",
+      "morph": "HVqj2ms",
+      "strongs": [
+        "H7378"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7378",
+        "morph": "HVqj2ms"
+      }
+    },
+    {
+      "position": 4,
       "text": "עִם",
       "lemma": "5973 a",
       "morph": "HR",
@@ -50,7 +65,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אָדָ֣ם",
       "lemma": "120",
       "morph": "HNcmsa",
@@ -64,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "חִנָּ֑ם",
       "lemma": "2600",
       "morph": "HD",
@@ -78,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אִם",
       "lemma": "518 a",
       "morph": "HC",
@@ -94,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לֹ֖א",
       "lemma": "3808",
       "morph": "HTn",
@@ -108,7 +123,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "גְמָלְךָ֣",
       "lemma": "1580",
       "morph": "HVqp3ms/Sp2ms",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "רָעָֽה",
       "lemma": "7451 c",
       "morph": "HNcfsa",
@@ -133,21 +148,6 @@
       "source": {
         "lemma": "7451 c",
         "morph": "HNcfsa"
-      }
-    },
-    {
-      "position": 10,
-      "text": "תָּרִ֣יב",
-      "lemma": "7378",
-      "morph": "HVqj2ms",
-      "strongs": [
-        "H7378"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7378",
-        "morph": "HVqj2ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "כִּֽי יתרו פִ֭תַּח וַיְעַנֵּ֑נִי וְ֝רֶ֗סֶן מִפָּנַ֥י שִׁלֵּֽחוּ יִתְרִ֣י",
+  "text": "כִּֽי יתרו יִתְרִ֣י פִ֭תַּח וַיְעַנֵּ֑נִי וְ֝רֶ֗סֶן מִפָּנַ֥י שִׁלֵּֽחוּ",
   "words": [
     {
       "position": 1,
@@ -35,6 +35,21 @@
     },
     {
       "position": 3,
+      "text": "יִתְרִ֣י",
+      "lemma": "3499 b",
+      "morph": "HNcmsc/Sp1cs",
+      "strongs": [
+        "H3499"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3499 b",
+        "morph": "HNcmsc/Sp1cs"
+      }
+    },
+    {
+      "position": 4,
       "text": "פִ֭תַּח",
       "lemma": "6605 a",
       "morph": "HVpp3ms",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וַיְעַנֵּ֑נִי",
       "lemma": "c/6031 b",
       "morph": "HC/Vpw3ms/Sp1cs",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְ֝רֶ֗סֶן",
       "lemma": "c/7448",
       "morph": "HC/Ncmsa",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מִפָּנַ֥י",
       "lemma": "m/6440",
       "morph": "HR/Ncbpc/Sp1cs",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שִׁלֵּֽחוּ",
       "lemma": "7971",
       "morph": "HVpp3cp",
@@ -101,21 +116,6 @@
       "source": {
         "lemma": "7971",
         "morph": "HVpp3cp"
-      }
-    },
-    {
-      "position": 8,
-      "text": "יִתְרִ֣י",
-      "lemma": "3499 b",
-      "morph": "HNcmsc/Sp1cs",
-      "strongs": [
-        "H3499"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3499 b",
-        "morph": "HNcmsc/Sp1cs"
       }
     }
   ],

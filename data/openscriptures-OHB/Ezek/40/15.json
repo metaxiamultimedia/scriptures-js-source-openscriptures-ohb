@@ -1,5 +1,5 @@
 {
-  "text": "וְעַ֗ל פְּנֵי֙ הַשַּׁ֣עַר היאתון עַל לִפְנֵ֕י אֻלָ֥ם הַשַּׁ֖עַר הַפְּנִימִ֑י חֲמִשִּׁ֖ים אַמָּֽה הָֽאִית֔וֹן",
+  "text": "וְעַ֗ל פְּנֵי֙ הַשַּׁ֣עַר היאתון הָֽאִית֔וֹן עַל לִפְנֵ֕י אֻלָ֥ם הַשַּׁ֖עַר הַפְּנִימִ֑י חֲמִשִּׁ֖ים אַמָּֽה",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "הָֽאִית֔וֹן",
+      "lemma": "d/2978",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H2978"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/2978",
+        "morph": "HTd/Ncmsa"
+      }
+    },
+    {
+      "position": 6,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לִפְנֵ֕י",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֻלָ֥ם",
       "lemma": "197",
       "morph": "HNcmsc",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הַשַּׁ֖עַר",
       "lemma": "d/8179",
       "morph": "HTd/Ncmsa",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַפְּנִימִ֑י",
       "lemma": "d/6442",
       "morph": "HTd/Aamsa",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "חֲמִשִּׁ֖ים",
       "lemma": "2572",
       "morph": "HAcbpa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אַמָּֽה",
       "lemma": "520 a",
       "morph": "HNcfsa",
@@ -157,21 +172,6 @@
       "source": {
         "lemma": "520 a",
         "morph": "HNcfsa"
-      }
-    },
-    {
-      "position": 12,
-      "text": "הָֽאִית֔וֹן",
-      "lemma": "d/2978",
-      "morph": "HTd/Ncmsa",
-      "strongs": [
-        "H2978"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/2978",
-        "morph": "HTd/Ncmsa"
       }
     }
   ],

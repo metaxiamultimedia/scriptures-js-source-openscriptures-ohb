@@ -1,5 +1,5 @@
 {
-  "text": "וְאָהֳלִֽיבָמָה֙ יָֽלְדָ֔ה אֶת יעיש וְאֶת יַעְלָ֖ם וְאֶת קֹ֑רַח אֵ֚לֶּה בְּנֵ֣י עֵשָׂ֔ו אֲשֶׁ֥ר יֻלְּדוּ ל֖וֹ בְּאֶ֥רֶץ כְּנָֽעַן יְע֥וּשׁ",
+  "text": "וְאָהֳלִֽיבָמָה֙ יָֽלְדָ֔ה אֶת יעיש יְע֥וּשׁ וְאֶת יַעְלָ֖ם וְאֶת קֹ֑רַח אֵ֚לֶּה בְּנֵ֣י עֵשָׂ֔ו אֲשֶׁ֥ר יֻלְּדוּ ל֖וֹ בְּאֶ֥רֶץ כְּנָֽעַן",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "יְע֥וּשׁ",
+      "lemma": "3266",
+      "morph": "HNp",
+      "strongs": [
+        "H3266"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3266",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 6,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -78,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יַעְלָ֖ם",
       "lemma": "3281",
       "morph": "HNp",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -108,7 +123,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "קֹ֑רַח",
       "lemma": "7141",
       "morph": "HNp",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֵ֚לֶּה",
       "lemma": "428",
       "morph": "HPdxcp",
@@ -136,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בְּנֵ֣י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -150,7 +165,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עֵשָׂ֔ו",
       "lemma": "6215",
       "morph": "HNp",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -178,7 +193,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יֻלְּדוּ",
       "lemma": "3205",
       "morph": "HVPp3cp",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "ל֖וֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -207,7 +222,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בְּאֶ֥רֶץ",
       "lemma": "b/776",
       "morph": "HR/Ncbsc",
@@ -221,7 +236,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "כְּנָֽעַן",
       "lemma": "3667 a",
       "morph": "HNp",
@@ -231,21 +246,6 @@
       "metadata": {},
       "source": {
         "lemma": "3667 a",
-        "morph": "HNp"
-      }
-    },
-    {
-      "position": 17,
-      "text": "יְע֥וּשׁ",
-      "lemma": "3266",
-      "morph": "HNp",
-      "strongs": [
-        "H3266"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3266",
         "morph": "HNp"
       }
     }

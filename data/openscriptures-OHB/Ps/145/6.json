@@ -1,5 +1,5 @@
 {
-  "text": "וֶעֱז֣וּז נוֹרְאֹתֶ֣יךָ יֹאמֵ֑רוּ וגדולתיך אֲסַפְּרֶֽנָּה וּגְדוּלָּתְךָ֥",
+  "text": "וֶעֱז֣וּז נוֹרְאֹתֶ֣יךָ יֹאמֵ֑רוּ וגדולתיך וּגְדוּלָּתְךָ֥ אֲסַפְּרֶֽנָּה",
   "words": [
     {
       "position": 1,
@@ -61,20 +61,6 @@
     },
     {
       "position": 5,
-      "text": "אֲסַפְּרֶֽנָּה",
-      "lemma": "5608 a",
-      "morph": "HVpi1cs/Sp3fs",
-      "strongs": [
-        "H5608"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "5608 a",
-        "morph": "HVpi1cs/Sp3fs"
-      }
-    },
-    {
-      "position": 6,
       "text": "וּגְדוּלָּתְךָ֥",
       "lemma": "c/1420",
       "morph": "HC/Ncfsc/Sp2ms",
@@ -86,6 +72,20 @@
       "source": {
         "lemma": "c/1420",
         "morph": "HC/Ncfsc/Sp2ms"
+      }
+    },
+    {
+      "position": 6,
+      "text": "אֲסַפְּרֶֽנָּה",
+      "lemma": "5608 a",
+      "morph": "HVpi1cs/Sp3fs",
+      "strongs": [
+        "H5608"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "5608 a",
+        "morph": "HVpi1cs/Sp3fs"
       }
     }
   ],

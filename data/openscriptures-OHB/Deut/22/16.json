@@ -1,5 +1,5 @@
 {
-  "text": "וְאָמַ֛ר אֲבִ֥י הנער אֶל הַזְּקֵנִ֑ים אֶת בִּתִּ֗י נָתַ֜תִּי לָאִ֥ישׁ הַזֶּ֛ה לְאִשָּׁ֖ה וַיִּשְׂנָאֶֽהָ הַֽנַּעַרָ֖ה",
+  "text": "וְאָמַ֛ר אֲבִ֥י הנער הַֽנַּעַרָ֖ה אֶל הַזְּקֵנִ֑ים אֶת בִּתִּ֗י נָתַ֜תִּי לָאִ֥ישׁ הַזֶּ֛ה לְאִשָּׁ֖ה וַיִּשְׂנָאֶֽהָ",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "הַֽנַּעַרָ֖ה",
+      "lemma": "d/5291",
+      "morph": "HTd/Ncfsa",
+      "strongs": [
+        "H5291"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/5291",
+        "morph": "HTd/Ncfsa"
+      }
+    },
+    {
+      "position": 5,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "הַזְּקֵנִ֑ים",
       "lemma": "d/2205",
       "morph": "HTd/Aampa",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בִּתִּ֗י",
       "lemma": "1323",
       "morph": "HNcfsc/Sp1cs",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "נָתַ֜תִּי",
       "lemma": "5414",
       "morph": "HVqp1cs",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לָאִ֥ישׁ",
       "lemma": "l/376",
       "morph": "HRd/Ncmsa",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הַזֶּ֛ה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לְאִשָּׁ֖ה",
       "lemma": "l/802",
       "morph": "HR/Ncfsa",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וַיִּשְׂנָאֶֽהָ",
       "lemma": "c/8130",
       "morph": "HC/Vqw3ms/Sp3fs",
@@ -173,21 +188,6 @@
       "source": {
         "lemma": "c/8130",
         "morph": "HC/Vqw3ms/Sp3fs"
-      }
-    },
-    {
-      "position": 13,
-      "text": "הַֽנַּעַרָ֖ה",
-      "lemma": "d/5291",
-      "morph": "HTd/Ncfsa",
-      "strongs": [
-        "H5291"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/5291",
-        "morph": "HTd/Ncfsa"
       }
     }
   ],

@@ -1,23 +1,8 @@
 {
-  "text": "עַוְלָ֥תָה לְ֭הַגִּיד כִּֽי יָשָׁ֣ר יְהוָ֑ה צ֝וּרִ֗י וְֽלֹא עלתה בּֽוֹ",
+  "text": "לְ֭הַגִּיד כִּֽי יָשָׁ֣ר יְהוָ֑ה צ֝וּרִ֗י וְֽלֹא עלתה עַוְלָ֥תָה בּֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "עַוְלָ֥תָה",
-      "lemma": "5766 b",
-      "morph": "HNcbsc/Sh",
-      "strongs": [
-        "H5766"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5766 b",
-        "morph": "HNcbsc/Sh"
-      }
-    },
-    {
-      "position": 2,
       "text": "לְ֭הַגִּיד",
       "lemma": "l/5046",
       "morph": "HR/Vhc",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -47,7 +32,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "יָשָׁ֣ר",
       "lemma": "3477",
       "morph": "HAamsa",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "יְהוָ֑ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -75,7 +60,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "צ֝וּרִ֗י",
       "lemma": "6697",
       "morph": "HNcmsc/Sp1cs",
@@ -89,7 +74,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "וְֽלֹא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -105,7 +90,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "עלתה",
       "lemma": "5766 b",
       "morph": "HNcbsa/Sh",
@@ -118,6 +103,21 @@
         "lemma": "5766 b",
         "morph": "HNcbsa/Sh",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 8,
+      "text": "עַוְלָ֥תָה",
+      "lemma": "5766 b",
+      "morph": "HNcbsc/Sh",
+      "strongs": [
+        "H5766"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5766 b",
+        "morph": "HNcbsc/Sh"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "text": "וּלְאֵ֨לֶּה֙ אָמַ֣ר בְּאָזְנַ֔י עִבְר֥וּ בָעִ֛יר אַחֲרָ֖יו וְהַכּ֑וּ על תָּחֹ֥ס עיניכם וְאַל תַּחְמֹֽלוּ אַל עֵינְכֶ֖ם",
+  "text": "וּלְאֵ֨לֶּה֙ אָמַ֣ר בְּאָזְנַ֔י עִבְר֥וּ בָעִ֛יר אַחֲרָ֖יו וְהַכּ֑וּ על אַל תָּחֹ֥ס עיניכם עֵינְכֶ֖ם וְאַל תַּחְמֹֽלוּ",
   "words": [
     {
       "position": 1,
@@ -108,9 +108,7 @@
         "H5921"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "5921 a",
         "morph": "HR",
@@ -119,6 +117,23 @@
     },
     {
       "position": 9,
+      "text": "אַל",
+      "lemma": "408",
+      "morph": "HTn",
+      "strongs": [
+        "H408"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "408",
+        "morph": "HTn"
+      }
+    },
+    {
+      "position": 10,
       "text": "תָּחֹ֥ס",
       "lemma": "2347",
       "morph": "HVqj3fs",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עיניכם",
       "lemma": "5869 a",
       "morph": "HNcbdc/Sp2mp",
@@ -148,7 +163,22 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
+      "text": "עֵינְכֶ֖ם",
+      "lemma": "5869 a",
+      "morph": "HNcbsc/Sp2mp",
+      "strongs": [
+        "H5869"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5869 a",
+        "morph": "HNcbsc/Sp2mp"
+      }
+    },
+    {
+      "position": 13,
       "text": "וְאַל",
       "lemma": "c/408",
       "morph": "HC/Tn",
@@ -164,7 +194,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "תַּחְמֹֽלוּ",
       "lemma": "2550",
       "morph": "HVqj2mp",
@@ -175,36 +205,6 @@
       "source": {
         "lemma": "2550",
         "morph": "HVqj2mp"
-      }
-    },
-    {
-      "position": 13,
-      "text": "אַל",
-      "lemma": "408",
-      "morph": "HTn",
-      "strongs": [
-        "H408"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "408",
-        "morph": "HTn"
-      }
-    },
-    {
-      "position": 14,
-      "text": "עֵינְכֶ֖ם",
-      "lemma": "5869 a",
-      "morph": "HNcbsc/Sp2mp",
-      "strongs": [
-        "H5869"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5869 a",
-        "morph": "HNcbsc/Sp2mp"
       }
     }
   ],

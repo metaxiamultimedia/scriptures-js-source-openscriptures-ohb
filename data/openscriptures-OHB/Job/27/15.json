@@ -1,5 +1,5 @@
 {
-  "text": "שרידו בַּמָּ֣וֶת יִקָּבֵ֑רוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה שְׂ֭רִידָיו",
+  "text": "שרידו שְׂ֭רִידָיו בַּמָּ֣וֶת יִקָּבֵ֑רוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "שְׂ֭רִידָיו",
+      "lemma": "8300",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H8300"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8300",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 3,
       "text": "בַּמָּ֣וֶת",
       "lemma": "b/4194",
       "morph": "HRd/Ncmsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "יִקָּבֵ֑רוּ",
       "lemma": "6912",
       "morph": "HVNi3mp",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְ֝אַלְמְנֹתָ֗יו",
       "lemma": "c/490",
       "morph": "HC/Ncfpc/Sp3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תִבְכֶּֽינָה",
       "lemma": "1058",
       "morph": "HVqi3fp",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "1058",
         "morph": "HVqi3fp"
-      }
-    },
-    {
-      "position": 7,
-      "text": "שְׂ֭רִידָיו",
-      "lemma": "8300",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H8300"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8300",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

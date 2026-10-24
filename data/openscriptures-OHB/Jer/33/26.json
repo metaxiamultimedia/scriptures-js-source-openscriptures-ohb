@@ -1,5 +1,5 @@
 {
-  "text": "גַּם זֶ֣רַע יַעֲקוֹב֩ וְדָוִ֨ד עַבְדִּ֜י אֶמְאַ֗ס מִקַּ֤חַת מִזַּרְעוֹ֙ מֹֽשְׁלִ֔ים אֶל זֶ֥רַע אַבְרָהָ֖ם יִשְׂחָ֣ק וְיַעֲקֹ֑ב כִּֽי אשוב אֶת שְׁבוּתָ֖ם וְרִחַמְתִּֽים אָשִׁ֥יב",
+  "text": "גַּם זֶ֣רַע יַעֲקוֹב֩ וְדָוִ֨ד עַבְדִּ֜י אֶמְאַ֗ס מִקַּ֤חַת מִזַּרְעוֹ֙ מֹֽשְׁלִ֔ים אֶל זֶ֥רַע אַבְרָהָ֖ם יִשְׂחָ֣ק וְיַעֲקֹ֑ב כִּֽי אשוב אָשִׁ֥יב אֶת שְׁבוּתָ֖ם וְרִחַמְתִּֽים",
   "words": [
     {
       "position": 1,
@@ -235,6 +235,21 @@
     },
     {
       "position": 17,
+      "text": "אָשִׁ֥יב",
+      "lemma": "7725",
+      "morph": "HVhi1cs",
+      "strongs": [
+        "H7725"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7725",
+        "morph": "HVhi1cs"
+      }
+    },
+    {
+      "position": 18,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -250,7 +265,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "שְׁבוּתָ֖ם",
       "lemma": "7622",
       "morph": "HNcfsc/Sp3mp",
@@ -264,7 +279,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וְרִחַמְתִּֽים",
       "lemma": "c/7355",
       "morph": "HC/Vpq1cs/Sp3mp",
@@ -276,28 +291,13 @@
         "lemma": "c/7355",
         "morph": "HC/Vpq1cs/Sp3mp"
       }
-    },
-    {
-      "position": 20,
-      "text": "אָשִׁ֥יב",
-      "lemma": "7725",
-      "morph": "HVhi1cs",
-      "strongs": [
-        "H7725"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7725",
-        "morph": "HVhi1cs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 19
+        "afterWordPosition": 20
       }
     ],
     "terminator": "sof-pasuq"

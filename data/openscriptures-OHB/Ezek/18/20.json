@@ -1,5 +1,5 @@
 {
-  "text": "הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע עָלָ֥יו תִּֽהְיֶֽה הָרָשָׁ֖ע",
+  "text": "הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה",
   "words": [
     {
       "position": 1,
@@ -287,6 +287,21 @@
     },
     {
       "position": 21,
+      "text": "הָרָשָׁ֖ע",
+      "lemma": "d/7563",
+      "morph": "HTd/Aamsa",
+      "strongs": [
+        "H7563"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/7563",
+        "morph": "HTd/Aamsa"
+      }
+    },
+    {
+      "position": 22,
       "text": "עָלָ֥יו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -300,7 +315,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "תִּֽהְיֶֽה",
       "lemma": "1961",
       "morph": "HVqi3fs",
@@ -312,28 +327,13 @@
         "lemma": "1961",
         "morph": "HVqi3fs"
       }
-    },
-    {
-      "position": 23,
-      "text": "הָרָשָׁ֖ע",
-      "lemma": "d/7563",
-      "morph": "HTd/Aamsa",
-      "strongs": [
-        "H7563"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/7563",
-        "morph": "HTd/Aamsa"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 22
+        "afterWordPosition": 23
       }
     ],
     "terminator": "sof-pasuq",

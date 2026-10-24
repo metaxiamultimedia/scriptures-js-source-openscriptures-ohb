@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵ֤י דְדָן֙ רֹֽכְלַ֔יִךְ אִיִּ֥ים רַבִּ֖ים סְחֹרַ֣ת יָדֵ֑ךְ קַרְנ֥וֹת שֵׁן֙ והובנים הֵשִׁ֖יבוּ אֶשְׁכָּרֵֽךְ וְהָבְנִ֔ים",
+  "text": "בְּנֵ֤י דְדָן֙ רֹֽכְלַ֔יִךְ אִיִּ֥ים רַבִּ֖ים סְחֹרַ֣ת יָדֵ֑ךְ קַרְנ֥וֹת שֵׁן֙ והובנים וְהָבְנִ֔ים הֵשִׁ֖יבוּ אֶשְׁכָּרֵֽךְ",
   "words": [
     {
       "position": 1,
@@ -145,6 +145,21 @@
     },
     {
       "position": 11,
+      "text": "וְהָבְנִ֔ים",
+      "lemma": "c/1894",
+      "morph": "HC/Ncmpa",
+      "strongs": [
+        "H1894"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1894",
+        "morph": "HC/Ncmpa"
+      }
+    },
+    {
+      "position": 12,
       "text": "הֵשִׁ֖יבוּ",
       "lemma": "7725",
       "morph": "HVhp3cp",
@@ -158,7 +173,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֶשְׁכָּרֵֽךְ",
       "lemma": "814",
       "morph": "HNcmsc/Sp2fs",
@@ -169,21 +184,6 @@
       "source": {
         "lemma": "814",
         "morph": "HNcmsc/Sp2fs"
-      }
-    },
-    {
-      "position": 13,
-      "text": "וְהָבְנִ֔ים",
-      "lemma": "c/1894",
-      "morph": "HC/Ncmpa",
-      "strongs": [
-        "H1894"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/1894",
-        "morph": "HC/Ncmpa"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וַתֹּ֕אמֶר שֵׁשׁ הַשְּׂעֹרִ֥ים הָאֵ֖לֶּה נָ֣תַן לִ֑י כִּ֚י אָמַ֣ר אַל תָּב֥וֹאִי רֵיקָ֖ם אֶל חֲמוֹתֵֽךְ אֵלַ֔י",
+  "text": "וַתֹּ֕אמֶר שֵׁשׁ הַשְּׂעֹרִ֥ים הָאֵ֖לֶּה נָ֣תַן לִ֑י כִּ֚י אָמַ֣ר אֵלַ֔י אַל תָּב֥וֹאִי רֵיקָ֖ם אֶל חֲמוֹתֵֽךְ",
   "words": [
     {
       "position": 1,
@@ -116,6 +116,21 @@
     },
     {
       "position": 9,
+      "text": "אֵלַ֔י",
+      "lemma": "413",
+      "morph": "HR/Sp1cs",
+      "strongs": [
+        "H413"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "413",
+        "morph": "HR/Sp1cs"
+      }
+    },
+    {
+      "position": 10,
       "text": "אַל",
       "lemma": "408",
       "morph": "HTn",
@@ -131,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "תָּב֥וֹאִי",
       "lemma": "935",
       "morph": "HVqj2fs",
@@ -145,7 +160,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "רֵיקָ֖ם",
       "lemma": "7387",
       "morph": "HD",
@@ -159,7 +174,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -175,7 +190,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "חֲמוֹתֵֽךְ",
       "lemma": "2545",
       "morph": "HNcfsc/Sp2fs",
@@ -186,21 +201,6 @@
       "source": {
         "lemma": "2545",
         "morph": "HNcfsc/Sp2fs"
-      }
-    },
-    {
-      "position": 14,
-      "text": "אֵלַ֔י",
-      "lemma": "413",
-      "morph": "HR/Sp1cs",
-      "strongs": [
-        "H413"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "413",
-        "morph": "HR/Sp1cs"
       }
     }
   ],

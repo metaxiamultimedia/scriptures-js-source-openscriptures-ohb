@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֥אמֶר שמטהו וַֽיִּשְׁמְט֑וּהָ וַיִּ֨ז מִדָּמָ֧הּ אֶל הַקִּ֛יר וְאֶל הַסּוּסִ֖ים וַֽיִּרְמְסֶֽנָּה שִׁמְט֖וּהָ",
+  "text": "וַיֹּ֥אמֶר שמטהו שִׁמְט֖וּהָ וַֽיִּשְׁמְט֑וּהָ וַיִּ֨ז מִדָּמָ֧הּ אֶל הַקִּ֛יר וְאֶל הַסּוּסִ֖ים וַֽיִּרְמְסֶֽנָּה",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "שִׁמְט֖וּהָ",
+      "lemma": "8058",
+      "morph": "HVqv2mp/Sp3fs",
+      "strongs": [
+        "H8058"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8058",
+        "morph": "HVqv2mp/Sp3fs"
+      }
+    },
+    {
+      "position": 4,
       "text": "וַֽיִּשְׁמְט֑וּהָ",
       "lemma": "c/8058",
       "morph": "HC/Vqw3mp/Sp3fs",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וַיִּ֨ז",
       "lemma": "c/5137 a",
       "morph": "HC/Vqw3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מִדָּמָ֧הּ",
       "lemma": "m/1818",
       "morph": "HR/Ncmsc/Sp3fs",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַקִּ֛יר",
       "lemma": "d/7023",
       "morph": "HTd/Ncmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְאֶל",
       "lemma": "c/413",
       "morph": "HC/R",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַסּוּסִ֖ים",
       "lemma": "d/5483 b",
       "morph": "HTd/Ncmpa",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וַֽיִּרְמְסֶֽנָּה",
       "lemma": "c/7429",
       "morph": "HC/Vqw3ms/Sp3fs",
@@ -145,21 +160,6 @@
       "source": {
         "lemma": "c/7429",
         "morph": "HC/Vqw3ms/Sp3fs"
-      }
-    },
-    {
-      "position": 11,
-      "text": "שִׁמְט֖וּהָ",
-      "lemma": "8058",
-      "morph": "HVqv2mp/Sp3fs",
-      "strongs": [
-        "H8058"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8058",
-        "morph": "HVqv2mp/Sp3fs"
       }
     }
   ],

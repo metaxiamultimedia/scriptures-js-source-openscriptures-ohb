@@ -1,5 +1,5 @@
 {
-  "text": "עָר֤וּם רָאָ֣ה רָעָ֣ה ויסתר וּ֝פְתָיִ֗ים עָבְר֥וּ וְֽנֶעֱנָֽשׁוּ וְנִסְתָּ֑ר",
+  "text": "עָר֤וּם רָאָ֣ה רָעָ֣ה ויסתר וְנִסְתָּ֑ר וּ֝פְתָיִ֗ים עָבְר֥וּ וְֽנֶעֱנָֽשׁוּ",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "וְנִסְתָּ֑ר",
+      "lemma": "c/5641",
+      "morph": "HC/VNp3ms",
+      "strongs": [
+        "H5641"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/5641",
+        "morph": "HC/VNp3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "וּ֝פְתָיִ֗ים",
       "lemma": "c/6612 a",
       "morph": "HC/Aampa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עָבְר֥וּ",
       "lemma": "5674 a",
       "morph": "HVqp3cp",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְֽנֶעֱנָֽשׁוּ",
       "lemma": "c/6064",
       "morph": "HC/VNp3cp",
@@ -99,21 +114,6 @@
       "source": {
         "lemma": "c/6064",
         "morph": "HC/VNp3cp"
-      }
-    },
-    {
-      "position": 8,
-      "text": "וְנִסְתָּ֑ר",
-      "lemma": "c/5641",
-      "morph": "HC/VNp3ms",
-      "strongs": [
-        "H5641"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/5641",
-        "morph": "HC/VNp3ms"
       }
     }
   ],

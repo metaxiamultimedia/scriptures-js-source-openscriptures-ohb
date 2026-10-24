@@ -1,5 +1,5 @@
 {
-  "text": "בְּנֵי חָגָ֥ב בְּנֵי שמלי בְּנֵ֥י חָנָֽן שַׁלְמַ֖י",
+  "text": "בְּנֵי חָגָ֥ב בְּנֵי שמלי שַׁלְמַ֖י בְּנֵ֥י חָנָֽן",
   "words": [
     {
       "position": 1,
@@ -65,6 +65,21 @@
     },
     {
       "position": 5,
+      "text": "שַׁלְמַ֖י",
+      "lemma": "8014",
+      "morph": "HNp",
+      "strongs": [
+        "H8014"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8014",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 6,
       "text": "בְּנֵ֥י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -78,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "חָנָֽן",
       "lemma": "2605",
       "morph": "HNp",
@@ -88,21 +103,6 @@
       "metadata": {},
       "source": {
         "lemma": "2605",
-        "morph": "HNp"
-      }
-    },
-    {
-      "position": 7,
-      "text": "שַׁלְמַ֖י",
-      "lemma": "8014",
-      "morph": "HNp",
-      "strongs": [
-        "H8014"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8014",
         "morph": "HNp"
       }
     }

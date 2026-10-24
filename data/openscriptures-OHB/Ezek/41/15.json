@@ -1,5 +1,5 @@
 {
-  "text": "וּמָדַ֣ד אֹֽרֶךְ הַ֠בִּנְיָן אֶל פְּנֵ֨י הַגִּזְרָ֜ה אֲשֶׁ֨ר עַל אַחֲרֶ֧יהָ ואתוקיהא מִפּ֥וֹ וּמִפּ֖וֹ מֵאָ֣ה אַמָּ֑ה וְהַֽהֵיכָל֙ הַפְּנִימִ֔י וְאֻֽלַמֵּ֖י הֶחָצֵֽר וְאַתִּיקֶ֛יהָא",
+  "text": "וּמָדַ֣ד אֹֽרֶךְ הַ֠בִּנְיָן אֶל פְּנֵ֨י הַגִּזְרָ֜ה אֲשֶׁ֨ר עַל אַחֲרֶ֧יהָ ואתוקיהא וְאַתִּיקֶ֛יהָא מִפּ֥וֹ וּמִפּ֖וֹ מֵאָ֣ה אַמָּ֑ה וְהַֽהֵיכָל֙ הַפְּנִימִ֔י וְאֻֽלַמֵּ֖י הֶחָצֵֽר",
   "words": [
     {
       "position": 1,
@@ -151,6 +151,21 @@
     },
     {
       "position": 11,
+      "text": "וְאַתִּיקֶ֛יהָא",
+      "lemma": "c/862 b",
+      "morph": "HC/Ncmpc/Sp3fs",
+      "strongs": [
+        "H862"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/862 b",
+        "morph": "HC/Ncmpc/Sp3fs"
+      }
+    },
+    {
+      "position": 12,
       "text": "מִפּ֥וֹ",
       "lemma": "m/6311",
       "morph": "HR/D",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וּמִפּ֖וֹ",
       "lemma": "c/m/6311",
       "morph": "HC/R/D",
@@ -178,7 +193,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מֵאָ֣ה",
       "lemma": "3967",
       "morph": "HAcbsa",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אַמָּ֑ה",
       "lemma": "520 a",
       "morph": "HNcfsa",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְהַֽהֵיכָל֙",
       "lemma": "c/d/1964",
       "morph": "HC/Td/Ncmsa",
@@ -220,7 +235,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַפְּנִימִ֔י",
       "lemma": "d/6442",
       "morph": "HTd/Aamsa",
@@ -234,7 +249,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְאֻֽלַמֵּ֖י",
       "lemma": "c/197",
       "morph": "HC/Ncmpc",
@@ -248,7 +263,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "הֶחָצֵֽר",
       "lemma": "d/2691 a",
       "morph": "HTd/Ncbsa",
@@ -259,21 +274,6 @@
       "source": {
         "lemma": "d/2691 a",
         "morph": "HTd/Ncbsa"
-      }
-    },
-    {
-      "position": 19,
-      "text": "וְאַתִּיקֶ֛יהָא",
-      "lemma": "c/862 b",
-      "morph": "HC/Ncmpc/Sp3fs",
-      "strongs": [
-        "H862"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/862 b",
-        "morph": "HC/Ncmpc/Sp3fs"
       }
     }
   ],

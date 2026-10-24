@@ -1,5 +1,5 @@
 {
-  "text": "וַתֵּ֥לֶךְ וַתַּעֲשֶׂ֖ה כִּדְבַ֣ר אֵלִיָּ֑הוּ וַתֹּ֧אכַל הוא והיא וּבֵיתָ֖הּ יָמִֽים הִֽיא וָה֛וּא",
+  "text": "וַתֵּ֥לֶךְ וַתַּעֲשֶׂ֖ה כִּדְבַ֣ר אֵלִיָּ֑הוּ וַתֹּ֧אכַל הוא והיא הִֽיא וָה֛וּא וּבֵיתָ֖הּ יָמִֽים",
   "words": [
     {
       "position": 1,
@@ -96,9 +96,7 @@
         "H1931"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "c/1931",
         "morph": "HC/Pp3fs",
@@ -107,6 +105,38 @@
     },
     {
       "position": 8,
+      "text": "הִֽיא",
+      "lemma": "1931",
+      "morph": "HPp3fs",
+      "strongs": [
+        "H1931"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "1931",
+        "morph": "HPp3fs"
+      }
+    },
+    {
+      "position": 9,
+      "text": "וָה֛וּא",
+      "lemma": "c/1931",
+      "morph": "HC/Pp3ms",
+      "strongs": [
+        "H1931"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1931",
+        "morph": "HC/Pp3ms"
+      }
+    },
+    {
+      "position": 10,
       "text": "וּבֵיתָ֖הּ",
       "lemma": "c/1004 b",
       "morph": "HC/Ncmsc/Sp3fs",
@@ -120,7 +150,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "יָמִֽים",
       "lemma": "3117",
       "morph": "HNcmpa",
@@ -131,36 +161,6 @@
       "source": {
         "lemma": "3117",
         "morph": "HNcmpa"
-      }
-    },
-    {
-      "position": 10,
-      "text": "הִֽיא",
-      "lemma": "1931",
-      "morph": "HPp3fs",
-      "strongs": [
-        "H1931"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1931",
-        "morph": "HPp3fs"
-      }
-    },
-    {
-      "position": 11,
-      "text": "וָה֛וּא",
-      "lemma": "c/1931",
-      "morph": "HC/Pp3ms",
-      "strongs": [
-        "H1931"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/1931",
-        "morph": "HC/Pp3ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "כָּל עַמָּ֤הּ נֶאֱנָחִים֙ מְבַקְּשִׁ֣ים לֶ֔חֶם נָתְנ֧וּ מחמודיהם בְּאֹ֖כֶל לְהָשִׁ֣יב נָ֑פֶשׁ רְאֵ֤ה יְהוָה֙ וְֽהַבִּ֔יטָה כִּ֥י הָיִ֖יתִי זוֹלֵלָֽה מַחֲמַדֵּיהֶ֛ם",
+  "text": "כָּל עַמָּ֤הּ נֶאֱנָחִים֙ מְבַקְּשִׁ֣ים לֶ֔חֶם נָתְנ֧וּ מחמודיהם מַחֲמַדֵּיהֶ֛ם בְּאֹ֖כֶל לְהָשִׁ֣יב נָ֑פֶשׁ רְאֵ֤ה יְהוָה֙ וְֽהַבִּ֔יטָה כִּ֥י הָיִ֖יתִי זוֹלֵלָֽה",
   "words": [
     {
       "position": 1,
@@ -105,6 +105,21 @@
     },
     {
       "position": 8,
+      "text": "מַחֲמַדֵּיהֶ֛ם",
+      "lemma": "4261",
+      "morph": "HNcmpc/Sp3mp",
+      "strongs": [
+        "H4261"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4261",
+        "morph": "HNcmpc/Sp3mp"
+      }
+    },
+    {
+      "position": 9,
       "text": "בְּאֹ֖כֶל",
       "lemma": "b/400",
       "morph": "HR/Ncmsa",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לְהָשִׁ֣יב",
       "lemma": "l/7725",
       "morph": "HR/Vhc",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "נָ֑פֶשׁ",
       "lemma": "5315",
       "morph": "HNcbsa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "רְאֵ֤ה",
       "lemma": "7200",
       "morph": "HVqv2ms",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יְהוָה֙",
       "lemma": "3068",
       "morph": "HNp",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וְֽהַבִּ֔יטָה",
       "lemma": "c/5027",
       "morph": "HC/Vhv2ms/Sh",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כִּ֥י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הָיִ֖יתִי",
       "lemma": "1961",
       "morph": "HVqp1cs",
@@ -216,7 +231,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "זוֹלֵלָֽה",
       "lemma": "2151 b",
       "morph": "HVqrfsa",
@@ -228,28 +243,13 @@
         "lemma": "2151 b",
         "morph": "HVqrfsa"
       }
-    },
-    {
-      "position": 17,
-      "text": "מַחֲמַדֵּיהֶ֛ם",
-      "lemma": "4261",
-      "morph": "HNcmpc/Sp3mp",
-      "strongs": [
-        "H4261"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4261",
-        "morph": "HNcmpc/Sp3mp"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 16
+        "afterWordPosition": 17
       }
     ],
     "terminator": "sof-pasuq"

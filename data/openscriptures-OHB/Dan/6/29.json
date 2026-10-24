@@ -1,23 +1,8 @@
 {
-  "text": "פָּרְסָאָֽה וְדָנִיֵּ֣אל דְּנָ֔ה הַצְלַ֖ח בְּמַלְכ֣וּת דָּרְיָ֑וֶשׁ וּבְמַלְכ֖וּת כּ֥וֹרֶשׁ פרסיא",
+  "text": "וְדָנִיֵּ֣אל דְּנָ֔ה הַצְלַ֖ח בְּמַלְכ֣וּת דָּרְיָ֑וֶשׁ וּבְמַלְכ֖וּת כּ֥וֹרֶשׁ פרסיא פָּרְסָאָֽה",
   "words": [
     {
       "position": 1,
-      "text": "פָּרְסָאָֽה",
-      "lemma": "6543",
-      "morph": "ANgmsd/Td",
-      "strongs": [
-        "H6543"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6543",
-        "morph": "ANgmsd/Td"
-      }
-    },
-    {
-      "position": 2,
       "text": "וְדָנִיֵּ֣אל",
       "lemma": "c/1841",
       "morph": "AC/Np",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "דְּנָ֔ה",
       "lemma": "1836",
       "morph": "APdxms",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "הַצְלַ֖ח",
       "lemma": "6744",
       "morph": "AVhp3ms",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "בְּמַלְכ֣וּת",
       "lemma": "b/4437",
       "morph": "AR/Ncfsc",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "דָּרְיָ֑וֶשׁ",
       "lemma": "1868",
       "morph": "ANp",
@@ -87,7 +72,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "וּבְמַלְכ֖וּת",
       "lemma": "c/b/4437",
       "morph": "AC/R/Ncfsc",
@@ -101,7 +86,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "כּ֥וֹרֶשׁ",
       "lemma": "3567",
       "morph": "ANp",
@@ -115,7 +100,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "פרסיא",
       "lemma": "6543",
       "morph": "ANgmsd/Td",
@@ -128,6 +113,21 @@
         "lemma": "6543",
         "morph": "ANgmsd/Td",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 9,
+      "text": "פָּרְסָאָֽה",
+      "lemma": "6543",
+      "morph": "ANgmsd/Td",
+      "strongs": [
+        "H6543"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6543",
+        "morph": "ANgmsd/Td"
       }
     }
   ],

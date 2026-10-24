@@ -468,6 +468,8 @@ interface ParsedVerse {
   hasSofPasuq?: boolean;
   words: Array<{
     position: number;
+    /** Transient: document order of the source <w> (see parseOsis). */
+    ord?: number;
     text: string;
     lemma?: string | null;
     morph?: string | null;
@@ -486,7 +488,60 @@ interface ParsedVerse {
   }>;
 }
 
+/**
+ * Put a verse's words back in WLC document order (by `ord`, the <w> number set
+ * in parseOsis) and renumber `position`. A word without `ord` (bare text outside
+ * a <w>) keeps its place after the word extracted before it.
+ *
+ * The inter-word marks the importer lifts into the word they follow (paragraph
+ * breaks, maqqef, paseq: see the sentinel pass in parseOsis) sit on the ketiv,
+ * because in the XML the qere <note> comes between the ketiv </w> and the mark.
+ * In reading order the mark follows the whole ketiv + qere unit, so it moves to
+ * the last qere word of that unit.
+ */
+function restoreDocumentOrder(words: ParsedVerse['words']): void {
+  let last = -1;
+  const keyed = words.map((w, i) => {
+    const k = w.ord !== undefined ? w.ord : last + 0.5;
+    last = k;
+    return { w, k, i };
+  });
+  keyed.sort((a, b) => a.k - b.k || a.i - b.i);
+  for (let i = 0; i < keyed.length; i++) {
+    words[i] = keyed[i].w;
+    words[i].position = i + 1;
+    delete words[i].ord;
+  }
+  for (let i = 0; i < words.length; i++) {
+    const w = words[i];
+    if (w.variant !== 'ketiv' || (!w.paragraphsAfter && !w.punctuationAfter)) continue;
+    let j = i + 1;
+    while (j < words.length && words[j].variant === 'qere') j++;
+    if (j === i + 1) continue;
+    const target = words[j - 1];
+    if (w.paragraphsAfter) {
+      target.paragraphsAfter = [...(target.paragraphsAfter ?? []), ...w.paragraphsAfter];
+      delete w.paragraphsAfter;
+    }
+    if (w.punctuationAfter) {
+      target.punctuationAfter = [...(target.punctuationAfter ?? []), ...w.punctuationAfter];
+      delete w.punctuationAfter;
+    }
+  }
+}
+
 function parseOsis(xml: string): ParsedVerse[] {
+  // Number every <w> in document order (data-ord) before parsing. The parse is
+  // not order-preserving: fast-xml-parser groups a verse's children by tag, so
+  // the qere words (inside <note><rdg type="x-qere">) were emitted after all of
+  // the verse's <w> children, or before them, instead of right after the ketiv
+  // they belong to (e.g. Neh 2:13 הם פרוצים landed at the end of the verse, Isa
+  // 9:6 למרבה before its ketiv לם רבה). Sorting the extracted words by this
+  // number restores the WLC reading order: each qere follows its ketiv, and a
+  // qere without ketiv (Ruth 3:5 אלי) sits where the WLC places it.
+  let ord = 0;
+  xml = xml.replace(/<w\b/g, () => `<w data-ord="${ord++}"`);
+
   // Inline "special letter" segments (litterae majusculae / minusculae /
   // suspensae) before parsing. In the WLC source these mark enlarged, small,
   // and suspended letters that are an integral part of the surrounding word
@@ -517,27 +572,39 @@ function parseOsis(xml: string): ParsedVerse[] {
   // paragraph markers attach to the last word; mid-verse markers (e.g. the break
   // inside Gen 35:22, or a maqqef between עַל and פְּנֵי) attach to the word they
   // follow.
-  xml = xml.replace(
-    /<\/w>((?:\s*(?:<seg type="x-[a-z-]+">[^<]*<\/seg>|<note\b[^>]*>[\s\S]*?<\/note>))+)/g,
-    (_m, run: string) => {
-      let sentinels = '';
-      let kept = run.replace(
-        /<seg type="x-(pe|samekh)">[^<]*<\/seg>/g,
-        (_s, t: string) => {
-          sentinels += `${MARK_START}${PARAGRAPH_CODE_BY_TYPE[t]}${MARK_END}`;
-          return '';
-        }
-      );
-      kept = kept.replace(
-        /<seg type="x-(maqqef|paseq)">[^<]*<\/seg>/g,
-        (_s, t: string) => {
-          sentinels += `${PUNCT_START}${PUNCT_TYPE_CODE[t]}${PUNCT_END}`;
-          return '';
-        }
-      );
-      return `${sentinels}</w>${kept}`;
-    }
-  );
+  // A qere <note> in the run is not lifted from: the marks inside it (e.g. the
+  // paseq between הֵם and פְּרוּצִים in Neh 2:13) follow a qere word, so the
+  // same pass runs on the note's own content and lifts them into that word.
+  const relocate = (src: string): string =>
+    src.replace(
+      /<\/w>((?:\s*(?:<seg type="x-[a-z-]+">[^<]*<\/seg>|<note\b[^>]*>[\s\S]*?<\/note>))+)/g,
+      (_m, run: string) => {
+        let sentinels = '';
+        const lift = (part: string): string => {
+          let kept = part.replace(
+            /<seg type="x-(pe|samekh)">[^<]*<\/seg>/g,
+            (_s, t: string) => {
+              sentinels += `${MARK_START}${PARAGRAPH_CODE_BY_TYPE[t]}${MARK_END}`;
+              return '';
+            }
+          );
+          kept = kept.replace(
+            /<seg type="x-(maqqef|paseq)">[^<]*<\/seg>/g,
+            (_s, t: string) => {
+              sentinels += `${PUNCT_START}${PUNCT_TYPE_CODE[t]}${PUNCT_END}`;
+              return '';
+            }
+          );
+          return kept;
+        };
+        const kept = run
+          .split(/(<note\b[^>]*>[\s\S]*?<\/note>)/)
+          .map((part, i) => (i % 2 === 1 ? relocate(part) : lift(part)))
+          .join('');
+        return `${sentinels}</w>${kept}`;
+      }
+    );
+  xml = relocate(xml);
 
   const parser = new XMLParser({
     ignoreAttributes: false,
@@ -656,6 +723,7 @@ function parseOsis(xml: string): ParsedVerse[] {
 
                   words.push({
                     position: pos++,
+                    ord: elem['@_data-ord'] !== undefined ? Number(elem['@_data-ord']) : undefined,
                     text: piece,
                     lemma: lemma || null,
                     morph: morph || null,
@@ -739,6 +807,8 @@ function parseOsis(xml: string): ParsedVerse[] {
           }
         }
 
+        restoreDocumentOrder(words);
+
         // Capture verse-level scribal marks that the importer would otherwise
         // drop via the generic "skip x-* seg" rule. The reversed nun (nun
         // hafukha, U+05C6) is encoded as <seg type="x-reversednun"> and the WLC
@@ -811,6 +881,24 @@ function isParagraphMarker(w: ParsedVerse['words'][0]): boolean {
   return !w.lemma && !w.morph && (w.text === 'פ' || w.text === 'ס');
 }
 
+/**
+ * A supplement entry names its word by position and its letter by consonant
+ * index + char. Fail the import if they no longer agree (e.g. word order or the
+ * WLC text changed under the overlay), instead of marking the wrong letter.
+ */
+function assertSupplementLetter(
+  verse: ParsedVerse,
+  s: { position: number; index: number; char: string },
+  w: WordEntry | undefined
+): void {
+  const where = `${verse.book} ${verse.chapter}:${verse.number} word ${s.position}`;
+  if (!w) throw new Error(`supplement: ${where} not found`);
+  const consonants = [...w.text].filter(c => c >= '\u05D0' && c <= '\u05EA');
+  if (consonants[s.index] !== s.char) {
+    throw new Error(`supplement: ${where} "${w.text}" letter ${s.index} is ${consonants[s.index]}, expected ${s.char}`);
+  }
+}
+
 async function saveVerse(verse: ParsedVerse): Promise<void> {
   const verseDir = join(DATA_DIR, verse.book, String(verse.chapter));
   await mkdir(verseDir, { recursive: true });
@@ -875,6 +963,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
   if (supp) {
     for (const s of supp) {
       const w = wordEntries.find(x => x.position === s.position);
+      assertSupplementLetter(verse, s, w);
       if (!w) continue;
       const meta = (w.metadata ??= {}) as Record<string, unknown>;
       const list = (meta.specialLetters ??= []) as SpecialLetter[];
@@ -897,6 +986,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
   if (pointSupp) {
     for (const s of pointSupp) {
       const w = wordEntries.find(x => x.position === s.position);
+      assertSupplementLetter(verse, s, w);
       if (!w) continue;
       const meta = (w.metadata ??= {}) as Record<string, unknown>;
       const list = (meta.points ??= []) as ExtraordinaryPoint[];

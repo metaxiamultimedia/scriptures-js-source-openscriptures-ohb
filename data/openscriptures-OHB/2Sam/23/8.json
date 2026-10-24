@@ -1,5 +1,5 @@
 {
-  "text": "אֵ֛לֶּה שְׁמ֥וֹת הַגִּבֹּרִ֖ים אֲשֶׁ֣ר לְדָוִ֑ד יֹשֵׁ֨ב בַּשֶּׁ֜בֶת תַּחְכְּמֹנִ֣י רֹ֣אשׁ הַשָּׁלִשִׁ֗י ה֚וּא עֲדִינ֣וֹ העצנו עַל שְׁמֹנֶ֥ה מֵא֛וֹת חָלָ֖ל בְּפַ֥עַם אחד הָֽעֶצְנִ֔י אֶחָֽת",
+  "text": "אֵ֛לֶּה שְׁמ֥וֹת הַגִּבֹּרִ֖ים אֲשֶׁ֣ר לְדָוִ֑ד יֹשֵׁ֨ב בַּשֶּׁ֜בֶת תַּחְכְּמֹנִ֣י רֹ֣אשׁ הַשָּׁלִשִׁ֗י ה֚וּא עֲדִינ֣וֹ העצנו הָֽעֶצְנִ֔י עַל שְׁמֹנֶ֥ה מֵא֛וֹת חָלָ֖ל בְּפַ֥עַם אחד אֶחָֽת",
   "words": [
     {
       "position": 1,
@@ -187,6 +187,21 @@
     },
     {
       "position": 14,
+      "text": "הָֽעֶצְנִ֔י",
+      "lemma": "d/6112",
+      "morph": "HTd/Ngmsa",
+      "strongs": [
+        "H6112"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/6112",
+        "morph": "HTd/Ngmsa"
+      }
+    },
+    {
+      "position": 15,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שְׁמֹנֶ֥ה",
       "lemma": "8083",
       "morph": "HAcfsa",
@@ -216,7 +231,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מֵא֛וֹת",
       "lemma": "3967",
       "morph": "HAcbpa",
@@ -230,7 +245,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "חָלָ֖ל",
       "lemma": "2491 a",
       "morph": "HAamsa",
@@ -244,7 +259,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בְּפַ֥עַם",
       "lemma": "b/6471",
       "morph": "HR/Ncfsa",
@@ -258,7 +273,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אחד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -271,21 +286,6 @@
         "lemma": "259",
         "morph": "HAcmsa",
         "type": "x-ketiv"
-      }
-    },
-    {
-      "position": 20,
-      "text": "הָֽעֶצְנִ֔י",
-      "lemma": "d/6112",
-      "morph": "HTd/Ngmsa",
-      "strongs": [
-        "H6112"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/6112",
-        "morph": "HTd/Ngmsa"
       }
     },
     {
@@ -308,7 +308,7 @@
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 19
+        "afterWordPosition": 21
       }
     ],
     "terminator": "sof-pasuq",

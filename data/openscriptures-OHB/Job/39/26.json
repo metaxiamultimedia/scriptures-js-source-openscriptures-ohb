@@ -1,5 +1,5 @@
 {
-  "text": "הֲֽ֭מִבִּינָ֣תְךָ יַֽאֲבֶר נֵ֑ץ יִפְרֹ֖שׂ כנפו לְתֵימָֽן כְּנָפָ֣יו",
+  "text": "הֲֽ֭מִבִּינָ֣תְךָ יַֽאֲבֶר נֵ֑ץ יִפְרֹ֖שׂ כנפו כְּנָפָ֣יו לְתֵימָֽן",
   "words": [
     {
       "position": 1,
@@ -77,20 +77,6 @@
     },
     {
       "position": 6,
-      "text": "לְתֵימָֽן",
-      "lemma": "l/8486",
-      "morph": "HR/Ncfsa",
-      "strongs": [
-        "H8486"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "l/8486",
-        "morph": "HR/Ncfsa"
-      }
-    },
-    {
-      "position": 7,
       "text": "כְּנָפָ֣יו",
       "lemma": "3671",
       "morph": "HNcfpc/Sp3ms",
@@ -102,6 +88,20 @@
       "source": {
         "lemma": "3671",
         "morph": "HNcfpc/Sp3ms"
+      }
+    },
+    {
+      "position": 7,
+      "text": "לְתֵימָֽן",
+      "lemma": "l/8486",
+      "morph": "HR/Ncfsa",
+      "strongs": [
+        "H8486"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "l/8486",
+        "morph": "HR/Ncfsa"
       }
     }
   ],

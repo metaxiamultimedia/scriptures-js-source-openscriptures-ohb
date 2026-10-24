@@ -1,5 +1,5 @@
 {
-  "text": "וְה֤וּא מְסִבּ֨וֹת מִתְהַפֵּ֣ךְ בתחבולתו לְפָעֳלָ֑ם כֹּ֖ל אֲשֶׁ֥ר יְצַוֵּ֓ם עַל פְּנֵ֖י תֵבֵ֣ל אָֽרְצָה בְּתַחְבּוּלֹתָ֣יו",
+  "text": "וְה֤וּא מְסִבּ֨וֹת מִתְהַפֵּ֣ךְ בתחבולתו בְּתַחְבּוּלֹתָ֣יו לְפָעֳלָ֑ם כֹּ֖ל אֲשֶׁ֥ר יְצַוֵּ֓ם עַל פְּנֵ֖י תֵבֵ֣ל אָֽרְצָה",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "בְּתַחְבּוּלֹתָ֣יו",
+      "lemma": "b/8458",
+      "morph": "HR/Ncfpc/Sp3ms",
+      "strongs": [
+        "H8458"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/8458",
+        "morph": "HR/Ncfpc/Sp3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "לְפָעֳלָ֑ם",
       "lemma": "l/6467",
       "morph": "HR/Vqc/Sp3mp",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כֹּ֖ל",
       "lemma": "3605",
       "morph": "HNcmsa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יְצַוֵּ֓ם",
       "lemma": "6680",
       "morph": "HVpi3ms/Sp3mp",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "פְּנֵ֖י",
       "lemma": "6440",
       "morph": "HNcbpc",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "תֵבֵ֣ל",
       "lemma": "8398",
       "morph": "HNcfsa",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אָֽרְצָה",
       "lemma": "776",
       "morph": "HNcbsa/Sd",
@@ -172,28 +187,13 @@
         "lemma": "776",
         "morph": "HNcbsa/Sd"
       }
-    },
-    {
-      "position": 13,
-      "text": "בְּתַחְבּוּלֹתָ֣יו",
-      "lemma": "b/8458",
-      "morph": "HR/Ncfpc/Sp3ms",
-      "strongs": [
-        "H8458"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/8458",
-        "morph": "HR/Ncfpc/Sp3ms"
-      }
     }
   ],
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
       2,
-      8
+      9
     ]
   }
 }

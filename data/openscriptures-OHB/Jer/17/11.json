@@ -1,5 +1,5 @@
 {
-  "text": "קֹרֵ֤א דָגַר֙ וְלֹ֣א יָלָ֔ד עֹ֥שֶׂה עֹ֖שֶׁר וְלֹ֣א בְמִשְׁפָּ֑ט בַּחֲצִ֤י ימו יַעַזְבֶ֔נּוּ וּבְאַחֲרִית֖וֹ יִהְיֶ֥ה נָבָֽל יָמָיו֙",
+  "text": "קֹרֵ֤א דָגַר֙ וְלֹ֣א יָלָ֔ד עֹ֥שֶׂה עֹ֖שֶׁר וְלֹ֣א בְמִשְׁפָּ֑ט בַּחֲצִ֤י ימו יָמָיו֙ יַעַזְבֶ֔נּוּ וּבְאַחֲרִית֖וֹ יִהְיֶ֥ה נָבָֽל",
   "words": [
     {
       "position": 1,
@@ -145,6 +145,21 @@
     },
     {
       "position": 11,
+      "text": "יָמָיו֙",
+      "lemma": "3117",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H3117"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3117",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 12,
       "text": "יַעַזְבֶ֔נּוּ",
       "lemma": "5800 a",
       "morph": "HVqi3ms/Sp3ms",
@@ -158,7 +173,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וּבְאַחֲרִית֖וֹ",
       "lemma": "c/b/319",
       "morph": "HC/R/Ncfsc/Sp3ms",
@@ -172,7 +187,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יִהְיֶ֥ה",
       "lemma": "1961",
       "morph": "HVqi3ms",
@@ -186,7 +201,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "נָבָֽל",
       "lemma": "5036",
       "morph": "HAamsa",
@@ -197,21 +212,6 @@
       "source": {
         "lemma": "5036",
         "morph": "HAamsa"
-      }
-    },
-    {
-      "position": 15,
-      "text": "יָמָיו֙",
-      "lemma": "3117",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H3117"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3117",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

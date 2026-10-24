@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּ֜עַל וַיִּשְׁכַּ֣ב עַל הַיֶּ֗לֶד וַיָּשֶׂם֩ פִּ֨יו עַל פִּ֜יו וְעֵינָ֤יו עַל עֵינָיו֙ וְכַפָּ֣יו עַל כפו וַיִּגְהַ֖ר עָלָ֑יו וַיָּ֖חָם בְּשַׂ֥ר הַיָּֽלֶד כַּפָּ֔יו",
+  "text": "וַיַּ֜עַל וַיִּשְׁכַּ֣ב עַל הַיֶּ֗לֶד וַיָּשֶׂם֩ פִּ֨יו עַל פִּ֜יו וְעֵינָ֤יו עַל עֵינָיו֙ וְכַפָּ֣יו עַל כפו כַּפָּ֔יו וַיִּגְהַ֖ר עָלָ֑יו וַיָּ֖חָם בְּשַׂ֥ר הַיָּֽלֶד",
   "words": [
     {
       "position": 1,
@@ -209,6 +209,21 @@
     },
     {
       "position": 15,
+      "text": "כַּפָּ֔יו",
+      "lemma": "3709",
+      "morph": "HNcfdc/Sp3ms",
+      "strongs": [
+        "H3709"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3709",
+        "morph": "HNcfdc/Sp3ms"
+      }
+    },
+    {
+      "position": 16,
       "text": "וַיִּגְהַ֖ר",
       "lemma": "c/1457",
       "morph": "HC/Vqw3ms",
@@ -222,7 +237,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עָלָ֑יו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -236,7 +251,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וַיָּ֖חָם",
       "lemma": "c/2552",
       "morph": "HC/Vqw3ms",
@@ -250,7 +265,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בְּשַׂ֥ר",
       "lemma": "1320",
       "morph": "HNcmsc",
@@ -264,7 +279,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הַיָּֽלֶד",
       "lemma": "d/3206",
       "morph": "HTd/Ncmsa",
@@ -275,21 +290,6 @@
       "source": {
         "lemma": "d/3206",
         "morph": "HTd/Ncmsa"
-      }
-    },
-    {
-      "position": 20,
-      "text": "כַּפָּ֔יו",
-      "lemma": "3709",
-      "morph": "HNcfdc/Sp3ms",
-      "strongs": [
-        "H3709"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3709",
-        "morph": "HNcfdc/Sp3ms"
       }
     }
   ],

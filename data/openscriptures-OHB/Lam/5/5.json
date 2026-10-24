@@ -1,5 +1,5 @@
 {
-  "text": "עַ֤ל צַוָּארֵ֨נוּ֙ נִרְדָּ֔פְנוּ יָגַ֖עְנוּ לא הֽוּנַ֖ח לָֽנוּ וְלֹ֥א",
+  "text": "עַ֤ל צַוָּארֵ֨נוּ֙ נִרְדָּ֔פְנוּ יָגַ֖עְנוּ לא וְלֹ֥א הֽוּנַ֖ח לָֽנוּ",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "וְלֹ֥א",
+      "lemma": "c/3808",
+      "morph": "HC/Tn",
+      "strongs": [
+        "H3808"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3808",
+        "morph": "HC/Tn"
+      }
+    },
+    {
+      "position": 7,
       "text": "הֽוּנַ֖ח",
       "lemma": "5117",
       "morph": "HVHp3ms",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לָֽנוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
@@ -98,21 +113,6 @@
       "source": {
         "lemma": "l",
         "morph": "HR/Sp1cp"
-      }
-    },
-    {
-      "position": 8,
-      "text": "וְלֹ֥א",
-      "lemma": "c/3808",
-      "morph": "HC/Tn",
-      "strongs": [
-        "H3808"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/3808",
-        "morph": "HC/Tn"
       }
     }
   ],

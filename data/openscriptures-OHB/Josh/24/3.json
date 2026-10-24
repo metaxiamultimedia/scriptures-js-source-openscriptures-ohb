@@ -1,5 +1,5 @@
 {
-  "text": "וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ כְּנָ֑עַן וארב אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק וָאַרְבֶּה֙",
+  "text": "וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ כְּנָ֑עַן וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק",
   "words": [
     {
       "position": 1,
@@ -193,6 +193,21 @@
     },
     {
       "position": 14,
+      "text": "וָאַרְבֶּה֙",
+      "lemma": "c/7235 a",
+      "morph": "HC/Vhw1cs",
+      "strongs": [
+        "H7235"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7235 a",
+        "morph": "HC/Vhw1cs"
+      }
+    },
+    {
+      "position": 15,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -208,7 +223,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "זַרְע֔וֹ",
       "lemma": "2233",
       "morph": "HNcmsc/Sp3ms",
@@ -222,7 +237,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וָֽאֶתֶּן",
       "lemma": "c/5414",
       "morph": "HC/Vqw1cs",
@@ -238,7 +253,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "ל֖וֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -251,7 +266,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -267,7 +282,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "יִצְחָֽק",
       "lemma": "3327",
       "morph": "HNp",
@@ -278,21 +293,6 @@
       "source": {
         "lemma": "3327",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 20,
-      "text": "וָאַרְבֶּה֙",
-      "lemma": "c/7235 a",
-      "morph": "HC/Vhw1cs",
-      "strongs": [
-        "H7235"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7235 a",
-        "morph": "HC/Vhw1cs"
       }
     }
   ],

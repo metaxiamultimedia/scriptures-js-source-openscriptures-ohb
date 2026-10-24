@@ -1,5 +1,5 @@
 {
-  "text": "וידבר אֵלָ֜יו לֵאמֹ֗ר אִם הַ֠יּוֹם תִּֽהְיֶה עֶ֜בֶד לָעָ֤ם הַזֶּה֙ וַֽעֲבַדְתָּ֔ם וַעֲנִיתָ֕ם וְדִבַּרְתָּ֥ אֲלֵיהֶ֖ם דְּבָרִ֣ים טוֹבִ֑ים וְהָי֥וּ לְךָ֛ עֲבָדִ֖ים כָּל הַיָּמִֽים וַיְדַבְּר֨וּ",
+  "text": "וידבר וַיְדַבְּר֨וּ אֵלָ֜יו לֵאמֹ֗ר אִם הַ֠יּוֹם תִּֽהְיֶה עֶ֜בֶד לָעָ֤ם הַזֶּה֙ וַֽעֲבַדְתָּ֔ם וַעֲנִיתָ֕ם וְדִבַּרְתָּ֥ אֲלֵיהֶ֖ם דְּבָרִ֣ים טוֹבִ֑ים וְהָי֥וּ לְךָ֛ עֲבָדִ֖ים כָּל הַיָּמִֽים",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "וַיְדַבְּר֨וּ",
+      "lemma": "c/1696",
+      "morph": "HC/Vpw3mp",
+      "strongs": [
+        "H1696"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1696",
+        "morph": "HC/Vpw3mp"
+      }
+    },
+    {
+      "position": 3,
       "text": "אֵלָ֜יו",
       "lemma": "413",
       "morph": "HR/Sp3ms",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "לֵאמֹ֗ר",
       "lemma": "l/559",
       "morph": "HR/Vqc",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אִם",
       "lemma": "518 a",
       "morph": "HC",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "הַ֠יּוֹם",
       "lemma": "d/3117",
       "morph": "HTd/Ncmsa",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תִּֽהְיֶה",
       "lemma": "1961",
       "morph": "HVqi2ms",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עֶ֜בֶד",
       "lemma": "5650",
       "morph": "HNcmsa",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לָעָ֤ם",
       "lemma": "l/5971 a",
       "morph": "HRd/Ncmsa",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַזֶּה֙",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וַֽעֲבַדְתָּ֔ם",
       "lemma": "c/5647",
       "morph": "HC/Vqq2ms/Sp3mp",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וַעֲנִיתָ֕ם",
       "lemma": "c/6030 b",
       "morph": "HC/Vqq2ms/Sp3mp",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וְדִבַּרְתָּ֥",
       "lemma": "c/1696",
       "morph": "HC/Vpq2ms",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲלֵיהֶ֖ם",
       "lemma": "413",
       "morph": "HR/Sp3mp",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "דְּבָרִ֣ים",
       "lemma": "1697",
       "morph": "HNcmpa",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "טוֹבִ֑ים",
       "lemma": "2896 a",
       "morph": "HAampa",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְהָי֥וּ",
       "lemma": "c/1961",
       "morph": "HC/Vqq3cp",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לְךָ֛",
       "lemma": "l",
       "morph": "HR/Sp2ms",
@@ -245,7 +260,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "עֲבָדִ֖ים",
       "lemma": "5650",
       "morph": "HNcmpa",
@@ -259,7 +274,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -275,7 +290,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "הַיָּמִֽים",
       "lemma": "d/3117",
       "morph": "HTd/Ncmpa",
@@ -286,21 +301,6 @@
       "source": {
         "lemma": "d/3117",
         "morph": "HTd/Ncmpa"
-      }
-    },
-    {
-      "position": 21,
-      "text": "וַיְדַבְּר֨וּ",
-      "lemma": "c/1696",
-      "morph": "HC/Vpw3mp",
-      "strongs": [
-        "H1696"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/1696",
-        "morph": "HC/Vpw3mp"
       }
     }
   ],

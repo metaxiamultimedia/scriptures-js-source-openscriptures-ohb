@@ -1,5 +1,5 @@
 {
-  "text": "רְאוּ֙ אָנֹכִ֣י מִתְמַהְמֵ֔הַּ בעברות הַמִּדְבָּ֑ר עַ֣ד בּ֥וֹא דָבָ֛ר מֵעִמָּכֶ֖ם לְהַגִּ֥יד לִֽי בְּעַֽרְב֖וֹת",
+  "text": "רְאוּ֙ אָנֹכִ֣י מִתְמַהְמֵ֔הַּ בעברות בְּעַֽרְב֖וֹת הַמִּדְבָּ֑ר עַ֣ד בּ֥וֹא דָבָ֛ר מֵעִמָּכֶ֖ם לְהַגִּ֥יד לִֽי",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "בְּעַֽרְב֖וֹת",
+      "lemma": "b/6160",
+      "morph": "HR/Ncfpc",
+      "strongs": [
+        "H6160"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/6160",
+        "morph": "HR/Ncfpc"
+      }
+    },
+    {
+      "position": 6,
       "text": "הַמִּדְבָּ֑ר",
       "lemma": "d/4057 b",
       "morph": "HTd/Ncmsa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עַ֣ד",
       "lemma": "5704",
       "morph": "HR",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בּ֥וֹא",
       "lemma": "935",
       "morph": "HVqc",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "דָבָ֛ר",
       "lemma": "1697",
       "morph": "HNcmsa",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מֵעִמָּכֶ֖ם",
       "lemma": "m/5973 b",
       "morph": "HR/R/Sp2mp",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְהַגִּ֥יד",
       "lemma": "l/5046",
       "morph": "HR/Vhc",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לִֽי",
       "lemma": "l",
       "morph": "HR/Sp1cs",
@@ -154,21 +169,6 @@
       "source": {
         "lemma": "l",
         "morph": "HR/Sp1cs"
-      }
-    },
-    {
-      "position": 12,
-      "text": "בְּעַֽרְב֖וֹת",
-      "lemma": "b/6160",
-      "morph": "HR/Ncfpc",
-      "strongs": [
-        "H6160"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/6160",
-        "morph": "HR/Ncfpc"
       }
     }
   ],

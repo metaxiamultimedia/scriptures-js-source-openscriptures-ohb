@@ -1,5 +1,5 @@
 {
-  "text": "וַיְהִ֥י שָׁא֖וּל עון אֶת דָּוִ֑ד מֵהַיּ֥וֹם הַה֖וּא וָהָֽלְאָה עוֹיֵ֣ן",
+  "text": "וַיְהִ֥י שָׁא֖וּל עון עוֹיֵ֣ן אֶת דָּוִ֑ד מֵהַיּ֥וֹם הַה֖וּא וָהָֽלְאָה",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "עוֹיֵ֣ן",
+      "lemma": "5770",
+      "morph": "HVqrmsa",
+      "strongs": [
+        "H5770"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5770",
+        "morph": "HVqrmsa"
+      }
+    },
+    {
+      "position": 5,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "דָּוִ֑ד",
       "lemma": "1732",
       "morph": "HNp",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מֵהַיּ֥וֹם",
       "lemma": "m/d/3117",
       "morph": "HR/Td/Ncmsa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַה֖וּא",
       "lemma": "d/1931",
       "morph": "HTd/Pp3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וָהָֽלְאָה",
       "lemma": "c/1973",
       "morph": "HC/D",
@@ -116,28 +131,13 @@
         "lemma": "c/1973",
         "morph": "HC/D"
       }
-    },
-    {
-      "position": 9,
-      "text": "עוֹיֵ֣ן",
-      "lemma": "5770",
-      "morph": "HVqrmsa",
-      "strongs": [
-        "H5770"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5770",
-        "morph": "HVqrmsa"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 8
+        "afterWordPosition": 9
       }
     ],
     "terminator": "sof-pasuq"

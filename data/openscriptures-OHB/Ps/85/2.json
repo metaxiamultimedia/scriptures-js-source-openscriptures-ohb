@@ -1,23 +1,8 @@
 {
-  "text": "שְׁבִ֣ית רָצִ֣יתָ יְהוָ֣ה אַרְצֶ֑ךָ שַׁ֝֗בְתָּ שבות יַעֲקֹֽב",
+  "text": "רָצִ֣יתָ יְהוָ֣ה אַרְצֶ֑ךָ שַׁ֝֗בְתָּ שבות שְׁבִ֣ית יַעֲקֹֽב",
   "words": [
     {
       "position": 1,
-      "text": "שְׁבִ֣ית",
-      "lemma": "7622",
-      "morph": "HNcfsc",
-      "strongs": [
-        "H7622"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7622",
-        "morph": "HNcfsc"
-      }
-    },
-    {
-      "position": 2,
       "text": "רָצִ֣יתָ",
       "lemma": "7521",
       "morph": "HVqp2ms",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יְהוָ֣ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "אַרְצֶ֑ךָ",
       "lemma": "776",
       "morph": "HNcbsc/Sp2ms",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "שַׁ֝֗בְתָּ",
       "lemma": "7725",
       "morph": "HVqp2ms",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "שבות",
       "lemma": "7622",
       "morph": "HNcfsc",
@@ -86,6 +71,21 @@
         "lemma": "7622",
         "morph": "HNcfsc",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 6,
+      "text": "שְׁבִ֣ית",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7622",
+        "morph": "HNcfsc"
       }
     },
     {

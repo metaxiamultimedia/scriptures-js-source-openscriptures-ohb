@@ -1,5 +1,5 @@
 {
-  "text": "ואילו לֶֽחָצֵר֙ הַחִ֣יצוֹנָ֔ה וְתִמֹרִ֥ים אֶל אילו מִפּ֣וֹ וּמִפּ֑וֹ וּשְׁמֹנֶ֥ה מַעֲל֖וֹת מעלו וְאֵילָ֗יו אֵילָ֖יו מַעֲלָֽיו",
+  "text": "ואילו וְאֵילָ֗יו לֶֽחָצֵר֙ הַחִ֣יצוֹנָ֔ה וְתִמֹרִ֥ים אֶל אילו אֵילָ֖יו מִפּ֣וֹ וּמִפּ֑וֹ וּשְׁמֹנֶ֥ה מַעֲל֖וֹת מעלו מַעֲלָֽיו",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "וְאֵילָ֗יו",
+      "lemma": "c/352 b",
+      "morph": "HC/Ncmpc/Sp3ms",
+      "strongs": [
+        "H352"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/352 b",
+        "morph": "HC/Ncmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 3,
       "text": "לֶֽחָצֵר֙",
       "lemma": "l/2691 a",
       "morph": "HRd/Ncbsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "הַחִ֣יצוֹנָ֔ה",
       "lemma": "d/2435",
       "morph": "HTd/Aafsa",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְתִמֹרִ֥ים",
       "lemma": "c/8561",
       "morph": "HC/Ncfpa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אילו",
       "lemma": "352 b",
       "morph": "HNcmsc/Sp3ms",
@@ -92,7 +107,22 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
+      "text": "אֵילָ֖יו",
+      "lemma": "352 b",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H352"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "352 b",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 9,
       "text": "מִפּ֣וֹ",
       "lemma": "m/6311",
       "morph": "HR/D",
@@ -106,7 +136,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "וּמִפּ֑וֹ",
       "lemma": "c/m/6311",
       "morph": "HC/R/D",
@@ -120,7 +150,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "וּשְׁמֹנֶ֥ה",
       "lemma": "c/8083",
       "morph": "HC/Acfsa",
@@ -134,7 +164,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "מַעֲל֖וֹת",
       "lemma": "4609 b",
       "morph": "HNcfpa",
@@ -148,7 +178,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "מעלו",
       "lemma": "4608",
       "morph": "HNcmsc/Sp3ms",
@@ -161,36 +191,6 @@
         "lemma": "4608",
         "morph": "HNcmsc/Sp3ms",
         "type": "x-ketiv"
-      }
-    },
-    {
-      "position": 12,
-      "text": "וְאֵילָ֗יו",
-      "lemma": "c/352 b",
-      "morph": "HC/Ncmpc/Sp3ms",
-      "strongs": [
-        "H352"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/352 b",
-        "morph": "HC/Ncmpc/Sp3ms"
-      }
-    },
-    {
-      "position": 13,
-      "text": "אֵילָ֖יו",
-      "lemma": "352 b",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H352"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "352 b",
-        "morph": "HNcmpc/Sp3ms"
       }
     },
     {

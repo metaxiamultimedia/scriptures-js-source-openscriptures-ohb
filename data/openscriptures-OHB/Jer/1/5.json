@@ -1,5 +1,5 @@
 {
-  "text": "בְּטֶ֨רֶם אצורך בַבֶּ֨טֶן֙ יְדַעְתִּ֔יךָ וּבְטֶ֛רֶם תֵּצֵ֥א מֵרֶ֖חֶם הִקְדַּשְׁתִּ֑יךָ נָבִ֥יא לַגּוֹיִ֖ם נְתַתִּֽיךָ אֶצָּרְךָ֤",
+  "text": "בְּטֶ֨רֶם אצורך אֶצָּרְךָ֤ בַבֶּ֨טֶן֙ יְדַעְתִּ֔יךָ וּבְטֶ֛רֶם תֵּצֵ֥א מֵרֶ֖חֶם הִקְדַּשְׁתִּ֑יךָ נָבִ֥יא לַגּוֹיִ֖ם נְתַתִּֽיךָ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "אֶצָּרְךָ֤",
+      "lemma": "3335",
+      "morph": "HVqi1cs/Sp2ms",
+      "strongs": [
+        "H3335"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3335",
+        "morph": "HVqi1cs/Sp2ms"
+      }
+    },
+    {
+      "position": 4,
       "text": "בַבֶּ֨טֶן֙",
       "lemma": "b/990",
       "morph": "HRd/Ncfsa",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יְדַעְתִּ֔יךָ",
       "lemma": "3045",
       "morph": "HVqp1cs/Sp2ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּבְטֶ֛רֶם",
       "lemma": "c/b/2962",
       "morph": "HC/R/D",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תֵּצֵ֥א",
       "lemma": "3318",
       "morph": "HVqi2ms",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "מֵרֶ֖חֶם",
       "lemma": "m/7358",
       "morph": "HR/Ncmsa",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הִקְדַּשְׁתִּ֑יךָ",
       "lemma": "6942",
       "morph": "HVhp1cs/Sp2ms",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "נָבִ֥יא",
       "lemma": "5030",
       "morph": "HNcmsa",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לַגּוֹיִ֖ם",
       "lemma": "l/1471 a",
       "morph": "HRd/Ncmpa",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "נְתַתִּֽיךָ",
       "lemma": "5414",
       "morph": "HVqp1cs/Sp2ms",
@@ -155,21 +170,6 @@
       "source": {
         "lemma": "5414",
         "morph": "HVqp1cs/Sp2ms"
-      }
-    },
-    {
-      "position": 12,
-      "text": "אֶצָּרְךָ֤",
-      "lemma": "3335",
-      "morph": "HVqi1cs/Sp2ms",
-      "strongs": [
-        "H3335"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3335",
-        "morph": "HVqi1cs/Sp2ms"
       }
     }
   ],

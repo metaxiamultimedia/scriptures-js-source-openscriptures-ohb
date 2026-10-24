@@ -1,5 +1,5 @@
 {
-  "text": "תִּשָּׁמַ֤ע זְעָקָה֙ מִבָּ֣תֵּיהֶ֔ם כִּֽי תָבִ֧יא עֲלֵיהֶ֛ם גְּד֖וּד פִּתְאֹ֑ם כִּֽי כָר֤וּ שיחה לְלָכְדֵ֔נִי וּפַחִ֖ים טָמְנ֥וּ לְרַגְלָֽי שׁוּחָה֙",
+  "text": "תִּשָּׁמַ֤ע זְעָקָה֙ מִבָּ֣תֵּיהֶ֔ם כִּֽי תָבִ֧יא עֲלֵיהֶ֛ם גְּד֖וּד פִּתְאֹ֑ם כִּֽי כָר֤וּ שיחה שׁוּחָה֙ לְלָכְדֵ֔נִי וּפַחִ֖ים טָמְנ֥וּ לְרַגְלָֽי",
   "words": [
     {
       "position": 1,
@@ -163,6 +163,21 @@
     },
     {
       "position": 12,
+      "text": "שׁוּחָה֙",
+      "lemma": "7745",
+      "morph": "HNcfsa",
+      "strongs": [
+        "H7745"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7745",
+        "morph": "HNcfsa"
+      }
+    },
+    {
+      "position": 13,
       "text": "לְלָכְדֵ֔נִי",
       "lemma": "l/3920",
       "morph": "HR/Vqc/Sp1cs",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "וּפַחִ֖ים",
       "lemma": "c/6341 a",
       "morph": "HC/Ncmpa",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "טָמְנ֥וּ",
       "lemma": "2934",
       "morph": "HVqp3cp",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "לְרַגְלָֽי",
       "lemma": "l/7272",
       "morph": "HR/Ncfdc/Sp1cs",
@@ -215,21 +230,6 @@
       "source": {
         "lemma": "l/7272",
         "morph": "HR/Ncfdc/Sp1cs"
-      }
-    },
-    {
-      "position": 16,
-      "text": "שׁוּחָה֙",
-      "lemma": "7745",
-      "morph": "HNcfsa",
-      "strongs": [
-        "H7745"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7745",
-        "morph": "HNcfsa"
       }
     }
   ],

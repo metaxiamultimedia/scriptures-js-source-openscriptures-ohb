@@ -1,5 +1,5 @@
 {
-  "text": "קֹרֵ֤א מִמִּזְרָח֙ עַ֔יִט מֵאֶ֥רֶץ מֶרְחָ֖ק אִ֣ישׁ עצתו אַף דִּבַּ֨רְתִּי֙ אַף אֲבִיאֶ֔נָּה יָצַ֖רְתִּי אַף אֶעֱשֶֽׂנָּה עֲצָתִ֑י",
+  "text": "קֹרֵ֤א מִמִּזְרָח֙ עַ֔יִט מֵאֶ֥רֶץ מֶרְחָ֖ק אִ֣ישׁ עצתו עֲצָתִ֑י אַף דִּבַּ֨רְתִּי֙ אַף אֲבִיאֶ֔נָּה יָצַ֖רְתִּי אַף אֶעֱשֶֽׂנָּה",
   "words": [
     {
       "position": 1,
@@ -103,6 +103,21 @@
     },
     {
       "position": 8,
+      "text": "עֲצָתִ֑י",
+      "lemma": "6098",
+      "morph": "HNcfsc/Sp1cs",
+      "strongs": [
+        "H6098"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6098",
+        "morph": "HNcfsc/Sp1cs"
+      }
+    },
+    {
+      "position": 9,
       "text": "אַף",
       "lemma": "637",
       "morph": "HTa",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "דִּבַּ֨רְתִּי֙",
       "lemma": "1696",
       "morph": "HVpp1cs",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אַף",
       "lemma": "637",
       "morph": "HTa",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֲבִיאֶ֔נָּה",
       "lemma": "935",
       "morph": "HVhi1cs/Sp3fs",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יָצַ֖רְתִּי",
       "lemma": "3335",
       "morph": "HVqp1cs",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אַף",
       "lemma": "637",
       "morph": "HTa",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֶעֱשֶֽׂנָּה",
       "lemma": "6213 a",
       "morph": "HVqi1cs/Sp3fs",
@@ -204,28 +219,13 @@
         "lemma": "6213 a",
         "morph": "HVqi1cs/Sp3fs"
       }
-    },
-    {
-      "position": 15,
-      "text": "עֲצָתִ֑י",
-      "lemma": "6098",
-      "morph": "HNcfsc/Sp1cs",
-      "strongs": [
-        "H6098"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6098",
-        "morph": "HNcfsc/Sp1cs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 14
+        "afterWordPosition": 15
       }
     ],
     "terminator": "sof-pasuq"

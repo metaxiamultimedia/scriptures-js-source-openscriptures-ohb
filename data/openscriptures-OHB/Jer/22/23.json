@@ -1,5 +1,5 @@
 {
-  "text": "ישבתי בַּלְּבָנ֔וֹן מקננתי בָּֽאֲרָזִ֑ים מַה נֵּחַנְתְּ֙ בְּבֹא לָ֣ךְ חֲבָלִ֔ים חִ֖יל כַּיֹּלֵדָֽה יֹשַׁבְתְּ֙ מְקֻנַּ֖נְתְּ",
+  "text": "ישבתי יֹשַׁבְתְּ֙ בַּלְּבָנ֔וֹן מקננתי מְקֻנַּ֖נְתְּ בָּֽאֲרָזִ֑ים מַה נֵּחַנְתְּ֙ בְּבֹא לָ֣ךְ חֲבָלִ֔ים חִ֖יל כַּיֹּלֵדָֽה",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "יֹשַׁבְתְּ֙",
+      "lemma": "3427",
+      "morph": "HVqrfsc",
+      "strongs": [
+        "H3427"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3427",
+        "morph": "HVqrfsc"
+      }
+    },
+    {
+      "position": 3,
       "text": "בַּלְּבָנ֔וֹן",
       "lemma": "b/3844",
       "morph": "HRd/Np",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מקננתי",
       "lemma": "7077",
       "morph": "HVPsfsa",
@@ -48,7 +63,22 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
+      "text": "מְקֻנַּ֖נְתְּ",
+      "lemma": "7077",
+      "morph": "HVPsfsa",
+      "strongs": [
+        "H7077"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7077",
+        "morph": "HVPsfsa"
+      }
+    },
+    {
+      "position": 6,
       "text": "בָּֽאֲרָזִ֑ים",
       "lemma": "b/730",
       "morph": "HRd/Ncmpa",
@@ -62,7 +92,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "מַה",
       "lemma": "4100",
       "morph": "HTi",
@@ -78,7 +108,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "נֵּחַנְתְּ֙",
       "lemma": "2603 a",
       "morph": "HVNp2fs",
@@ -92,7 +122,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "בְּבֹא",
       "lemma": "b/935",
       "morph": "HR/Vqc",
@@ -108,7 +138,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "לָ֣ךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
@@ -121,7 +151,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "חֲבָלִ֔ים",
       "lemma": "2256 b",
       "morph": "HNcmpa",
@@ -135,7 +165,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "חִ֖יל",
       "lemma": "2427 a",
       "morph": "HNcmsa",
@@ -149,7 +179,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "כַּיֹּלֵדָֽה",
       "lemma": "k/3205",
       "morph": "HRd/Vqrfsa",
@@ -160,36 +190,6 @@
       "source": {
         "lemma": "k/3205",
         "morph": "HRd/Vqrfsa"
-      }
-    },
-    {
-      "position": 12,
-      "text": "יֹשַׁבְתְּ֙",
-      "lemma": "3427",
-      "morph": "HVqrfsc",
-      "strongs": [
-        "H3427"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3427",
-        "morph": "HVqrfsc"
-      }
-    },
-    {
-      "position": 13,
-      "text": "מְקֻנַּ֖נְתְּ",
-      "lemma": "7077",
-      "morph": "HVPsfsa",
-      "strongs": [
-        "H7077"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7077",
-        "morph": "HVPsfsa"
       }
     }
   ],

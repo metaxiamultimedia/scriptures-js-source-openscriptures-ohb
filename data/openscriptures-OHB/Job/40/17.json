@@ -1,5 +1,5 @@
 {
-  "text": "יַחְפֹּ֣ץ זְנָב֣וֹ כְמוֹ אָ֑רֶז גִּידֵ֖י פחדו יְשֹׂרָֽגוּ פַחֲדָ֣יו",
+  "text": "יַחְפֹּ֣ץ זְנָב֣וֹ כְמוֹ אָ֑רֶז גִּידֵ֖י פחדו פַחֲדָ֣יו יְשֹׂרָֽגוּ",
   "words": [
     {
       "position": 1,
@@ -91,20 +91,6 @@
     },
     {
       "position": 7,
-      "text": "יְשֹׂרָֽגוּ",
-      "lemma": "8276",
-      "morph": "HVPi3mp",
-      "strongs": [
-        "H8276"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "8276",
-        "morph": "HVPi3mp"
-      }
-    },
-    {
-      "position": 8,
       "text": "פַחֲדָ֣יו",
       "lemma": "6344",
       "morph": "HNcmdc/Sp3ms",
@@ -116,6 +102,20 @@
       "source": {
         "lemma": "6344",
         "morph": "HNcmdc/Sp3ms"
+      }
+    },
+    {
+      "position": 8,
+      "text": "יְשֹׂרָֽגוּ",
+      "lemma": "8276",
+      "morph": "HVPi3mp",
+      "strongs": [
+        "H8276"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "8276",
+        "morph": "HVPi3mp"
       }
     }
   ],

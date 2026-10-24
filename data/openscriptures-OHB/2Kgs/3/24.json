@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֹאוּ֮ אֶל מַחֲנֵ֣ה יִשְׂרָאֵל֒ וַיָּקֻ֤מוּ יִשְׂרָאֵל֙ וַיַּכּ֣וּ אֶת מוֹאָ֔ב וַיָּנֻ֖סוּ מִפְּנֵיהֶ֑ם ויבו בָ֔הּ וְהַכּ֖וֹת אֶת מוֹאָֽב וַיַּכּוּ",
+  "text": "וַיָּבֹאוּ֮ אֶל מַחֲנֵ֣ה יִשְׂרָאֵל֒ וַיָּקֻ֤מוּ יִשְׂרָאֵל֙ וַיַּכּ֣וּ אֶת מוֹאָ֔ב וַיָּנֻ֖סוּ מִפְּנֵיהֶ֑ם ויבו וַיַּכּוּ בָ֔הּ וְהַכּ֖וֹת אֶת מוֹאָֽב",
   "words": [
     {
       "position": 1,
@@ -168,9 +168,7 @@
         "H935"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "c/935",
         "morph": "HC/Vqw3mp",
@@ -179,6 +177,23 @@
     },
     {
       "position": 13,
+      "text": "וַיַּכּוּ",
+      "lemma": "c/5221",
+      "morph": "HC/Vhw3mp",
+      "strongs": [
+        "H5221"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "c/5221",
+        "morph": "HC/Vhw3mp"
+      }
+    },
+    {
+      "position": 14,
       "text": "בָ֔הּ",
       "lemma": "b/5221",
       "morph": "HR/Sp3fs",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְהַכּ֖וֹת",
       "lemma": "c/5221",
       "morph": "HC/Vhc",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -222,7 +237,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מוֹאָֽב",
       "lemma": "4124",
       "morph": "HNp",
@@ -233,21 +248,6 @@
       "source": {
         "lemma": "4124",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 17,
-      "text": "וַיַּכּוּ",
-      "lemma": "c/5221",
-      "morph": "HC/Vhw3mp",
-      "strongs": [
-        "H5221"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/5221",
-        "morph": "HC/Vhw3mp"
       }
     }
   ],

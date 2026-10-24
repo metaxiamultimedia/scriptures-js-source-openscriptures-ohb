@@ -1,5 +1,5 @@
 {
-  "text": "וְאִ֣ם לֹֽא יִגָּאֵ֗ל עַד מְלֹ֣את לוֹ֮ שָׁנָ֣ה תְמִימָה֒ וְ֠קָם הַבַּ֨יִת אֲשֶׁר בָּעִ֜יר אֲשֶׁר לא חֹמָ֗ה לַצְּמִיתֻ֛ת לַקֹּנֶ֥ה אֹת֖וֹ לְדֹרֹתָ֑יו לֹ֥א יֵצֵ֖א בַּיֹּבֵֽל ל֣וֹ",
+  "text": "וְאִ֣ם לֹֽא יִגָּאֵ֗ל עַד מְלֹ֣את לוֹ֮ שָׁנָ֣ה תְמִימָה֒ וְ֠קָם הַבַּ֨יִת אֲשֶׁר בָּעִ֜יר אֲשֶׁר לא ל֣וֹ חֹמָ֗ה לַצְּמִיתֻ֛ת לַקֹּנֶ֥ה אֹת֖וֹ לְדֹרֹתָ֑יו לֹ֥א יֵצֵ֖א בַּיֹּבֵֽל",
   "words": [
     {
       "position": 1,
@@ -208,6 +208,20 @@
     },
     {
       "position": 15,
+      "text": "ל֣וֹ",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "variant": "qere",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
+      }
+    },
+    {
+      "position": 16,
       "text": "חֹמָ֗ה",
       "lemma": "2346",
       "morph": "HNcfsa",
@@ -221,7 +235,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לַצְּמִיתֻ֛ת",
       "lemma": "l/6783",
       "morph": "HRd/Ncfsa",
@@ -235,7 +249,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לַקֹּנֶ֥ה",
       "lemma": "l/7069",
       "morph": "HRd/Vqrmsa",
@@ -249,7 +263,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֹת֖וֹ",
       "lemma": "853",
       "morph": "HTo/Sp3ms",
@@ -263,7 +277,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לְדֹרֹתָ֑יו",
       "lemma": "l/1755",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -277,7 +291,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לֹ֥א",
       "lemma": "3808",
       "morph": "HTn",
@@ -291,7 +305,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "יֵצֵ֖א",
       "lemma": "3318",
       "morph": "HVqi3ms",
@@ -305,7 +319,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "בַּיֹּבֵֽל",
       "lemma": "b/3104",
       "morph": "HRd/Ncmsa",
@@ -316,20 +330,6 @@
       "source": {
         "lemma": "b/3104",
         "morph": "HRd/Ncmsa"
-      }
-    },
-    {
-      "position": 23,
-      "text": "ל֣וֹ",
-      "lemma": "l",
-      "morph": "HR/Sp3ms",
-      "variant": "qere",
-      "metadata": {
-        "isPrefixOnly": true
-      },
-      "source": {
-        "lemma": "l",
-        "morph": "HR/Sp3ms"
       }
     }
   ],

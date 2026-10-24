@@ -1,5 +1,5 @@
 {
-  "text": "מֵשִׁ֣יב רָ֭עָה תַּ֣חַת טוֹבָ֑ה לֹא תמיש רָ֝עָ֗ה מִבֵּיתֽוֹ תָמ֥וּשׁ",
+  "text": "מֵשִׁ֣יב רָ֭עָה תַּ֣חַת טוֹבָ֑ה לֹא תמיש תָמ֥וּשׁ רָ֝עָ֗ה מִבֵּיתֽוֹ",
   "words": [
     {
       "position": 1,
@@ -91,6 +91,21 @@
     },
     {
       "position": 7,
+      "text": "תָמ֥וּשׁ",
+      "lemma": "4185",
+      "morph": "HVqi3fs",
+      "strongs": [
+        "H4185"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4185",
+        "morph": "HVqi3fs"
+      }
+    },
+    {
+      "position": 8,
       "text": "רָ֝עָ֗ה",
       "lemma": "7451 c",
       "morph": "HNcfsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִבֵּיתֽוֹ",
       "lemma": "m/1004 b",
       "morph": "HR/Ncmsc/Sp3ms",
@@ -115,21 +130,6 @@
       "source": {
         "lemma": "m/1004 b",
         "morph": "HR/Ncmsc/Sp3ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "תָמ֥וּשׁ",
-      "lemma": "4185",
-      "morph": "HVqi3fs",
-      "strongs": [
-        "H4185"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4185",
-        "morph": "HVqi3fs"
       }
     }
   ],

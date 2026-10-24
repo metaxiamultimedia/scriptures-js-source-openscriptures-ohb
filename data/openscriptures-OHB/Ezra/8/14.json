@@ -1,5 +1,5 @@
 {
-  "text": "וּמִבְּנֵ֥י בִגְוַ֖י עוּתַ֣י וזבוד וְעִמּ֖וֹ שִׁבְעִ֥ים הַזְּכָרִֽים וְזַכּ֑וּר",
+  "text": "וּמִבְּנֵ֥י בִגְוַ֖י עוּתַ֣י וזבוד וְזַכּ֑וּר וְעִמּ֖וֹ שִׁבְעִ֥ים הַזְּכָרִֽים",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "וְזַכּ֑וּר",
+      "lemma": "c/2139",
+      "morph": "HC/Np",
+      "strongs": [
+        "H2139"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/2139",
+        "morph": "HC/Np"
+      }
+    },
+    {
+      "position": 6,
       "text": "וְעִמּ֖וֹ",
       "lemma": "c/5973 a",
       "morph": "HC/R/Sp3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "שִׁבְעִ֥ים",
       "lemma": "7657",
       "morph": "HAcbpa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַזְּכָרִֽים",
       "lemma": "d/2145",
       "morph": "HTd/Ncmpa",
@@ -100,28 +115,13 @@
         "lemma": "d/2145",
         "morph": "HTd/Ncmpa"
       }
-    },
-    {
-      "position": 8,
-      "text": "וְזַכּ֑וּר",
-      "lemma": "c/2139",
-      "morph": "HC/Np",
-      "strongs": [
-        "H2139"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/2139",
-        "morph": "HC/Np"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 7
+        "afterWordPosition": 8
       }
     ],
     "terminator": "sof-pasuq"

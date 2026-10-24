@@ -1,5 +1,5 @@
 {
-  "text": "הַיֹּֽשְׁבִים֙ בַּקְּבָרִ֔ים וּבַנְּצוּרִ֖ים יָלִ֑ינוּ הָאֹֽכְלִים֙ בְּשַׂ֣ר הַחֲזִ֔יר ופרק פִּגֻּלִ֖ים כְּלֵיהֶֽם וּמְרַ֥ק",
+  "text": "הַיֹּֽשְׁבִים֙ בַּקְּבָרִ֔ים וּבַנְּצוּרִ֖ים יָלִ֑ינוּ הָאֹֽכְלִים֙ בְּשַׂ֣ר הַחֲזִ֔יר ופרק וּמְרַ֥ק פִּגֻּלִ֖ים כְּלֵיהֶֽם",
   "words": [
     {
       "position": 1,
@@ -117,6 +117,21 @@
     },
     {
       "position": 9,
+      "text": "וּמְרַ֥ק",
+      "lemma": "c/4839",
+      "morph": "HC/Ncmsc",
+      "strongs": [
+        "H4839"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/4839",
+        "morph": "HC/Ncmsc"
+      }
+    },
+    {
+      "position": 10,
       "text": "פִּגֻּלִ֖ים",
       "lemma": "6292",
       "morph": "HNcmpa",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "כְּלֵיהֶֽם",
       "lemma": "3627",
       "morph": "HNcmpc/Sp3mp",
@@ -141,21 +156,6 @@
       "source": {
         "lemma": "3627",
         "morph": "HNcmpc/Sp3mp"
-      }
-    },
-    {
-      "position": 11,
-      "text": "וּמְרַ֥ק",
-      "lemma": "c/4839",
-      "morph": "HC/Ncmsc",
-      "strongs": [
-        "H4839"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/4839",
-        "morph": "HC/Ncmsc"
       }
     }
   ],

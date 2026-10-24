@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּ֤בֶן אֶת היצוע עַל כָּל הַבַּ֔יִת חָמֵ֥שׁ אַמּ֖וֹת קֽוֹמָת֑וֹ וַיֶּאֱחֹ֥ז אֶת הַבַּ֖יִת בַּעֲצֵ֥י אֲרָזִֽים הַיָּצִ֨יעַ֙",
+  "text": "וַיִּ֤בֶן אֶת היצוע הַיָּצִ֨יעַ֙ עַל כָּל הַבַּ֔יִת חָמֵ֥שׁ אַמּ֖וֹת קֽוֹמָת֑וֹ וַיֶּאֱחֹ֥ז אֶת הַבַּ֖יִת בַּעֲצֵ֥י אֲרָזִֽים",
   "words": [
     {
       "position": 1,
@@ -49,6 +49,21 @@
     },
     {
       "position": 4,
+      "text": "הַיָּצִ֨יעַ֙",
+      "lemma": "d/3326 b",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H3326"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/3326 b",
+        "morph": "HTd/Ncmsa"
+      }
+    },
+    {
+      "position": 5,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -64,7 +79,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -80,7 +95,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַבַּ֔יִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
@@ -94,7 +109,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "חָמֵ֥שׁ",
       "lemma": "2568",
       "morph": "HAcfsa",
@@ -108,7 +123,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אַמּ֖וֹת",
       "lemma": "520 a",
       "morph": "HNcfpa",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "קֽוֹמָת֑וֹ",
       "lemma": "6967",
       "morph": "HNcfsc/Sp3ms",
@@ -136,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וַיֶּאֱחֹ֥ז",
       "lemma": "c/270",
       "morph": "HC/Vqw3ms",
@@ -150,7 +165,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -166,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַבַּ֖יִת",
       "lemma": "d/1004 b",
       "morph": "HTd/Ncmsa",
@@ -180,7 +195,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בַּעֲצֵ֥י",
       "lemma": "b/6086",
       "morph": "HR/Ncmpc",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֲרָזִֽים",
       "lemma": "730",
       "morph": "HNcmpa",
@@ -206,28 +221,13 @@
         "lemma": "730",
         "morph": "HNcmpa"
       }
-    },
-    {
-      "position": 15,
-      "text": "הַיָּצִ֨יעַ֙",
-      "lemma": "d/3326 b",
-      "morph": "HTd/Ncmsa",
-      "strongs": [
-        "H3326"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/3326 b",
-        "morph": "HTd/Ncmsa"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 14
+        "afterWordPosition": 15
       }
     ],
     "terminator": "sof-pasuq"

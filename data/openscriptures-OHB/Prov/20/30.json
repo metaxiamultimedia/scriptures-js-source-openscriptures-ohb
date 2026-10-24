@@ -1,5 +1,5 @@
 {
-  "text": "חַבֻּר֣וֹת פֶּ֭צַע תמריק בְּרָ֑ע וּ֝מַכּ֗וֹת חַדְרֵי בָֽטֶן תַּמְר֣וּק",
+  "text": "חַבֻּר֣וֹת פֶּ֭צַע תמריק תַּמְר֣וּק בְּרָ֑ע וּ֝מַכּ֗וֹת חַדְרֵי בָֽטֶן",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "תַּמְר֣וּק",
+      "lemma": "8562",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H8562"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8562",
+        "morph": "HNcmsa"
+      }
+    },
+    {
+      "position": 5,
       "text": "בְּרָ֑ע",
       "lemma": "b/7451 a",
       "morph": "HR/Aamsa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּ֝מַכּ֗וֹת",
       "lemma": "c/4347",
       "morph": "HC/Ncfpc",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "חַדְרֵי",
       "lemma": "2315",
       "morph": "HNcmpc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בָֽטֶן",
       "lemma": "990",
       "morph": "HNcfsa",
@@ -101,21 +116,6 @@
       "source": {
         "lemma": "990",
         "morph": "HNcfsa"
-      }
-    },
-    {
-      "position": 8,
-      "text": "תַּמְר֣וּק",
-      "lemma": "8562",
-      "morph": "HNcmsa",
-      "strongs": [
-        "H8562"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8562",
-        "morph": "HNcmsa"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא אֶחָ֣ד בָּהֶֽם וְל֖וֹ",
+  "text": "גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ אֶחָ֣ד בָּהֶֽם",
   "words": [
     {
       "position": 1,
@@ -147,6 +147,20 @@
     },
     {
       "position": 11,
+      "text": "וְל֖וֹ",
+      "lemma": "c/l",
+      "morph": "HC/R/Sp3ms",
+      "variant": "qere",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "source": {
+        "lemma": "c/l",
+        "morph": "HC/R/Sp3ms"
+      }
+    },
+    {
+      "position": 12,
       "text": "אֶחָ֣ד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -160,7 +174,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בָּהֶֽם",
       "lemma": "b",
       "morph": "HR/Sp3mp",
@@ -170,20 +184,6 @@
       "source": {
         "lemma": "b",
         "morph": "HR/Sp3mp"
-      }
-    },
-    {
-      "position": 13,
-      "text": "וְל֖וֹ",
-      "lemma": "c/l",
-      "morph": "HC/R/Sp3ms",
-      "variant": "qere",
-      "metadata": {
-        "isPrefixOnly": true
-      },
-      "source": {
-        "lemma": "c/l",
-        "morph": "HC/R/Sp3ms"
       }
     }
   ],

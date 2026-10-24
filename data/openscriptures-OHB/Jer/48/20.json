@@ -1,5 +1,5 @@
 {
-  "text": "הֹבִ֥ישׁ מוֹאָ֛ב כִּֽי חַ֖תָּה הילילי וזעקי הַגִּ֣ידוּ בְאַרְנ֔וֹן כִּ֥י שֻׁדַּ֖ד מוֹאָֽב הֵילִ֣ילוּ וּֽזְעָ֑קוּ",
+  "text": "הֹבִ֥ישׁ מוֹאָ֛ב כִּֽי חַ֖תָּה הילילי הֵילִ֣ילוּ וזעקי וּֽזְעָ֑קוּ הַגִּ֣ידוּ בְאַרְנ֔וֹן כִּ֥י שֻׁדַּ֖ד מוֹאָֽב",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "הֵילִ֣ילוּ",
+      "lemma": "3213",
+      "morph": "HVhv2mp",
+      "strongs": [
+        "H3213"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3213",
+        "morph": "HVhv2mp"
+      }
+    },
+    {
+      "position": 7,
       "text": "וזעקי",
       "lemma": "c/2199",
       "morph": "HC/Vqv2fs",
@@ -92,7 +107,22 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
+      "text": "וּֽזְעָ֑קוּ",
+      "lemma": "c/2199",
+      "morph": "HC/Vqv2mp",
+      "strongs": [
+        "H2199"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/2199",
+        "morph": "HC/Vqv2mp"
+      }
+    },
+    {
+      "position": 9,
       "text": "הַגִּ֣ידוּ",
       "lemma": "5046",
       "morph": "HVhv2mp",
@@ -106,7 +136,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 10,
       "text": "בְאַרְנ֔וֹן",
       "lemma": "b/769",
       "morph": "HR/Np",
@@ -120,7 +150,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 11,
       "text": "כִּ֥י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -134,7 +164,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "שֻׁדַּ֖ד",
       "lemma": "7703",
       "morph": "HVPp3ms",
@@ -148,7 +178,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "מוֹאָֽב",
       "lemma": "4124",
       "morph": "HNp",
@@ -160,42 +190,12 @@
         "lemma": "4124",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 12,
-      "text": "הֵילִ֣ילוּ",
-      "lemma": "3213",
-      "morph": "HVhv2mp",
-      "strongs": [
-        "H3213"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3213",
-        "morph": "HVhv2mp"
-      }
-    },
-    {
-      "position": 13,
-      "text": "וּֽזְעָ֑קוּ",
-      "lemma": "c/2199",
-      "morph": "HC/Vqv2mp",
-      "strongs": [
-        "H2199"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/2199",
-        "morph": "HC/Vqv2mp"
-      }
     }
   ],
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      5
+      6
     ]
   }
 }

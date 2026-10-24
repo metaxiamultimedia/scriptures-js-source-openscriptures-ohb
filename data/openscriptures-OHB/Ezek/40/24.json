@@ -1,5 +1,5 @@
 {
-  "text": "וַיּוֹלִכֵ֨נִי֙ דֶּ֣רֶךְ הַדָּר֔וֹם וְהִנֵּה שַׁ֖עַר דֶּ֣רֶךְ הַדָּר֑וֹם וּמָדַ֤ד אילו ואילמו כַּמִּדּ֖וֹת הָאֵֽלֶּה אֵילָיו֙ וְאֵ֣ילַמָּ֔יו",
+  "text": "וַיּוֹלִכֵ֨נִי֙ דֶּ֣רֶךְ הַדָּר֔וֹם וְהִנֵּה שַׁ֖עַר דֶּ֣רֶךְ הַדָּר֑וֹם וּמָדַ֤ד אילו אֵילָיו֙ ואילמו וְאֵ֣ילַמָּ֔יו כַּמִּדּ֖וֹת הָאֵֽלֶּה",
   "words": [
     {
       "position": 1,
@@ -133,6 +133,21 @@
     },
     {
       "position": 10,
+      "text": "אֵילָיו֙",
+      "lemma": "352 b",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H352"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "352 b",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 11,
       "text": "ואילמו",
       "lemma": "c/361",
       "morph": "HC/Ncmsc/Sp3ms",
@@ -148,7 +163,22 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
+      "text": "וְאֵ֣ילַמָּ֔יו",
+      "lemma": "c/361",
+      "morph": "HC/Ncmpc/Sp3ms",
+      "strongs": [
+        "H361"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/361",
+        "morph": "HC/Ncmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 13,
       "text": "כַּמִּדּ֖וֹת",
       "lemma": "k/4060 a",
       "morph": "HRd/Ncfpa",
@@ -162,7 +192,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "הָאֵֽלֶּה",
       "lemma": "d/428",
       "morph": "HTd/Pdxcp",
@@ -173,36 +203,6 @@
       "source": {
         "lemma": "d/428",
         "morph": "HTd/Pdxcp"
-      }
-    },
-    {
-      "position": 13,
-      "text": "אֵילָיו֙",
-      "lemma": "352 b",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H352"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "352 b",
-        "morph": "HNcmpc/Sp3ms"
-      }
-    },
-    {
-      "position": 14,
-      "text": "וְאֵ֣ילַמָּ֔יו",
-      "lemma": "c/361",
-      "morph": "HC/Ncmpc/Sp3ms",
-      "strongs": [
-        "H361"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/361",
-        "morph": "HC/Ncmpc/Sp3ms"
       }
     }
   ],

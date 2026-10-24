@@ -1,5 +1,5 @@
 {
-  "text": "ינתן לָ֜נוּ שִׁבְעָ֤ה אֲנָשִׁים֙ מִבָּנָ֔יו וְהוֹקַֽעֲנוּם֙ לַֽיהוָ֔ה בְּגִבְעַ֥ת שָׁא֖וּל בְּחִ֣יר יְהוָ֑ה וַיֹּ֥אמֶר הַמֶּ֖לֶךְ אֲנִ֥י אֶתֵּֽן יֻתַּן",
+  "text": "ינתן יֻתַּן לָ֜נוּ שִׁבְעָ֤ה אֲנָשִׁים֙ מִבָּנָ֔יו וְהוֹקַֽעֲנוּם֙ לַֽיהוָ֔ה בְּגִבְעַ֥ת שָׁא֖וּל בְּחִ֣יר יְהוָ֑ה וַיֹּ֥אמֶר הַמֶּ֖לֶךְ אֲנִ֥י אֶתֵּֽן",
   "words": [
     {
       "position": 1,
@@ -10,9 +10,7 @@
         "H5414"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "5414",
         "morph": "HVNj3ms",
@@ -21,6 +19,23 @@
     },
     {
       "position": 2,
+      "text": "יֻתַּן",
+      "lemma": "5414",
+      "morph": "HVQj3ms",
+      "strongs": [
+        "H5414"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "5414",
+        "morph": "HVQj3ms"
+      }
+    },
+    {
+      "position": 3,
       "text": "לָ֜נוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
@@ -33,7 +48,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "שִׁבְעָ֤ה",
       "lemma": "7651",
       "morph": "HAcmsa",
@@ -47,7 +62,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אֲנָשִׁים֙",
       "lemma": "376",
       "morph": "HNcmpa",
@@ -61,7 +76,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מִבָּנָ֔יו",
       "lemma": "m/1121 a",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -75,7 +90,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְהוֹקַֽעֲנוּם֙",
       "lemma": "c/3363",
       "morph": "HC/Vhq1cp/Sp3mp",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לַֽיהוָ֔ה",
       "lemma": "l/3068",
       "morph": "HR/Np",
@@ -103,7 +118,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְּגִבְעַ֥ת",
       "lemma": "b/1390",
       "morph": "HR/Np",
@@ -117,7 +132,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "שָׁא֖וּל",
       "lemma": "7586",
       "morph": "HNp",
@@ -131,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בְּחִ֣יר",
       "lemma": "972",
       "morph": "HAamsc",
@@ -145,7 +160,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְהוָ֑ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -159,7 +174,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וַיֹּ֥אמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -173,7 +188,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הַמֶּ֖לֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -187,7 +202,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֲנִ֥י",
       "lemma": "589",
       "morph": "HPp1cs",
@@ -201,7 +216,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶתֵּֽן",
       "lemma": "5414",
       "morph": "HVqi1cs",
@@ -213,28 +228,13 @@
         "lemma": "5414",
         "morph": "HVqi1cs"
       }
-    },
-    {
-      "position": 16,
-      "text": "יֻתַּן",
-      "lemma": "5414",
-      "morph": "HVQj3ms",
-      "strongs": [
-        "H5414"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5414",
-        "morph": "HVQj3ms"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 11
+        "afterWordPosition": 12
       }
     ],
     "terminator": "sof-pasuq"

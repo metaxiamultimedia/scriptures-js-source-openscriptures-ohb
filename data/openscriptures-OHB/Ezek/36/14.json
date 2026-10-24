@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵ֗ן אָדָם֙ לֹא תֹ֣אכְלִי ע֔וֹד וגויך לֹ֣א תכשלי ע֑וֹד נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה וְגוֹיַ֖יִךְ תְשַׁכְּלִי",
+  "text": "לָכֵ֗ן אָדָם֙ לֹא תֹ֣אכְלִי ע֔וֹד וגויך וְגוֹיַ֖יִךְ לֹ֣א תכשלי תְשַׁכְּלִי ע֑וֹד נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה",
   "words": [
     {
       "position": 1,
@@ -91,94 +91,6 @@
     },
     {
       "position": 7,
-      "text": "לֹ֣א",
-      "lemma": "3808",
-      "morph": "HTn",
-      "strongs": [
-        "H3808"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "3808",
-        "morph": "HTn"
-      }
-    },
-    {
-      "position": 8,
-      "text": "תכשלי",
-      "lemma": "3782",
-      "morph": "HVpi2fs",
-      "strongs": [
-        "H3782"
-      ],
-      "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
-      "source": {
-        "lemma": "3782",
-        "morph": "HVpi2fs",
-        "type": "x-ketiv"
-      }
-    },
-    {
-      "position": 9,
-      "text": "ע֑וֹד",
-      "lemma": "5750",
-      "morph": "HD",
-      "strongs": [
-        "H5750"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "5750",
-        "morph": "HD"
-      }
-    },
-    {
-      "position": 10,
-      "text": "נְאֻ֖ם",
-      "lemma": "5002",
-      "morph": "HNcmsc",
-      "strongs": [
-        "H5002"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "5002",
-        "morph": "HNcmsc"
-      }
-    },
-    {
-      "position": 11,
-      "text": "אֲדֹנָ֥י",
-      "lemma": "136",
-      "morph": "HNcmpc/Sp1cs",
-      "strongs": [
-        "H136"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "136",
-        "morph": "HNcmpc/Sp1cs"
-      }
-    },
-    {
-      "position": 12,
-      "text": "יְהוִֽה",
-      "lemma": "3069",
-      "morph": "HNp",
-      "strongs": [
-        "H3069"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "3069",
-        "morph": "HNp"
-      }
-    },
-    {
-      "position": 13,
       "text": "וְגוֹיַ֖יִךְ",
       "lemma": "c/1471 a",
       "morph": "HC/Ncmpc/Sp2fs",
@@ -193,7 +105,37 @@
       }
     },
     {
-      "position": 14,
+      "position": 8,
+      "text": "לֹ֣א",
+      "lemma": "3808",
+      "morph": "HTn",
+      "strongs": [
+        "H3808"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "3808",
+        "morph": "HTn"
+      }
+    },
+    {
+      "position": 9,
+      "text": "תכשלי",
+      "lemma": "3782",
+      "morph": "HVpi2fs",
+      "strongs": [
+        "H3782"
+      ],
+      "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "3782",
+        "morph": "HVpi2fs",
+        "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 10,
       "text": "תְשַׁכְּלִי",
       "lemma": "7921 a",
       "morph": "HVpi2fs",
@@ -201,10 +143,68 @@
         "H7921"
       ],
       "variant": "qere",
-      "metadata": {},
+      "metadata": {
+        "joinNext": "maqqef"
+      },
       "source": {
         "lemma": "7921 a",
         "morph": "HVpi2fs"
+      }
+    },
+    {
+      "position": 11,
+      "text": "ע֑וֹד",
+      "lemma": "5750",
+      "morph": "HD",
+      "strongs": [
+        "H5750"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "5750",
+        "morph": "HD"
+      }
+    },
+    {
+      "position": 12,
+      "text": "נְאֻ֖ם",
+      "lemma": "5002",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H5002"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "5002",
+        "morph": "HNcmsc"
+      }
+    },
+    {
+      "position": 13,
+      "text": "אֲדֹנָ֥י",
+      "lemma": "136",
+      "morph": "HNcmpc/Sp1cs",
+      "strongs": [
+        "H136"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "136",
+        "morph": "HNcmpc/Sp1cs"
+      }
+    },
+    {
+      "position": 14,
+      "text": "יְהוִֽה",
+      "lemma": "3069",
+      "morph": "HNp",
+      "strongs": [
+        "H3069"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "3069",
+        "morph": "HNp"
       }
     }
   ],

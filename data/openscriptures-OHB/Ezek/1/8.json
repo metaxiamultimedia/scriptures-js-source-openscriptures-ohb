@@ -1,5 +1,5 @@
 {
-  "text": "וידו אָדָ֗ם מִתַּ֨חַת֙ כַּנְפֵיהֶ֔ם עַ֖ל אַרְבַּ֣עַת רִבְעֵיהֶ֑ם וּפְנֵיהֶ֥ם וְכַנְפֵיהֶ֖ם לְאַרְבַּעְתָּֽם וִידֵ֣י",
+  "text": "וידו וִידֵ֣י אָדָ֗ם מִתַּ֨חַת֙ כַּנְפֵיהֶ֔ם עַ֖ל אַרְבַּ֣עַת רִבְעֵיהֶ֑ם וּפְנֵיהֶ֥ם וְכַנְפֵיהֶ֖ם לְאַרְבַּעְתָּֽם",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "וִידֵ֣י",
+      "lemma": "c/3027",
+      "morph": "HC/Ncbdc",
+      "strongs": [
+        "H3027"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3027",
+        "morph": "HC/Ncbdc"
+      }
+    },
+    {
+      "position": 3,
       "text": "אָדָ֗ם",
       "lemma": "120",
       "morph": "HNcmsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מִתַּ֨חַת֙",
       "lemma": "m/8478",
       "morph": "HR/R",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "כַּנְפֵיהֶ֔ם",
       "lemma": "3671",
       "morph": "HNcfdc/Sp3mp",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עַ֖ל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אַרְבַּ֣עַת",
       "lemma": "702",
       "morph": "HAcmsc",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רִבְעֵיהֶ֑ם",
       "lemma": "7253",
       "morph": "HNcmpc/Sp3mp",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּפְנֵיהֶ֥ם",
       "lemma": "c/6440",
       "morph": "HC/Ncbpc/Sp3mp",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְכַנְפֵיהֶ֖ם",
       "lemma": "c/3671",
       "morph": "HC/Ncfdc/Sp3mp",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְאַרְבַּעְתָּֽם",
       "lemma": "l/702",
       "morph": "HR/Acmsc/Sp3mp",
@@ -141,21 +156,6 @@
       "source": {
         "lemma": "l/702",
         "morph": "HR/Acmsc/Sp3mp"
-      }
-    },
-    {
-      "position": 11,
-      "text": "וִידֵ֣י",
-      "lemma": "c/3027",
-      "morph": "HC/Ncbdc",
-      "strongs": [
-        "H3027"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/3027",
-        "morph": "HC/Ncbdc"
       }
     }
   ],

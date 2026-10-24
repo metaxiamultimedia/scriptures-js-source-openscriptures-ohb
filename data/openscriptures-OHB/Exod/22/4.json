@@ -1,23 +1,8 @@
 {
-  "text": "בְּעִיר֔וֹ כִּ֤י יַבְעֶר אִישׁ֙ שָׂדֶ֣ה אוֹ כֶ֔רֶם וְשִׁלַּח֙ אֶת בעירה וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם",
+  "text": "כִּ֤י יַבְעֶר אִישׁ֙ שָׂדֶ֣ה אוֹ כֶ֔רֶם וְשִׁלַּח֙ אֶת בעירה בְּעִיר֔וֹ וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם",
   "words": [
     {
       "position": 1,
-      "text": "בְּעִיר֔וֹ",
-      "lemma": "1165",
-      "morph": "HNcmsc/Sp3ms",
-      "strongs": [
-        "H1165"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1165",
-        "morph": "HNcmsc/Sp3ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "כִּ֤י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יַבְעֶר",
       "lemma": "1197 b",
       "morph": "HVhi3ms",
@@ -47,7 +32,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "אִישׁ֙",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "שָׂדֶ֣ה",
       "lemma": "7704 b",
       "morph": "HNcmsa",
@@ -75,7 +60,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "אוֹ",
       "lemma": "176 a",
       "morph": "HC",
@@ -91,7 +76,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "כֶ֔רֶם",
       "lemma": "3754",
       "morph": "HNcbsa",
@@ -105,7 +90,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "וְשִׁלַּח֙",
       "lemma": "c/7971",
       "morph": "HC/Vpp3ms",
@@ -119,7 +104,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -135,7 +120,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 9,
       "text": "בעירה",
       "lemma": "1165",
       "morph": "HNcmsc/Sp3ms",
@@ -148,6 +133,21 @@
         "lemma": "1165",
         "morph": "HNcmsc/Sp3ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 10,
+      "text": "בְּעִיר֔וֹ",
+      "lemma": "1165",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H1165"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1165",
+        "morph": "HNcmsc/Sp3ms"
       }
     },
     {

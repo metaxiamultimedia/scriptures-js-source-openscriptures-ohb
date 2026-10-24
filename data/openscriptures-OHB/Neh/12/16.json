@@ -1,5 +1,5 @@
 {
-  "text": "לעדיא זְכַרְיָ֖ה לְגִנְּת֥וֹן מְשֻׁלָּֽם לְעִדּ֥וֹא",
+  "text": "לעדיא לְעִדּ֥וֹא זְכַרְיָ֖ה לְגִנְּת֥וֹן מְשֻׁלָּֽם",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "לְעִדּ֥וֹא",
+      "lemma": "l/5714",
+      "morph": "HR/Np",
+      "strongs": [
+        "H5714"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "l/5714",
+        "morph": "HR/Np"
+      }
+    },
+    {
+      "position": 3,
       "text": "זְכַרְיָ֖ה",
       "lemma": "2148 a",
       "morph": "HNp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "לְגִנְּת֥וֹן",
       "lemma": "l/1599",
       "morph": "HR/Np",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "מְשֻׁלָּֽם",
       "lemma": "4918",
       "morph": "HNp",
@@ -57,21 +72,6 @@
       "source": {
         "lemma": "4918",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 5,
-      "text": "לְעִדּ֥וֹא",
-      "lemma": "l/5714",
-      "morph": "HR/Np",
-      "strongs": [
-        "H5714"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "l/5714",
-        "morph": "HR/Np"
       }
     }
   ],

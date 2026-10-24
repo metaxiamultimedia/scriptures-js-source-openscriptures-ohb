@@ -1,5 +1,5 @@
 {
-  "text": "הָאֹמֵ֞ר לְאָבִ֤יו וּלְאִמּוֹ֙ לֹ֣א רְאִיתִ֔יו וְאֶת אֶחָיו֙ לֹ֣א הִכִּ֔יר וְאֶת בנו לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔ךָ וּבְרִֽיתְךָ֖ יִנְצֹֽרוּ בָּנָ֖יו",
+  "text": "הָאֹמֵ֞ר לְאָבִ֤יו וּלְאִמּוֹ֙ לֹ֣א רְאִיתִ֔יו וְאֶת אֶחָיו֙ לֹ֣א הִכִּ֔יר וְאֶת בנו בָּנָ֖יו לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔ךָ וּבְרִֽיתְךָ֖ יִנְצֹֽרוּ",
   "words": [
     {
       "position": 1,
@@ -163,6 +163,21 @@
     },
     {
       "position": 12,
+      "text": "בָּנָ֖יו",
+      "lemma": "1121 a",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H1121"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 13,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יָדָ֑ע",
       "lemma": "3045",
       "morph": "HVqp3ms",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כִּ֤י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שָֽׁמְרוּ֙",
       "lemma": "8104",
       "morph": "HVqp3cp",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אִמְרָתֶ֔ךָ",
       "lemma": "565 a",
       "morph": "HNcfsc/Sp2ms",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וּבְרִֽיתְךָ֖",
       "lemma": "c/1285",
       "morph": "HC/Ncfsc/Sp2ms",
@@ -246,7 +261,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "יִנְצֹֽרוּ",
       "lemma": "5341",
       "morph": "HVqi3mp",
@@ -257,21 +272,6 @@
       "source": {
         "lemma": "5341",
         "morph": "HVqi3mp"
-      }
-    },
-    {
-      "position": 19,
-      "text": "בָּנָ֖יו",
-      "lemma": "1121 a",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H1121"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1121 a",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

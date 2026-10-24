@@ -1,23 +1,8 @@
 {
-  "text": "וּֽ֭שְׁבִֽילְךָ בַּיָּ֤ם דַּרְכֶּ֗ךָ ושביליך בְּמַ֣יִם רַבִּ֑ים וְ֝עִקְּבוֹתֶ֗יךָ לֹ֣א נֹדָֽעוּ",
+  "text": "בַּיָּ֤ם דַּרְכֶּ֗ךָ ושביליך וּֽ֭שְׁבִֽילְךָ בְּמַ֣יִם רַבִּ֑ים וְ֝עִקְּבוֹתֶ֗יךָ לֹ֣א נֹדָֽעוּ",
   "words": [
     {
       "position": 1,
-      "text": "וּֽ֭שְׁבִֽילְךָ",
-      "lemma": "c/7635",
-      "morph": "HC/Ncmsc/Sp2ms",
-      "strongs": [
-        "H7635"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7635",
-        "morph": "HC/Ncmsc/Sp2ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "בַּיָּ֤ם",
       "lemma": "b/3220",
       "morph": "HRd/Ncmsa",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "דַּרְכֶּ֗ךָ",
       "lemma": "1870",
       "morph": "HNcbsc/Sp2ms",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "ושביליך",
       "lemma": "c/7635",
       "morph": "HC/Ncmpc/Sp2ms",
@@ -58,6 +43,21 @@
         "lemma": "c/7635",
         "morph": "HC/Ncmpc/Sp2ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 4,
+      "text": "וּֽ֭שְׁבִֽילְךָ",
+      "lemma": "c/7635",
+      "morph": "HC/Ncmsc/Sp2ms",
+      "strongs": [
+        "H7635"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7635",
+        "morph": "HC/Ncmsc/Sp2ms"
       }
     },
     {

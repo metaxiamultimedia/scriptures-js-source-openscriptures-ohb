@@ -1,5 +1,5 @@
 {
-  "text": "וְאֶֽת בַּעֲלָ֛ת וְאֶת תמר בַּמִּדְבָּ֖ר בָּאָֽרֶץ תַּדְמֹ֥ר",
+  "text": "וְאֶֽת בַּעֲלָ֛ת וְאֶת תמר תַּדְמֹ֥ר בַּמִּדְבָּ֖ר בָּאָֽרֶץ",
   "words": [
     {
       "position": 1,
@@ -65,6 +65,21 @@
     },
     {
       "position": 5,
+      "text": "תַּדְמֹ֥ר",
+      "lemma": "8412",
+      "morph": "HNp",
+      "strongs": [
+        "H8412"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8412",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 6,
       "text": "בַּמִּדְבָּ֖ר",
       "lemma": "b/4057 b",
       "morph": "HRd/Ncmsa",
@@ -78,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בָּאָֽרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -89,21 +104,6 @@
       "source": {
         "lemma": "b/776",
         "morph": "HRd/Ncbsa"
-      }
-    },
-    {
-      "position": 7,
-      "text": "תַּדְמֹ֥ר",
-      "lemma": "8412",
-      "morph": "HNp",
-      "strongs": [
-        "H8412"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8412",
-        "morph": "HNp"
       }
     }
   ],

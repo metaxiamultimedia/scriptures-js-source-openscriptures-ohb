@@ -1,5 +1,5 @@
 {
-  "text": "נְבִיאַ֗יִךְ חָ֤זוּ לָךְ֙ שָׁ֣וְא וְתָפֵ֔ל וְלֹֽא גִלּ֥וּ עַל עֲוֺנֵ֖ךְ לְהָשִׁ֣יב שביתך וַיֶּ֣חֱזוּ לָ֔ךְ מַשְׂא֥וֹת שָׁ֖וְא וּמַדּוּחִֽים שְׁבוּתֵ֑ךְ",
+  "text": "נְבִיאַ֗יִךְ חָ֤זוּ לָךְ֙ שָׁ֣וְא וְתָפֵ֔ל וְלֹֽא גִלּ֥וּ עַל עֲוֺנֵ֖ךְ לְהָשִׁ֣יב שביתך שְׁבוּתֵ֑ךְ וַיֶּ֣חֱזוּ לָ֔ךְ מַשְׂא֥וֹת שָׁ֖וְא וּמַדּוּחִֽים",
   "words": [
     {
       "position": 1,
@@ -162,6 +162,21 @@
     },
     {
       "position": 12,
+      "text": "שְׁבוּתֵ֑ךְ",
+      "lemma": "7622",
+      "morph": "HNcfsc/Sp2fs",
+      "strongs": [
+        "H7622"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7622",
+        "morph": "HNcfsc/Sp2fs"
+      }
+    },
+    {
+      "position": 13,
       "text": "וַיֶּ֣חֱזוּ",
       "lemma": "c/2372",
       "morph": "HC/Vqw3mp",
@@ -175,7 +190,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לָ֔ךְ",
       "lemma": "l",
       "morph": "HR/Sp2fs",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מַשְׂא֥וֹת",
       "lemma": "4864",
       "morph": "HNcfpc",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שָׁ֖וְא",
       "lemma": "7723",
       "morph": "HNcmsa",
@@ -216,7 +231,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וּמַדּוּחִֽים",
       "lemma": "c/4065",
       "morph": "HC/Ncmpa",
@@ -228,28 +243,13 @@
         "lemma": "c/4065",
         "morph": "HC/Ncmpa"
       }
-    },
-    {
-      "position": 17,
-      "text": "שְׁבוּתֵ֑ךְ",
-      "lemma": "7622",
-      "morph": "HNcfsc/Sp2fs",
-      "strongs": [
-        "H7622"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7622",
-        "morph": "HNcfsc/Sp2fs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 16
+        "afterWordPosition": 17
       }
     ],
     "terminator": "sof-pasuq"

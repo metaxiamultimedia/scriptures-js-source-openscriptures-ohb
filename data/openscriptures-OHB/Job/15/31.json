@@ -1,5 +1,5 @@
 {
-  "text": "אַל יַאֲמֵ֣ן בשו נִתְעָ֑ה כִּי שָׁ֝֗וְא תִּהְיֶ֥ה תְמוּרָתֽוֹ בַּשָּׁ֣יו",
+  "text": "אַל יַאֲמֵ֣ן בשו בַּשָּׁ֣יו נִתְעָ֑ה כִּי שָׁ֝֗וְא תִּהְיֶ֥ה תְמוּרָתֽוֹ",
   "words": [
     {
       "position": 1,
@@ -49,6 +49,21 @@
     },
     {
       "position": 4,
+      "text": "בַּשָּׁ֣יו",
+      "lemma": "b/7723",
+      "morph": "HRd/Ncmsa",
+      "strongs": [
+        "H7723"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/7723",
+        "morph": "HRd/Ncmsa"
+      }
+    },
+    {
+      "position": 5,
       "text": "נִתְעָ֑ה",
       "lemma": "8582",
       "morph": "HVNp3ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -78,7 +93,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "שָׁ֝֗וְא",
       "lemma": "7723",
       "morph": "HNcmsa",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תִּהְיֶ֥ה",
       "lemma": "1961",
       "morph": "HVqi3fs",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "תְמוּרָתֽוֹ",
       "lemma": "8545",
       "morph": "HNcfsc/Sp3ms",
@@ -117,21 +132,6 @@
       "source": {
         "lemma": "8545",
         "morph": "HNcfsc/Sp3ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "בַּשָּׁ֣יו",
-      "lemma": "b/7723",
-      "morph": "HRd/Ncmsa",
-      "strongs": [
-        "H7723"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/7723",
-        "morph": "HRd/Ncmsa"
       }
     }
   ],

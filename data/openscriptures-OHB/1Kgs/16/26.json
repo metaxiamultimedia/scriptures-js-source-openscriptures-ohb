@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּ֗לֶךְ בְּכָל דֶּ֨רֶךְ֙ יָרָבְעָ֣ם בֶּן נְבָ֔ט ובחטאתיו אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת יִשְׂרָאֵ֑ל לְהַכְעִ֗יס אֶת יְהוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל בְּהַבְלֵיהֶֽם וּבְחַטָּאת֔וֹ",
+  "text": "וַיֵּ֗לֶךְ בְּכָל דֶּ֨רֶךְ֙ יָרָבְעָ֣ם בֶּן נְבָ֔ט ובחטאתיו וּבְחַטָּאת֔וֹ אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת יִשְׂרָאֵ֑ל לְהַכְעִ֗יס אֶת יְהוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל בְּהַבְלֵיהֶֽם",
   "words": [
     {
       "position": 1,
@@ -107,6 +107,21 @@
     },
     {
       "position": 8,
+      "text": "וּבְחַטָּאת֔וֹ",
+      "lemma": "c/b/2403 b",
+      "morph": "HC/R/Ncfsc/Sp3ms",
+      "strongs": [
+        "H2403"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/b/2403 b",
+        "morph": "HC/R/Ncfsc/Sp3ms"
+      }
+    },
+    {
+      "position": 9,
       "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הֶחֱטִ֖יא",
       "lemma": "2398",
       "morph": "HVhp3ms",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -150,7 +165,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יִשְׂרָאֵ֑ל",
       "lemma": "3478",
       "morph": "HNp",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לְהַכְעִ֗יס",
       "lemma": "l/3707",
       "morph": "HR/Vhc",
@@ -178,7 +193,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יְהוָ֛ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -208,7 +223,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֱלֹהֵ֥י",
       "lemma": "430",
       "morph": "HNcmpc",
@@ -222,7 +237,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "יִשְׂרָאֵ֖ל",
       "lemma": "3478",
       "morph": "HNp",
@@ -236,7 +251,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בְּהַבְלֵיהֶֽם",
       "lemma": "b/1892",
       "morph": "HR/Ncmpc/Sp3mp",
@@ -247,21 +262,6 @@
       "source": {
         "lemma": "b/1892",
         "morph": "HR/Ncmpc/Sp3mp"
-      }
-    },
-    {
-      "position": 18,
-      "text": "וּבְחַטָּאת֔וֹ",
-      "lemma": "c/b/2403 b",
-      "morph": "HC/R/Ncfsc/Sp3ms",
-      "strongs": [
-        "H2403"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/b/2403 b",
-        "morph": "HC/R/Ncfsc/Sp3ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֧אמֶר אֵלָ֛יו יְהוָ֖ה מזה בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה מַה זֶּ֣ה",
+  "text": "וַיֹּ֧אמֶר אֵלָ֛יו יְהוָ֖ה מזה מַה זֶּ֣ה בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה",
   "words": [
     {
       "position": 1,
@@ -52,9 +52,7 @@
         "H2088"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "m/2088",
         "morph": "HTi/Pdxms",
@@ -63,6 +61,38 @@
     },
     {
       "position": 5,
+      "text": "מַה",
+      "lemma": "4100",
+      "morph": "HTi",
+      "strongs": [
+        "H4100"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "4100",
+        "morph": "HTi"
+      }
+    },
+    {
+      "position": 6,
+      "text": "זֶּ֣ה",
+      "lemma": "2088",
+      "morph": "HPdxms",
+      "strongs": [
+        "H2088"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2088",
+        "morph": "HPdxms"
+      }
+    },
+    {
+      "position": 7,
       "text": "בְיָדֶ֑ךָ",
       "lemma": "b/3027",
       "morph": "HR/Ncbsc/Sp2ms",
@@ -76,7 +106,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "וַיֹּ֖אמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3ms",
@@ -90,7 +120,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "מַטֶּֽה",
       "lemma": "4294",
       "morph": "HNcmsa",
@@ -101,36 +131,6 @@
       "source": {
         "lemma": "4294",
         "morph": "HNcmsa"
-      }
-    },
-    {
-      "position": 8,
-      "text": "מַה",
-      "lemma": "4100",
-      "morph": "HTi",
-      "strongs": [
-        "H4100"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4100",
-        "morph": "HTi"
-      }
-    },
-    {
-      "position": 9,
-      "text": "זֶּ֣ה",
-      "lemma": "2088",
-      "morph": "HPdxms",
-      "strongs": [
-        "H2088"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2088",
-        "morph": "HPdxms"
       }
     }
   ],

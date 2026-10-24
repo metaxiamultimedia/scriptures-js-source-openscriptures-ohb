@@ -1,23 +1,8 @@
 {
-  "text": "כֹּחִ֗י עִנָּ֖ה בַדֶּ֥רֶךְ כחו קִצַּ֥ר יָמָֽי",
+  "text": "עִנָּ֖ה בַדֶּ֥רֶךְ כחו כֹּחִ֗י קִצַּ֥ר יָמָֽי",
   "words": [
     {
       "position": 1,
-      "text": "כֹּחִ֗י",
-      "lemma": "3581 b",
-      "morph": "HNcmsc/Sp1cs",
-      "strongs": [
-        "H3581"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3581 b",
-        "morph": "HNcmsc/Sp1cs"
-      }
-    },
-    {
-      "position": 2,
       "text": "עִנָּ֖ה",
       "lemma": "6031 b",
       "morph": "HVpp3ms",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "בַדֶּ֥רֶךְ",
       "lemma": "b/1870",
       "morph": "HRd/Ncbsa",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "כחו",
       "lemma": "3581 b",
       "morph": "HNcmsc/Sp3ms",
@@ -58,6 +43,21 @@
         "lemma": "3581 b",
         "morph": "HNcmsc/Sp3ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 4,
+      "text": "כֹּחִ֗י",
+      "lemma": "3581 b",
+      "morph": "HNcmsc/Sp1cs",
+      "strongs": [
+        "H3581"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3581 b",
+        "morph": "HNcmsc/Sp1cs"
       }
     },
     {

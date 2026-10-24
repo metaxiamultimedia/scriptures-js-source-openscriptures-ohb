@@ -1,5 +1,5 @@
 {
-  "text": "וּמִן בְּנֵי֙ אֱלִ֣יצָפָ֔ן שִׁמְרִ֖י ויעואל וּמִן בְּנֵ֣י אָסָ֔ף זְכַרְיָ֖הוּ וּמַתַּנְיָֽהוּ וִיעִיאֵ֑ל",
+  "text": "וּמִן בְּנֵי֙ אֱלִ֣יצָפָ֔ן שִׁמְרִ֖י ויעואל וִיעִיאֵ֑ל וּמִן בְּנֵ֣י אָסָ֔ף זְכַרְיָ֖הוּ וּמַתַּנְיָֽהוּ",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "וִיעִיאֵ֑ל",
+      "lemma": "c/3273",
+      "morph": "HC/Np",
+      "strongs": [
+        "H3273"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3273",
+        "morph": "HC/Np"
+      }
+    },
+    {
+      "position": 7,
       "text": "וּמִן",
       "lemma": "c/4480 a",
       "morph": "HC/R",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בְּנֵ֣י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אָסָ֔ף",
       "lemma": "623",
       "morph": "HNp",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "זְכַרְיָ֖הוּ",
       "lemma": "2148 a",
       "morph": "HNp",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וּמַתַּנְיָֽהוּ",
       "lemma": "c/4983",
       "morph": "HC/Np",
@@ -146,28 +161,13 @@
         "lemma": "c/4983",
         "morph": "HC/Np"
       }
-    },
-    {
-      "position": 11,
-      "text": "וִיעִיאֵ֑ל",
-      "lemma": "c/3273",
-      "morph": "HC/Np",
-      "strongs": [
-        "H3273"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/3273",
-        "morph": "HC/Np"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 10
+        "afterWordPosition": 11
       }
     ],
     "terminator": "sof-pasuq"

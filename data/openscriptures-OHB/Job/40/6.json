@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּֽעַן יְהוָ֣ה אֶת אִ֭יּוֹב מנ סערה וַיֹּאמַֽר מִ֥ן סְעָרָ֗ה",
+  "text": "וַיַּֽעַן יְהוָ֣ה אֶת אִ֭יּוֹב מנ סערה מִ֥ן סְעָרָ֗ה וַיֹּאמַֽר",
   "words": [
     {
       "position": 1,
@@ -95,20 +95,6 @@
     },
     {
       "position": 7,
-      "text": "וַיֹּאמַֽר",
-      "lemma": "c/559",
-      "morph": "HC/Vqw3ms",
-      "strongs": [
-        "H559"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "c/559",
-        "morph": "HC/Vqw3ms"
-      }
-    },
-    {
-      "position": 8,
       "text": "מִ֥ן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -123,7 +109,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "סְעָרָ֗ה",
       "lemma": "5591 b",
       "morph": "HNcfsa",
@@ -136,12 +122,26 @@
         "lemma": "5591 b",
         "morph": "HNcfsa"
       }
+    },
+    {
+      "position": 9,
+      "text": "וַיֹּאמַֽר",
+      "lemma": "c/559",
+      "morph": "HC/Vqw3ms",
+      "strongs": [
+        "H559"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/559",
+        "morph": "HC/Vqw3ms"
+      }
     }
   ],
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      6
+      7
     ]
   }
 }

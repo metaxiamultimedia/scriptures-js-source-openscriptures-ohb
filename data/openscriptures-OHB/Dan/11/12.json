@@ -1,5 +1,5 @@
 {
-  "text": "וְנִשָּׂ֥א הֶהָמ֖וֹן ירום לְבָב֑וֹ וְהִפִּ֛יל רִבֹּא֖וֹת וְלֹ֥א יָעֽוֹז וְרָ֣ם",
+  "text": "וְנִשָּׂ֥א הֶהָמ֖וֹן ירום וְרָ֣ם לְבָב֑וֹ וְהִפִּ֛יל רִבֹּא֖וֹת וְלֹ֥א יָעֽוֹז",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "וְרָ֣ם",
+      "lemma": "c/7311 a",
+      "morph": "HC/Vqq3ms",
+      "strongs": [
+        "H7311"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7311 a",
+        "morph": "HC/Vqq3ms"
+      }
+    },
+    {
+      "position": 5,
       "text": "לְבָב֑וֹ",
       "lemma": "3824",
       "morph": "HNcmsc/Sp3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וְהִפִּ֛יל",
       "lemma": "c/5307",
       "morph": "HC/Vhp3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "רִבֹּא֖וֹת",
       "lemma": "7239",
       "morph": "HNcbpa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְלֹ֥א",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יָעֽוֹז",
       "lemma": "5810",
       "morph": "HVqi3ms",
@@ -113,21 +128,6 @@
       "source": {
         "lemma": "5810",
         "morph": "HVqi3ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "וְרָ֣ם",
-      "lemma": "c/7311 a",
-      "morph": "HC/Vqq3ms",
-      "strongs": [
-        "H7311"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7311 a",
-        "morph": "HC/Vqq3ms"
       }
     }
   ],

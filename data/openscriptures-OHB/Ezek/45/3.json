@@ -1,5 +1,5 @@
 {
-  "text": "וּמִן הַמִּדָּ֤ה הַזֹּאת֙ תָּמ֔וֹד אֹ֗רֶךְ חמש וְעֶשְׂרִים֙ אֶ֔לֶף וְרֹ֖חַב עֲשֶׂ֣רֶת אֲלָפִ֑ים וּבֽוֹ יִהְיֶ֥ה הַמִּקְדָּ֖שׁ קֹ֥דֶשׁ קָדָשִֽׁים חֲמִשָּׁ֤ה",
+  "text": "וּמִן הַמִּדָּ֤ה הַזֹּאת֙ תָּמ֔וֹד אֹ֗רֶךְ חמש חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף וְרֹ֖חַב עֲשֶׂ֣רֶת אֲלָפִ֑ים וּבֽוֹ יִהְיֶ֥ה הַמִּקְדָּ֖שׁ קֹ֥דֶשׁ קָדָשִֽׁים",
   "words": [
     {
       "position": 1,
@@ -91,6 +91,21 @@
     },
     {
       "position": 7,
+      "text": "חֲמִשָּׁ֤ה",
+      "lemma": "2568",
+      "morph": "HAcmsa",
+      "strongs": [
+        "H2568"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2568",
+        "morph": "HAcmsa"
+      }
+    },
+    {
+      "position": 8,
       "text": "וְעֶשְׂרִים֙",
       "lemma": "c/6242",
       "morph": "HC/Acbpa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֶ֔לֶף",
       "lemma": "505",
       "morph": "HAcbsa",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וְרֹ֖חַב",
       "lemma": "c/7341",
       "morph": "HC/Ncmsc",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עֲשֶׂ֣רֶת",
       "lemma": "6235",
       "morph": "HAcmsc",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֲלָפִ֑ים",
       "lemma": "505",
       "morph": "HAcbpa",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וּבֽוֹ",
       "lemma": "c/b",
       "morph": "HC/R/Sp3ms",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יִהְיֶ֥ה",
       "lemma": "1961",
       "morph": "HVqi3ms",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הַמִּקְדָּ֖שׁ",
       "lemma": "d/4720",
       "morph": "HTd/Ncmsa",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "קֹ֥דֶשׁ",
       "lemma": "6944",
       "morph": "HNcmsc",
@@ -216,7 +231,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "קָדָשִֽׁים",
       "lemma": "6944",
       "morph": "HNcmpa",
@@ -227,21 +242,6 @@
       "source": {
         "lemma": "6944",
         "morph": "HNcmpa"
-      }
-    },
-    {
-      "position": 17,
-      "text": "חֲמִשָּׁ֤ה",
-      "lemma": "2568",
-      "morph": "HAcmsa",
-      "strongs": [
-        "H2568"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2568",
-        "morph": "HAcmsa"
       }
     }
   ],

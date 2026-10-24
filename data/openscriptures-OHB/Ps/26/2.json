@@ -1,5 +1,5 @@
 {
-  "text": "בְּחָנֵ֣נִי יְהוָ֣ה וְנַסֵּ֑נִי צרופה כִלְיוֹתַ֣י וְלִבִּֽי צָרְפָ֖ה",
+  "text": "בְּחָנֵ֣נִי יְהוָ֣ה וְנַסֵּ֑נִי צרופה צָרְפָ֖ה כִלְיוֹתַ֣י וְלִבִּֽי",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "צָרְפָ֖ה",
+      "lemma": "6884",
+      "morph": "HVqv2ms/Sh",
+      "strongs": [
+        "H6884"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6884",
+        "morph": "HVqv2ms/Sh"
+      }
+    },
+    {
+      "position": 6,
       "text": "כִלְיוֹתַ֣י",
       "lemma": "3629",
       "morph": "HNcfpc/Sp1cs",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְלִבִּֽי",
       "lemma": "c/3820 a",
       "morph": "HC/Ncmsc/Sp1cs",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "c/3820 a",
         "morph": "HC/Ncmsc/Sp1cs"
-      }
-    },
-    {
-      "position": 7,
-      "text": "צָרְפָ֖ה",
-      "lemma": "6884",
-      "morph": "HVqv2ms/Sh",
-      "strongs": [
-        "H6884"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6884",
-        "morph": "HVqv2ms/Sh"
       }
     }
   ],

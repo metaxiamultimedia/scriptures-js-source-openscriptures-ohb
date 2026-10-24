@@ -1,23 +1,8 @@
 {
-  "text": "דָיְרִ֥ין נְבוּכַדְנֶצַּ֣ר מַלְכָּ֗א לְֽכָל עַֽמְמַיָּ֞א אֻמַיָּ֧א וְלִשָּׁנַיָּ֛א דִּֽי דארין בְּכָל אַרְעָ֖א שְׁלָמְכ֥וֹן יִשְׂגֵּֽא",
+  "text": "נְבוּכַדְנֶצַּ֣ר מַלְכָּ֗א לְֽכָל עַֽמְמַיָּ֞א אֻמַיָּ֧א וְלִשָּׁנַיָּ֛א דִּֽי דארין דָיְרִ֥ין בְּכָל אַרְעָ֖א שְׁלָמְכ֥וֹן יִשְׂגֵּֽא",
   "words": [
     {
       "position": 1,
-      "text": "דָיְרִ֥ין",
-      "lemma": "1753",
-      "morph": "AVqrmpa",
-      "strongs": [
-        "H1753"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1753",
-        "morph": "AVqrmpa"
-      }
-    },
-    {
-      "position": 2,
       "text": "נְבוּכַדְנֶצַּ֣ר",
       "lemma": "5020",
       "morph": "ANp",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "מַלְכָּ֗א",
       "lemma": "4430",
       "morph": "ANcmsd/Td",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "לְֽכָל",
       "lemma": "l/3606",
       "morph": "AR/Ncmsc",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "עַֽמְמַיָּ֞א",
       "lemma": "5972",
       "morph": "ANcmpd/Td",
@@ -75,7 +60,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "אֻמַיָּ֧א",
       "lemma": "524",
       "morph": "ANcfpd/Td",
@@ -89,7 +74,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "וְלִשָּׁנַיָּ֛א",
       "lemma": "c/3961",
       "morph": "AC/Ncmpd/Td",
@@ -103,7 +88,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "דִּֽי",
       "lemma": "1768",
       "morph": "ATr",
@@ -119,7 +104,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "דארין",
       "lemma": "1753",
       "morph": "AVqrmpa",
@@ -132,6 +117,21 @@
         "lemma": "1753",
         "morph": "AVqrmpa",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 9,
+      "text": "דָיְרִ֥ין",
+      "lemma": "1753",
+      "morph": "AVqrmpa",
+      "strongs": [
+        "H1753"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1753",
+        "morph": "AVqrmpa"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "text": "הֲתַאֲמִ֣ין בּ֭וֹ כִּי ישוב זַרְעֶ֑ךָ וְֽגָרְנְךָ֥ יֶאֱסֹֽף יָשִׁ֣יב",
+  "text": "הֲתַאֲמִ֣ין בּ֭וֹ כִּי ישוב יָשִׁ֣יב זַרְעֶ֑ךָ וְֽגָרְנְךָ֥ יֶאֱסֹֽף",
   "words": [
     {
       "position": 1,
@@ -62,6 +62,21 @@
     },
     {
       "position": 5,
+      "text": "יָשִׁ֣יב",
+      "lemma": "7725",
+      "morph": "HVhi3ms",
+      "strongs": [
+        "H7725"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7725",
+        "morph": "HVhi3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "זַרְעֶ֑ךָ",
       "lemma": "2233",
       "morph": "HNcmsc/Sp2ms",
@@ -75,7 +90,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְֽגָרְנְךָ֥",
       "lemma": "c/1637",
       "morph": "HC/Ncbsc/Sp2ms",
@@ -89,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יֶאֱסֹֽף",
       "lemma": "622",
       "morph": "HVqi3ms",
@@ -100,21 +115,6 @@
       "source": {
         "lemma": "622",
         "morph": "HVqi3ms"
-      }
-    },
-    {
-      "position": 8,
-      "text": "יָשִׁ֣יב",
-      "lemma": "7725",
-      "morph": "HVhi3ms",
-      "strongs": [
-        "H7725"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7725",
-        "morph": "HVhi3ms"
       }
     }
   ],

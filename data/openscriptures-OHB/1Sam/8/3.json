@@ -1,5 +1,5 @@
 {
-  "text": "וְלֹֽא הָלְכ֤וּ בָנָיו֙ בדרכו וַיִּטּ֖וּ אַחֲרֵ֣י הַבָּ֑צַע וַיִּ֨קְחוּ שֹׁ֔חַד וַיַּטּ֖וּ מִשְׁפָּֽט בִּדְרָכָ֔יו",
+  "text": "וְלֹֽא הָלְכ֤וּ בָנָיו֙ בדרכו בִּדְרָכָ֔יו וַיִּטּ֖וּ אַחֲרֵ֣י הַבָּ֑צַע וַיִּ֨קְחוּ שֹׁ֔חַד וַיַּטּ֖וּ מִשְׁפָּֽט",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "בִּדְרָכָ֔יו",
+      "lemma": "b/1870",
+      "morph": "HR/Ncbpc/Sp3ms",
+      "strongs": [
+        "H1870"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/1870",
+        "morph": "HR/Ncbpc/Sp3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "וַיִּטּ֖וּ",
       "lemma": "c/5186",
       "morph": "HC/Vqw3mp",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אַחֲרֵ֣י",
       "lemma": "310 a",
       "morph": "HR",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הַבָּ֑צַע",
       "lemma": "d/1215",
       "morph": "HTd/Ncmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וַיִּ֨קְחוּ",
       "lemma": "c/3947",
       "morph": "HC/Vqw3mp",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "שֹׁ֔חַד",
       "lemma": "7810",
       "morph": "HNcmsa",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וַיַּטּ֖וּ",
       "lemma": "c/5186",
       "morph": "HC/Vhw3mp",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מִשְׁפָּֽט",
       "lemma": "4941",
       "morph": "HNcmsa",
@@ -160,28 +175,13 @@
         "lemma": "4941",
         "morph": "HNcmsa"
       }
-    },
-    {
-      "position": 12,
-      "text": "בִּדְרָכָ֔יו",
-      "lemma": "b/1870",
-      "morph": "HR/Ncbpc/Sp3ms",
-      "strongs": [
-        "H1870"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/1870",
-        "morph": "HR/Ncbpc/Sp3ms"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 11
+        "afterWordPosition": 12
       }
     ],
     "terminator": "sof-pasuq"

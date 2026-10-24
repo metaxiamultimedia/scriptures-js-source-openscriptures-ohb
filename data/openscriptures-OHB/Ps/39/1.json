@@ -1,5 +1,5 @@
 {
-  "text": "לַמְנַצֵּ֥חַ לידיתון מִזְמ֥וֹר לְדָוִֽד לִֽידוּת֗וּן",
+  "text": "לַמְנַצֵּ֥חַ לידיתון לִֽידוּת֗וּן מִזְמ֥וֹר לְדָוִֽד",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "לִֽידוּת֗וּן",
+      "lemma": "l/3038",
+      "morph": "HR/Np",
+      "strongs": [
+        "H3038"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "l/3038",
+        "morph": "HR/Np"
+      }
+    },
+    {
+      "position": 4,
       "text": "מִזְמ֥וֹר",
       "lemma": "4210",
       "morph": "HNcmsa",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לְדָוִֽד",
       "lemma": "l/1732",
       "morph": "HR/Np",
@@ -56,21 +71,6 @@
       "metadata": {},
       "source": {
         "lemma": "l/1732",
-        "morph": "HR/Np"
-      }
-    },
-    {
-      "position": 5,
-      "text": "לִֽידוּת֗וּן",
-      "lemma": "l/3038",
-      "morph": "HR/Np",
-      "strongs": [
-        "H3038"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "l/3038",
         "morph": "HR/Np"
       }
     }

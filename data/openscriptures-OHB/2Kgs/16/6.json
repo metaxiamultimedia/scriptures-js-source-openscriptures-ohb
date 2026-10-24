@@ -1,5 +1,5 @@
 {
-  "text": "בָּעֵ֣ת הַהִ֗יא הֵ֠שִׁיב רְצִ֨ין מֶֽלֶךְ אֲרָ֤ם אֶת אֵילַת֙ לַֽאֲרָ֔ם וַיְנַשֵּׁ֥ל אֶת הַיְהוּדִ֖ים מֵֽאֵיל֑וֹת וארמים בָּ֣אוּ אֵילַ֔ת וַיֵּ֣שְׁבוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה וַֽאֲדוֹמִים֙",
+  "text": "בָּעֵ֣ת הַהִ֗יא הֵ֠שִׁיב רְצִ֨ין מֶֽלֶךְ אֲרָ֤ם אֶת אֵילַת֙ לַֽאֲרָ֔ם וַיְנַשֵּׁ֥ל אֶת הַיְהוּדִ֖ים מֵֽאֵיל֑וֹת וארמים וַֽאֲדוֹמִים֙ בָּ֣אוּ אֵילַ֔ת וַיֵּ֣שְׁבוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה",
   "words": [
     {
       "position": 1,
@@ -207,6 +207,21 @@
     },
     {
       "position": 15,
+      "text": "וַֽאֲדוֹמִים֙",
+      "lemma": "c/130",
+      "morph": "HC/Ngmpa",
+      "strongs": [
+        "H130"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/130",
+        "morph": "HC/Ngmpa"
+      }
+    },
+    {
+      "position": 16,
       "text": "בָּ֣אוּ",
       "lemma": "935",
       "morph": "HVqp3cp",
@@ -220,7 +235,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֵילַ֔ת",
       "lemma": "359 a",
       "morph": "HNp",
@@ -234,7 +249,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וַיֵּ֣שְׁבוּ",
       "lemma": "c/3427",
       "morph": "HC/Vqw3mp",
@@ -248,7 +263,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "שָׁ֔ם",
       "lemma": "8033",
       "morph": "HD",
@@ -262,7 +277,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "עַ֖ד",
       "lemma": "5704",
       "morph": "HR",
@@ -276,7 +291,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "הַיּ֥וֹם",
       "lemma": "d/3117",
       "morph": "HTd/Ncmsa",
@@ -290,7 +305,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "הַזֶּֽה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -302,28 +317,13 @@
         "lemma": "d/2088",
         "morph": "HTd/Pdxms"
       }
-    },
-    {
-      "position": 22,
-      "text": "וַֽאֲדוֹמִים֙",
-      "lemma": "c/130",
-      "morph": "HC/Ngmpa",
-      "strongs": [
-        "H130"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/130",
-        "morph": "HC/Ngmpa"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 21
+        "afterWordPosition": 22
       }
     ],
     "terminator": "sof-pasuq"

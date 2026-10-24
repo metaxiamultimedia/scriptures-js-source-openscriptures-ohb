@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵ֤ן ישיב עַמּ֣וֹ הֲלֹ֑ם וּמֵ֥י מָ֝לֵ֗א יִמָּ֥צוּ לָֽמוֹ יָשׁ֣וּב",
+  "text": "לָכֵ֤ן ישיב יָשׁ֣וּב עַמּ֣וֹ הֲלֹ֑ם וּמֵ֥י מָ֝לֵ֗א יִמָּ֥צוּ לָֽמוֹ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "יָשׁ֣וּב",
+      "lemma": "7725",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H7725"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7725",
+        "morph": "HVqi3ms"
+      }
+    },
+    {
+      "position": 4,
       "text": "עַמּ֣וֹ",
       "lemma": "5971 a",
       "morph": "HNcmsc/Sp3ms",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "הֲלֹ֑ם",
       "lemma": "1988",
       "morph": "HD",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּמֵ֥י",
       "lemma": "c/4325",
       "morph": "HC/Ncmpc",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מָ֝לֵ֗א",
       "lemma": "4392",
       "morph": "HAamsa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יִמָּ֥צוּ",
       "lemma": "4680",
       "morph": "HVNi3mp",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לָֽמוֹ",
       "lemma": "l",
       "morph": "HR/Sp3mp",
@@ -112,21 +127,6 @@
       "source": {
         "lemma": "l",
         "morph": "HR/Sp3mp"
-      }
-    },
-    {
-      "position": 9,
-      "text": "יָשׁ֣וּב",
-      "lemma": "7725",
-      "morph": "HVqi3ms",
-      "strongs": [
-        "H7725"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7725",
-        "morph": "HVqi3ms"
       }
     }
   ],

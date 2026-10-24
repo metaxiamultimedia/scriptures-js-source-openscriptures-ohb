@@ -1,23 +1,8 @@
 {
-  "text": "חִ֝צָּ֗יו יִמָּאֲס֣וּ כְמוֹ מַ֭יִם יִתְהַלְּכוּ לָ֑מוֹ יִדְרֹ֥ךְ חצו כְּמ֣וֹ יִתְמֹלָֽלוּ",
+  "text": "יִמָּאֲס֣וּ כְמוֹ מַ֭יִם יִתְהַלְּכוּ לָ֑מוֹ יִדְרֹ֥ךְ חצו חִ֝צָּ֗יו כְּמ֣וֹ יִתְמֹלָֽלוּ",
   "words": [
     {
       "position": 1,
-      "text": "חִ֝צָּ֗יו",
-      "lemma": "2671",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H2671"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2671",
-        "morph": "HNcmpc/Sp3ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "יִמָּאֲס֣וּ",
       "lemma": "3988 b",
       "morph": "HVNi3mp",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "כְמוֹ",
       "lemma": "3644",
       "morph": "HR",
@@ -47,7 +32,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "מַ֭יִם",
       "lemma": "4325",
       "morph": "HNcmpa",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "יִתְהַלְּכוּ",
       "lemma": "1980",
       "morph": "HVti3mp",
@@ -77,7 +62,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "לָ֑מוֹ",
       "lemma": "l",
       "morph": "HR/Sp3mp",
@@ -90,7 +75,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "יִדְרֹ֥ךְ",
       "lemma": "1869",
       "morph": "HVqi3ms",
@@ -104,7 +89,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "חצו",
       "lemma": "2671",
       "morph": "HNcmsc/Sp3ms",
@@ -117,6 +102,21 @@
         "lemma": "2671",
         "morph": "HNcmsc/Sp3ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 8,
+      "text": "חִ֝צָּ֗יו",
+      "lemma": "2671",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H2671"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2671",
+        "morph": "HNcmpc/Sp3ms"
       }
     },
     {

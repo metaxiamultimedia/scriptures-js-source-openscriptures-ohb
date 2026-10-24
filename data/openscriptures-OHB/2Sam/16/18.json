@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֣אמֶר חוּשַׁי֮ אֶל אַבְשָׁלֹם֒ לֹ֕א כִּי֩ אֲשֶׁ֨ר בָּחַ֧ר יְהוָ֛ה וְהָעָ֥ם הַזֶּ֖ה וְכָל אִ֣ישׁ יִשְׂרָאֵ֑ל לא אֶהְיֶ֖ה וְאִתּ֥וֹ אֵשֵֽׁב ל֥וֹ",
+  "text": "וַיֹּ֣אמֶר חוּשַׁי֮ אֶל אַבְשָׁלֹם֒ לֹ֕א כִּי֩ אֲשֶׁ֨ר בָּחַ֧ר יְהוָ֛ה וְהָעָ֥ם הַזֶּ֖ה וְכָל אִ֣ישׁ יִשְׂרָאֵ֑ל לא ל֥וֹ אֶהְיֶ֖ה וְאִתּ֥וֹ אֵשֵֽׁב",
   "words": [
     {
       "position": 1,
@@ -219,6 +219,20 @@
     },
     {
       "position": 16,
+      "text": "ל֥וֹ",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "variant": "qere",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
+      }
+    },
+    {
+      "position": 17,
       "text": "אֶהְיֶ֖ה",
       "lemma": "1961",
       "morph": "HVqi1cs",
@@ -232,7 +246,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְאִתּ֥וֹ",
       "lemma": "c/854",
       "morph": "HC/R/Sp3ms",
@@ -246,7 +260,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֵשֵֽׁב",
       "lemma": "3427",
       "morph": "HVqi1cs",
@@ -257,20 +271,6 @@
       "source": {
         "lemma": "3427",
         "morph": "HVqi1cs"
-      }
-    },
-    {
-      "position": 19,
-      "text": "ל֥וֹ",
-      "lemma": "l",
-      "morph": "HR/Sp3ms",
-      "variant": "qere",
-      "metadata": {
-        "isPrefixOnly": true
-      },
-      "source": {
-        "lemma": "l",
-        "morph": "HR/Sp3ms"
       }
     }
   ],

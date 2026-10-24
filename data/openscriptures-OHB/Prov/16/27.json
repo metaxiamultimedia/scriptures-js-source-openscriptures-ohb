@@ -1,5 +1,5 @@
 {
-  "text": "אִ֣ישׁ בְּ֭לִיַּעַל כֹּרֶ֣ה רָעָ֑ה וְעַל שפתיו כְּאֵ֣שׁ צָרָֽבֶת שְׂ֝פָת֗וֹ",
+  "text": "אִ֣ישׁ בְּ֭לִיַּעַל כֹּרֶ֣ה רָעָ֑ה וְעַל שפתיו שְׂ֝פָת֗וֹ כְּאֵ֣שׁ צָרָֽבֶת",
   "words": [
     {
       "position": 1,
@@ -91,6 +91,21 @@
     },
     {
       "position": 7,
+      "text": "שְׂ֝פָת֗וֹ",
+      "lemma": "8193",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H8193"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8193",
+        "morph": "HNcfsc/Sp3ms"
+      }
+    },
+    {
+      "position": 8,
       "text": "כְּאֵ֣שׁ",
       "lemma": "k/784",
       "morph": "HR/Ncbsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "צָרָֽבֶת",
       "lemma": "6867 a",
       "morph": "HAafsa",
@@ -115,21 +130,6 @@
       "source": {
         "lemma": "6867 a",
         "morph": "HAafsa"
-      }
-    },
-    {
-      "position": 9,
-      "text": "שְׂ֝פָת֗וֹ",
-      "lemma": "8193",
-      "morph": "HNcfsc/Sp3ms",
-      "strongs": [
-        "H8193"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8193",
-        "morph": "HNcfsc/Sp3ms"
       }
     }
   ],

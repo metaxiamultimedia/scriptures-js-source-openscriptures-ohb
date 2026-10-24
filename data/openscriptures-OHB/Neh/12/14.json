@@ -1,5 +1,5 @@
 {
-  "text": "למלוכי יֽוֹנָתָ֔ן לִשְׁבַנְיָ֖ה יוֹסֵֽף לִמְלִ֨יכוּ֙",
+  "text": "למלוכי לִמְלִ֨יכוּ֙ יֽוֹנָתָ֔ן לִשְׁבַנְיָ֖ה יוֹסֵֽף",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "לִמְלִ֨יכוּ֙",
+      "lemma": "l/4409 b",
+      "morph": "HR/Np",
+      "strongs": [
+        "H4409"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "l/4409 b",
+        "morph": "HR/Np"
+      }
+    },
+    {
+      "position": 3,
       "text": "יֽוֹנָתָ֔ן",
       "lemma": "3129",
       "morph": "HNp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "לִשְׁבַנְיָ֖ה",
       "lemma": "l/7645",
       "morph": "HR/Np",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יוֹסֵֽף",
       "lemma": "3130",
       "morph": "HNp",
@@ -57,21 +72,6 @@
       "source": {
         "lemma": "3130",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 5,
-      "text": "לִמְלִ֨יכוּ֙",
-      "lemma": "l/4409 b",
-      "morph": "HR/Np",
-      "strongs": [
-        "H4409"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "l/4409 b",
-        "morph": "HR/Np"
       }
     }
   ],

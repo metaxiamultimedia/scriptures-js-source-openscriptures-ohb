@@ -1,5 +1,5 @@
 {
-  "text": "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה יַ֚עַן אֹמְרִ֣ים לָכֶ֔ם אֹכֶ֥לֶת אָדָ֖ם אתי וּמְשַׁכֶּ֥לֶת גויך הָיִֽית אָ֑תְּ גּוֹיַ֖יִךְ",
+  "text": "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה יַ֚עַן אֹמְרִ֣ים לָכֶ֔ם אֹכֶ֥לֶת אָדָ֖ם אתי אָ֑תְּ וּמְשַׁכֶּ֥לֶת גויך גּוֹיַ֖יִךְ הָיִֽית",
   "words": [
     {
       "position": 1,
@@ -144,6 +144,21 @@
     },
     {
       "position": 11,
+      "text": "אָ֑תְּ",
+      "lemma": "859 b",
+      "morph": "HPp2fs",
+      "strongs": [
+        "H859"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "859 b",
+        "morph": "HPp2fs"
+      }
+    },
+    {
+      "position": 12,
       "text": "וּמְשַׁכֶּ֥לֶת",
       "lemma": "c/7921 a",
       "morph": "HC/Vprfsc",
@@ -157,7 +172,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "גויך",
       "lemma": "1471 a",
       "morph": "HNcmsc/Sp2fs",
@@ -173,36 +188,7 @@
       }
     },
     {
-      "position": 13,
-      "text": "הָיִֽית",
-      "lemma": "1961",
-      "morph": "HVqp2fs",
-      "strongs": [
-        "H1961"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "1961",
-        "morph": "HVqp2fs"
-      }
-    },
-    {
       "position": 14,
-      "text": "אָ֑תְּ",
-      "lemma": "859 b",
-      "morph": "HPp2fs",
-      "strongs": [
-        "H859"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "859 b",
-        "morph": "HPp2fs"
-      }
-    },
-    {
-      "position": 15,
       "text": "גּוֹיַ֖יִךְ",
       "lemma": "1471 a",
       "morph": "HNcmpc/Sp2fs",
@@ -214,6 +200,20 @@
       "source": {
         "lemma": "1471 a",
         "morph": "HNcmpc/Sp2fs"
+      }
+    },
+    {
+      "position": 15,
+      "text": "הָיִֽית",
+      "lemma": "1961",
+      "morph": "HVqp2fs",
+      "strongs": [
+        "H1961"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "1961",
+        "morph": "HVqp2fs"
       }
     }
   ],

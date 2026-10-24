@@ -1,5 +1,5 @@
 {
-  "text": "פלאיה דַ֣עַת מִמֶּ֑נִּי נִ֝שְׂגְּבָ֗ה לֹא א֥וּכַֽל לָֽהּ פְּלִ֣יאָֽה",
+  "text": "פלאיה פְּלִ֣יאָֽה דַ֣עַת מִמֶּ֑נִּי נִ֝שְׂגְּבָ֗ה לֹא א֥וּכַֽל לָֽהּ",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "פְּלִ֣יאָֽה",
+      "lemma": "6383",
+      "morph": "HAafsa",
+      "strongs": [
+        "H6383"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6383",
+        "morph": "HAafsa"
+      }
+    },
+    {
+      "position": 3,
       "text": "דַ֣עַת",
       "lemma": "1847",
       "morph": "HNcfsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "מִמֶּ֑נִּי",
       "lemma": "4480 a",
       "morph": "HR/Sp1cs",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "נִ֝שְׂגְּבָ֗ה",
       "lemma": "7682",
       "morph": "HVNrfsa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "א֥וּכַֽל",
       "lemma": "3201",
       "morph": "HVqi1cs",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לָֽהּ",
       "lemma": "l",
       "morph": "HR/Sp3fs",
@@ -100,21 +115,6 @@
       "source": {
         "lemma": "l",
         "morph": "HR/Sp3fs"
-      }
-    },
-    {
-      "position": 8,
-      "text": "פְּלִ֣יאָֽה",
-      "lemma": "6383",
-      "morph": "HAafsa",
-      "strongs": [
-        "H6383"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6383",
-        "morph": "HAafsa"
       }
     }
   ],

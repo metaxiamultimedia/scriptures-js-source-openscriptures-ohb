@@ -1,5 +1,5 @@
 {
-  "text": "וַיַּעְזְרֵ֨הוּ הָֽאֱלֹהִ֜ים עַל פְּלִשְׁתִּ֧ים וְעַל הערביים הַיֹּשְׁבִ֥ים בְּגוּר בָּ֖עַל וְהַמְּעוּנִֽים הָֽעַרְבִ֛ים",
+  "text": "וַיַּעְזְרֵ֨הוּ הָֽאֱלֹהִ֜ים עַל פְּלִשְׁתִּ֧ים וְעַל הערביים הָֽעַרְבִ֛ים הַיֹּשְׁבִ֥ים בְּגוּר בָּ֖עַל וְהַמְּעוּנִֽים",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "הָֽעַרְבִ֛ים",
+      "lemma": "d/6163 b",
+      "morph": "HTd/Ngmpa",
+      "strongs": [
+        "H6163"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/6163 b",
+        "morph": "HTd/Ngmpa"
+      }
+    },
+    {
+      "position": 8,
       "text": "הַיֹּשְׁבִ֥ים",
       "lemma": "d/3427",
       "morph": "HTd/Vqrmpa",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְּגוּר",
       "lemma": "b/1485+",
       "morph": "HR/Np",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בָּ֖עַל",
       "lemma": "1485",
       "morph": "HNp",
@@ -136,7 +151,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וְהַמְּעוּנִֽים",
       "lemma": "c/d/4586",
       "morph": "HC/Td/Ngmpa",
@@ -147,21 +162,6 @@
       "source": {
         "lemma": "c/d/4586",
         "morph": "HC/Td/Ngmpa"
-      }
-    },
-    {
-      "position": 11,
-      "text": "הָֽעַרְבִ֛ים",
-      "lemma": "d/6163 b",
-      "morph": "HTd/Ngmpa",
-      "strongs": [
-        "H6163"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/6163 b",
-        "morph": "HTd/Ngmpa"
       }
     }
   ],

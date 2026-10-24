@@ -1,5 +1,5 @@
 {
-  "text": "זָמְמָ֣ה שָׂ֭דֶה וַתִּקָּחֵ֑הוּ מִפְּרִ֥י כַ֝פֶּ֗יהָ נטע כָּֽרֶם נָ֣טְעָה",
+  "text": "זָמְמָ֣ה שָׂ֭דֶה וַתִּקָּחֵ֑הוּ מִפְּרִ֥י כַ֝פֶּ֗יהָ נטע נָ֣טְעָה כָּֽרֶם",
   "words": [
     {
       "position": 1,
@@ -89,20 +89,6 @@
     },
     {
       "position": 7,
-      "text": "כָּֽרֶם",
-      "lemma": "3754",
-      "morph": "HNcbsa",
-      "strongs": [
-        "H3754"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "3754",
-        "morph": "HNcbsa"
-      }
-    },
-    {
-      "position": 8,
       "text": "נָ֣טְעָה",
       "lemma": "5193",
       "morph": "HVqp3fs",
@@ -114,6 +100,20 @@
       "source": {
         "lemma": "5193",
         "morph": "HVqp3fs"
+      }
+    },
+    {
+      "position": 8,
+      "text": "כָּֽרֶם",
+      "lemma": "3754",
+      "morph": "HNcbsa",
+      "strongs": [
+        "H3754"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "3754",
+        "morph": "HNcbsa"
       }
     }
   ],

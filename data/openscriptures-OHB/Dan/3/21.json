@@ -1,5 +1,5 @@
 {
-  "text": "בֵּאדַ֜יִן גֻּבְרַיָּ֣א אִלֵּ֗ךְ כְּפִ֨תוּ֙ בְּסַרְבָּלֵיהוֹן֙ פטישיהון וְכַרְבְּלָתְה֖וֹן וּלְבֻשֵׁיה֑וֹן וּרְמִ֕יו לְגֽוֹא אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא פַּטְּשֵׁיה֔וֹן",
+  "text": "בֵּאדַ֜יִן גֻּבְרַיָּ֣א אִלֵּ֗ךְ כְּפִ֨תוּ֙ בְּסַרְבָּלֵיהוֹן֙ פטישיהון פַּטְּשֵׁיה֔וֹן וְכַרְבְּלָתְה֖וֹן וּלְבֻשֵׁיה֑וֹן וּרְמִ֕יו לְגֽוֹא אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא",
   "words": [
     {
       "position": 1,
@@ -89,6 +89,21 @@
     },
     {
       "position": 7,
+      "text": "פַּטְּשֵׁיה֔וֹן",
+      "lemma": "6361",
+      "morph": "ANcmpc/Sp3mp",
+      "strongs": [
+        "H6361"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6361",
+        "morph": "ANcmpc/Sp3mp"
+      }
+    },
+    {
+      "position": 8,
       "text": "וְכַרְבְּלָתְה֖וֹן",
       "lemma": "c/3737",
       "morph": "AC/Ncfpc/Sp3mp",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּלְבֻשֵׁיה֑וֹן",
       "lemma": "c/3831",
       "morph": "AC/Ncmpc/Sp3mp",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וּרְמִ֕יו",
       "lemma": "c/7412",
       "morph": "AC/VQp3mp",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְגֽוֹא",
       "lemma": "l/1459",
       "morph": "AR/Ncmsc",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אַתּ֥וּן",
       "lemma": "861",
       "morph": "ANcmsc",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "נוּרָ֖א",
       "lemma": "5135",
       "morph": "ANcbsd/Td",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יָקִֽדְתָּֽא",
       "lemma": "3345",
       "morph": "AVqrfsd/Td",
@@ -185,21 +200,6 @@
       "source": {
         "lemma": "3345",
         "morph": "AVqrfsd/Td"
-      }
-    },
-    {
-      "position": 14,
-      "text": "פַּטְּשֵׁיה֔וֹן",
-      "lemma": "6361",
-      "morph": "ANcmpc/Sp3mp",
-      "strongs": [
-        "H6361"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6361",
-        "morph": "ANcmpc/Sp3mp"
       }
     }
   ],

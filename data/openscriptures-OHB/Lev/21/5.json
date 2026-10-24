@@ -1,5 +1,5 @@
 {
-  "text": "לֹֽא יקרחה קָרְחָה֙ בְּרֹאשָׁ֔ם וּפְאַ֥ת זְקָנָ֖ם לֹ֣א יְגַלֵּ֑חוּ וּבִ֨בְשָׂרָ֔ם לֹ֥א יִשְׂרְט֖וּ שָׂרָֽטֶת יִקְרְח֤וּ",
+  "text": "לֹֽא יקרחה יִקְרְח֤וּ קָרְחָה֙ בְּרֹאשָׁ֔ם וּפְאַ֥ת זְקָנָ֖ם לֹ֣א יְגַלֵּ֑חוּ וּבִ֨בְשָׂרָ֔ם לֹ֥א יִשְׂרְט֖וּ שָׂרָֽטֶת",
   "words": [
     {
       "position": 1,
@@ -35,6 +35,21 @@
     },
     {
       "position": 3,
+      "text": "יִקְרְח֤וּ",
+      "lemma": "7139",
+      "morph": "HVqi3mp",
+      "strongs": [
+        "H7139"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7139",
+        "morph": "HVqi3mp"
+      }
+    },
+    {
+      "position": 4,
       "text": "קָרְחָה֙",
       "lemma": "7144",
       "morph": "HNcfsa",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בְּרֹאשָׁ֔ם",
       "lemma": "b/7218 a",
       "morph": "HR/Ncmsc/Sp3mp",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּפְאַ֥ת",
       "lemma": "c/6285",
       "morph": "HC/Ncfsc",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "זְקָנָ֖ם",
       "lemma": "2206",
       "morph": "HNcbsc/Sp3mp",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יְגַלֵּ֑חוּ",
       "lemma": "1548",
       "morph": "HVpi3mp",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וּבִ֨בְשָׂרָ֔ם",
       "lemma": "c/b/1320",
       "morph": "HC/R/Ncmsc/Sp3mp",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לֹ֥א",
       "lemma": "3808",
       "morph": "HTn",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יִשְׂרְט֖וּ",
       "lemma": "8295",
       "morph": "HVqi3mp",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "שָׂרָֽטֶת",
       "lemma": "8296 b",
       "morph": "HNcfsa",
@@ -171,21 +186,6 @@
       "source": {
         "lemma": "8296 b",
         "morph": "HNcfsa"
-      }
-    },
-    {
-      "position": 13,
-      "text": "יִקְרְח֤וּ",
-      "lemma": "7139",
-      "morph": "HVqi3mp",
-      "strongs": [
-        "H7139"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7139",
-        "morph": "HVqi3mp"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "הַתְּשִׁיעִי֙ לַחֹ֣דֶשׁ הַתְּשִׁיעִ֔י אֲבִיעֶ֥זֶר הָעַנְּתֹתִ֖י לבנימיני וְעַל֙ מַחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף לַבֵּ֣ן יְמִינִ֑י",
+  "text": "הַתְּשִׁיעִי֙ לַחֹ֣דֶשׁ הַתְּשִׁיעִ֔י אֲבִיעֶ֥זֶר הָעַנְּתֹתִ֖י לבנימיני לַבֵּ֣ן יְמִינִ֑י וְעַל֙ מַחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף",
   "words": [
     {
       "position": 1,
@@ -89,76 +89,6 @@
     },
     {
       "position": 7,
-      "text": "וְעַל֙",
-      "lemma": "c/5921 a",
-      "morph": "HC/R",
-      "strongs": [
-        "H5921"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "c/5921 a",
-        "morph": "HC/R"
-      }
-    },
-    {
-      "position": 8,
-      "text": "מַחֲלֻקְתּ֔וֹ",
-      "lemma": "4256",
-      "morph": "HNcfsc/Sp3ms",
-      "strongs": [
-        "H4256"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "4256",
-        "morph": "HNcfsc/Sp3ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "עֶשְׂרִ֥ים",
-      "lemma": "6242",
-      "morph": "HAcbpa",
-      "strongs": [
-        "H6242"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "6242",
-        "morph": "HAcbpa"
-      }
-    },
-    {
-      "position": 10,
-      "text": "וְאַרְבָּעָ֖ה",
-      "lemma": "c/702",
-      "morph": "HC/Acmsa",
-      "strongs": [
-        "H702"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "c/702",
-        "morph": "HC/Acmsa"
-      }
-    },
-    {
-      "position": 11,
-      "text": "אָֽלֶף",
-      "lemma": "505",
-      "morph": "HAcbsa",
-      "strongs": [
-        "H505"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "505",
-        "morph": "HAcbsa"
-      }
-    },
-    {
-      "position": 12,
       "text": "לַבֵּ֣ן",
       "lemma": "l/1121 a",
       "morph": "HRd/Ngmsa",
@@ -173,7 +103,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 8,
       "text": "יְמִינִ֑י",
       "lemma": "3227",
       "morph": "HNgmsa",
@@ -186,18 +116,88 @@
         "lemma": "3227",
         "morph": "HNgmsa"
       }
+    },
+    {
+      "position": 9,
+      "text": "וְעַל֙",
+      "lemma": "c/5921 a",
+      "morph": "HC/R",
+      "strongs": [
+        "H5921"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/5921 a",
+        "morph": "HC/R"
+      }
+    },
+    {
+      "position": 10,
+      "text": "מַחֲלֻקְתּ֔וֹ",
+      "lemma": "4256",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H4256"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "4256",
+        "morph": "HNcfsc/Sp3ms"
+      }
+    },
+    {
+      "position": 11,
+      "text": "עֶשְׂרִ֥ים",
+      "lemma": "6242",
+      "morph": "HAcbpa",
+      "strongs": [
+        "H6242"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "6242",
+        "morph": "HAcbpa"
+      }
+    },
+    {
+      "position": 12,
+      "text": "וְאַרְבָּעָ֖ה",
+      "lemma": "c/702",
+      "morph": "HC/Acmsa",
+      "strongs": [
+        "H702"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/702",
+        "morph": "HC/Acmsa"
+      }
+    },
+    {
+      "position": 13,
+      "text": "אָֽלֶף",
+      "lemma": "505",
+      "morph": "HAcbsa",
+      "strongs": [
+        "H505"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "505",
+        "morph": "HAcbsa"
+      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 11
+        "afterWordPosition": 13
       }
     ],
     "terminator": "sof-pasuq",
     "paseq": [
-      6
+      7
     ]
   }
 }

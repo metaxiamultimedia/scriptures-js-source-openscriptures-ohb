@@ -1,5 +1,5 @@
 {
-  "text": "אֲ֭נִי אהביה אֵהָ֑ב וּ֝מְשַׁחֲרַ֗י יִמְצָאֻֽנְנִי אֹהֲבַ֣י",
+  "text": "אֲ֭נִי אהביה אֹהֲבַ֣י אֵהָ֑ב וּ֝מְשַׁחֲרַ֗י יִמְצָאֻֽנְנִי",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "אֹהֲבַ֣י",
+      "lemma": "157",
+      "morph": "HVqrmpc/Sp1cs",
+      "strongs": [
+        "H157"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "157",
+        "morph": "HVqrmpc/Sp1cs"
+      }
+    },
+    {
+      "position": 4,
       "text": "אֵהָ֑ב",
       "lemma": "157",
       "morph": "HVqi1cs",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וּ֝מְשַׁחֲרַ֗י",
       "lemma": "c/7836",
       "morph": "HC/Vprmpc/Sp1cs",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יִמְצָאֻֽנְנִי",
       "lemma": "4672",
       "morph": "HVqi3mp/Sp1cs",
@@ -71,21 +86,6 @@
       "source": {
         "lemma": "4672",
         "morph": "HVqi3mp/Sp1cs"
-      }
-    },
-    {
-      "position": 6,
-      "text": "אֹהֲבַ֣י",
-      "lemma": "157",
-      "morph": "HVqrmpc/Sp1cs",
-      "strongs": [
-        "H157"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "157",
-        "morph": "HVqrmpc/Sp1cs"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "זֶ֭ה דּ֣וֹר דרשו מְבַקְשֵׁ֨י פָנֶ֖יךָ יַעֲקֹ֣ב סֶֽלָה דֹּרְשָׁ֑יו",
+  "text": "זֶ֭ה דּ֣וֹר דרשו דֹּרְשָׁ֑יו מְבַקְשֵׁ֨י פָנֶ֖יךָ יַעֲקֹ֣ב סֶֽלָה",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "דֹּרְשָׁ֑יו",
+      "lemma": "1875",
+      "morph": "HVqrmpc/Sp3ms",
+      "strongs": [
+        "H1875"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1875",
+        "morph": "HVqrmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 5,
       "text": "מְבַקְשֵׁ֨י",
       "lemma": "1245",
       "morph": "HVprmpc",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "פָנֶ֖יךָ",
       "lemma": "6440",
       "morph": "HNcbpc/Sp2ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יַעֲקֹ֣ב",
       "lemma": "3290",
       "morph": "HNp",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "סֶֽלָה",
       "lemma": "5542",
       "morph": "HTj",
@@ -99,21 +114,6 @@
       "source": {
         "lemma": "5542",
         "morph": "HTj"
-      }
-    },
-    {
-      "position": 8,
-      "text": "דֹּרְשָׁ֑יו",
-      "lemma": "1875",
-      "morph": "HVqrmpc/Sp3ms",
-      "strongs": [
-        "H1875"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1875",
-        "morph": "HVqrmpc/Sp3ms"
       }
     }
   ],

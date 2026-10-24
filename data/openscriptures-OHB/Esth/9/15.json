@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּֽקָּהֲל֞וּ היהודיים אֲשֶׁר בְּשׁוּשָׁ֗ן גַּ֠ם בְּי֣וֹם אַרְבָּעָ֤ה עָשָׂר֙ לְחֹ֣דֶשׁ אֲדָ֔ר וַיַּֽהַרְג֣וּ בְשׁוּשָׁ֔ן שְׁלֹ֥שׁ מֵא֖וֹת אִ֑ישׁ וּבַ֨בִּזָּ֔ה לֹ֥א שָׁלְח֖וּ אֶת יָדָֽם הַיְּהוּדִ֣ים",
+  "text": "וַיִּֽקָּהֲל֞וּ היהודיים הַיְּהוּדִ֣ים אֲשֶׁר בְּשׁוּשָׁ֗ן גַּ֠ם בְּי֣וֹם אַרְבָּעָ֤ה עָשָׂר֙ לְחֹ֣דֶשׁ אֲדָ֔ר וַיַּֽהַרְג֣וּ בְשׁוּשָׁ֔ן שְׁלֹ֥שׁ מֵא֖וֹת אִ֑ישׁ וּבַ֨בִּזָּ֔ה לֹ֥א שָׁלְח֖וּ אֶת יָדָֽם",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "הַיְּהוּדִ֣ים",
+      "lemma": "d/3064",
+      "morph": "HTd/Ngmpa",
+      "strongs": [
+        "H3064"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/3064",
+        "morph": "HTd/Ngmpa"
+      }
+    },
+    {
+      "position": 4,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בְּשׁוּשָׁ֗ן",
       "lemma": "b/7800",
       "morph": "HR/Np",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "גַּ֠ם",
       "lemma": "1571",
       "morph": "HTa",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בְּי֣וֹם",
       "lemma": "b/3117",
       "morph": "HR/Ncmsc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אַרְבָּעָ֤ה",
       "lemma": "702",
       "morph": "HAcmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עָשָׂר֙",
       "lemma": "6240",
       "morph": "HAcmsa",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לְחֹ֣דֶשׁ",
       "lemma": "l/2320",
       "morph": "HR/Ncmsc",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֲדָ֔ר",
       "lemma": "143",
       "morph": "HNp",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וַיַּֽהַרְג֣וּ",
       "lemma": "c/2026",
       "morph": "HC/Vqw3mp",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בְשׁוּשָׁ֔ן",
       "lemma": "b/7800",
       "morph": "HR/Np",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "שְׁלֹ֥שׁ",
       "lemma": "7969",
       "morph": "HAcfsa",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מֵא֖וֹת",
       "lemma": "3967",
       "morph": "HAcbpa",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אִ֑ישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -216,7 +231,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וּבַ֨בִּזָּ֔ה",
       "lemma": "c/b/961",
       "morph": "HC/Rd/Ncfsa",
@@ -230,7 +245,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לֹ֥א",
       "lemma": "3808",
       "morph": "HTn",
@@ -244,7 +259,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "שָׁלְח֖וּ",
       "lemma": "7971",
       "morph": "HVqp3cp",
@@ -258,7 +273,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -274,7 +289,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "יָדָֽם",
       "lemma": "3027",
       "morph": "HNcbsc/Sp3mp",
@@ -285,21 +300,6 @@
       "source": {
         "lemma": "3027",
         "morph": "HNcbsc/Sp3mp"
-      }
-    },
-    {
-      "position": 21,
-      "text": "הַיְּהוּדִ֣ים",
-      "lemma": "d/3064",
-      "morph": "HTd/Ngmpa",
-      "strongs": [
-        "H3064"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/3064",
-        "morph": "HTd/Ngmpa"
       }
     }
   ],

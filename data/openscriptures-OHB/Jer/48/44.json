@@ -1,5 +1,5 @@
 {
-  "text": "הניס מִפְּנֵ֤י הַפַּ֨חַד֙ יִפֹּ֣ל אֶל הַפַּ֔חַת וְהָֽעֹלֶה֙ מִן הַפַּ֔חַת יִלָּכֵ֖ד בַּפָּ֑ח כִּֽי אָבִ֨יא אֵלֶ֧יהָ אֶל מוֹאָ֛ב שְׁנַ֥ת פְּקֻדָּתָ֖ם נְאֻם יְהוָֽה הַנָּ֞ס",
+  "text": "הניס הַנָּ֞ס מִפְּנֵ֤י הַפַּ֨חַד֙ יִפֹּ֣ל אֶל הַפַּ֔חַת וְהָֽעֹלֶה֙ מִן הַפַּ֔חַת יִלָּכֵ֖ד בַּפָּ֑ח כִּֽי אָבִ֨יא אֵלֶ֧יהָ אֶל מוֹאָ֛ב שְׁנַ֥ת פְּקֻדָּתָ֖ם נְאֻם יְהוָֽה",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "הַנָּ֞ס",
+      "lemma": "d/5127",
+      "morph": "HTd/Vqrmsa",
+      "strongs": [
+        "H5127"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/5127",
+        "morph": "HTd/Vqrmsa"
+      }
+    },
+    {
+      "position": 3,
       "text": "מִפְּנֵ֤י",
       "lemma": "m/6440",
       "morph": "HR/Ncbpc",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "הַפַּ֨חַד֙",
       "lemma": "d/6343",
       "morph": "HTd/Ncmsa",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "יִפֹּ֣ל",
       "lemma": "5307",
       "morph": "HVqi3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "הַפַּ֔חַת",
       "lemma": "d/6354",
       "morph": "HTd/Ncmsa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְהָֽעֹלֶה֙",
       "lemma": "c/d/5927",
       "morph": "HC/Td/Vqrmsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַפַּ֔חַת",
       "lemma": "d/6354",
       "morph": "HTd/Ncmsa",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִלָּכֵ֖ד",
       "lemma": "3920",
       "morph": "HVNi3ms",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בַּפָּ֑ח",
       "lemma": "b/6341 a",
       "morph": "HRd/Ncmsa",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -178,7 +193,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אָבִ֨יא",
       "lemma": "935",
       "morph": "HVhi1cs",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֵלֶ֧יהָ",
       "lemma": "413",
       "morph": "HR/Sp3fs",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -222,7 +237,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מוֹאָ֛ב",
       "lemma": "4124",
       "morph": "HNp",
@@ -236,7 +251,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "שְׁנַ֥ת",
       "lemma": "8141",
       "morph": "HNcfsc",
@@ -250,7 +265,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "פְּקֻדָּתָ֖ם",
       "lemma": "6486",
       "morph": "HNcfsc/Sp3mp",
@@ -264,7 +279,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "נְאֻם",
       "lemma": "5002",
       "morph": "HNcmsc",
@@ -280,7 +295,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "יְהוָֽה",
       "lemma": "3068",
       "morph": "HNp",
@@ -291,21 +306,6 @@
       "source": {
         "lemma": "3068",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 21,
-      "text": "הַנָּ֞ס",
-      "lemma": "d/5127",
-      "morph": "HTd/Vqrmsa",
-      "strongs": [
-        "H5127"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/5127",
-        "morph": "HTd/Vqrmsa"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "שׁוּחָ֣ה עֲ֭מֻקָּה פִּ֣י זָר֑וֹת זְע֥וּם יְ֝הוָ֗ה יפול שָֽׁם יִפָּל",
+  "text": "שׁוּחָ֣ה עֲ֭מֻקָּה פִּ֣י זָר֑וֹת זְע֥וּם יְ֝הוָ֗ה יפול יִפָּל שָֽׁם",
   "words": [
     {
       "position": 1,
@@ -94,9 +94,7 @@
         "H5307"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "5307",
         "morph": "HVqi3ms",
@@ -105,6 +103,23 @@
     },
     {
       "position": 8,
+      "text": "יִפָּל",
+      "lemma": "5307",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H5307"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "5307",
+        "morph": "HVqi3ms"
+      }
+    },
+    {
+      "position": 9,
       "text": "שָֽׁם",
       "lemma": "8033",
       "morph": "HD",
@@ -115,21 +130,6 @@
       "source": {
         "lemma": "8033",
         "morph": "HD"
-      }
-    },
-    {
-      "position": 9,
-      "text": "יִפָּל",
-      "lemma": "5307",
-      "morph": "HVqi3ms",
-      "strongs": [
-        "H5307"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5307",
-        "morph": "HVqi3ms"
       }
     }
   ],

@@ -1,23 +1,8 @@
 {
-  "text": "וְאֻשַּׁ֣ר יְהוָ֤ה יִשְׁמְרֵ֣הוּ וִֽ֭יחַיֵּהוּ יאשר בָּאָ֑רֶץ וְאַֽל תִּ֝תְּנֵ֗הוּ בְּנֶ֣פֶשׁ אֹיְבָֽיו",
+  "text": "יְהוָ֤ה יִשְׁמְרֵ֣הוּ וִֽ֭יחַיֵּהוּ יאשר וְאֻשַּׁ֣ר בָּאָ֑רֶץ וְאַֽל תִּ֝תְּנֵ֗הוּ בְּנֶ֣פֶשׁ אֹיְבָֽיו",
   "words": [
     {
       "position": 1,
-      "text": "וְאֻשַּׁ֣ר",
-      "lemma": "c/833",
-      "morph": "HC/VPq3ms",
-      "strongs": [
-        "H833"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/833",
-        "morph": "HC/VPq3ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "יְהוָ֤ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יִשְׁמְרֵ֣הוּ",
       "lemma": "8104",
       "morph": "HVqi3ms/Sp3ms",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "וִֽ֭יחַיֵּהוּ",
       "lemma": "c/2421",
       "morph": "HC/Vpi3ms/Sp3ms",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "יאשר",
       "lemma": "833",
       "morph": "HTi",
@@ -72,6 +57,21 @@
         "lemma": "833",
         "morph": "HTi",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 5,
+      "text": "וְאֻשַּׁ֣ר",
+      "lemma": "c/833",
+      "morph": "HC/VPq3ms",
+      "strongs": [
+        "H833"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/833",
+        "morph": "HC/VPq3ms"
       }
     },
     {
@@ -150,7 +150,7 @@
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      2
+      1
     ]
   }
 }

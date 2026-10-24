@@ -1,5 +1,5 @@
 {
-  "text": "וְכֵלַ֖י כֵּלָ֣יו רָעִ֑ים ה֚וּא זִמּ֣וֹת יָעָ֔ץ לְחַבֵּ֤ל ענוים בְּאִמְרֵי שֶׁ֔קֶר וּבְדַבֵּ֥ר אֶבְי֖וֹן מִשְׁפָּֽט עֲנִיִּים֙",
+  "text": "וְכֵלַ֖י כֵּלָ֣יו רָעִ֑ים ה֚וּא זִמּ֣וֹת יָעָ֔ץ לְחַבֵּ֤ל ענוים עֲנִיִּים֙ בְּאִמְרֵי שֶׁ֔קֶר וּבְדַבֵּ֥ר אֶבְי֖וֹן מִשְׁפָּֽט",
   "words": [
     {
       "position": 1,
@@ -117,6 +117,21 @@
     },
     {
       "position": 9,
+      "text": "עֲנִיִּים֙",
+      "lemma": "6041",
+      "morph": "HAampa",
+      "strongs": [
+        "H6041"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6041",
+        "morph": "HAampa"
+      }
+    },
+    {
+      "position": 10,
       "text": "בְּאִמְרֵי",
       "lemma": "b/561",
       "morph": "HR/Ncmpc",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "שֶׁ֔קֶר",
       "lemma": "8267",
       "morph": "HNcmsa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וּבְדַבֵּ֥ר",
       "lemma": "c/b/1696",
       "morph": "HC/R/Vpc",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֶבְי֖וֹן",
       "lemma": "34",
       "morph": "HAamsa",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מִשְׁפָּֽט",
       "lemma": "4941",
       "morph": "HNcmsa",
@@ -185,21 +200,6 @@
       "source": {
         "lemma": "4941",
         "morph": "HNcmsa"
-      }
-    },
-    {
-      "position": 14,
-      "text": "עֲנִיִּים֙",
-      "lemma": "6041",
-      "morph": "HAampa",
-      "strongs": [
-        "H6041"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6041",
-        "morph": "HAampa"
       }
     }
   ],

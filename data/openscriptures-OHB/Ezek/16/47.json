@@ -1,5 +1,5 @@
 {
-  "text": "וְלֹ֤א בְדַרְכֵיהֶן֙ הָלַ֔כְתְּ וּבְתוֹעֲבֽוֹתֵיהֶ֖ן עשיתי כִּמְעַ֣ט קָ֔ט וַתַּשְׁחִ֥תִי מֵהֵ֖ן בְּכָל דְּרָכָֽיִךְ עָשִׂ֑ית",
+  "text": "וְלֹ֤א בְדַרְכֵיהֶן֙ הָלַ֔כְתְּ וּבְתוֹעֲבֽוֹתֵיהֶ֖ן עשיתי עָשִׂ֑ית כִּמְעַ֣ט קָ֔ט וַתַּשְׁחִ֥תִי מֵהֵ֖ן בְּכָל דְּרָכָֽיִךְ",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "עָשִׂ֑ית",
+      "lemma": "6213 a",
+      "morph": "HVqp2fs",
+      "strongs": [
+        "H6213"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6213 a",
+        "morph": "HVqp2fs"
+      }
+    },
+    {
+      "position": 7,
       "text": "כִּמְעַ֣ט",
       "lemma": "k/4592",
       "morph": "HR/Ncmsa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "קָ֔ט",
       "lemma": "6985",
       "morph": "HAamsa",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וַתַּשְׁחִ֥תִי",
       "lemma": "c/7843",
       "morph": "HC/Vhw2fs",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מֵהֵ֖ן",
       "lemma": "m/2004",
       "morph": "HR/Sp3fp",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בְּכָל",
       "lemma": "b/3605",
       "morph": "HR/Ncmsc",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "דְּרָכָֽיִךְ",
       "lemma": "1870",
       "morph": "HNcbpc/Sp2fs",
@@ -157,21 +172,6 @@
       "source": {
         "lemma": "1870",
         "morph": "HNcbpc/Sp2fs"
-      }
-    },
-    {
-      "position": 12,
-      "text": "עָשִׂ֑ית",
-      "lemma": "6213 a",
-      "morph": "HVqp2fs",
-      "strongs": [
-        "H6213"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6213 a",
-        "morph": "HVqp2fs"
       }
     }
   ],

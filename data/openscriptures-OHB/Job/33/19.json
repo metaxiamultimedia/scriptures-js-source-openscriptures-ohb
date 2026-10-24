@@ -1,5 +1,5 @@
 {
-  "text": "וְהוּכַ֣ח בְּ֭מַכְאוֹב עַל מִשְׁכָּב֑וֹ וריב עֲצָמָ֣יו אֵתָֽן וְר֖וֹב",
+  "text": "וְהוּכַ֣ח בְּ֭מַכְאוֹב עַל מִשְׁכָּב֑וֹ וריב וְר֖וֹב עֲצָמָ֣יו אֵתָֽן",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "וְר֖וֹב",
+      "lemma": "c/7230",
+      "morph": "HC/Ncbsc",
+      "strongs": [
+        "H7230"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7230",
+        "morph": "HC/Ncbsc"
+      }
+    },
+    {
+      "position": 7,
       "text": "עֲצָמָ֣יו",
       "lemma": "6106",
       "morph": "HNcfpc/Sp3ms",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֵתָֽן",
       "lemma": "386",
       "morph": "HAamsa",
@@ -101,21 +116,6 @@
       "source": {
         "lemma": "386",
         "morph": "HAamsa"
-      }
-    },
-    {
-      "position": 8,
-      "text": "וְר֖וֹב",
-      "lemma": "c/7230",
-      "morph": "HC/Ncbsc",
-      "strongs": [
-        "H7230"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7230",
-        "morph": "HC/Ncbsc"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּ֤קֶם אֶת הָֽעַמּוּדִים֙ עַל פְּנֵ֣י הַהֵיכָ֔ל אֶחָ֥ד מִיָּמִ֖ין וְאֶחָ֣ד מֵֽהַשְּׂמֹ֑אול וַיִּקְרָ֤א שֵׁם הימיני יָכִ֔ין וְשֵׁ֥ם הַשְּׂמָאלִ֖י בֹּֽעַז הַיְמָנִי֙",
+  "text": "וַיָּ֤קֶם אֶת הָֽעַמּוּדִים֙ עַל פְּנֵ֣י הַהֵיכָ֔ל אֶחָ֥ד מִיָּמִ֖ין וְאֶחָ֣ד מֵֽהַשְּׂמֹ֑אול וַיִּקְרָ֤א שֵׁם הימיני הַיְמָנִי֙ יָכִ֔ין וְשֵׁ֥ם הַשְּׂמָאלִ֖י בֹּֽעַז",
   "words": [
     {
       "position": 1,
@@ -193,6 +193,21 @@
     },
     {
       "position": 14,
+      "text": "הַיְמָנִי֙",
+      "lemma": "d/3233",
+      "morph": "HTd/Aamsa",
+      "strongs": [
+        "H3233"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/3233",
+        "morph": "HTd/Aamsa"
+      }
+    },
+    {
+      "position": 15,
       "text": "יָכִ֔ין",
       "lemma": "3199",
       "morph": "HNp",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְשֵׁ֥ם",
       "lemma": "c/8034",
       "morph": "HC/Ncmsc",
@@ -220,7 +235,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַשְּׂמָאלִ֖י",
       "lemma": "d/8040",
       "morph": "HTd/Aamsa",
@@ -234,7 +249,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בֹּֽעַז",
       "lemma": "1162",
       "morph": "HNp",
@@ -246,28 +261,13 @@
         "lemma": "1162",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 18,
-      "text": "הַיְמָנִי֙",
-      "lemma": "d/3233",
-      "morph": "HTd/Aamsa",
-      "strongs": [
-        "H3233"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/3233",
-        "morph": "HTd/Aamsa"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 17
+        "afterWordPosition": 18
       }
     ],
     "terminator": "sof-pasuq"

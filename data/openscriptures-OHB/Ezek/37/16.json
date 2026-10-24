@@ -1,5 +1,5 @@
 {
-  "text": "וְאַתָּ֣ה בֶן אָדָ֗ם קַח לְךָ֙ עֵ֣ץ אֶחָ֔ד וּכְתֹ֤ב עָלָיו֙ לִֽיהוּדָ֔ה וְלִבְנֵ֥י יִשְׂרָאֵ֖ל חברו וּלְקַח֙ עֵ֣ץ אֶחָ֔ד וּכְת֣וֹב עָלָ֗יו לְיוֹסֵף֙ עֵ֣ץ אֶפְרַ֔יִם וְכָל בֵּ֥ית יִשְׂרָאֵ֖ל חברו חֲבֵרָ֑יו חֲבֵרָֽיו",
+  "text": "וְאַתָּ֣ה בֶן אָדָ֗ם קַח לְךָ֙ עֵ֣ץ אֶחָ֔ד וּכְתֹ֤ב עָלָיו֙ לִֽיהוּדָ֔ה וְלִבְנֵ֥י יִשְׂרָאֵ֖ל חברו חֲבֵרָ֑יו וּלְקַח֙ עֵ֣ץ אֶחָ֔ד וּכְת֣וֹב עָלָ֗יו לְיוֹסֵף֙ עֵ֣ץ אֶפְרַ֔יִם וְכָל בֵּ֥ית יִשְׂרָאֵ֖ל חברו חֲבֵרָֽיו",
   "words": [
     {
       "position": 1,
@@ -190,6 +190,21 @@
     },
     {
       "position": 14,
+      "text": "חֲבֵרָ֑יו",
+      "lemma": "2270",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H2270"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2270",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 15,
       "text": "וּלְקַח֙",
       "lemma": "c/3947",
       "morph": "HC/Vqv2ms",
@@ -203,7 +218,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עֵ֣ץ",
       "lemma": "6086",
       "morph": "HNcmsa",
@@ -217,7 +232,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֶחָ֔ד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -231,7 +246,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וּכְת֣וֹב",
       "lemma": "c/3789",
       "morph": "HC/Vqv2ms",
@@ -245,7 +260,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "עָלָ֗יו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -259,7 +274,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לְיוֹסֵף֙",
       "lemma": "l/3130",
       "morph": "HR/Np",
@@ -273,7 +288,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "עֵ֣ץ",
       "lemma": "6086",
       "morph": "HNcmsc",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אֶפְרַ֔יִם",
       "lemma": "669",
       "morph": "HNp",
@@ -301,7 +316,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -317,7 +332,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "בֵּ֥ית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -331,7 +346,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "יִשְׂרָאֵ֖ל",
       "lemma": "3478",
       "morph": "HNp",
@@ -345,7 +360,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "חברו",
       "lemma": "2270",
       "morph": "HNcmsc/Sp3ms",
@@ -358,21 +373,6 @@
         "lemma": "2270",
         "morph": "HNcmsc/Sp3ms",
         "type": "x-ketiv"
-      }
-    },
-    {
-      "position": 26,
-      "text": "חֲבֵרָ֑יו",
-      "lemma": "2270",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H2270"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2270",
-        "morph": "HNcmpc/Sp3ms"
       }
     },
     {

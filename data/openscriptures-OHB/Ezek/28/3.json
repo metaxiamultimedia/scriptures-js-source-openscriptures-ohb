@@ -1,5 +1,5 @@
 {
-  "text": "הִנֵּ֥ה חָכָ֛ם אַתָּ֖ה מדנאל כָּל סָת֖וּם לֹ֥א עֲמָמֽוּךָ מִדָּֽנִיֵּ֑אל",
+  "text": "הִנֵּ֥ה חָכָ֛ם אַתָּ֖ה מדנאל מִדָּֽנִיֵּ֑אל כָּל סָת֖וּם לֹ֥א עֲמָמֽוּךָ",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "מִדָּֽנִיֵּ֑אל",
+      "lemma": "m/1840",
+      "morph": "HR/Np",
+      "strongs": [
+        "H1840"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "m/1840",
+        "morph": "HR/Np"
+      }
+    },
+    {
+      "position": 6,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "סָת֖וּם",
       "lemma": "5640 a",
       "morph": "HVqsmsa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "לֹ֥א",
       "lemma": "3808",
       "morph": "HTn",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "עֲמָמֽוּךָ",
       "lemma": "6004",
       "morph": "HVqp3cp/Sp2ms",
@@ -115,21 +130,6 @@
       "source": {
         "lemma": "6004",
         "morph": "HVqp3cp/Sp2ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "מִדָּֽנִיֵּ֑אל",
-      "lemma": "m/1840",
-      "morph": "HR/Np",
-      "strongs": [
-        "H1840"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "m/1840",
-        "morph": "HR/Np"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וְלִבְנֵ֣י גֵרְשׁוֹן֮ מִמִּשְׁפְּחֹ֣ת הַלְוִיִּם֒ מֵחֲצִ֞י מַטֵּ֣ה מְנַשֶּׁ֗ה אֶת עִיר֙ מִקְלַ֣ט הָרֹצֵ֔חַ אֶת גלון בַּבָּשָׁן֙ וְאֶת מִגְרָשֶׁ֔הָ וְאֶֽת בְּעֶשְׁתְּרָ֖ה וְאֶת מִגְרָשֶׁ֑הָ עָרִ֖ים שְׁתָּֽיִם גּוֹלָ֤ן",
+  "text": "וְלִבְנֵ֣י גֵרְשׁוֹן֮ מִמִּשְׁפְּחֹ֣ת הַלְוִיִּם֒ מֵחֲצִ֞י מַטֵּ֣ה מְנַשֶּׁ֗ה אֶת עִיר֙ מִקְלַ֣ט הָרֹצֵ֔חַ אֶת גלון גּוֹלָ֤ן בַּבָּשָׁן֙ וְאֶת מִגְרָשֶׁ֔הָ וְאֶֽת בְּעֶשְׁתְּרָ֖ה וְאֶת מִגְרָשֶׁ֑הָ עָרִ֖ים שְׁתָּֽיִם",
   "words": [
     {
       "position": 1,
@@ -191,6 +191,21 @@
     },
     {
       "position": 14,
+      "text": "גּוֹלָ֤ן",
+      "lemma": "1474",
+      "morph": "HNp",
+      "strongs": [
+        "H1474"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1474",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 15,
       "text": "בַּבָּשָׁן֙",
       "lemma": "b/1316",
       "morph": "HRd/Np",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -220,7 +235,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מִגְרָשֶׁ֔הָ",
       "lemma": "4054",
       "morph": "HNcmpc/Sp3fs",
@@ -234,7 +249,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְאֶֽת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -250,7 +265,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "בְּעֶשְׁתְּרָ֖ה",
       "lemma": "1203",
       "morph": "HNp",
@@ -264,7 +279,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וְאֶת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -280,7 +295,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "מִגְרָשֶׁ֑הָ",
       "lemma": "4054",
       "morph": "HNcmpc/Sp3fs",
@@ -294,7 +309,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "עָרִ֖ים",
       "lemma": "5892 b",
       "morph": "HNcfpa",
@@ -308,7 +323,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "שְׁתָּֽיִם",
       "lemma": "8147",
       "morph": "HAcfda",
@@ -320,28 +335,13 @@
         "lemma": "8147",
         "morph": "HAcfda"
       }
-    },
-    {
-      "position": 23,
-      "text": "גּוֹלָ֤ן",
-      "lemma": "1474",
-      "morph": "HNp",
-      "strongs": [
-        "H1474"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1474",
-        "morph": "HNp"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 22
+        "afterWordPosition": 23
       }
     ],
     "terminator": "sof-pasuq"

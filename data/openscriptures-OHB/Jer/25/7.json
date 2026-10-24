@@ -1,5 +1,5 @@
 {
-  "text": "וְלֹֽא שְׁמַעְתֶּ֥ם אֵלַ֖י נְאֻם יְהוָ֑ה לְמַ֧עַן הכעסוני בְּמַעֲשֵׂ֥ה יְדֵיכֶ֖ם לְרַ֥ע לָכֶֽם הַכְעִיסֵ֛נִי",
+  "text": "וְלֹֽא שְׁמַעְתֶּ֥ם אֵלַ֖י נְאֻם יְהוָ֑ה לְמַ֧עַן הכעסוני הַכְעִיסֵ֛נִי בְּמַעֲשֵׂ֥ה יְדֵיכֶ֖ם לְרַ֥ע לָכֶֽם",
   "words": [
     {
       "position": 1,
@@ -107,6 +107,21 @@
     },
     {
       "position": 8,
+      "text": "הַכְעִיסֵ֛נִי",
+      "lemma": "3707",
+      "morph": "HVhc/Sp1cs",
+      "strongs": [
+        "H3707"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3707",
+        "morph": "HVhc/Sp1cs"
+      }
+    },
+    {
+      "position": 9,
       "text": "בְּמַעֲשֵׂ֥ה",
       "lemma": "b/4639",
       "morph": "HR/Ncmsc",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יְדֵיכֶ֖ם",
       "lemma": "3027",
       "morph": "HNcbdc/Sp2mp",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְרַ֥ע",
       "lemma": "l/7451 b",
       "morph": "HR/Aamsa",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לָכֶֽם",
       "lemma": "l",
       "morph": "HR/Sp2mp",
@@ -159,28 +174,13 @@
         "lemma": "l",
         "morph": "HR/Sp2mp"
       }
-    },
-    {
-      "position": 12,
-      "text": "הַכְעִיסֵ֛נִי",
-      "lemma": "3707",
-      "morph": "HVhc/Sp1cs",
-      "strongs": [
-        "H3707"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3707",
-        "morph": "HVhc/Sp1cs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 11
+        "afterWordPosition": 12
       }
     ],
     "terminator": "sof-pasuq"

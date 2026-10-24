@@ -1,23 +1,8 @@
 {
-  "text": "אַנְתְּ אנתה ה֣וּא מַלְכָּ֔א דִּ֥י רְבַ֖ית וּתְקֵ֑פְתְּ וּרְבוּתָ֤ךְ רְבָת֙ וּמְטָ֣ת לִשְׁמַיָּ֔א וְשָׁלְטָנָ֖ךְ לְס֥וֹף אַרְעָֽא",
+  "text": "אנתה אַנְתְּ ה֣וּא מַלְכָּ֔א דִּ֥י רְבַ֖ית וּתְקֵ֑פְתְּ וּרְבוּתָ֤ךְ רְבָת֙ וּמְטָ֣ת לִשְׁמַיָּ֔א וְשָׁלְטָנָ֖ךְ לְס֥וֹף אַרְעָֽא",
   "words": [
     {
       "position": 1,
-      "text": "אַנְתְּ",
-      "lemma": "607",
-      "morph": "APp2ms",
-      "strongs": [
-        "H607"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "607",
-        "morph": "APp2ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "אנתה",
       "lemma": "607",
       "morph": "APp2ms",
@@ -25,13 +10,28 @@
         "H607"
       ],
       "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "607",
+        "morph": "APp2ms",
+        "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 2,
+      "text": "אַנְתְּ",
+      "lemma": "607",
+      "morph": "APp2ms",
+      "strongs": [
+        "H607"
+      ],
+      "variant": "qere",
       "metadata": {
         "joinNext": "maqqef"
       },
       "source": {
         "lemma": "607",
-        "morph": "APp2ms",
-        "type": "x-ketiv"
+        "morph": "APp2ms"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "text": "בְּיוֹם֙ עֲמָֽדְךָ֣ מִנֶּ֔גֶד בְּי֛וֹם שְׁב֥וֹת זָרִ֖ים חֵיל֑וֹ וְנָכְרִ֞ים בָּ֣אוּ שערו וְעַל יְרוּשָׁלִַ֨ם֙ יַדּ֣וּ גוֹרָ֔ל גַּם אַתָּ֖ה כְּאַחַ֥ד מֵהֶֽם שְׁעָרָ֗יו",
+  "text": "בְּיוֹם֙ עֲמָֽדְךָ֣ מִנֶּ֔גֶד בְּי֛וֹם שְׁב֥וֹת זָרִ֖ים חֵיל֑וֹ וְנָכְרִ֞ים בָּ֣אוּ שערו שְׁעָרָ֗יו וְעַל יְרוּשָׁלִַ֨ם֙ יַדּ֣וּ גוֹרָ֔ל גַּם אַתָּ֖ה כְּאַחַ֥ד מֵהֶֽם",
   "words": [
     {
       "position": 1,
@@ -145,6 +145,21 @@
     },
     {
       "position": 11,
+      "text": "שְׁעָרָ֗יו",
+      "lemma": "8179",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H8179"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8179",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 12,
       "text": "וְעַל",
       "lemma": "c/5921 a",
       "morph": "HC/R",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יְרוּשָׁלִַ֨ם֙",
       "lemma": "3389",
       "morph": "HNp",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יַדּ֣וּ",
       "lemma": "3032",
       "morph": "HVqp3cp",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "גוֹרָ֔ל",
       "lemma": "1486",
       "morph": "HNcmsa",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "גַּם",
       "lemma": "1571",
       "morph": "HTa",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אַתָּ֖ה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "כְּאַחַ֥ד",
       "lemma": "k/259",
       "morph": "HR/Acmsc",
@@ -246,7 +261,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "מֵהֶֽם",
       "lemma": "m",
       "morph": "HR/Sp3mp",
@@ -256,21 +271,6 @@
       "source": {
         "lemma": "m",
         "morph": "HR/Sp3mp"
-      }
-    },
-    {
-      "position": 19,
-      "text": "שְׁעָרָ֗יו",
-      "lemma": "8179",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H8179"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8179",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

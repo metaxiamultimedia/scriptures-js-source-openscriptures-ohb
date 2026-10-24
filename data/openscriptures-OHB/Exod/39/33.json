@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבִ֤יאוּ אֶת הַמִּשְׁכָּן֙ אֶל מֹשֶׁ֔ה אֶת הָאֹ֖הֶל וְאֶת כָּל כֵּלָ֑יו קְרָסָ֣יו קְרָשָׁ֔יו בריחו וְעַמֻּדָ֥יו וַאֲדָנָֽיו בְּרִיחָ֖יו",
+  "text": "וַיָּבִ֤יאוּ אֶת הַמִּשְׁכָּן֙ אֶל מֹשֶׁ֔ה אֶת הָאֹ֖הֶל וְאֶת כָּל כֵּלָ֑יו קְרָסָ֣יו קְרָשָׁ֔יו בריחו בְּרִיחָ֖יו וְעַמֻּדָ֥יו וַאֲדָנָֽיו",
   "words": [
     {
       "position": 1,
@@ -197,6 +197,21 @@
     },
     {
       "position": 14,
+      "text": "בְּרִיחָ֖יו",
+      "lemma": "1280",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H1280"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1280",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 15,
       "text": "וְעַמֻּדָ֥יו",
       "lemma": "c/5982",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -210,7 +225,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וַאֲדָנָֽיו",
       "lemma": "c/134",
       "morph": "HC/Ncmpc/Sp3ms",
@@ -221,21 +236,6 @@
       "source": {
         "lemma": "c/134",
         "morph": "HC/Ncmpc/Sp3ms"
-      }
-    },
-    {
-      "position": 16,
-      "text": "בְּרִיחָ֖יו",
-      "lemma": "1280",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H1280"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1280",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

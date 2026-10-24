@@ -1,5 +1,5 @@
 {
-  "text": "לְֽקַח בִּ֭גְדוֹ כִּי עָ֣רַב זָ֑ר וּבְעַ֖ד נכרים חַבְלֵֽהוּ נָכְרִיָּ֣ה",
+  "text": "לְֽקַח בִּ֭גְדוֹ כִּי עָ֣רַב זָ֑ר וּבְעַ֖ד נכרים נָכְרִיָּ֣ה חַבְלֵֽהוּ",
   "words": [
     {
       "position": 1,
@@ -107,20 +107,6 @@
     },
     {
       "position": 8,
-      "text": "חַבְלֵֽהוּ",
-      "lemma": "2254 a",
-      "morph": "HVqv2ms/Sp3ms",
-      "strongs": [
-        "H2254"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "2254 a",
-        "morph": "HVqv2ms/Sp3ms"
-      }
-    },
-    {
-      "position": 9,
       "text": "נָכְרִיָּ֣ה",
       "lemma": "5237",
       "morph": "HAafsa",
@@ -132,6 +118,20 @@
       "source": {
         "lemma": "5237",
         "morph": "HAafsa"
+      }
+    },
+    {
+      "position": 9,
+      "text": "חַבְלֵֽהוּ",
+      "lemma": "2254 a",
+      "morph": "HVqv2ms/Sp3ms",
+      "strongs": [
+        "H2254"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "2254 a",
+        "morph": "HVqv2ms/Sp3ms"
       }
     }
   ],

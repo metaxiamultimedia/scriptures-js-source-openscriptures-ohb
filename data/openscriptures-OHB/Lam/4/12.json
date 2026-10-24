@@ -1,5 +1,5 @@
 {
-  "text": "לֹ֤א הֶאֱמִ֨ינוּ֙ מַלְכֵי אֶ֔רֶץ וכל יֹשְׁבֵ֣י תֵבֵ֑ל כִּ֤י יָבֹא֙ צַ֣ר וְאוֹיֵ֔ב בְּשַׁעֲרֵ֖י יְרוּשָׁלִָֽם כֹּ֖ל",
+  "text": "לֹ֤א הֶאֱמִ֨ינוּ֙ מַלְכֵי אֶ֔רֶץ וכל כֹּ֖ל יֹשְׁבֵ֣י תֵבֵ֑ל כִּ֤י יָבֹא֙ צַ֣ר וְאוֹיֵ֔ב בְּשַׁעֲרֵ֖י יְרוּשָׁלִָֽם",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "כֹּ֖ל",
+      "lemma": "3605",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H3605"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3605",
+        "morph": "HNcmsc"
+      }
+    },
+    {
+      "position": 7,
       "text": "יֹשְׁבֵ֣י",
       "lemma": "3427",
       "morph": "HVqrmpc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תֵבֵ֑ל",
       "lemma": "8398",
       "morph": "HNcfsa",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "כִּ֤י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "יָבֹא֙",
       "lemma": "935",
       "morph": "HVqi3ms",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "צַ֣ר",
       "lemma": "6862 c",
       "morph": "HNcmsa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְאוֹיֵ֔ב",
       "lemma": "c/341",
       "morph": "HC/Vqrmsa",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בְּשַׁעֲרֵ֖י",
       "lemma": "b/8179",
       "morph": "HR/Ncmpc",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יְרוּשָׁלִָֽם",
       "lemma": "3389",
       "morph": "HNp",
@@ -186,28 +201,13 @@
         "lemma": "3389",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 14,
-      "text": "כֹּ֖ל",
-      "lemma": "3605",
-      "morph": "HNcmsc",
-      "strongs": [
-        "H3605"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3605",
-        "morph": "HNcmsc"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 13
+        "afterWordPosition": 14
       }
     ],
     "terminator": "sof-pasuq"

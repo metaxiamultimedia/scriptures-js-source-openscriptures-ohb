@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵ֣י אֶלְיוֹעֵינַ֗י הדיוהו וְאֶלְיָשִׁ֡יב וּפְלָיָ֡ה וְ֠עַקּוּב וְיוֹחָנָ֧ן וּדְלָיָ֛ה וַעֲנָ֖נִי שִׁבְעָֽה הוֹדַוְיָ֡הוּ",
+  "text": "וּבְנֵ֣י אֶלְיוֹעֵינַ֗י הדיוהו הוֹדַוְיָ֡הוּ וְאֶלְיָשִׁ֡יב וּפְלָיָ֡ה וְ֠עַקּוּב וְיוֹחָנָ֧ן וּדְלָיָ֛ה וַעֲנָ֖נִי שִׁבְעָֽה",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "הוֹדַוְיָ֡הוּ",
+      "lemma": "1938",
+      "morph": "HNp",
+      "strongs": [
+        "H1938"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1938",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 5,
       "text": "וְאֶלְיָשִׁ֡יב",
       "lemma": "c/475",
       "morph": "HC/Np",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וּפְלָיָ֡ה",
       "lemma": "c/6411 b",
       "morph": "HC/Np",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וְ֠עַקּוּב",
       "lemma": "c/6126",
       "morph": "HC/Np",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְיוֹחָנָ֧ן",
       "lemma": "c/3110",
       "morph": "HC/Np",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּדְלָיָ֛ה",
       "lemma": "c/1806",
       "morph": "HC/Np",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וַעֲנָ֖נִי",
       "lemma": "c/6054",
       "morph": "HC/Np",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "שִׁבְעָֽה",
       "lemma": "7651",
       "morph": "HAcmsa",
@@ -142,28 +157,13 @@
         "lemma": "7651",
         "morph": "HAcmsa"
       }
-    },
-    {
-      "position": 11,
-      "text": "הוֹדַוְיָ֡הוּ",
-      "lemma": "1938",
-      "morph": "HNp",
-      "strongs": [
-        "H1938"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1938",
-        "morph": "HNp"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 10
+        "afterWordPosition": 11
       }
     ],
     "terminator": "sof-pasuq"

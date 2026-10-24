@@ -1,5 +1,5 @@
 {
-  "text": "ה֛וּא גָּלֵ֥א עַמִּיקָתָ֖א וּמְסַתְּרָתָ֑א יָדַע֙ מָ֣ה בַחֲשׁוֹכָ֔א ונהירא עִמֵּ֥הּ שְׁרֵֽא וּנְהוֹרָ֖א",
+  "text": "ה֛וּא גָּלֵ֥א עַמִּיקָתָ֖א וּמְסַתְּרָתָ֑א יָדַע֙ מָ֣ה בַחֲשׁוֹכָ֔א ונהירא וּנְהוֹרָ֖א עִמֵּ֥הּ שְׁרֵֽא",
   "words": [
     {
       "position": 1,
@@ -117,6 +117,21 @@
     },
     {
       "position": 9,
+      "text": "וּנְהוֹרָ֖א",
+      "lemma": "c/5094 a",
+      "morph": "AC/Ncmsd/Td",
+      "strongs": [
+        "H5094"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/5094 a",
+        "morph": "AC/Ncmsd/Td"
+      }
+    },
+    {
+      "position": 10,
       "text": "עִמֵּ֥הּ",
       "lemma": "5974",
       "morph": "AR/Sp3ms",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "שְׁרֵֽא",
       "lemma": "8271",
       "morph": "AVqsmsa",
@@ -141,21 +156,6 @@
       "source": {
         "lemma": "8271",
         "morph": "AVqsmsa"
-      }
-    },
-    {
-      "position": 11,
-      "text": "וּנְהוֹרָ֖א",
-      "lemma": "c/5094 a",
-      "morph": "AC/Ncmsd/Td",
-      "strongs": [
-        "H5094"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/5094 a",
-        "morph": "AC/Ncmsd/Td"
       }
     }
   ],

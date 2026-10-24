@@ -1,5 +1,5 @@
 {
-  "text": "לֵ֣ב נָ֭בוֹן יְבַקֶּשׁ דָּ֑עַת ופני כְ֝סִילִ֗ים יִרְעֶ֥ה אִוֶּֽלֶת וּפִ֥י",
+  "text": "לֵ֣ב נָ֭בוֹן יְבַקֶּשׁ דָּ֑עַת ופני וּפִ֥י כְ֝סִילִ֗ים יִרְעֶ֥ה אִוֶּֽלֶת",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "וּפִ֥י",
+      "lemma": "c/6310",
+      "morph": "HC/Ncmsc",
+      "strongs": [
+        "H6310"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6310",
+        "morph": "HC/Ncmsc"
+      }
+    },
+    {
+      "position": 7,
       "text": "כְ֝סִילִ֗ים",
       "lemma": "3684",
       "morph": "HAampa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יִרְעֶ֥ה",
       "lemma": "7462 b",
       "morph": "HVqi3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אִוֶּֽלֶת",
       "lemma": "200",
       "morph": "HNcfsa",
@@ -115,21 +130,6 @@
       "source": {
         "lemma": "200",
         "morph": "HNcfsa"
-      }
-    },
-    {
-      "position": 9,
-      "text": "וּפִ֥י",
-      "lemma": "c/6310",
-      "morph": "HC/Ncmsc",
-      "strongs": [
-        "H6310"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/6310",
-        "morph": "HC/Ncmsc"
       }
     }
   ],

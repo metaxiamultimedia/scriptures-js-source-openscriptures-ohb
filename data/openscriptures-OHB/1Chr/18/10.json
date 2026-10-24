@@ -1,5 +1,5 @@
 {
-  "text": "וַיִּשְׁלַ֣ח אֶת הֲדֽוֹרָם בְּנ֣וֹ אֶל הַמֶּֽלֶךְ דָּ֠וִיד לשאול ל֨וֹ לְשָׁל֜וֹם וּֽלְבָרֲכ֗וֹ עַל֩ אֲשֶׁ֨ר נִלְחַ֤ם בַּהֲדַדְעֶ֨זֶר֙ וַיַּכֵּ֔הוּ כִּי אִ֛ישׁ מִלְחֲמ֥וֹת תֹּ֖עוּ הָיָ֣ה הֲדַדְעָ֑זֶר וְכֹ֗ל כְּלֵ֛י זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת לִשְׁאָל",
+  "text": "וַיִּשְׁלַ֣ח אֶת הֲדֽוֹרָם בְּנ֣וֹ אֶל הַמֶּֽלֶךְ דָּ֠וִיד לשאול לִשְׁאָל ל֨וֹ לְשָׁל֜וֹם וּֽלְבָרֲכ֗וֹ עַל֩ אֲשֶׁ֨ר נִלְחַ֤ם בַּהֲדַדְעֶ֨זֶר֙ וַיַּכֵּ֔הוּ כִּי אִ֛ישׁ מִלְחֲמ֥וֹת תֹּ֖עוּ הָיָ֣ה הֲדַדְעָ֑זֶר וְכֹ֗ל כְּלֵ֛י זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת",
   "words": [
     {
       "position": 1,
@@ -116,9 +116,7 @@
         "H7592"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "l/7592",
         "morph": "HR/Vqc",
@@ -127,6 +125,23 @@
     },
     {
       "position": 9,
+      "text": "לִשְׁאָל",
+      "lemma": "l/7592",
+      "morph": "HR/Vqc",
+      "strongs": [
+        "H7592"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "l/7592",
+        "morph": "HR/Vqc"
+      }
+    },
+    {
+      "position": 10,
       "text": "ל֨וֹ",
       "lemma": "l/7592",
       "morph": "HR/Sp3ms",
@@ -140,7 +155,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "לְשָׁל֜וֹם",
       "lemma": "l/7965",
       "morph": "HR/Ncmsa",
@@ -154,7 +169,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וּֽלְבָרֲכ֗וֹ",
       "lemma": "c/l/1288",
       "morph": "HC/R/Vpc/Sp3ms",
@@ -168,7 +183,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "עַל֩",
       "lemma": "5921 a",
       "morph": "HR",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲשֶׁ֨ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -196,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "נִלְחַ֤ם",
       "lemma": "3898 a",
       "morph": "HVNp3ms",
@@ -210,7 +225,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בַּהֲדַדְעֶ֨זֶר֙",
       "lemma": "b/1909",
       "morph": "HR/Np",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וַיַּכֵּ֔הוּ",
       "lemma": "c/5221",
       "morph": "HC/Vhw3ms/Sp3ms",
@@ -238,7 +253,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אִ֛ישׁ",
       "lemma": "376",
       "morph": "HNcmsc",
@@ -268,7 +283,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "מִלְחֲמ֥וֹת",
       "lemma": "4421",
       "morph": "HNcfpc",
@@ -282,7 +297,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "תֹּ֖עוּ",
       "lemma": "8583",
       "morph": "HNp",
@@ -296,7 +311,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "הָיָ֣ה",
       "lemma": "1961",
       "morph": "HVqp3ms",
@@ -310,7 +325,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "הֲדַדְעָ֑זֶר",
       "lemma": "1909",
       "morph": "HNp",
@@ -324,7 +339,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "וְכֹ֗ל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -338,7 +353,7 @@
       }
     },
     {
-      "position": 24,
+      "position": 25,
       "text": "כְּלֵ֛י",
       "lemma": "3627",
       "morph": "HNcmpc",
@@ -352,7 +367,7 @@
       }
     },
     {
-      "position": 25,
+      "position": 26,
       "text": "זָהָ֥ב",
       "lemma": "2091",
       "morph": "HNcmsa",
@@ -366,7 +381,7 @@
       }
     },
     {
-      "position": 26,
+      "position": 27,
       "text": "וָכֶ֖סֶף",
       "lemma": "c/3701",
       "morph": "HC/Ncmsa",
@@ -380,7 +395,7 @@
       }
     },
     {
-      "position": 27,
+      "position": 28,
       "text": "וּנְחֹֽשֶׁת",
       "lemma": "c/5178 a",
       "morph": "HC/Ncfsa",
@@ -391,21 +406,6 @@
       "source": {
         "lemma": "c/5178 a",
         "morph": "HC/Ncfsa"
-      }
-    },
-    {
-      "position": 28,
-      "text": "לִשְׁאָל",
-      "lemma": "l/7592",
-      "morph": "HR/Vqc",
-      "strongs": [
-        "H7592"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "l/7592",
-        "morph": "HR/Vqc"
       }
     }
   ],

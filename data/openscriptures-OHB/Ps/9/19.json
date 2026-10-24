@@ -1,23 +1,8 @@
 {
-  "text": "עֲ֝נִיִּ֗ים כִּ֤י לֹ֣א לָ֭נֶצַח יִשָּׁכַ֣ח אֶבְי֑וֹן תִּקְוַ֥ת ענוים תֹּאבַ֥ד לָעַֽד",
+  "text": "כִּ֤י לֹ֣א לָ֭נֶצַח יִשָּׁכַ֣ח אֶבְי֑וֹן תִּקְוַ֥ת ענוים עֲ֝נִיִּ֗ים תֹּאבַ֥ד לָעַֽד",
   "words": [
     {
       "position": 1,
-      "text": "עֲ֝נִיִּ֗ים",
-      "lemma": "6041",
-      "morph": "HAampa",
-      "strongs": [
-        "H6041"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6041",
-        "morph": "HAampa"
-      }
-    },
-    {
-      "position": 2,
       "text": "כִּ֤י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "לָ֭נֶצַח",
       "lemma": "l/5331",
       "morph": "HR/Ncmsa",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "יִשָּׁכַ֣ח",
       "lemma": "7911",
       "morph": "HVNi3ms",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "אֶבְי֑וֹן",
       "lemma": "34",
       "morph": "HAamsa",
@@ -87,7 +72,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "תִּקְוַ֥ת",
       "lemma": "8615 b",
       "morph": "HNcfsc",
@@ -101,7 +86,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "ענוים",
       "lemma": "6035",
       "morph": "HAampa",
@@ -114,6 +99,21 @@
         "lemma": "6035",
         "morph": "HAampa",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 8,
+      "text": "עֲ֝נִיִּ֗ים",
+      "lemma": "6041",
+      "morph": "HAampa",
+      "strongs": [
+        "H6041"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6041",
+        "morph": "HAampa"
       }
     },
     {

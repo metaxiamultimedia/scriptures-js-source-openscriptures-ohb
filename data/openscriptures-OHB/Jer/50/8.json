@@ -1,5 +1,5 @@
 {
-  "text": "נֻ֚דוּ מִתּ֣וֹךְ בָּבֶ֔ל וּמֵאֶ֥רֶץ כַּשְׂדִּ֖ים יצאו וִהְי֕וּ כְּעַתּוּדִ֖ים לִפְנֵי צֹֽאן צֵ֑אוּ",
+  "text": "נֻ֚דוּ מִתּ֣וֹךְ בָּבֶ֔ל וּמֵאֶ֥רֶץ כַּשְׂדִּ֖ים יצאו צֵ֑אוּ וִהְי֕וּ כְּעַתּוּדִ֖ים לִפְנֵי צֹֽאן",
   "words": [
     {
       "position": 1,
@@ -89,6 +89,21 @@
     },
     {
       "position": 7,
+      "text": "צֵ֑אוּ",
+      "lemma": "3318",
+      "morph": "HVqv2mp",
+      "strongs": [
+        "H3318"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3318",
+        "morph": "HVqv2mp"
+      }
+    },
+    {
+      "position": 8,
       "text": "וִהְי֕וּ",
       "lemma": "c/1961",
       "morph": "HC/Vqv2mp",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "כְּעַתּוּדִ֖ים",
       "lemma": "k/6260",
       "morph": "HR/Ncmpa",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לִפְנֵי",
       "lemma": "l/6440",
       "morph": "HR/Ncbpc",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "צֹֽאן",
       "lemma": "6629",
       "morph": "HNcbsa",
@@ -143,21 +158,6 @@
       "source": {
         "lemma": "6629",
         "morph": "HNcbsa"
-      }
-    },
-    {
-      "position": 11,
-      "text": "צֵ֑אוּ",
-      "lemma": "3318",
-      "morph": "HVqv2mp",
-      "strongs": [
-        "H3318"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3318",
-        "morph": "HVqv2mp"
       }
     }
   ],

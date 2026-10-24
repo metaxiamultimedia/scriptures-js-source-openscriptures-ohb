@@ -1,5 +1,5 @@
 {
-  "text": "בשפתו יִנָּכֵ֣ר שׂוֹנֵ֑א וּ֝בְקִרְבּ֗וֹ יָשִׁ֥ית מִרְמָֽה בִּ֭שְׂפָתָיו",
+  "text": "בשפתו בִּ֭שְׂפָתָיו יִנָּכֵ֣ר שׂוֹנֵ֑א וּ֝בְקִרְבּ֗וֹ יָשִׁ֥ית מִרְמָֽה",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "בִּ֭שְׂפָתָיו",
+      "lemma": "b/8193",
+      "morph": "HR/Ncfdc/Sp3ms",
+      "strongs": [
+        "H8193"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/8193",
+        "morph": "HR/Ncfdc/Sp3ms"
+      }
+    },
+    {
+      "position": 3,
       "text": "יִנָּכֵ֣ר",
       "lemma": "5234 b",
       "morph": "HVNi3ms",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "שׂוֹנֵ֑א",
       "lemma": "8130",
       "morph": "HVqrmsa",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וּ֝בְקִרְבּ֗וֹ",
       "lemma": "c/b/7130",
       "morph": "HC/R/Ncmsc/Sp3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יָשִׁ֥ית",
       "lemma": "7896",
       "morph": "HVqi3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מִרְמָֽה",
       "lemma": "4820",
       "morph": "HNcfsa",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "4820",
         "morph": "HNcfsa"
-      }
-    },
-    {
-      "position": 7,
-      "text": "בִּ֭שְׂפָתָיו",
-      "lemma": "b/8193",
-      "morph": "HR/Ncfdc/Sp3ms",
-      "strongs": [
-        "H8193"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/8193",
-        "morph": "HR/Ncfdc/Sp3ms"
       }
     }
   ],

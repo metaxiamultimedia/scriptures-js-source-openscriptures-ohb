@@ -1,5 +1,5 @@
 {
-  "text": "עִנּ֣וּ בַכֶּ֣בֶל רגליו בַּ֝רְזֶ֗ל בָּ֣אָה נַפְשֽׁוֹ רַגְל֑וֹ",
+  "text": "עִנּ֣וּ בַכֶּ֣בֶל רגליו רַגְל֑וֹ בַּ֝רְזֶ֗ל בָּ֣אָה נַפְשֽׁוֹ",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "רַגְל֑וֹ",
+      "lemma": "7272",
+      "morph": "HNcfsc/Sp3ms",
+      "strongs": [
+        "H7272"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7272",
+        "morph": "HNcfsc/Sp3ms"
+      }
+    },
+    {
+      "position": 5,
       "text": "בַּ֝רְזֶ֗ל",
       "lemma": "1270",
       "morph": "HNcmsa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בָּ֣אָה",
       "lemma": "935",
       "morph": "HVqp3fs",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "נַפְשֽׁוֹ",
       "lemma": "5315",
       "morph": "HNcbsc/Sp3ms",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "5315",
         "morph": "HNcbsc/Sp3ms"
-      }
-    },
-    {
-      "position": 7,
-      "text": "רַגְל֑וֹ",
-      "lemma": "7272",
-      "morph": "HNcfsc/Sp3ms",
-      "strongs": [
-        "H7272"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7272",
-        "morph": "HNcfsc/Sp3ms"
       }
     }
   ],

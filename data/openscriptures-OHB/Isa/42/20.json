@@ -1,5 +1,5 @@
 {
-  "text": "ראית רַבּ֖וֹת וְלֹ֣א תִשְׁמֹ֑ר פָּק֥וֹחַ אָזְנַ֖יִם וְלֹ֥א יִשְׁמָֽע רָא֥וֹת",
+  "text": "ראית רָא֥וֹת רַבּ֖וֹת וְלֹ֣א תִשְׁמֹ֑ר פָּק֥וֹחַ אָזְנַ֖יִם וְלֹ֥א יִשְׁמָֽע",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "רָא֥וֹת",
+      "lemma": "7200",
+      "morph": "HVqa",
+      "strongs": [
+        "H7200"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7200",
+        "morph": "HVqa"
+      }
+    },
+    {
+      "position": 3,
       "text": "רַבּ֖וֹת",
       "lemma": "7227 a",
       "morph": "HAafpa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וְלֹ֣א",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "תִשְׁמֹ֑ר",
       "lemma": "8104",
       "morph": "HVqi2ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "פָּק֥וֹחַ",
       "lemma": "6491",
       "morph": "HVqa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אָזְנַ֖יִם",
       "lemma": "241",
       "morph": "HNcfda",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וְלֹ֥א",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יִשְׁמָֽע",
       "lemma": "8085",
       "morph": "HVqi3ms",
@@ -113,21 +128,6 @@
       "source": {
         "lemma": "8085",
         "morph": "HVqi3ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "רָא֥וֹת",
-      "lemma": "7200",
-      "morph": "HVqa",
-      "strongs": [
-        "H7200"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7200",
-        "morph": "HVqa"
       }
     }
   ],

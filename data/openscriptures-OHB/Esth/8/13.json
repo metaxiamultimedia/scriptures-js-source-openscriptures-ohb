@@ -1,5 +1,5 @@
 {
-  "text": "פַּתְשֶׁ֣גֶן הַכְּתָ֗ב לְהִנָּ֤תֵֽן דָּת֙ בְּכָל מְדִינָ֣ה וּמְדִינָ֔ה גָּל֖וּי לְכָל הָעַמִּ֑ים וְלִהְי֨וֹת היהודיים עתודים לַיּ֣וֹם הַזֶּ֔ה לְהִנָּקֵ֖ם מֵאֹיְבֵיהֶֽם הַיְּהוּדִ֤ים עֲתִידִים֙",
+  "text": "פַּתְשֶׁ֣גֶן הַכְּתָ֗ב לְהִנָּ֤תֵֽן דָּת֙ בְּכָל מְדִינָ֣ה וּמְדִינָ֔ה גָּל֖וּי לְכָל הָעַמִּ֑ים וְלִהְי֨וֹת היהודיים הַיְּהוּדִ֤ים עתודים עֲתִידִים֙ לַיּ֣וֹם הַזֶּ֔ה לְהִנָּקֵ֖ם מֵאֹיְבֵיהֶֽם",
   "words": [
     {
       "position": 1,
@@ -177,6 +177,21 @@
     },
     {
       "position": 13,
+      "text": "הַיְּהוּדִ֤ים",
+      "lemma": "d/3064",
+      "morph": "HTd/Ngmpa",
+      "strongs": [
+        "H3064"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/3064",
+        "morph": "HTd/Ngmpa"
+      }
+    },
+    {
+      "position": 14,
       "text": "עתודים",
       "lemma": "6259",
       "morph": "HAampa",
@@ -192,7 +207,22 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
+      "text": "עֲתִידִים֙",
+      "lemma": "6264",
+      "morph": "HAampa",
+      "strongs": [
+        "H6264"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6264",
+        "morph": "HAampa"
+      }
+    },
+    {
+      "position": 16,
       "text": "לַיּ֣וֹם",
       "lemma": "l/3117",
       "morph": "HRd/Ncmsa",
@@ -206,7 +236,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 17,
       "text": "הַזֶּ֔ה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -220,7 +250,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "לְהִנָּקֵ֖ם",
       "lemma": "l/5358",
       "morph": "HR/VNc",
@@ -234,7 +264,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 19,
       "text": "מֵאֹיְבֵיהֶֽם",
       "lemma": "m/341",
       "morph": "HR/Vqrmpc/Sp3mp",
@@ -245,36 +275,6 @@
       "source": {
         "lemma": "m/341",
         "morph": "HR/Vqrmpc/Sp3mp"
-      }
-    },
-    {
-      "position": 18,
-      "text": "הַיְּהוּדִ֤ים",
-      "lemma": "d/3064",
-      "morph": "HTd/Ngmpa",
-      "strongs": [
-        "H3064"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/3064",
-        "morph": "HTd/Ngmpa"
-      }
-    },
-    {
-      "position": 19,
-      "text": "עֲתִידִים֙",
-      "lemma": "6264",
-      "morph": "HAampa",
-      "strongs": [
-        "H6264"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6264",
-        "morph": "HAampa"
       }
     }
   ],

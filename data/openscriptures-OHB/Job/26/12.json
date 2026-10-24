@@ -1,5 +1,5 @@
 {
-  "text": "בְּ֭כֹחוֹ רָגַ֣ע הַיָּ֑ם ובתובנתו מָ֣חַץ רָֽהַב וּ֝בִתְבוּנָת֗וֹ",
+  "text": "בְּ֭כֹחוֹ רָגַ֣ע הַיָּ֑ם ובתובנתו וּ֝בִתְבוּנָת֗וֹ מָ֣חַץ רָֽהַב",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "וּ֝בִתְבוּנָת֗וֹ",
+      "lemma": "c/b/8394",
+      "morph": "HC/R/Ncfsc/Sp3ms",
+      "strongs": [
+        "H8394"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/b/8394",
+        "morph": "HC/R/Ncfsc/Sp3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "מָ֣חַץ",
       "lemma": "4272",
       "morph": "HVqp3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "רָֽהַב",
       "lemma": "7293",
       "morph": "HNp",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "7293",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 7,
-      "text": "וּ֝בִתְבוּנָת֗וֹ",
-      "lemma": "c/b/8394",
-      "morph": "HC/R/Ncfsc/Sp3ms",
-      "strongs": [
-        "H8394"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/b/8394",
-        "morph": "HC/R/Ncfsc/Sp3ms"
       }
     }
   ],

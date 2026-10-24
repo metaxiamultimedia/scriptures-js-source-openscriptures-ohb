@@ -1,5 +1,5 @@
 {
-  "text": "כִּֽי הִנֵּ֥ה הסתו עָבָ֑ר הַגֶּ֕שֶׁם חָלַ֖ף הָלַ֥ךְ לֽוֹ הַסְּתָ֖יו",
+  "text": "כִּֽי הִנֵּ֥ה הסתו הַסְּתָ֖יו עָבָ֑ר הַגֶּ֕שֶׁם חָלַ֖ף הָלַ֥ךְ לֽוֹ",
   "words": [
     {
       "position": 1,
@@ -49,6 +49,21 @@
     },
     {
       "position": 4,
+      "text": "הַסְּתָ֖יו",
+      "lemma": "d/5638",
+      "morph": "HTd/Ncmsa",
+      "strongs": [
+        "H5638"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/5638",
+        "morph": "HTd/Ncmsa"
+      }
+    },
+    {
+      "position": 5,
       "text": "עָבָ֑ר",
       "lemma": "5674 a",
       "morph": "HVqp3ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "הַגֶּ֕שֶׁם",
       "lemma": "d/1653",
       "morph": "HTd/Ncmsa",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "חָלַ֖ף",
       "lemma": "2498",
       "morph": "HVqp3ms",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "הָלַ֥ךְ",
       "lemma": "1980",
       "morph": "HVqp3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לֽוֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -114,21 +129,6 @@
       "source": {
         "lemma": "l",
         "morph": "HR/Sp3ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "הַסְּתָ֖יו",
-      "lemma": "d/5638",
-      "morph": "HTd/Ncmsa",
-      "strongs": [
-        "H5638"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/5638",
-        "morph": "HTd/Ncmsa"
       }
     }
   ],

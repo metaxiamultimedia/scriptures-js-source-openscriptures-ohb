@@ -1,5 +1,5 @@
 {
-  "text": "לָ֘בַ֤שׁ בְּשָׂרִ֣י רִ֭מָּה וגיש עָפָ֑ר עוֹרִ֥י רָ֝גַ֗ע וַיִּמָּאֵֽס וְג֣וּשׁ",
+  "text": "לָ֘בַ֤שׁ בְּשָׂרִ֣י רִ֭מָּה וגיש וְג֣וּשׁ עָפָ֑ר עוֹרִ֥י רָ֝גַ֗ע וַיִּמָּאֵֽס",
   "words": [
     {
       "position": 1,
@@ -71,6 +71,21 @@
     },
     {
       "position": 5,
+      "text": "וְג֣וּשׁ",
+      "lemma": "c/1487",
+      "morph": "HC/Ncmsc",
+      "strongs": [
+        "H1487"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1487",
+        "morph": "HC/Ncmsc"
+      }
+    },
+    {
+      "position": 6,
       "text": "עָפָ֑ר",
       "lemma": "6083",
       "morph": "HNcmsa",
@@ -84,7 +99,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עוֹרִ֥י",
       "lemma": "5785",
       "morph": "HNcmsc/Sp1cs",
@@ -98,7 +113,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רָ֝גַ֗ע",
       "lemma": "7280 c",
       "morph": "HVqp3ms",
@@ -112,7 +127,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וַיִּמָּאֵֽס",
       "lemma": "c/3988 b",
       "morph": "HC/VNw3ms",
@@ -123,21 +138,6 @@
       "source": {
         "lemma": "c/3988 b",
         "morph": "HC/VNw3ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "וְג֣וּשׁ",
-      "lemma": "c/1487",
-      "morph": "HC/Ncmsc",
-      "strongs": [
-        "H1487"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/1487",
-        "morph": "HC/Ncmsc"
       }
     }
   ],

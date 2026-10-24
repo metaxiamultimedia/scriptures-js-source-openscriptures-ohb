@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֧אמֶר ל֣וֹ יוֹאָ֗ב לֹא֩ אִ֨ישׁ בְּשֹׂרָ֤ה אַתָּה֙ הַיּ֣וֹם הַזֶּ֔ה וּבִשַּׂרְתָּ֖ בְּי֣וֹם אַחֵ֑ר וְהַיּ֤וֹם הַזֶּה֙ לֹ֣א תְבַשֵּׂ֔ר כִּֽי על בֶּן הַמֶּ֖לֶךְ מֵֽת עַל כֵּ֥ן",
+  "text": "וַיֹּ֧אמֶר ל֣וֹ יוֹאָ֗ב לֹא֩ אִ֨ישׁ בְּשֹׂרָ֤ה אַתָּה֙ הַיּ֣וֹם הַזֶּ֔ה וּבִשַּׂרְתָּ֖ בְּי֣וֹם אַחֵ֑ר וְהַיּ֤וֹם הַזֶּה֙ לֹ֣א תְבַשֵּׂ֔ר כִּֽי על עַל כֵּ֥ן בֶּן הַמֶּ֖לֶךְ מֵֽת",
   "words": [
     {
       "position": 1,
@@ -249,9 +249,7 @@
         "H5921"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "5921 b",
         "morph": "HR",
@@ -260,6 +258,38 @@
     },
     {
       "position": 19,
+      "text": "עַל",
+      "lemma": "5921 b",
+      "morph": "HR",
+      "strongs": [
+        "H5921"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "5921 b",
+        "morph": "HR"
+      }
+    },
+    {
+      "position": 20,
+      "text": "כֵּ֥ן",
+      "lemma": "3651 b",
+      "morph": "HTm",
+      "strongs": [
+        "H3651"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3651 b",
+        "morph": "HTm"
+      }
+    },
+    {
+      "position": 21,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -275,7 +305,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 22,
       "text": "הַמֶּ֖לֶךְ",
       "lemma": "d/4428",
       "morph": "HTd/Ncmsa",
@@ -289,7 +319,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 23,
       "text": "מֵֽת",
       "lemma": "4191",
       "morph": "HVqp3ms",
@@ -300,36 +330,6 @@
       "source": {
         "lemma": "4191",
         "morph": "HVqp3ms"
-      }
-    },
-    {
-      "position": 22,
-      "text": "עַל",
-      "lemma": "5921 b",
-      "morph": "HR",
-      "strongs": [
-        "H5921"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5921 b",
-        "morph": "HR"
-      }
-    },
-    {
-      "position": 23,
-      "text": "כֵּ֥ן",
-      "lemma": "3651 b",
-      "morph": "HTm",
-      "strongs": [
-        "H3651"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3651 b",
-        "morph": "HTm"
       }
     }
   ],

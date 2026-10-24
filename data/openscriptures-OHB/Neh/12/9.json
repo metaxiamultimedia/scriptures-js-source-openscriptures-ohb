@@ -1,5 +1,5 @@
 {
-  "text": "וּבַקְבֻּֽקְיָ֨ה וענו אֲחֵיהֶ֛ם לְנֶגְדָּ֖ם לְמִשְׁמָרֽוֹת וְעֻנִּ֧י",
+  "text": "וּבַקְבֻּֽקְיָ֨ה וענו וְעֻנִּ֧י אֲחֵיהֶ֛ם לְנֶגְדָּ֖ם לְמִשְׁמָרֽוֹת",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "וְעֻנִּ֧י",
+      "lemma": "c/6042",
+      "morph": "HC/Np",
+      "strongs": [
+        "H6042"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6042",
+        "morph": "HC/Np"
+      }
+    },
+    {
+      "position": 4,
       "text": "אֲחֵיהֶ֛ם",
       "lemma": "251",
       "morph": "HNcmpc/Sp3mp",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "לְנֶגְדָּ֖ם",
       "lemma": "l/5048",
       "morph": "HR/R/Sp3mp",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לְמִשְׁמָרֽוֹת",
       "lemma": "l/4931",
       "morph": "HR/Ncfpa",
@@ -71,21 +86,6 @@
       "source": {
         "lemma": "l/4931",
         "morph": "HR/Ncfpa"
-      }
-    },
-    {
-      "position": 6,
-      "text": "וְעֻנִּ֧י",
-      "lemma": "c/6042",
-      "morph": "HC/Np",
-      "strongs": [
-        "H6042"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/6042",
-        "morph": "HC/Np"
       }
     }
   ],

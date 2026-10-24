@@ -1,5 +1,5 @@
 {
-  "text": "וַֽיְדַבְּר֧וּ הַכַּשְׂדִּ֛ים לַמֶּ֖לֶךְ אֲרָמִ֑ית מַלְכָּא֙ לְעָלְמִ֣ין חֱיִ֔י אֱמַ֥ר חֶלְמָ֛א לעבדיך וּפִשְׁרָ֥א נְחַוֵּֽא לְעַבְדָ֖ךְ",
+  "text": "וַֽיְדַבְּר֧וּ הַכַּשְׂדִּ֛ים לַמֶּ֖לֶךְ אֲרָמִ֑ית מַלְכָּא֙ לְעָלְמִ֣ין חֱיִ֔י אֱמַ֥ר חֶלְמָ֛א לעבדיך לְעַבְדָ֖ךְ וּפִשְׁרָ֥א נְחַוֵּֽא",
   "words": [
     {
       "position": 1,
@@ -145,6 +145,21 @@
     },
     {
       "position": 11,
+      "text": "לְעַבְדָ֖ךְ",
+      "lemma": "l/5649",
+      "morph": "AR/Ncmsc/Sp2ms",
+      "strongs": [
+        "H5649"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "l/5649",
+        "morph": "AR/Ncmsc/Sp2ms"
+      }
+    },
+    {
+      "position": 12,
       "text": "וּפִשְׁרָ֥א",
       "lemma": "c/6591",
       "morph": "AC/Ncmsd/Td",
@@ -158,7 +173,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "נְחַוֵּֽא",
       "lemma": "2324",
       "morph": "AVpi1cp",
@@ -169,21 +184,6 @@
       "source": {
         "lemma": "2324",
         "morph": "AVpi1cp"
-      }
-    },
-    {
-      "position": 13,
-      "text": "לְעַבְדָ֖ךְ",
-      "lemma": "l/5649",
-      "morph": "AR/Ncmsc/Sp2ms",
-      "strongs": [
-        "H5649"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "l/5649",
-        "morph": "AR/Ncmsc/Sp2ms"
       }
     }
   ],

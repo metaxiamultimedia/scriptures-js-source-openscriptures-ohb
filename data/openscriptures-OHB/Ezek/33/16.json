@@ -1,5 +1,5 @@
 {
-  "text": "כָּל חטאתו אֲשֶׁ֣ר חָטָ֔א לֹ֥א תִזָּכַ֖רְנָה ל֑וֹ מִשְׁפָּ֧ט וּצְדָקָ֛ה עָשָׂ֖ה חָי֥וֹ יִֽחְיֶֽה חַטֹּאתָיו֙",
+  "text": "כָּל חטאתו חַטֹּאתָיו֙ אֲשֶׁ֣ר חָטָ֔א לֹ֥א תִזָּכַ֖רְנָה ל֑וֹ מִשְׁפָּ֧ט וּצְדָקָ֛ה עָשָׂ֖ה חָי֥וֹ יִֽחְיֶֽה",
   "words": [
     {
       "position": 1,
@@ -35,6 +35,21 @@
     },
     {
       "position": 3,
+      "text": "חַטֹּאתָיו֙",
+      "lemma": "2403 b",
+      "morph": "HNcfpc/Sp3ms",
+      "strongs": [
+        "H2403"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2403 b",
+        "morph": "HNcfpc/Sp3ms"
+      }
+    },
+    {
+      "position": 4,
       "text": "אֲשֶׁ֣ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "חָטָ֔א",
       "lemma": "2398",
       "morph": "HVqp3ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לֹ֥א",
       "lemma": "3808",
       "morph": "HTn",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תִזָּכַ֖רְנָה",
       "lemma": "2142",
       "morph": "HVNi3fp",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "ל֑וֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -103,7 +118,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מִשְׁפָּ֧ט",
       "lemma": "4941",
       "morph": "HNcmsa",
@@ -117,7 +132,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וּצְדָקָ֛ה",
       "lemma": "c/6666",
       "morph": "HC/Ncfsa",
@@ -131,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עָשָׂ֖ה",
       "lemma": "6213 a",
       "morph": "HVqp3ms",
@@ -145,7 +160,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "חָי֥וֹ",
       "lemma": "2421",
       "morph": "HVqa",
@@ -159,7 +174,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יִֽחְיֶֽה",
       "lemma": "2421",
       "morph": "HVqi3ms",
@@ -170,21 +185,6 @@
       "source": {
         "lemma": "2421",
         "morph": "HVqi3ms"
-      }
-    },
-    {
-      "position": 13,
-      "text": "חַטֹּאתָיו֙",
-      "lemma": "2403 b",
-      "morph": "HNcfpc/Sp3ms",
-      "strongs": [
-        "H2403"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2403 b",
-        "morph": "HNcfpc/Sp3ms"
       }
     }
   ],

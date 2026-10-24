@@ -1,5 +1,5 @@
 {
-  "text": "וְאֵ֛לֶּה מִסְפַּ֥ר הַגִּבֹּרִ֖ים אֲשֶׁ֣ר לְדָוִ֑יד יָשָׁבְעָ֣ם בֶּן חַכְמוֹנִ֗י רֹ֚אשׁ השלושים הֽוּא עוֹרֵ֧ר אֶת חֲנִית֛וֹ עַל שְׁלֹשׁ מֵא֥וֹת חָלָ֖ל בְּפַ֥עַם אֶחָֽת הַשָּׁ֣לִישִׁ֔ים",
+  "text": "וְאֵ֛לֶּה מִסְפַּ֥ר הַגִּבֹּרִ֖ים אֲשֶׁ֣ר לְדָוִ֑יד יָשָׁבְעָ֣ם בֶּן חַכְמוֹנִ֗י רֹ֚אשׁ השלושים הַשָּׁ֣לִישִׁ֔ים הֽוּא עוֹרֵ֧ר אֶת חֲנִית֛וֹ עַל שְׁלֹשׁ מֵא֥וֹת חָלָ֖ל בְּפַ֥עַם אֶחָֽת",
   "words": [
     {
       "position": 1,
@@ -147,6 +147,21 @@
     },
     {
       "position": 11,
+      "text": "הַשָּׁ֣לִישִׁ֔ים",
+      "lemma": "d/7991 c",
+      "morph": "HTd/Acbpa",
+      "strongs": [
+        "H7991"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/7991 c",
+        "morph": "HTd/Acbpa"
+      }
+    },
+    {
+      "position": 12,
       "text": "הֽוּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "עוֹרֵ֧ר",
       "lemma": "5782",
       "morph": "HVop3ms",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "חֲנִית֛וֹ",
       "lemma": "2595",
       "morph": "HNcfsc/Sp3ms",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -222,7 +237,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "שְׁלֹשׁ",
       "lemma": "7969",
       "morph": "HAcfsa",
@@ -238,7 +253,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "מֵא֥וֹת",
       "lemma": "3967",
       "morph": "HAcbpa",
@@ -252,7 +267,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "חָלָ֖ל",
       "lemma": "2491 a",
       "morph": "HAamsa",
@@ -266,7 +281,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "בְּפַ֥עַם",
       "lemma": "b/6471",
       "morph": "HR/Ncfsa",
@@ -280,7 +295,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אֶחָֽת",
       "lemma": "259",
       "morph": "HAcfsa",
@@ -291,21 +306,6 @@
       "source": {
         "lemma": "259",
         "morph": "HAcfsa"
-      }
-    },
-    {
-      "position": 21,
-      "text": "הַשָּׁ֣לִישִׁ֔ים",
-      "lemma": "d/7991 c",
-      "morph": "HTd/Acbpa",
-      "strongs": [
-        "H7991"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/7991 c",
-        "morph": "HTd/Acbpa"
       }
     }
   ],

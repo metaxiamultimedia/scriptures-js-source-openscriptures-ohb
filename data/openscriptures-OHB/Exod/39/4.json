@@ -1,5 +1,5 @@
 {
-  "text": "כְּתֵפֹ֥ת עָֽשׂוּ ל֖וֹ חֹבְרֹ֑ת עַל שְׁנֵ֥י קצוותו חֻבָּֽר קְצוֹתָ֖יו",
+  "text": "כְּתֵפֹ֥ת עָֽשׂוּ ל֖וֹ חֹבְרֹ֑ת עַל שְׁנֵ֥י קצוותו קְצוֹתָ֖יו חֻבָּֽר",
   "words": [
     {
       "position": 1,
@@ -106,20 +106,6 @@
     },
     {
       "position": 8,
-      "text": "חֻבָּֽר",
-      "lemma": "2266",
-      "morph": "HVPp3ms",
-      "strongs": [
-        "H2266"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "2266",
-        "morph": "HVPp3ms"
-      }
-    },
-    {
-      "position": 9,
       "text": "קְצוֹתָ֖יו",
       "lemma": "7098",
       "morph": "HNcbpc/Sp3ms",
@@ -131,6 +117,20 @@
       "source": {
         "lemma": "7098",
         "morph": "HNcbpc/Sp3ms"
+      }
+    },
+    {
+      "position": 9,
+      "text": "חֻבָּֽר",
+      "lemma": "2266",
+      "morph": "HVPp3ms",
+      "strongs": [
+        "H2266"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "2266",
+        "morph": "HVPp3ms"
       }
     }
   ],

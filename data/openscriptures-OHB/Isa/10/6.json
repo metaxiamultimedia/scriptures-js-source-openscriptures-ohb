@@ -1,5 +1,5 @@
 {
-  "text": "בְּג֤וֹי חָנֵף֙ אֲשַׁלְּחֶ֔נּוּ וְעַל עַ֥ם עֶבְרָתִ֖י אֲצַוֶּ֑נּוּ לִשְׁלֹ֤ל שָׁלָל֙ וְלָבֹ֣ז בַּ֔ז ולשימו מִרְמָ֖ס כְּחֹ֥מֶר חוּצֽוֹת וּלְשׂוּמ֥וֹ",
+  "text": "בְּג֤וֹי חָנֵף֙ אֲשַׁלְּחֶ֔נּוּ וְעַל עַ֥ם עֶבְרָתִ֖י אֲצַוֶּ֑נּוּ לִשְׁלֹ֤ל שָׁלָל֙ וְלָבֹ֣ז בַּ֔ז ולשימו וּלְשׂוּמ֥וֹ מִרְמָ֖ס כְּחֹ֥מֶר חוּצֽוֹת",
   "words": [
     {
       "position": 1,
@@ -175,6 +175,21 @@
     },
     {
       "position": 13,
+      "text": "וּלְשׂוּמ֥וֹ",
+      "lemma": "c/l/7760 a",
+      "morph": "HC/R/Vqc/Sp3ms",
+      "strongs": [
+        "H7760"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/l/7760 a",
+        "morph": "HC/R/Vqc/Sp3ms"
+      }
+    },
+    {
+      "position": 14,
       "text": "מִרְמָ֖ס",
       "lemma": "4823",
       "morph": "HNcmsa",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כְּחֹ֥מֶר",
       "lemma": "k/2563 a",
       "morph": "HR/Ncmsc",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "חוּצֽוֹת",
       "lemma": "2351",
       "morph": "HNcmpa",
@@ -213,21 +228,6 @@
       "source": {
         "lemma": "2351",
         "morph": "HNcmpa"
-      }
-    },
-    {
-      "position": 16,
-      "text": "וּלְשׂוּמ֥וֹ",
-      "lemma": "c/l/7760 a",
-      "morph": "HC/R/Vqc/Sp3ms",
-      "strongs": [
-        "H7760"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/l/7760 a",
-        "morph": "HC/R/Vqc/Sp3ms"
       }
     }
   ],

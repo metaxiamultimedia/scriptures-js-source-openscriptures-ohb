@@ -1,5 +1,5 @@
 {
-  "text": "צֶ֖לֶק הָעַמֹּנִ֑י נַחְרַי֙ הַבְּאֵ֣רֹתִ֔י נשאי כְּלֵ֖י יוֹאָ֥ב בֶּן צְרֻיָֽה נֹשֵׂ֕א",
+  "text": "צֶ֖לֶק הָעַמֹּנִ֑י נַחְרַי֙ הַבְּאֵ֣רֹתִ֔י נשאי נֹשֵׂ֕א כְּלֵ֖י יוֹאָ֥ב בֶּן צְרֻיָֽה",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "נֹשֵׂ֕א",
+      "lemma": "5375",
+      "morph": "HVqrmsc",
+      "strongs": [
+        "H5375"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5375",
+        "morph": "HVqrmsc"
+      }
+    },
+    {
+      "position": 7,
       "text": "כְּלֵ֖י",
       "lemma": "3627",
       "morph": "HNcmpc",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יוֹאָ֥ב",
       "lemma": "3097",
       "morph": "HNp",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "צְרֻיָֽה",
       "lemma": "6870",
       "morph": "HNp",
@@ -130,21 +145,6 @@
         "lemma": "6870",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 10,
-      "text": "נֹשֵׂ֕א",
-      "lemma": "5375",
-      "morph": "HVqrmsc",
-      "strongs": [
-        "H5375"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5375",
-        "morph": "HVqrmsc"
-      }
     }
   ],
   "metadata": {
@@ -155,7 +155,7 @@
       },
       {
         "type": "setumah",
-        "afterWordPosition": 9
+        "afterWordPosition": 10
       }
     ],
     "terminator": "sof-pasuq"

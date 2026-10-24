@@ -1,5 +1,5 @@
 {
-  "text": "וַיְהִ֛י בַּשָּׁנָ֥ה הַחֲמִישִׁ֖ית לַמֶּ֣לֶךְ רְחַבְעָ֑ם עָלָ֛ה שושק מֶֽלֶךְ מִצְרַ֖יִם עַל יְרוּשָׁלִָֽם שִׁישַׁ֥ק",
+  "text": "וַיְהִ֛י בַּשָּׁנָ֥ה הַחֲמִישִׁ֖ית לַמֶּ֣לֶךְ רְחַבְעָ֑ם עָלָ֛ה שושק שִׁישַׁ֥ק מֶֽלֶךְ מִצְרַ֖יִם עַל יְרוּשָׁלִָֽם",
   "words": [
     {
       "position": 1,
@@ -103,6 +103,21 @@
     },
     {
       "position": 8,
+      "text": "שִׁישַׁ֥ק",
+      "lemma": "7895",
+      "morph": "HNp",
+      "strongs": [
+        "H7895"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7895",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 9,
       "text": "מֶֽלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsc",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "מִצְרַ֖יִם",
       "lemma": "4714",
       "morph": "HNp",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְרוּשָׁלִָֽם",
       "lemma": "3389",
       "morph": "HNp",
@@ -158,21 +173,6 @@
       "metadata": {},
       "source": {
         "lemma": "3389",
-        "morph": "HNp"
-      }
-    },
-    {
-      "position": 12,
-      "text": "שִׁישַׁ֥ק",
-      "lemma": "7895",
-      "morph": "HNp",
-      "strongs": [
-        "H7895"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7895",
         "morph": "HNp"
       }
     }

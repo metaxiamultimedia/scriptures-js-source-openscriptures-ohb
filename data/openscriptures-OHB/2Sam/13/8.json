@@ -1,5 +1,5 @@
 {
-  "text": "וַתֵּ֣לֶךְ תָּמָ֗ר בֵּ֛ית אַמְנ֥וֹן אָחִ֖יהָ וְה֣וּא שֹׁכֵ֑ב וַתִּקַּ֨ח אֶת הַבָּצֵ֤ק ותלוש וַתְּלַבֵּ֣ב לְעֵינָ֔יו וַתְּבַשֵּׁ֖ל אֶת הַלְּבִבֽוֹת וַתָּ֨לָשׁ֙",
+  "text": "וַתֵּ֣לֶךְ תָּמָ֗ר בֵּ֛ית אַמְנ֥וֹן אָחִ֖יהָ וְה֣וּא שֹׁכֵ֑ב וַתִּקַּ֨ח אֶת הַבָּצֵ֤ק ותלוש וַתָּ֨לָשׁ֙ וַתְּלַבֵּ֣ב לְעֵינָ֔יו וַתְּבַשֵּׁ֖ל אֶת הַלְּבִבֽוֹת",
   "words": [
     {
       "position": 1,
@@ -161,6 +161,21 @@
     },
     {
       "position": 12,
+      "text": "וַתָּ֨לָשׁ֙",
+      "lemma": "c/3888",
+      "morph": "HC/Vqw3fs",
+      "strongs": [
+        "H3888"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3888",
+        "morph": "HC/Vqw3fs"
+      }
+    },
+    {
+      "position": 13,
       "text": "וַתְּלַבֵּ֣ב",
       "lemma": "c/3823 b",
       "morph": "HC/Vpw3fs",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לְעֵינָ֔יו",
       "lemma": "l/5869 a",
       "morph": "HR/Ncbdc/Sp3ms",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וַתְּבַשֵּׁ֖ל",
       "lemma": "c/1310",
       "morph": "HC/Vpw3fs",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הַלְּבִבֽוֹת",
       "lemma": "d/3834",
       "morph": "HTd/Ncfpa",
@@ -229,21 +244,6 @@
       "source": {
         "lemma": "d/3834",
         "morph": "HTd/Ncfpa"
-      }
-    },
-    {
-      "position": 17,
-      "text": "וַתָּ֨לָשׁ֙",
-      "lemma": "c/3888",
-      "morph": "HC/Vqw3fs",
-      "strongs": [
-        "H3888"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/3888",
-        "morph": "HC/Vqw3fs"
       }
     }
   ],

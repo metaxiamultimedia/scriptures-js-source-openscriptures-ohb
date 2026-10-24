@@ -1,5 +1,5 @@
 {
-  "text": "וָאֹמַ֗ר אַחֲרֵ֨י עֲשׂוֹתָ֧הּ אֶת כָּל אֵ֛לֶּה אֵלַ֥י תָּשׁ֖וּב וְלֹא שָׁ֑בָה ותראה בָּגוֹדָ֥ה אֲחוֹתָ֖הּ יְהוּדָֽה וַתֵּ֛רֶא",
+  "text": "וָאֹמַ֗ר אַחֲרֵ֨י עֲשׂוֹתָ֧הּ אֶת כָּל אֵ֛לֶּה אֵלַ֥י תָּשׁ֖וּב וְלֹא שָׁ֑בָה ותראה וַתֵּ֛רֶא בָּגוֹדָ֥ה אֲחוֹתָ֖הּ יְהוּדָֽה",
   "words": [
     {
       "position": 1,
@@ -165,6 +165,21 @@
     },
     {
       "position": 12,
+      "text": "וַתֵּ֛רֶא",
+      "lemma": "c/7200",
+      "morph": "HC/Vqw3fs",
+      "strongs": [
+        "H7200"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7200",
+        "morph": "HC/Vqw3fs"
+      }
+    },
+    {
+      "position": 13,
       "text": "בָּגוֹדָ֥ה",
       "lemma": "901",
       "morph": "HAafsa",
@@ -178,7 +193,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֲחוֹתָ֖הּ",
       "lemma": "269",
       "morph": "HNcfsc/Sp3fs",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יְהוּדָֽה",
       "lemma": "3063",
       "morph": "HNp",
@@ -203,21 +218,6 @@
       "source": {
         "lemma": "3063",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 15,
-      "text": "וַתֵּ֛רֶא",
-      "lemma": "c/7200",
-      "morph": "HC/Vqw3fs",
-      "strongs": [
-        "H7200"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7200",
-        "morph": "HC/Vqw3fs"
       }
     }
   ],

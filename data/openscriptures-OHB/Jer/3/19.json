@@ -1,5 +1,5 @@
 {
-  "text": "וְאָנֹכִ֣י אָמַ֗רְתִּי אֵ֚יךְ אֲשִׁיתֵ֣ךְ בַּבָּנִ֔ים וְאֶתֶּן לָךְ֙ אֶ֣רֶץ חֶמְדָּ֔ה נַחֲלַ֥ת צְבִ֖י צִבְא֣וֹת גּוֹיִ֑ם וָאֹמַ֗ר אָבִי֙ תקראו לִ֔י וּמֵאַחֲרַ֖י לֹ֥א תשובו תִּקְרְאִי תָשֽׁוּבִי",
+  "text": "וְאָנֹכִ֣י אָמַ֗רְתִּי אֵ֚יךְ אֲשִׁיתֵ֣ךְ בַּבָּנִ֔ים וְאֶתֶּן לָךְ֙ אֶ֣רֶץ חֶמְדָּ֔ה נַחֲלַ֥ת צְבִ֖י צִבְא֣וֹת גּוֹיִ֑ם וָאֹמַ֗ר אָבִי֙ תקראו תִּקְרְאִי לִ֔י וּמֵאַחֲרַ֖י לֹ֥א תשובו תָשֽׁוּבִי",
   "words": [
     {
       "position": 1,
@@ -221,9 +221,7 @@
         "H7121"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "7121",
         "morph": "HVqi2mp",
@@ -232,6 +230,23 @@
     },
     {
       "position": 17,
+      "text": "תִּקְרְאִי",
+      "lemma": "7121",
+      "morph": "HVqi2fs",
+      "strongs": [
+        "H7121"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "7121",
+        "morph": "HVqi2fs"
+      }
+    },
+    {
+      "position": 18,
       "text": "לִ֔י",
       "lemma": "l/7121",
       "morph": "HR/Sp1cs",
@@ -245,7 +260,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וּמֵאַחֲרַ֖י",
       "lemma": "c/m/310 a",
       "morph": "HC/R/R/Sp1cs",
@@ -259,7 +274,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "לֹ֥א",
       "lemma": "3808",
       "morph": "HTn",
@@ -273,7 +288,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "תשובו",
       "lemma": "7725",
       "morph": "HVqi2mp",
@@ -286,21 +301,6 @@
         "lemma": "7725",
         "morph": "HVqi2mp",
         "type": "x-ketiv"
-      }
-    },
-    {
-      "position": 21,
-      "text": "תִּקְרְאִי",
-      "lemma": "7121",
-      "morph": "HVqi2fs",
-      "strongs": [
-        "H7121"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7121",
-        "morph": "HVqi2fs"
       }
     },
     {

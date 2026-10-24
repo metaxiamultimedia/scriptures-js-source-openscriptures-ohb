@@ -1,5 +1,5 @@
 {
-  "text": "וַתֹּ֥אמֶר לֵאָ֖ה בגד וַתִּקְרָ֥א אֶת שְׁמ֖וֹ גָּֽד בָּ֣א גָ֑ד",
+  "text": "וַתֹּ֥אמֶר לֵאָ֖ה בגד בָּ֣א גָ֑ד וַתִּקְרָ֥א אֶת שְׁמ֖וֹ גָּֽד",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,36 @@
     },
     {
       "position": 4,
+      "text": "בָּ֣א",
+      "lemma": "935",
+      "morph": "HVqrmsa",
+      "strongs": [
+        "H935"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "935",
+        "morph": "HVqrmsa"
+      }
+    },
+    {
+      "position": 5,
+      "text": "גָ֑ד",
+      "lemma": "1409",
+      "morph": "HNcmsa",
+      "strongs": [
+        "H1409"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1409",
+        "morph": "HNcmsa"
+      }
+    },
+    {
+      "position": 6,
       "text": "וַתִּקְרָ֥א",
       "lemma": "c/7121",
       "morph": "HC/Vqw3fs",
@@ -60,7 +90,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 7,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -76,7 +106,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "שְׁמ֖וֹ",
       "lemma": "8034",
       "morph": "HNcmsc/Sp3ms",
@@ -90,7 +120,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "גָּֽד",
       "lemma": "1410",
       "morph": "HNp",
@@ -101,36 +131,6 @@
       "source": {
         "lemma": "1410",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 8,
-      "text": "בָּ֣א",
-      "lemma": "935",
-      "morph": "HVqrmsa",
-      "strongs": [
-        "H935"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "935",
-        "morph": "HVqrmsa"
-      }
-    },
-    {
-      "position": 9,
-      "text": "גָ֑ד",
-      "lemma": "1409",
-      "morph": "HNcmsa",
-      "strongs": [
-        "H1409"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1409",
-        "morph": "HNcmsa"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "לַמְנַצֵּ֥חַ עַֽל ידיתון לְאָסָ֥ף מִזְמֽוֹר יְדוּת֗וּן",
+  "text": "לַמְנַצֵּ֥חַ עַֽל ידיתון יְדוּת֗וּן לְאָסָ֥ף מִזְמֽוֹר",
   "words": [
     {
       "position": 1,
@@ -49,6 +49,21 @@
     },
     {
       "position": 4,
+      "text": "יְדוּת֗וּן",
+      "lemma": "3038",
+      "morph": "HNp",
+      "strongs": [
+        "H3038"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3038",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 5,
       "text": "לְאָסָ֥ף",
       "lemma": "l/623",
       "morph": "HR/Np",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מִזְמֽוֹר",
       "lemma": "4210",
       "morph": "HNcmsa",
@@ -73,21 +88,6 @@
       "source": {
         "lemma": "4210",
         "morph": "HNcmsa"
-      }
-    },
-    {
-      "position": 6,
-      "text": "יְדוּת֗וּן",
-      "lemma": "3038",
-      "morph": "HNp",
-      "strongs": [
-        "H3038"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3038",
-        "morph": "HNp"
       }
     }
   ],

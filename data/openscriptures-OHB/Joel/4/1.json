@@ -1,23 +1,8 @@
 {
-  "text": "אָשִׁ֛יב כִּ֗י הִנֵּ֛ה בַּיָּמִ֥ים הָהֵ֖מָּה וּבָעֵ֣ת הַהִ֑יא אֲשֶׁ֥ר אשוב אֶת שְׁב֥וּת יְהוּדָ֖ה וִירוּשָׁלִָֽם",
+  "text": "כִּ֗י הִנֵּ֛ה בַּיָּמִ֥ים הָהֵ֖מָּה וּבָעֵ֣ת הַהִ֑יא אֲשֶׁ֥ר אשוב אָשִׁ֛יב אֶת שְׁב֥וּת יְהוּדָ֖ה וִירוּשָׁלִָֽם",
   "words": [
     {
       "position": 1,
-      "text": "אָשִׁ֛יב",
-      "lemma": "7725",
-      "morph": "HVhi1cs",
-      "strongs": [
-        "H7725"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7725",
-        "morph": "HVhi1cs"
-      }
-    },
-    {
-      "position": 2,
       "text": "כִּ֗י",
       "lemma": "3588 a",
       "morph": "HC",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "הִנֵּ֛ה",
       "lemma": "2009",
       "morph": "HTm",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "בַּיָּמִ֥ים",
       "lemma": "b/3117",
       "morph": "HRd/Ncmpa",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "הָהֵ֖מָּה",
       "lemma": "d/1992",
       "morph": "HTd/Pdxmp",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "וּבָעֵ֣ת",
       "lemma": "c/b/6256",
       "morph": "HC/Rd/Ncbsa",
@@ -87,7 +72,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "הַהִ֑יא",
       "lemma": "d/1931",
       "morph": "HTd/Pp3fs",
@@ -101,7 +86,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -115,7 +100,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "אשוב",
       "lemma": "7725",
       "morph": "HVqi1cs",
@@ -128,6 +113,21 @@
         "lemma": "7725",
         "morph": "HVqi1cs",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 9,
+      "text": "אָשִׁ֛יב",
+      "lemma": "7725",
+      "morph": "HVhi1cs",
+      "strongs": [
+        "H7725"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7725",
+        "morph": "HVhi1cs"
       }
     },
     {

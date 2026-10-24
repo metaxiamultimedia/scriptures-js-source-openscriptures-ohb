@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֨אמֶר אֶל עֲבָדָ֜יו רְאוּ֩ חֶלְקַ֨ת יוֹאָ֤ב אֶל יָדִי֙ וְלוֹ שָׁ֣ם שְׂעֹרִ֔ים לְכ֖וּ והוצתיה בָאֵ֑שׁ וַיַּצִּ֜תוּ עַבְדֵ֧י אַבְשָׁל֛וֹם אֶת הַחֶלְקָ֖ה בָּאֵֽשׁ וְהַצִּית֣וּהָ",
+  "text": "וַיֹּ֨אמֶר אֶל עֲבָדָ֜יו רְאוּ֩ חֶלְקַ֨ת יוֹאָ֤ב אֶל יָדִי֙ וְלוֹ שָׁ֣ם שְׂעֹרִ֔ים לְכ֖וּ והוצתיה וְהַצִּית֣וּהָ בָאֵ֑שׁ וַיַּצִּ֜תוּ עַבְדֵ֧י אַבְשָׁל֛וֹם אֶת הַחֶלְקָ֖ה בָּאֵֽשׁ",
   "words": [
     {
       "position": 1,
@@ -191,6 +191,21 @@
     },
     {
       "position": 14,
+      "text": "וְהַצִּית֣וּהָ",
+      "lemma": "c/3341",
+      "morph": "HC/Vhv2mp/Sp3fs",
+      "strongs": [
+        "H3341"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3341",
+        "morph": "HC/Vhv2mp/Sp3fs"
+      }
+    },
+    {
+      "position": 15,
       "text": "בָאֵ֑שׁ",
       "lemma": "b/784",
       "morph": "HRd/Ncbsa",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וַיַּצִּ֜תוּ",
       "lemma": "c/3341",
       "morph": "HC/Vhw3mp",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "עַבְדֵ֧י",
       "lemma": "5650",
       "morph": "HNcmpc",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אַבְשָׁל֛וֹם",
       "lemma": "53",
       "morph": "HNp",
@@ -246,7 +261,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -262,7 +277,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הַחֶלְקָ֖ה",
       "lemma": "d/2513 a",
       "morph": "HTd/Ncfsa",
@@ -276,7 +291,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "בָּאֵֽשׁ",
       "lemma": "b/784",
       "morph": "HRd/Ncbsa",
@@ -288,28 +303,13 @@
         "lemma": "b/784",
         "morph": "HRd/Ncbsa"
       }
-    },
-    {
-      "position": 21,
-      "text": "וְהַצִּית֣וּהָ",
-      "lemma": "c/3341",
-      "morph": "HC/Vhv2mp/Sp3fs",
-      "strongs": [
-        "H3341"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/3341",
-        "morph": "HC/Vhv2mp/Sp3fs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 20
+        "afterWordPosition": 21
       }
     ],
     "terminator": "sof-pasuq"

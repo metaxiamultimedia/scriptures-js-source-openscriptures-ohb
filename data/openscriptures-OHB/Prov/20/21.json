@@ -1,5 +1,5 @@
 {
-  "text": "נַ֭חֲלָה מבחלת בָּרִאשֹׁנָ֑ה וְ֝אַחֲרִיתָ֗הּ לֹ֣א תְבֹרָֽךְ מְבֹהֶ֣לֶת",
+  "text": "נַ֭חֲלָה מבחלת מְבֹהֶ֣לֶת בָּרִאשֹׁנָ֑ה וְ֝אַחֲרִיתָ֗הּ לֹ֣א תְבֹרָֽךְ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "מְבֹהֶ֣לֶת",
+      "lemma": "926",
+      "morph": "HVPsfsa",
+      "strongs": [
+        "H926"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "926",
+        "morph": "HVPsfsa"
+      }
+    },
+    {
+      "position": 4,
       "text": "בָּרִאשֹׁנָ֑ה",
       "lemma": "b/7223",
       "morph": "HRd/Aafsa",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וְ֝אַחֲרִיתָ֗הּ",
       "lemma": "c/319",
       "morph": "HC/Ncfsc/Sp3fs",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "תְבֹרָֽךְ",
       "lemma": "1288",
       "morph": "HVPi3fs",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "1288",
         "morph": "HVPi3fs"
-      }
-    },
-    {
-      "position": 7,
-      "text": "מְבֹהֶ֣לֶת",
-      "lemma": "926",
-      "morph": "HVPsfsa",
-      "strongs": [
-        "H926"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "926",
-        "morph": "HVPsfsa"
       }
     }
   ],

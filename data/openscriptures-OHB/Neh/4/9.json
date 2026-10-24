@@ -1,23 +1,8 @@
 {
-  "text": "וַנָּ֤שָׁב וַיְהִ֞י כַּֽאֲשֶׁר שָׁמְע֤וּ אוֹיְבֵ֨ינוּ֙ כִּי נ֣וֹדַֽע לָ֔נוּ וַיָּ֥פֶר הָאֱלֹהִ֖ים אֶת עֲצָתָ֑ם ונשוב כֻּלָּ֨נוּ֙ אֶל הַ֣חוֹמָ֔ה אִ֖ישׁ אֶל מְלַאכְתּֽוֹ",
+  "text": "וַיְהִ֞י כַּֽאֲשֶׁר שָׁמְע֤וּ אוֹיְבֵ֨ינוּ֙ כִּי נ֣וֹדַֽע לָ֔נוּ וַיָּ֥פֶר הָאֱלֹהִ֖ים אֶת עֲצָתָ֑ם ונשוב וַנָּ֤שָׁב כֻּלָּ֨נוּ֙ אֶל הַ֣חוֹמָ֔ה אִ֖ישׁ אֶל מְלַאכְתּֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "וַנָּ֤שָׁב",
-      "lemma": "c/7725",
-      "morph": "HC/Vqw1cp",
-      "strongs": [
-        "H7725"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7725",
-        "morph": "HC/Vqw1cp"
-      }
-    },
-    {
-      "position": 2,
       "text": "וַיְהִ֞י",
       "lemma": "c/1961",
       "morph": "HC/Vqw3ms",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "כַּֽאֲשֶׁר",
       "lemma": "k/834 d",
       "morph": "HR/Tr",
@@ -47,7 +32,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "שָׁמְע֤וּ",
       "lemma": "8085",
       "morph": "HVqp3cp",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "אוֹיְבֵ֨ינוּ֙",
       "lemma": "341",
       "morph": "HVqrmpc/Sp1cp",
@@ -75,7 +60,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "כִּי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -91,7 +76,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "נ֣וֹדַֽע",
       "lemma": "3045",
       "morph": "HVNp3ms",
@@ -105,7 +90,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "לָ֔נוּ",
       "lemma": "l",
       "morph": "HR/Sp1cp",
@@ -118,7 +103,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "וַיָּ֥פֶר",
       "lemma": "c/6565 a",
       "morph": "HC/Vhw3ms",
@@ -132,7 +117,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 9,
       "text": "הָאֱלֹהִ֖ים",
       "lemma": "d/430",
       "morph": "HTd/Ncmpa",
@@ -146,7 +131,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 10,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -162,7 +147,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 11,
       "text": "עֲצָתָ֑ם",
       "lemma": "6098",
       "morph": "HNcfsc/Sp3mp",
@@ -176,7 +161,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 12,
       "text": "ונשוב",
       "lemma": "c/7725",
       "morph": "HC/Vqw1cp",
@@ -189,6 +174,21 @@
         "lemma": "c/7725",
         "morph": "HC/Vqw1cp",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 13,
+      "text": "וַנָּ֤שָׁב",
+      "lemma": "c/7725",
+      "morph": "HC/Vqw1cp",
+      "strongs": [
+        "H7725"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7725",
+        "morph": "HC/Vqw1cp"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "text": "הֲֽרָאִ֔יתָ כִּֽי נִכְנַ֥ע אַחְאָ֖ב מִלְּפָנָ֑י יַ֜עַן כִּֽי נִכְנַ֣ע מִפָּנַ֗י לֹֽא אבי הָֽרָעָה֙ בְּיָמָ֔יו בִּימֵ֣י בְנ֔וֹ אָבִ֥יא הָרָעָ֖ה עַל בֵּיתֽוֹ אָבִ֤יא",
+  "text": "הֲֽרָאִ֔יתָ כִּֽי נִכְנַ֥ע אַחְאָ֖ב מִלְּפָנָ֑י יַ֜עַן כִּֽי נִכְנַ֣ע מִפָּנַ֗י לֹֽא אבי אָבִ֤יא הָֽרָעָה֙ בְּיָמָ֔יו בִּימֵ֣י בְנ֔וֹ אָבִ֥יא הָרָעָ֖ה עַל בֵּיתֽוֹ",
   "words": [
     {
       "position": 1,
@@ -165,6 +165,21 @@
     },
     {
       "position": 12,
+      "text": "אָבִ֤יא",
+      "lemma": "935",
+      "morph": "HVhi1cs",
+      "strongs": [
+        "H935"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "935",
+        "morph": "HVhi1cs"
+      }
+    },
+    {
+      "position": 13,
       "text": "הָֽרָעָה֙",
       "lemma": "d/7451 c",
       "morph": "HTd/Ncfsa",
@@ -178,7 +193,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בְּיָמָ֔יו",
       "lemma": "b/3117",
       "morph": "HR/Ncmpc/Sp3ms",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בִּימֵ֣י",
       "lemma": "b/3117",
       "morph": "HR/Ncmpc",
@@ -206,7 +221,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בְנ֔וֹ",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp3ms",
@@ -220,7 +235,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אָבִ֥יא",
       "lemma": "935",
       "morph": "HVhi1cs",
@@ -234,7 +249,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "הָרָעָ֖ה",
       "lemma": "d/7451 c",
       "morph": "HTd/Ncfsa",
@@ -248,7 +263,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -264,7 +279,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "בֵּיתֽוֹ",
       "lemma": "1004 b",
       "morph": "HNcmsc/Sp3ms",
@@ -275,21 +290,6 @@
       "source": {
         "lemma": "1004 b",
         "morph": "HNcmsc/Sp3ms"
-      }
-    },
-    {
-      "position": 20,
-      "text": "אָבִ֤יא",
-      "lemma": "935",
-      "morph": "HVhi1cs",
-      "strongs": [
-        "H935"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "935",
-        "morph": "HVhi1cs"
       }
     }
   ],

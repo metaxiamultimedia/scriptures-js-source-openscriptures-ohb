@@ -1,5 +1,5 @@
 {
-  "text": "וְאֶת עֵינֵ֥י צִדְקִיָּ֖הוּ עִוֵּ֑ר וַיַּאַסְרֵ֣הוּ בַֽנְחֻשְׁתַּ֗יִם וַיְבִאֵ֤הוּ מֶֽלֶךְ בָּבֶל֙ בָּבֶ֔לָה וַיִּתְּנֵ֥הוּ בבית הַפְּקֻדֹּ֖ת עַד י֥וֹם מוֹתֽוֹ בֵֽית",
+  "text": "וְאֶת עֵינֵ֥י צִדְקִיָּ֖הוּ עִוֵּ֑ר וַיַּאַסְרֵ֣הוּ בַֽנְחֻשְׁתַּ֗יִם וַיְבִאֵ֤הוּ מֶֽלֶךְ בָּבֶל֙ בָּבֶ֔לָה וַיִּתְּנֵ֥הוּ בבית בֵֽית הַפְּקֻדֹּ֖ת עַד י֥וֹם מוֹתֽוֹ",
   "words": [
     {
       "position": 1,
@@ -168,9 +168,7 @@
         "H1004"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "b/1004 b",
         "morph": "HR/Ncmsc",
@@ -179,6 +177,23 @@
     },
     {
       "position": 13,
+      "text": "בֵֽית",
+      "lemma": "1004 b",
+      "morph": "HNcmsc",
+      "strongs": [
+        "H1004"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "1004 b",
+        "morph": "HNcmsc"
+      }
+    },
+    {
+      "position": 14,
       "text": "הַפְּקֻדֹּ֖ת",
       "lemma": "d/6486",
       "morph": "HTd/Ncfpa",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -208,7 +223,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "י֥וֹם",
       "lemma": "3117",
       "morph": "HNcmsc",
@@ -222,7 +237,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "מוֹתֽוֹ",
       "lemma": "4194",
       "morph": "HNcmsc/Sp3ms",
@@ -233,21 +248,6 @@
       "source": {
         "lemma": "4194",
         "morph": "HNcmsc/Sp3ms"
-      }
-    },
-    {
-      "position": 17,
-      "text": "בֵֽית",
-      "lemma": "1004 b",
-      "morph": "HNcmsc",
-      "strongs": [
-        "H1004"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1004 b",
-        "morph": "HNcmsc"
       }
     }
   ],

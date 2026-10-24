@@ -1,5 +1,5 @@
 {
-  "text": "וּבְנֵ֖י שָׁ֑מֶר אֲחִ֥י ורוהגה יחבה וַאֲרָֽם וְרָהְגָּ֖ה וְחֻבָּ֥ה",
+  "text": "וּבְנֵ֖י שָׁ֑מֶר אֲחִ֥י ורוהגה וְרָהְגָּ֖ה יחבה וְחֻבָּ֥ה וַאֲרָֽם",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "וְרָהְגָּ֖ה",
+      "lemma": "c/7303",
+      "morph": "HC/Np",
+      "strongs": [
+        "H7303"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7303",
+        "morph": "HC/Np"
+      }
+    },
+    {
+      "position": 6,
       "text": "יחבה",
       "lemma": "3160",
       "morph": "HNp",
@@ -76,36 +91,7 @@
       }
     },
     {
-      "position": 6,
-      "text": "וַאֲרָֽם",
-      "lemma": "c/758",
-      "morph": "HC/Np",
-      "strongs": [
-        "H758"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "c/758",
-        "morph": "HC/Np"
-      }
-    },
-    {
       "position": 7,
-      "text": "וְרָהְגָּ֖ה",
-      "lemma": "c/7303",
-      "morph": "HC/Np",
-      "strongs": [
-        "H7303"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7303",
-        "morph": "HC/Np"
-      }
-    },
-    {
-      "position": 8,
       "text": "וְחֻבָּ֥ה",
       "lemma": "c/3160",
       "morph": "HC/Np",
@@ -116,6 +102,20 @@
       "metadata": {},
       "source": {
         "lemma": "c/3160",
+        "morph": "HC/Np"
+      }
+    },
+    {
+      "position": 8,
+      "text": "וַאֲרָֽם",
+      "lemma": "c/758",
+      "morph": "HC/Np",
+      "strongs": [
+        "H758"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/758",
         "morph": "HC/Np"
       }
     }

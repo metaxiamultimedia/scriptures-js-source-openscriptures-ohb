@@ -1,23 +1,8 @@
 {
-  "text": "אֶשְׁמָר לְ֭עוֹלָ֗ם אשמור ל֣וֹ חַסְדִּ֑י וּ֝בְרִיתִ֗י נֶאֱמֶ֥נֶת לֽוֹ",
+  "text": "לְ֭עוֹלָ֗ם אשמור אֶשְׁמָר ל֣וֹ חַסְדִּ֑י וּ֝בְרִיתִ֗י נֶאֱמֶ֥נֶת לֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "אֶשְׁמָר",
-      "lemma": "8104",
-      "morph": "HVqi1cs",
-      "strongs": [
-        "H8104"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8104",
-        "morph": "HVqi1cs"
-      }
-    },
-    {
-      "position": 2,
       "text": "לְ֭עוֹלָ֗ם",
       "lemma": "l/5769",
       "morph": "HR/Ncmsa",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "אשמור",
       "lemma": "8104",
       "morph": "HVqi1cs",
@@ -39,13 +24,28 @@
         "H8104"
       ],
       "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "8104",
+        "morph": "HVqi1cs",
+        "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 3,
+      "text": "אֶשְׁמָר",
+      "lemma": "8104",
+      "morph": "HVqi1cs",
+      "strongs": [
+        "H8104"
+      ],
+      "variant": "qere",
       "metadata": {
         "joinNext": "maqqef"
       },
       "source": {
         "lemma": "8104",
-        "morph": "HVqi1cs",
-        "type": "x-ketiv"
+        "morph": "HVqi1cs"
       }
     },
     {

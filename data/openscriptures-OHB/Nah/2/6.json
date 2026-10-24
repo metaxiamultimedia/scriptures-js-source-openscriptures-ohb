@@ -1,23 +1,8 @@
 {
-  "text": "בַּהֲלִֽיכָתָ֑ם יִזְכֹּר֙ אַדִּירָ֔יו יִכָּשְׁל֖וּ בהלכותם יְמַֽהֲרוּ֙ חֽוֹמָתָ֔הּ וְהֻכַ֖ן הַסֹּכֵֽךְ",
+  "text": "יִזְכֹּר֙ אַדִּירָ֔יו יִכָּשְׁל֖וּ בהלכותם בַּהֲלִֽיכָתָ֑ם יְמַֽהֲרוּ֙ חֽוֹמָתָ֔הּ וְהֻכַ֖ן הַסֹּכֵֽךְ",
   "words": [
     {
       "position": 1,
-      "text": "בַּהֲלִֽיכָתָ֑ם",
-      "lemma": "b/1979",
-      "morph": "HR/Ncfsc/Sp3mp",
-      "strongs": [
-        "H1979"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/1979",
-        "morph": "HR/Ncfsc/Sp3mp"
-      }
-    },
-    {
-      "position": 2,
       "text": "יִזְכֹּר֙",
       "lemma": "2142",
       "morph": "HVqi3ms",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "אַדִּירָ֔יו",
       "lemma": "117",
       "morph": "HAampc/Sp3ms",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "יִכָּשְׁל֖וּ",
       "lemma": "3782",
       "morph": "HVNi3mp",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "בהלכותם",
       "lemma": "b/1979",
       "morph": "HR/Ncfpc/Sp3mp",
@@ -72,6 +57,21 @@
         "lemma": "b/1979",
         "morph": "HR/Ncfpc/Sp3mp",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 5,
+      "text": "בַּהֲלִֽיכָתָ֑ם",
+      "lemma": "b/1979",
+      "morph": "HR/Ncfsc/Sp3mp",
+      "strongs": [
+        "H1979"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/1979",
+        "morph": "HR/Ncfsc/Sp3mp"
       }
     },
     {

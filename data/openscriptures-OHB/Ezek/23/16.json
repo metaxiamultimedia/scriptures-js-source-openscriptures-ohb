@@ -1,5 +1,5 @@
 {
-  "text": "ותעגב עֲלֵיהֶ֖ם לְמַרְאֵ֣ה עֵינֶ֑יהָ וַתִּשְׁלַ֧ח מַלְאָכִ֛ים אֲלֵיהֶ֖ם כַּשְׂדִּֽימָה וַתַּעְגְּבָ֥ה",
+  "text": "ותעגב וַתַּעְגְּבָ֥ה עֲלֵיהֶ֖ם לְמַרְאֵ֣ה עֵינֶ֑יהָ וַתִּשְׁלַ֧ח מַלְאָכִ֛ים אֲלֵיהֶ֖ם כַּשְׂדִּֽימָה",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "וַתַּעְגְּבָ֥ה",
+      "lemma": "c/5689",
+      "morph": "HC/Vqw3fs/Sh",
+      "strongs": [
+        "H5689"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/5689",
+        "morph": "HC/Vqw3fs/Sh"
+      }
+    },
+    {
+      "position": 3,
       "text": "עֲלֵיהֶ֖ם",
       "lemma": "5921 a",
       "morph": "HR/Sp3mp",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "לְמַרְאֵ֣ה",
       "lemma": "l/4758",
       "morph": "HR/Ncmsc",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "עֵינֶ֑יהָ",
       "lemma": "5869 a",
       "morph": "HNcbdc/Sp3fs",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "וַתִּשְׁלַ֧ח",
       "lemma": "c/7971",
       "morph": "HC/Vqw3fs",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מַלְאָכִ֛ים",
       "lemma": "4397",
       "morph": "HNcmpa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֲלֵיהֶ֖ם",
       "lemma": "413",
       "morph": "HR/Sp3mp",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "כַּשְׂדִּֽימָה",
       "lemma": "3778",
       "morph": "HNp/Sd",
@@ -113,21 +128,6 @@
       "source": {
         "lemma": "3778",
         "morph": "HNp/Sd"
-      }
-    },
-    {
-      "position": 9,
-      "text": "וַתַּעְגְּבָ֥ה",
-      "lemma": "c/5689",
-      "morph": "HC/Vqw3fs/Sh",
-      "strongs": [
-        "H5689"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/5689",
-        "morph": "HC/Vqw3fs/Sh"
       }
     }
   ],

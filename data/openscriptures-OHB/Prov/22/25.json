@@ -1,5 +1,5 @@
 {
-  "text": "פֶּן תֶּאֱלַ֥ף ארחתו וְלָקַחְתָּ֖ מוֹקֵ֣שׁ לְנַפְשֶֽׁךָ אֹֽרְחֹתָ֑יו",
+  "text": "פֶּן תֶּאֱלַ֥ף ארחתו אֹֽרְחֹתָ֑יו וְלָקַחְתָּ֖ מוֹקֵ֣שׁ לְנַפְשֶֽׁךָ",
   "words": [
     {
       "position": 1,
@@ -49,6 +49,21 @@
     },
     {
       "position": 4,
+      "text": "אֹֽרְחֹתָ֑יו",
+      "lemma": "734",
+      "morph": "HNcbpc/Sp3ms",
+      "strongs": [
+        "H734"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "734",
+        "morph": "HNcbpc/Sp3ms"
+      }
+    },
+    {
+      "position": 5,
       "text": "וְלָקַחְתָּ֖",
       "lemma": "c/3947",
       "morph": "HC/Vqq2ms",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מוֹקֵ֣שׁ",
       "lemma": "4170",
       "morph": "HNcmsa",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לְנַפְשֶֽׁךָ",
       "lemma": "l/5315",
       "morph": "HR/Ncbsc/Sp2ms",
@@ -87,21 +102,6 @@
       "source": {
         "lemma": "l/5315",
         "morph": "HR/Ncbsc/Sp2ms"
-      }
-    },
-    {
-      "position": 7,
-      "text": "אֹֽרְחֹתָ֑יו",
-      "lemma": "734",
-      "morph": "HNcbpc/Sp3ms",
-      "strongs": [
-        "H734"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "734",
-        "morph": "HNcbpc/Sp3ms"
       }
     }
   ],

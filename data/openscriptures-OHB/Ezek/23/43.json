@@ -1,5 +1,5 @@
 {
-  "text": "וָאֹמַ֕ר לַבָּלָ֖ה נִֽאוּפִ֑ים עת יזנה תַזְנוּתֶ֖הָ וָהִֽיא עַתָּ֛ה יִזְנ֥וּ",
+  "text": "וָאֹמַ֕ר לַבָּלָ֖ה נִֽאוּפִ֑ים עת עַתָּ֛ה יזנה יִזְנ֥וּ תַזְנוּתֶ֖הָ וָהִֽיא",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "עַתָּ֛ה",
+      "lemma": "6258",
+      "morph": "HD",
+      "strongs": [
+        "H6258"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6258",
+        "morph": "HD"
+      }
+    },
+    {
+      "position": 6,
       "text": "יזנה",
       "lemma": "2181",
       "morph": "HVqi3ms",
@@ -76,7 +91,22 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
+      "text": "יִזְנ֥וּ",
+      "lemma": "2181",
+      "morph": "HVqi3mp",
+      "strongs": [
+        "H2181"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2181",
+        "morph": "HVqi3mp"
+      }
+    },
+    {
+      "position": 8,
       "text": "תַזְנוּתֶ֖הָ",
       "lemma": "8457",
       "morph": "HNcfpc/Sp3fs",
@@ -90,7 +120,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 9,
       "text": "וָהִֽיא",
       "lemma": "c/1931",
       "morph": "HC/Pp3fs",
@@ -101,36 +131,6 @@
       "source": {
         "lemma": "c/1931",
         "morph": "HC/Pp3fs"
-      }
-    },
-    {
-      "position": 8,
-      "text": "עַתָּ֛ה",
-      "lemma": "6258",
-      "morph": "HD",
-      "strongs": [
-        "H6258"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6258",
-        "morph": "HD"
-      }
-    },
-    {
-      "position": 9,
-      "text": "יִזְנ֥וּ",
-      "lemma": "2181",
-      "morph": "HVqi3mp",
-      "strongs": [
-        "H2181"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2181",
-        "morph": "HVqi3mp"
       }
     }
   ],

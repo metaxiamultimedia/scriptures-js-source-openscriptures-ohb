@@ -1,5 +1,5 @@
 {
-  "text": "כִּ֤י מִירוּשָׁלִַ֨ם֙ תֵּצֵ֣א שְׁאֵרִ֔ית וּפְלֵיטָ֖ה מֵהַ֣ר צִיּ֑וֹן קִנְאַ֛ת יְהוָ֥ה תַּֽעֲשֶׂה זֹּֽאת צְבָא֖וֹת",
+  "text": "כִּ֤י מִירוּשָׁלִַ֨ם֙ תֵּצֵ֣א שְׁאֵרִ֔ית וּפְלֵיטָ֖ה מֵהַ֣ר צִיּ֑וֹן קִנְאַ֛ת יְהוָ֥ה צְבָא֖וֹת תַּֽעֲשֶׂה זֹּֽאת",
   "words": [
     {
       "position": 1,
@@ -129,6 +129,21 @@
     },
     {
       "position": 10,
+      "text": "צְבָא֖וֹת",
+      "lemma": "6635 b",
+      "morph": "HNcbpa",
+      "strongs": [
+        "H6635"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6635 b",
+        "morph": "HNcbpa"
+      }
+    },
+    {
+      "position": 11,
       "text": "תַּֽעֲשֶׂה",
       "lemma": "6213 a",
       "morph": "HVqi3fs",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "זֹּֽאת",
       "lemma": "2063",
       "morph": "HPdxfs",
@@ -156,28 +171,13 @@
         "lemma": "2063",
         "morph": "HPdxfs"
       }
-    },
-    {
-      "position": 12,
-      "text": "צְבָא֖וֹת",
-      "lemma": "6635 b",
-      "morph": "HNcbpa",
-      "strongs": [
-        "H6635"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6635 b",
-        "morph": "HNcbpa"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 11
+        "afterWordPosition": 12
       }
     ],
     "terminator": "sof-pasuq"

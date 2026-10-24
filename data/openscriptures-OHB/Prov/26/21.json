@@ -1,5 +1,5 @@
 {
-  "text": "פֶּחָ֣ם לְ֭גֶחָלִים וְעֵצִ֣ים לְאֵ֑שׁ וְאִ֥ישׁ מדונים לְחַרְחַר רִֽיב מִ֝דְיָנִ֗ים",
+  "text": "פֶּחָ֣ם לְ֭גֶחָלִים וְעֵצִ֣ים לְאֵ֑שׁ וְאִ֥ישׁ מדונים מִ֝דְיָנִ֗ים לְחַרְחַר רִֽיב",
   "words": [
     {
       "position": 1,
@@ -89,6 +89,21 @@
     },
     {
       "position": 7,
+      "text": "מִ֝דְיָנִ֗ים",
+      "lemma": "4079",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H4079"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4079",
+        "morph": "HNcmpa"
+      }
+    },
+    {
+      "position": 8,
       "text": "לְחַרְחַר",
       "lemma": "l/2787",
       "morph": "HR/Vlc",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "רִֽיב",
       "lemma": "7379",
       "morph": "HNcbsa",
@@ -116,28 +131,13 @@
         "lemma": "7379",
         "morph": "HNcbsa"
       }
-    },
-    {
-      "position": 9,
-      "text": "מִ֝דְיָנִ֗ים",
-      "lemma": "4079",
-      "morph": "HNcmpa",
-      "strongs": [
-        "H4079"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4079",
-        "morph": "HNcmpa"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 8
+        "afterWordPosition": 9
       }
     ],
     "terminator": "sof-pasuq"

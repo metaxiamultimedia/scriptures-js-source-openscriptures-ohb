@@ -1,23 +1,8 @@
 {
-  "text": "מִיָּֽרְדִי יְֽהוָ֗ה הֶֽעֱלִ֣יתָ מִן שְׁא֣וֹל נַפְשִׁ֑י חִ֝יִּיתַ֗נִי מיורדי בֽוֹר",
+  "text": "יְֽהוָ֗ה הֶֽעֱלִ֣יתָ מִן שְׁא֣וֹל נַפְשִׁ֑י חִ֝יִּיתַ֗נִי מיורדי מִיָּֽרְדִי בֽוֹר",
   "words": [
     {
       "position": 1,
-      "text": "מִיָּֽרְדִי",
-      "lemma": "m/3381",
-      "morph": "HR/Vqc/Sp1cs",
-      "strongs": [
-        "H3381"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "m/3381",
-        "morph": "HR/Vqc/Sp1cs"
-      }
-    },
-    {
-      "position": 2,
       "text": "יְֽהוָ֗ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "הֶֽעֱלִ֣יתָ",
       "lemma": "5927",
       "morph": "HVhp2ms",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "שְׁא֣וֹל",
       "lemma": "7585",
       "morph": "HNp",
@@ -75,7 +60,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "נַפְשִׁ֑י",
       "lemma": "5315",
       "morph": "HNcbsc/Sp1cs",
@@ -89,7 +74,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "חִ֝יִּיתַ֗נִי",
       "lemma": "2421",
       "morph": "HVpp2ms/Sp1cs",
@@ -103,7 +88,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "מיורדי",
       "lemma": "m/3381",
       "morph": "HR/Vqrmpc",
@@ -111,13 +96,28 @@
         "H3381"
       ],
       "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "m/3381",
+        "morph": "HR/Vqrmpc",
+        "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 8,
+      "text": "מִיָּֽרְדִי",
+      "lemma": "m/3381",
+      "morph": "HR/Vqc/Sp1cs",
+      "strongs": [
+        "H3381"
+      ],
+      "variant": "qere",
       "metadata": {
         "joinNext": "maqqef"
       },
       "source": {
         "lemma": "m/3381",
-        "morph": "HR/Vqrmpc",
-        "type": "x-ketiv"
+        "morph": "HR/Vqc/Sp1cs"
       }
     },
     {

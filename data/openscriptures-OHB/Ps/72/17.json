@@ -1,5 +1,5 @@
 {
-  "text": "יְהִ֤י שְׁמ֨וֹ לְֽעוֹלָ֗ם לִפְנֵי שֶׁמֶשׁ֮ ינין שְׁ֫מ֥וֹ וְיִתְבָּ֥רְכוּ ב֑וֹ כָּל גּוֹיִ֥ם יְאַשְּׁרֽוּהוּ יִנּ֪וֹן",
+  "text": "יְהִ֤י שְׁמ֨וֹ לְֽעוֹלָ֗ם לִפְנֵי שֶׁמֶשׁ֮ ינין יִנּ֪וֹן שְׁ֫מ֥וֹ וְיִתְבָּ֥רְכוּ ב֑וֹ כָּל גּוֹיִ֥ם יְאַשְּׁרֽוּהוּ",
   "words": [
     {
       "position": 1,
@@ -91,6 +91,21 @@
     },
     {
       "position": 7,
+      "text": "יִנּ֪וֹן",
+      "lemma": "5125",
+      "morph": "HVNj3ms",
+      "strongs": [
+        "H5125"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5125",
+        "morph": "HVNj3ms"
+      }
+    },
+    {
+      "position": 8,
       "text": "שְׁ֫מ֥וֹ",
       "lemma": "8034",
       "morph": "HNcmsc/Sp3ms",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְיִתְבָּ֥רְכוּ",
       "lemma": "c/1288",
       "morph": "HC/Vti3mp",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "ב֑וֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
@@ -131,7 +146,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -147,7 +162,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "גּוֹיִ֥ם",
       "lemma": "1471 a",
       "morph": "HNcmpa",
@@ -161,7 +176,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "יְאַשְּׁרֽוּהוּ",
       "lemma": "833",
       "morph": "HVpi3mp/Sp3ms",
@@ -172,21 +187,6 @@
       "source": {
         "lemma": "833",
         "morph": "HVpi3mp/Sp3ms"
-      }
-    },
-    {
-      "position": 13,
-      "text": "יִנּ֪וֹן",
-      "lemma": "5125",
-      "morph": "HVNj3ms",
-      "strongs": [
-        "H5125"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5125",
-        "morph": "HVNj3ms"
       }
     }
   ],

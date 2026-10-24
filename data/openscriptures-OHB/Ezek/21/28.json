@@ -1,23 +1,8 @@
 {
-  "text": "כִּקְסָם וְהָיָ֨ה לָהֶ֤ם כקסום שָׁוְא֙ בְּעֵ֣ינֵיהֶ֔ם שְׁבֻעֵ֥י שְׁבֻע֖וֹת לָהֶ֑ם וְהֽוּא מַזְכִּ֥יר עָוֺ֖ן לְהִתָּפֵֽשׂ",
+  "text": "וְהָיָ֨ה לָהֶ֤ם כקסום כִּקְסָם שָׁוְא֙ בְּעֵ֣ינֵיהֶ֔ם שְׁבֻעֵ֥י שְׁבֻע֖וֹת לָהֶ֑ם וְהֽוּא מַזְכִּ֥יר עָוֺ֖ן לְהִתָּפֵֽשׂ",
   "words": [
     {
       "position": 1,
-      "text": "כִּקְסָם",
-      "lemma": "k/7080",
-      "morph": "HR/Ncmsc",
-      "strongs": [
-        "H7080"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "k/7080",
-        "morph": "HR/Ncmsc"
-      }
-    },
-    {
-      "position": 2,
       "text": "וְהָיָ֨ה",
       "lemma": "c/1961",
       "morph": "HC/Vqq3ms",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "לָהֶ֤ם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
@@ -44,7 +29,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "כקסום",
       "lemma": "k/7080",
       "morph": "HR/Vqc",
@@ -52,13 +37,28 @@
         "H7080"
       ],
       "variant": "ketiv",
+      "metadata": {},
+      "source": {
+        "lemma": "k/7080",
+        "morph": "HR/Vqc",
+        "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 4,
+      "text": "כִּקְסָם",
+      "lemma": "k/7080",
+      "morph": "HR/Ncmsc",
+      "strongs": [
+        "H7080"
+      ],
+      "variant": "qere",
       "metadata": {
         "joinNext": "maqqef"
       },
       "source": {
         "lemma": "k/7080",
-        "morph": "HR/Vqc",
-        "type": "x-ketiv"
+        "morph": "HR/Ncmsc"
       }
     },
     {

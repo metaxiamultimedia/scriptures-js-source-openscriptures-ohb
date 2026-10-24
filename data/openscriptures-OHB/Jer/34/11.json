@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּשׁ֨וּבוּ֙ אַחֲרֵי כֵ֔ן וַיָּשִׁ֗בוּ אֶת הָֽעֲבָדִים֙ וְאֶת הַשְּׁפָח֔וֹת אֲשֶׁ֥ר שִׁלְּח֖וּ חָפְשִׁ֑ים ויכבישום לַעֲבָדִ֖ים וְלִשְׁפָחֽוֹת וַֽיִּכְבְּשׁ֔וּם",
+  "text": "וַיָּשׁ֨וּבוּ֙ אַחֲרֵי כֵ֔ן וַיָּשִׁ֗בוּ אֶת הָֽעֲבָדִים֙ וְאֶת הַשְּׁפָח֔וֹת אֲשֶׁ֥ר שִׁלְּח֖וּ חָפְשִׁ֑ים ויכבישום וַֽיִּכְבְּשׁ֔וּם לַעֲבָדִ֖ים וְלִשְׁפָחֽוֹת",
   "words": [
     {
       "position": 1,
@@ -179,6 +179,21 @@
     },
     {
       "position": 13,
+      "text": "וַֽיִּכְבְּשׁ֔וּם",
+      "lemma": "c/3533",
+      "morph": "HC/Vqw3mp/Sp3mp",
+      "strongs": [
+        "H3533"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3533",
+        "morph": "HC/Vqw3mp/Sp3mp"
+      }
+    },
+    {
+      "position": 14,
       "text": "לַעֲבָדִ֖ים",
       "lemma": "l/5650",
       "morph": "HR/Ncmpa",
@@ -192,7 +207,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְלִשְׁפָחֽוֹת",
       "lemma": "c/l/8198",
       "morph": "HC/R/Ncfpa",
@@ -204,28 +219,13 @@
         "lemma": "c/l/8198",
         "morph": "HC/R/Ncfpa"
       }
-    },
-    {
-      "position": 15,
-      "text": "וַֽיִּכְבְּשׁ֔וּם",
-      "lemma": "c/3533",
-      "morph": "HC/Vqw3mp/Sp3mp",
-      "strongs": [
-        "H3533"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/3533",
-        "morph": "HC/Vqw3mp/Sp3mp"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 14
+        "afterWordPosition": 15
       }
     ],
     "terminator": "sof-pasuq"

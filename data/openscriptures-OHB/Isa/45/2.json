@@ -1,5 +1,5 @@
 {
-  "text": "אֲנִי֙ לְפָנֶ֣יךָ אֵלֵ֔ךְ וַהֲדוּרִ֖ים אושר דַּלְת֤וֹת נְחוּשָׁה֙ אֲשַׁבֵּ֔ר וּבְרִיחֵ֥י בַרְזֶ֖ל אֲגַדֵּֽעַ אֲיַשֵּׁ֑ר",
+  "text": "אֲנִי֙ לְפָנֶ֣יךָ אֵלֵ֔ךְ וַהֲדוּרִ֖ים אושר אֲיַשֵּׁ֑ר דַּלְת֤וֹת נְחוּשָׁה֙ אֲשַׁבֵּ֔ר וּבְרִיחֵ֥י בַרְזֶ֖ל אֲגַדֵּֽעַ",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "אֲיַשֵּׁ֑ר",
+      "lemma": "3474",
+      "morph": "HVpi1cs",
+      "strongs": [
+        "H3474"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3474",
+        "morph": "HVpi1cs"
+      }
+    },
+    {
+      "position": 7,
       "text": "דַּלְת֤וֹת",
       "lemma": "1817 c",
       "morph": "HNcfpc",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "נְחוּשָׁה֙",
       "lemma": "5154",
       "morph": "HNcfsa",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֲשַׁבֵּ֔ר",
       "lemma": "7665",
       "morph": "HVpi1cs",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וּבְרִיחֵ֥י",
       "lemma": "c/1280",
       "morph": "HC/Ncmpc",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בַרְזֶ֖ל",
       "lemma": "1270",
       "morph": "HNcmsa",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֲגַדֵּֽעַ",
       "lemma": "1438",
       "morph": "HVpi1cs",
@@ -154,21 +169,6 @@
       "metadata": {},
       "source": {
         "lemma": "1438",
-        "morph": "HVpi1cs"
-      }
-    },
-    {
-      "position": 12,
-      "text": "אֲיַשֵּׁ֑ר",
-      "lemma": "3474",
-      "morph": "HVpi1cs",
-      "strongs": [
-        "H3474"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3474",
         "morph": "HVpi1cs"
       }
     }

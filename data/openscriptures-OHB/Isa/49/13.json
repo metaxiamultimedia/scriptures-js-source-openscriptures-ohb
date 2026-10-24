@@ -1,5 +1,5 @@
 {
-  "text": "רָנּ֤וּ שָׁמַ֨יִם֙ וְגִ֣ילִי אָ֔רֶץ יפצחו הָרִ֖ים רִנָּ֑ה כִּֽי נִחַ֤ם יְהוָה֙ עַמּ֔וֹ וַעֲנִיָּ֖ו יְרַחֵֽם וּפִצְח֥וּ",
+  "text": "רָנּ֤וּ שָׁמַ֨יִם֙ וְגִ֣ילִי אָ֔רֶץ יפצחו וּפִצְח֥וּ הָרִ֖ים רִנָּ֑ה כִּֽי נִחַ֤ם יְהוָה֙ עַמּ֔וֹ וַעֲנִיָּ֖ו יְרַחֵֽם",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "וּפִצְח֥וּ",
+      "lemma": "c/6476",
+      "morph": "HC/Vqv2mp",
+      "strongs": [
+        "H6476"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6476",
+        "morph": "HC/Vqv2mp"
+      }
+    },
+    {
+      "position": 7,
       "text": "הָרִ֖ים",
       "lemma": "2022",
       "morph": "HNcmpa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רִנָּ֑ה",
       "lemma": "7440",
       "morph": "HNcfsa",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "נִחַ֤ם",
       "lemma": "5162",
       "morph": "HVpp3ms",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יְהוָה֙",
       "lemma": "3068",
       "morph": "HNp",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עַמּ֔וֹ",
       "lemma": "5971 a",
       "morph": "HNcmsc/Sp3ms",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "וַעֲנִיָּ֖ו",
       "lemma": "c/6041",
       "morph": "HC/Aampc/Sp3ms",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "יְרַחֵֽם",
       "lemma": "7355",
       "morph": "HVpi3ms",
@@ -186,28 +201,13 @@
         "lemma": "7355",
         "morph": "HVpi3ms"
       }
-    },
-    {
-      "position": 14,
-      "text": "וּפִצְח֥וּ",
-      "lemma": "c/6476",
-      "morph": "HC/Vqv2mp",
-      "strongs": [
-        "H6476"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/6476",
-        "morph": "HC/Vqv2mp"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 13
+        "afterWordPosition": 14
       }
     ],
     "terminator": "sof-pasuq"

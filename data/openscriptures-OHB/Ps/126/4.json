@@ -1,5 +1,5 @@
 {
-  "text": "שׁוּבָ֣ה יְ֭הוָה אֶת שבותנו כַּאֲפִיקִ֥ים בַּנֶּֽגֶב שְׁבִיתֵ֑נוּ",
+  "text": "שׁוּבָ֣ה יְ֭הוָה אֶת שבותנו שְׁבִיתֵ֑נוּ כַּאֲפִיקִ֥ים בַּנֶּֽגֶב",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "שְׁבִיתֵ֑נוּ",
+      "lemma": "7622",
+      "morph": "HNcfsc/Sp1cp",
+      "strongs": [
+        "H7622"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7622",
+        "morph": "HNcfsc/Sp1cp"
+      }
+    },
+    {
+      "position": 6,
       "text": "כַּאֲפִיקִ֥ים",
       "lemma": "k/650",
       "morph": "HR/Ncmpa",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "בַּנֶּֽגֶב",
       "lemma": "b/5045",
       "morph": "HRd/Ncmsa",
@@ -87,21 +102,6 @@
       "source": {
         "lemma": "b/5045",
         "morph": "HRd/Ncmsa"
-      }
-    },
-    {
-      "position": 7,
-      "text": "שְׁבִיתֵ֑נוּ",
-      "lemma": "7622",
-      "morph": "HNcfsc/Sp1cp",
-      "strongs": [
-        "H7622"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7622",
-        "morph": "HNcfsc/Sp1cp"
       }
     }
   ],

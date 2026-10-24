@@ -1,5 +1,5 @@
 {
-  "text": "וְשָׁ֤ב הַגְּבוּל֙ הָֽרָמָ֔ה וְעַד עִ֖יר מִבְצַר צֹ֑ר וְשָׁ֤ב הַגְּבוּל֙ חֹסָ֔ה ויהיו תֹצְאֹתָ֛יו הַיָּ֖מָּה מֵחֶ֥בֶל אַכְזִֽיבָה וְהָי֧וּ",
+  "text": "וְשָׁ֤ב הַגְּבוּל֙ הָֽרָמָ֔ה וְעַד עִ֖יר מִבְצַר צֹ֑ר וְשָׁ֤ב הַגְּבוּל֙ חֹסָ֔ה ויהיו וְהָי֧וּ תֹצְאֹתָ֛יו הַיָּ֖מָּה מֵחֶ֥בֶל אַכְזִֽיבָה",
   "words": [
     {
       "position": 1,
@@ -163,6 +163,21 @@
     },
     {
       "position": 12,
+      "text": "וְהָי֧וּ",
+      "lemma": "c/1961",
+      "morph": "HC/Vqp3cp",
+      "strongs": [
+        "H1961"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1961",
+        "morph": "HC/Vqp3cp"
+      }
+    },
+    {
+      "position": 13,
       "text": "תֹצְאֹתָ֛יו",
       "lemma": "8444",
       "morph": "HNcfpc/Sp3ms",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הַיָּ֖מָּה",
       "lemma": "d/3220",
       "morph": "HTd/Ncmsa/Sd",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "מֵחֶ֥בֶל",
       "lemma": "m/2256 a",
       "morph": "HR/Ncbsa",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אַכְזִֽיבָה",
       "lemma": "392",
       "morph": "HNp/Sd",
@@ -215,21 +230,6 @@
       "source": {
         "lemma": "392",
         "morph": "HNp/Sd"
-      }
-    },
-    {
-      "position": 16,
-      "text": "וְהָי֧וּ",
-      "lemma": "c/1961",
-      "morph": "HC/Vqp3cp",
-      "strongs": [
-        "H1961"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/1961",
-        "morph": "HC/Vqp3cp"
       }
     }
   ],

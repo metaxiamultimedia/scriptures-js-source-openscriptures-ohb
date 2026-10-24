@@ -1,5 +1,5 @@
 {
-  "text": "הֵ֣ן אֶ֣רֶץ כַּשְׂדִּ֗ים זֶ֤ה הָעָם֙ לֹ֣א הָיָ֔ה אַשּׁ֖וּר יְסָדָ֣הּ לְצִיִּ֑ים הֵקִ֣ימוּ בחיניו עֹרְרוּ֙ אַרְמְנוֹתֶ֔יהָ שָׂמָ֖הּ לְמַפֵּלָֽה בַחוּנָ֗יו",
+  "text": "הֵ֣ן אֶ֣רֶץ כַּשְׂדִּ֗ים זֶ֤ה הָעָם֙ לֹ֣א הָיָ֔ה אַשּׁ֖וּר יְסָדָ֣הּ לְצִיִּ֑ים הֵקִ֣ימוּ בחיניו בַחוּנָ֗יו עֹרְרוּ֙ אַרְמְנוֹתֶ֔יהָ שָׂמָ֖הּ לְמַפֵּלָֽה",
   "words": [
     {
       "position": 1,
@@ -173,6 +173,21 @@
     },
     {
       "position": 13,
+      "text": "בַחוּנָ֗יו",
+      "lemma": "971",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H971"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "971",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 14,
       "text": "עֹרְרוּ֙",
       "lemma": "6209",
       "morph": "HVmp3cp",
@@ -186,7 +201,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אַרְמְנוֹתֶ֔יהָ",
       "lemma": "759",
       "morph": "HNcmpc/Sp3fs",
@@ -200,7 +215,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שָׂמָ֖הּ",
       "lemma": "7760 a",
       "morph": "HVqp3ms/Sp3fs",
@@ -214,7 +229,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לְמַפֵּלָֽה",
       "lemma": "l/4654 b",
       "morph": "HR/Ncfsa",
@@ -225,21 +240,6 @@
       "source": {
         "lemma": "l/4654 b",
         "morph": "HR/Ncfsa"
-      }
-    },
-    {
-      "position": 17,
-      "text": "בַחוּנָ֗יו",
-      "lemma": "971",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H971"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "971",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

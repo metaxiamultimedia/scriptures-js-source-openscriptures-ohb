@@ -1,5 +1,5 @@
 {
-  "text": "כִּֽי עַ֭תָּה הֱיִ֣יתֶם לא תִּֽרְא֥וּ חֲ֝תַ֗ת וַתִּירָֽאוּ ל֑וֹ",
+  "text": "כִּֽי עַ֭תָּה הֱיִ֣יתֶם לא ל֑וֹ תִּֽרְא֥וּ חֲ֝תַ֗ת וַתִּירָֽאוּ",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,20 @@
     },
     {
       "position": 5,
+      "text": "ל֑וֹ",
+      "lemma": "l",
+      "morph": "HR/Sp3ms",
+      "variant": "qere",
+      "metadata": {
+        "isPrefixOnly": true
+      },
+      "source": {
+        "lemma": "l",
+        "morph": "HR/Sp3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "תִּֽרְא֥וּ",
       "lemma": "7200",
       "morph": "HVqi2mp",
@@ -76,7 +90,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "חֲ֝תַ֗ת",
       "lemma": "2866",
       "morph": "HNcmsa",
@@ -90,7 +104,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וַתִּירָֽאוּ",
       "lemma": "c/3372",
       "morph": "HC/Vqw2mp",
@@ -101,20 +115,6 @@
       "source": {
         "lemma": "c/3372",
         "morph": "HC/Vqw2mp"
-      }
-    },
-    {
-      "position": 8,
-      "text": "ל֑וֹ",
-      "lemma": "l",
-      "morph": "HR/Sp3ms",
-      "variant": "qere",
-      "metadata": {
-        "isPrefixOnly": true
-      },
-      "source": {
-        "lemma": "l",
-        "morph": "HR/Sp3ms"
       }
     }
   ],

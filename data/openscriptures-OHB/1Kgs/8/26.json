@@ -1,5 +1,5 @@
 {
-  "text": "וְעַתָּ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל יֵאָ֤מֶן נָא֙ דבריך אֲשֶׁ֣ר דִּבַּ֔רְתָּ לְעַבְדְּךָ֖ דָּוִ֥ד אָבִֽי דְּבָ֣רְךָ֔",
+  "text": "וְעַתָּ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל יֵאָ֤מֶן נָא֙ דבריך דְּבָ֣רְךָ֔ אֲשֶׁ֣ר דִּבַּ֔רְתָּ לְעַבְדְּךָ֖ דָּוִ֥ד אָבִֽי",
   "words": [
     {
       "position": 1,
@@ -89,6 +89,21 @@
     },
     {
       "position": 7,
+      "text": "דְּבָ֣רְךָ֔",
+      "lemma": "1697",
+      "morph": "HNcmsc/Sp2ms",
+      "strongs": [
+        "H1697"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1697",
+        "morph": "HNcmsc/Sp2ms"
+      }
+    },
+    {
+      "position": 8,
       "text": "אֲשֶׁ֣ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "דִּבַּ֔רְתָּ",
       "lemma": "1696",
       "morph": "HVpp2ms",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לְעַבְדְּךָ֖",
       "lemma": "l/5650",
       "morph": "HR/Ncmsc/Sp2ms",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "דָּוִ֥ד",
       "lemma": "1732",
       "morph": "HNp",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אָבִֽי",
       "lemma": "1",
       "morph": "HNcmsc/Sp1cs",
@@ -155,21 +170,6 @@
       "source": {
         "lemma": "1",
         "morph": "HNcmsc/Sp1cs"
-      }
-    },
-    {
-      "position": 12,
-      "text": "דְּבָ֣רְךָ֔",
-      "lemma": "1697",
-      "morph": "HNcmsc/Sp2ms",
-      "strongs": [
-        "H1697"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1697",
-        "morph": "HNcmsc/Sp2ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "כִּ֛י גַּם פְּעָמִ֥ים רַבּ֖וֹת יָדַ֣ע לִבֶּ֑ךָ אֲשֶׁ֥ר גַּם את קִלַּ֥לְתָּ אֲחֵרִֽים אַתָּ֖ה",
+  "text": "כִּ֛י גַּם פְּעָמִ֥ים רַבּ֖וֹת יָדַ֣ע לִבֶּ֑ךָ אֲשֶׁ֥ר גַּם את אַתָּ֖ה קִלַּ֥לְתָּ אֲחֵרִֽים",
   "words": [
     {
       "position": 1,
@@ -135,6 +135,21 @@
     },
     {
       "position": 10,
+      "text": "אַתָּ֖ה",
+      "lemma": "859 c",
+      "morph": "HPp2ms",
+      "strongs": [
+        "H859"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "859 c",
+        "morph": "HPp2ms"
+      }
+    },
+    {
+      "position": 11,
       "text": "קִלַּ֥לְתָּ",
       "lemma": "7043",
       "morph": "HVpp2ms",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אֲחֵרִֽים",
       "lemma": "312",
       "morph": "HAampa",
@@ -159,21 +174,6 @@
       "source": {
         "lemma": "312",
         "morph": "HAampa"
-      }
-    },
-    {
-      "position": 12,
-      "text": "אַתָּ֖ה",
-      "lemma": "859 c",
-      "morph": "HPp2ms",
-      "strongs": [
-        "H859"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "859 c",
-        "morph": "HPp2ms"
       }
     }
   ],

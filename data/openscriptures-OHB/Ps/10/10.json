@@ -1,5 +1,5 @@
 {
-  "text": "ודכה יָשֹׁ֑חַ וְנָפַ֥ל בַּ֝עֲצוּמָ֗יו חלכאים יִדְכֶּ֥ה חֵ֣יל כָּאִֽים",
+  "text": "ודכה יִדְכֶּ֥ה יָשֹׁ֑חַ וְנָפַ֥ל בַּ֝עֲצוּמָ֗יו חלכאים חֵ֣יל כָּאִֽים",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "יִדְכֶּ֥ה",
+      "lemma": "1794",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H1794"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1794",
+        "morph": "HVqi3ms"
+      }
+    },
+    {
+      "position": 3,
       "text": "יָשֹׁ֑חַ",
       "lemma": "7817",
       "morph": "HVqi3ms",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "וְנָפַ֥ל",
       "lemma": "c/5307",
       "morph": "HC/Vqq3ms",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "בַּ֝עֲצוּמָ֗יו",
       "lemma": "b/6099",
       "morph": "HR/Aampc/Sp3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "חלכאים",
       "lemma": "2489",
       "morph": "HNcfpa",
@@ -73,21 +88,6 @@
         "lemma": "2489",
         "morph": "HNcfpa",
         "type": "x-ketiv"
-      }
-    },
-    {
-      "position": 6,
-      "text": "יִדְכֶּ֥ה",
-      "lemma": "1794",
-      "morph": "HVqi3ms",
-      "strongs": [
-        "H1794"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1794",
-        "morph": "HVqi3ms"
       }
     },
     {

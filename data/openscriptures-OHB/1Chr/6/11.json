@@ -1,23 +1,8 @@
 {
-  "text": "בְּנֵי֙ אֶלְקָנָ֑ה בנו אֶלְקָנָ֔ה צוֹפַ֥י בְּנ֖וֹ וְנַ֥חַת בְּנֽוֹ",
+  "text": "אֶלְקָנָ֑ה בנו בְּנֵי֙ אֶלְקָנָ֔ה צוֹפַ֥י בְּנ֖וֹ וְנַ֥חַת בְּנֽוֹ",
   "words": [
     {
       "position": 1,
-      "text": "בְּנֵי֙",
-      "lemma": "1121 a",
-      "morph": "HNcmpc",
-      "strongs": [
-        "H1121"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1121 a",
-        "morph": "HNcmpc"
-      }
-    },
-    {
-      "position": 2,
       "text": "אֶלְקָנָ֑ה",
       "lemma": "511",
       "morph": "HNp",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "בנו",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp3ms",
@@ -44,6 +29,21 @@
         "lemma": "1121 a",
         "morph": "HNcmsc/Sp3ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 3,
+      "text": "בְּנֵי֙",
+      "lemma": "1121 a",
+      "morph": "HNcmpc",
+      "strongs": [
+        "H1121"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1121 a",
+        "morph": "HNcmpc"
       }
     },
     {

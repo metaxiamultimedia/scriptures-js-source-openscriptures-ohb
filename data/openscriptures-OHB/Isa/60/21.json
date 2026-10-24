@@ -1,5 +1,5 @@
 {
-  "text": "וְעַמֵּךְ֙ כֻּלָּ֣ם צַדִּיקִ֔ים לְעוֹלָ֖ם יִ֣ירְשׁוּ אָ֑רֶץ נֵ֧צֶר מטעו מַעֲשֵׂ֥ה יָדַ֖י לְהִתְפָּאֵֽר מַטָּעַ֛י",
+  "text": "וְעַמֵּךְ֙ כֻּלָּ֣ם צַדִּיקִ֔ים לְעוֹלָ֖ם יִ֣ירְשׁוּ אָ֑רֶץ נֵ֧צֶר מטעו מַטָּעַ֛י מַעֲשֵׂ֥ה יָדַ֖י לְהִתְפָּאֵֽר",
   "words": [
     {
       "position": 1,
@@ -117,6 +117,21 @@
     },
     {
       "position": 9,
+      "text": "מַטָּעַ֛י",
+      "lemma": "4302",
+      "morph": "HNcmpc/Sp1cs",
+      "strongs": [
+        "H4302"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4302",
+        "morph": "HNcmpc/Sp1cs"
+      }
+    },
+    {
+      "position": 10,
       "text": "מַעֲשֵׂ֥ה",
       "lemma": "4639",
       "morph": "HNcmsc",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יָדַ֖י",
       "lemma": "3027",
       "morph": "HNcbdc/Sp1cs",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לְהִתְפָּאֵֽר",
       "lemma": "l/6286 a",
       "morph": "HR/Vtc",
@@ -155,21 +170,6 @@
       "source": {
         "lemma": "l/6286 a",
         "morph": "HR/Vtc"
-      }
-    },
-    {
-      "position": 12,
-      "text": "מַטָּעַ֛י",
-      "lemma": "4302",
-      "morph": "HNcmpc/Sp1cs",
-      "strongs": [
-        "H4302"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4302",
-        "morph": "HNcmpc/Sp1cs"
       }
     }
   ],

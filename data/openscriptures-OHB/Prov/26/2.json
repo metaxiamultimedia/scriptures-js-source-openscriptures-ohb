@@ -1,5 +1,5 @@
 {
-  "text": "כַּצִּפּ֣וֹר לָ֭נוּד כַּדְּר֣וֹר לָע֑וּף כֵּ֥ן קִֽלְלַ֥ת חִ֝נָּ֗ם לא תָבֹֽא ל֣וֹ",
+  "text": "כַּצִּפּ֣וֹר לָ֭נוּד כַּדְּר֣וֹר לָע֑וּף כֵּ֥ן קִֽלְלַ֥ת חִ֝נָּ֗ם לא ל֣וֹ תָבֹֽא",
   "words": [
     {
       "position": 1,
@@ -117,20 +117,6 @@
     },
     {
       "position": 9,
-      "text": "תָבֹֽא",
-      "lemma": "935",
-      "morph": "HVqi3fs",
-      "strongs": [
-        "H935"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "935",
-        "morph": "HVqi3fs"
-      }
-    },
-    {
-      "position": 10,
       "text": "ל֣וֹ",
       "lemma": "l",
       "morph": "HR/Sp3ms",
@@ -141,6 +127,20 @@
       "source": {
         "lemma": "l",
         "morph": "HR/Sp3ms"
+      }
+    },
+    {
+      "position": 10,
+      "text": "תָבֹֽא",
+      "lemma": "935",
+      "morph": "HVqi3fs",
+      "strongs": [
+        "H935"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "935",
+        "morph": "HVqi3fs"
       }
     }
   ],

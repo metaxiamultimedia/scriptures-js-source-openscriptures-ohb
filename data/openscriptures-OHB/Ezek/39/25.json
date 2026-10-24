@@ -1,5 +1,5 @@
 {
-  "text": "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה עַתָּ֗ה אָשִׁיב֙ אֶת שבית יַֽעֲקֹ֔ב וְרִֽחַמְתִּ֖י כָּל בֵּ֣ית יִשְׂרָאֵ֑ל וְקִנֵּאתִ֖י לְשֵׁ֥ם קָדְשִֽׁי שְׁב֣וּת",
+  "text": "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה עַתָּ֗ה אָשִׁיב֙ אֶת שבית שְׁב֣וּת יַֽעֲקֹ֔ב וְרִֽחַמְתִּ֖י כָּל בֵּ֣ית יִשְׂרָאֵ֑ל וְקִנֵּאתִ֖י לְשֵׁ֥ם קָדְשִֽׁי",
   "words": [
     {
       "position": 1,
@@ -133,6 +133,21 @@
     },
     {
       "position": 10,
+      "text": "שְׁב֣וּת",
+      "lemma": "7622",
+      "morph": "HNcfsc",
+      "strongs": [
+        "H7622"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7622",
+        "morph": "HNcfsc"
+      }
+    },
+    {
+      "position": 11,
       "text": "יַֽעֲקֹ֔ב",
       "lemma": "3290",
       "morph": "HNp",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְרִֽחַמְתִּ֖י",
       "lemma": "c/7355",
       "morph": "HC/Vpq1cs",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בֵּ֣ית",
       "lemma": "1004 b",
       "morph": "HNcmsc",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יִשְׂרָאֵ֑ל",
       "lemma": "3478",
       "morph": "HNp",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְקִנֵּאתִ֖י",
       "lemma": "c/7065",
       "morph": "HC/Vpq1cs",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "לְשֵׁ֥ם",
       "lemma": "l/8034",
       "morph": "HR/Ncmsc",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "קָדְשִֽׁי",
       "lemma": "6944",
       "morph": "HNcmsc/Sp1cs",
@@ -243,21 +258,6 @@
       "source": {
         "lemma": "6944",
         "morph": "HNcmsc/Sp1cs"
-      }
-    },
-    {
-      "position": 18,
-      "text": "שְׁב֣וּת",
-      "lemma": "7622",
-      "morph": "HNcfsc",
-      "strongs": [
-        "H7622"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7622",
-        "morph": "HNcfsc"
       }
     }
   ],

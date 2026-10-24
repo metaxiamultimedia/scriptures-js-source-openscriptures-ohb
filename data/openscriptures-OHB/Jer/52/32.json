@@ -1,5 +1,5 @@
 {
-  "text": "וַיְדַבֵּ֥ר אִתּ֖וֹ טֹב֑וֹת וַיִּתֵּן֙ אֶת כִּסְא֔וֹ מִמַּ֗עַל לְכִסֵּ֧א מלכים אֲשֶׁ֥ר אִתּ֖וֹ בְּבָבֶֽל הַמְּלָכִ֛ים",
+  "text": "וַיְדַבֵּ֥ר אִתּ֖וֹ טֹב֑וֹת וַיִּתֵּן֙ אֶת כִּסְא֔וֹ מִמַּ֗עַל לְכִסֵּ֧א מלכים הַמְּלָכִ֛ים אֲשֶׁ֥ר אִתּ֖וֹ בְּבָבֶֽל",
   "words": [
     {
       "position": 1,
@@ -133,6 +133,21 @@
     },
     {
       "position": 10,
+      "text": "הַמְּלָכִ֛ים",
+      "lemma": "d/4428",
+      "morph": "HTd/Ncmpa",
+      "strongs": [
+        "H4428"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/4428",
+        "morph": "HTd/Ncmpa"
+      }
+    },
+    {
+      "position": 11,
       "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אִתּ֖וֹ",
       "lemma": "854",
       "morph": "HR/Sp3ms",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "בְּבָבֶֽל",
       "lemma": "b/894",
       "morph": "HR/Np",
@@ -171,21 +186,6 @@
       "source": {
         "lemma": "b/894",
         "morph": "HR/Np"
-      }
-    },
-    {
-      "position": 13,
-      "text": "הַמְּלָכִ֛ים",
-      "lemma": "d/4428",
-      "morph": "HTd/Ncmpa",
-      "strongs": [
-        "H4428"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/4428",
-        "morph": "HTd/Ncmpa"
       }
     }
   ],

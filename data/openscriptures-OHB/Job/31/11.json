@@ -1,5 +1,5 @@
 {
-  "text": "כִּי הוא זִמָּ֑ה והיא עָוֺ֥ן פְּלִילִֽים הִ֥יא וְ֝ה֗וּא",
+  "text": "כִּי הוא הִ֥יא זִמָּ֑ה והיא וְ֝ה֗וּא עָוֺ֥ן פְּלִילִֽים",
   "words": [
     {
       "position": 1,
@@ -35,6 +35,21 @@
     },
     {
       "position": 3,
+      "text": "הִ֥יא",
+      "lemma": "1931",
+      "morph": "HPp3fs",
+      "strongs": [
+        "H1931"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1931",
+        "morph": "HPp3fs"
+      }
+    },
+    {
+      "position": 4,
       "text": "זִמָּ֑ה",
       "lemma": "2154",
       "morph": "HNcfsa",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "והיא",
       "lemma": "c/1931",
       "morph": "HC/Pp3fs",
@@ -64,7 +79,22 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
+      "text": "וְ֝ה֗וּא",
+      "lemma": "c/1931",
+      "morph": "HC/Pp3ms",
+      "strongs": [
+        "H1931"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1931",
+        "morph": "HC/Pp3ms"
+      }
+    },
+    {
+      "position": 7,
       "text": "עָוֺ֥ן",
       "lemma": "5771",
       "morph": "HNcbsa",
@@ -78,7 +108,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 8,
       "text": "פְּלִילִֽים",
       "lemma": "6414",
       "morph": "HNcmpa",
@@ -89,36 +119,6 @@
       "source": {
         "lemma": "6414",
         "morph": "HNcmpa"
-      }
-    },
-    {
-      "position": 7,
-      "text": "הִ֥יא",
-      "lemma": "1931",
-      "morph": "HPp3fs",
-      "strongs": [
-        "H1931"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1931",
-        "morph": "HPp3fs"
-      }
-    },
-    {
-      "position": 8,
-      "text": "וְ֝ה֗וּא",
-      "lemma": "c/1931",
-      "morph": "HC/Pp3ms",
-      "strongs": [
-        "H1931"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/1931",
-        "morph": "HC/Pp3ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "מלושני בַסֵּ֨תֶר רֵעֵהוּ֮ אוֹת֪וֹ אַ֫צְמִ֥ית גְּֽבַהּ עֵ֭ינַיִם וּרְחַ֣ב לֵבָ֑ב אֹ֝ת֗וֹ לֹ֣א אוּכָֽל מְלָשְׁנִ֬י",
+  "text": "מלושני מְלָשְׁנִ֬י בַסֵּ֨תֶר רֵעֵהוּ֮ אוֹת֪וֹ אַ֫צְמִ֥ית גְּֽבַהּ עֵ֭ינַיִם וּרְחַ֣ב לֵבָ֑ב אֹ֝ת֗וֹ לֹ֣א אוּכָֽל",
   "words": [
     {
       "position": 1,
@@ -19,6 +19,21 @@
     },
     {
       "position": 2,
+      "text": "מְלָשְׁנִ֬י",
+      "lemma": "3960",
+      "morph": "HVmrmsc",
+      "strongs": [
+        "H3960"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3960",
+        "morph": "HVmrmsc"
+      }
+    },
+    {
+      "position": 3,
       "text": "בַסֵּ֨תֶר",
       "lemma": "b/5643 a",
       "morph": "HRd/Ncmsa",
@@ -32,7 +47,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "רֵעֵהוּ֮",
       "lemma": "7453",
       "morph": "HNcmsc/Sp3ms",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "אוֹת֪וֹ",
       "lemma": "853",
       "morph": "HTo/Sp3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אַ֫צְמִ֥ית",
       "lemma": "6789",
       "morph": "HVhi1cs",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "גְּֽבַהּ",
       "lemma": "1362",
       "morph": "HAamsc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עֵ֭ינַיִם",
       "lemma": "5869 a",
       "morph": "HNcbda",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וּרְחַ֣ב",
       "lemma": "c/7342",
       "morph": "HC/Aamsc",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לֵבָ֑ב",
       "lemma": "3824",
       "morph": "HNcmsa",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֹ֝ת֗וֹ",
       "lemma": "853",
       "morph": "HTo/Sp3ms",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אוּכָֽל",
       "lemma": "3201",
       "morph": "HVqi1cs",
@@ -172,27 +187,12 @@
         "lemma": "3201",
         "morph": "HVqi1cs"
       }
-    },
-    {
-      "position": 13,
-      "text": "מְלָשְׁנִ֬י",
-      "lemma": "3960",
-      "morph": "HVmrmsc",
-      "strongs": [
-        "H3960"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3960",
-        "morph": "HVmrmsc"
-      }
     }
   ],
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      2
+      3
     ]
   }
 }

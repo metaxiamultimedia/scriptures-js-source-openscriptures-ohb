@@ -1,23 +1,8 @@
 {
-  "text": "יָּ֥גֶל יְֽהוָ֗ה בְּעָזְּךָ֥ יִשְׂמַח מֶ֑לֶךְ וּ֝בִישׁ֥וּעָתְךָ֗ מַה יגיל מְאֹֽד",
+  "text": "יְֽהוָ֗ה בְּעָזְּךָ֥ יִשְׂמַח מֶ֑לֶךְ וּ֝בִישׁ֥וּעָתְךָ֗ מַה יגיל יָּ֥גֶל מְאֹֽד",
   "words": [
     {
       "position": 1,
-      "text": "יָּ֥גֶל",
-      "lemma": "1523",
-      "morph": "HVqi3ms",
-      "strongs": [
-        "H1523"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1523",
-        "morph": "HVqi3ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "יְֽהוָ֗ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "בְּעָזְּךָ֥",
       "lemma": "b/5797",
       "morph": "HR/Ncmsc/Sp2ms",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "יִשְׂמַח",
       "lemma": "8055",
       "morph": "HVqi3ms",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "מֶ֑לֶךְ",
       "lemma": "4428",
       "morph": "HNcmsa",
@@ -75,7 +60,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "וּ֝בִישׁ֥וּעָתְךָ֗",
       "lemma": "c/b/3444",
       "morph": "HC/R/Ncfsc/Sp2ms",
@@ -89,7 +74,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "מַה",
       "lemma": "4100",
       "morph": "HTi",
@@ -105,7 +90,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "יגיל",
       "lemma": "1523",
       "morph": "HVqi3ms",
@@ -118,6 +103,21 @@
         "lemma": "1523",
         "morph": "HVqi3ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 8,
+      "text": "יָּ֥גֶל",
+      "lemma": "1523",
+      "morph": "HVqi3ms",
+      "strongs": [
+        "H1523"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1523",
+        "morph": "HVqi3ms"
       }
     },
     {

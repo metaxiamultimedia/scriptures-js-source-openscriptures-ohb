@@ -1,5 +1,5 @@
 {
-  "text": "וַֽיִּתְּצ֔וּ אֵ֖ת מַצְּבַ֣ת הַבָּ֑עַל וַֽיִּתְּצוּ֙ אֶת בֵּ֣ית הַבַּ֔עַל וַיְשִׂמֻ֥הוּ למחראות עַד הַיּֽוֹם לְמֽוֹצָא֖וֹת",
+  "text": "וַֽיִּתְּצ֔וּ אֵ֖ת מַצְּבַ֣ת הַבָּ֑עַל וַֽיִּתְּצוּ֙ אֶת בֵּ֣ית הַבַּ֔עַל וַיְשִׂמֻ֥הוּ למחראות לְמֽוֹצָא֖וֹת עַד הַיּֽוֹם",
   "words": [
     {
       "position": 1,
@@ -147,6 +147,21 @@
     },
     {
       "position": 11,
+      "text": "לְמֽוֹצָא֖וֹת",
+      "lemma": "l/4163",
+      "morph": "HR/Ncfpa",
+      "strongs": [
+        "H4163"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "l/4163",
+        "morph": "HR/Ncfpa"
+      }
+    },
+    {
+      "position": 12,
       "text": "עַד",
       "lemma": "5704",
       "morph": "HR",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַיּֽוֹם",
       "lemma": "d/3117",
       "morph": "HTd/Ncmsa",
@@ -173,21 +188,6 @@
       "source": {
         "lemma": "d/3117",
         "morph": "HTd/Ncmsa"
-      }
-    },
-    {
-      "position": 13,
-      "text": "לְמֽוֹצָא֖וֹת",
-      "lemma": "l/4163",
-      "morph": "HR/Ncfpa",
-      "strongs": [
-        "H4163"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "l/4163",
-        "morph": "HR/Ncfpa"
       }
     }
   ],

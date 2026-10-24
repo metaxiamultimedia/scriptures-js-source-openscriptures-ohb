@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֣אמֶר לְאִמּ֡וֹ אֶלֶף֩ וּמֵאָ֨ה הַכֶּ֜סֶף אֲשֶׁ֣ר לֻֽקַּֽח לָ֗ךְ ואתי אָלִית֙ וְגַם֙ אָמַ֣רְתְּ בְּאָזְנַ֔י הִנֵּֽה הַכֶּ֥סֶף אִתִּ֖י אֲנִ֣י לְקַחְתִּ֑יו וַתֹּ֣אמֶר אִמּ֔וֹ בָּר֥וּךְ בְּנִ֖י לַיהוָֽה וְאַ֤תְּ",
+  "text": "וַיֹּ֣אמֶר לְאִמּ֡וֹ אֶלֶף֩ וּמֵאָ֨ה הַכֶּ֜סֶף אֲשֶׁ֣ר לֻֽקַּֽח לָ֗ךְ ואתי וְאַ֤תְּ אָלִית֙ וְגַם֙ אָמַ֣רְתְּ בְּאָזְנַ֔י הִנֵּֽה הַכֶּ֥סֶף אִתִּ֖י אֲנִ֣י לְקַחְתִּ֑יו וַתֹּ֣אמֶר אִמּ֔וֹ בָּר֥וּךְ בְּנִ֖י לַיהוָֽה",
   "words": [
     {
       "position": 1,
@@ -132,6 +132,21 @@
     },
     {
       "position": 10,
+      "text": "וְאַ֤תְּ",
+      "lemma": "c/859 c",
+      "morph": "HC/Pp2fs",
+      "strongs": [
+        "H859"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/859 c",
+        "morph": "HC/Pp2fs"
+      }
+    },
+    {
+      "position": 11,
       "text": "אָלִית֙",
       "lemma": "422",
       "morph": "HVqp2fs",
@@ -145,7 +160,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "וְגַם֙",
       "lemma": "c/1571",
       "morph": "HC/Ta",
@@ -159,7 +174,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אָמַ֣רְתְּ",
       "lemma": "559",
       "morph": "HVqp2fs",
@@ -173,7 +188,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "בְּאָזְנַ֔י",
       "lemma": "b/241",
       "morph": "HR/Ncfdc/Sp1cs",
@@ -187,7 +202,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הִנֵּֽה",
       "lemma": "2009",
       "morph": "HTm",
@@ -203,7 +218,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "הַכֶּ֥סֶף",
       "lemma": "d/3701",
       "morph": "HTd/Ncmsa",
@@ -217,7 +232,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אִתִּ֖י",
       "lemma": "854",
       "morph": "HR/Sp1cs",
@@ -231,7 +246,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אֲנִ֣י",
       "lemma": "589",
       "morph": "HPp1cs",
@@ -245,7 +260,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לְקַחְתִּ֑יו",
       "lemma": "3947",
       "morph": "HVqp1cs/Sp3ms",
@@ -259,7 +274,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וַתֹּ֣אמֶר",
       "lemma": "c/559",
       "morph": "HC/Vqw3fs",
@@ -273,7 +288,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אִמּ֔וֹ",
       "lemma": "517",
       "morph": "HNcfsc/Sp3ms",
@@ -287,7 +302,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "בָּר֥וּךְ",
       "lemma": "1288",
       "morph": "HVqsmsa",
@@ -301,7 +316,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "בְּנִ֖י",
       "lemma": "1121 a",
       "morph": "HNcmsc/Sp1cs",
@@ -315,7 +330,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "לַיהוָֽה",
       "lemma": "l/3068",
       "morph": "HR/Np",
@@ -326,21 +341,6 @@
       "source": {
         "lemma": "l/3068",
         "morph": "HR/Np"
-      }
-    },
-    {
-      "position": 24,
-      "text": "וְאַ֤תְּ",
-      "lemma": "c/859 c",
-      "morph": "HC/Pp2fs",
-      "strongs": [
-        "H859"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/859 c",
-        "morph": "HC/Pp2fs"
       }
     }
   ],

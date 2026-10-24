@@ -1,5 +1,5 @@
 {
-  "text": "יִ֣כֶל בְּשָׂר֣וֹ מֵרֹ֑אִי ושפי עַ֝צְמוֹתָ֗יו לֹ֣א רֻאּֽוּ וְשֻׁפּ֥וּ",
+  "text": "יִ֣כֶל בְּשָׂר֣וֹ מֵרֹ֑אִי ושפי וְשֻׁפּ֥וּ עַ֝צְמוֹתָ֗יו לֹ֣א רֻאּֽוּ",
   "words": [
     {
       "position": 1,
@@ -61,6 +61,21 @@
     },
     {
       "position": 5,
+      "text": "וְשֻׁפּ֥וּ",
+      "lemma": "c/8192",
+      "morph": "HC/VPq3cp",
+      "strongs": [
+        "H8192"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/8192",
+        "morph": "HC/VPq3cp"
+      }
+    },
+    {
+      "position": 6,
       "text": "עַ֝צְמוֹתָ֗יו",
       "lemma": "6106",
       "morph": "HNcfpc/Sp3ms",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רֻאּֽוּ",
       "lemma": "7200",
       "morph": "HVQp3cp",
@@ -99,21 +114,6 @@
       "source": {
         "lemma": "7200",
         "morph": "HVQp3cp"
-      }
-    },
-    {
-      "position": 8,
-      "text": "וְשֻׁפּ֥וּ",
-      "lemma": "c/8192",
-      "morph": "HC/VPq3cp",
-      "strongs": [
-        "H8192"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/8192",
-        "morph": "HC/VPq3cp"
       }
     }
   ],

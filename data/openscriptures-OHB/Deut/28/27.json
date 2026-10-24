@@ -1,5 +1,5 @@
 {
-  "text": "יַכְּכָ֨ה יְהוָ֜ה בִּשְׁחִ֤ין מִצְרַ֨יִם֙ ובעפלים וּבַגָּרָ֖ב וּבֶחָ֑רֶס אֲשֶׁ֥ר לֹא תוּכַ֖ל לְהֵרָפֵֽא וּבַטְּחֹרִ֔ים",
+  "text": "יַכְּכָ֨ה יְהוָ֜ה בִּשְׁחִ֤ין מִצְרַ֨יִם֙ ובעפלים וּבַטְּחֹרִ֔ים וּבַגָּרָ֖ב וּבֶחָ֑רֶס אֲשֶׁ֥ר לֹא תוּכַ֖ל לְהֵרָפֵֽא",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "וּבַטְּחֹרִ֔ים",
+      "lemma": "c/b/2914",
+      "morph": "HC/Rd/Ncmpa",
+      "strongs": [
+        "H2914"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/b/2914",
+        "morph": "HC/Rd/Ncmpa"
+      }
+    },
+    {
+      "position": 7,
       "text": "וּבַגָּרָ֖ב",
       "lemma": "c/b/1618",
       "morph": "HC/Rd/Ncmsa",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וּבֶחָ֑רֶס",
       "lemma": "c/b/2775 b",
       "morph": "HC/Rd/Ncmsa",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לֹא",
       "lemma": "3808",
       "morph": "HTn",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "תוּכַ֖ל",
       "lemma": "3201",
       "morph": "HVqi2ms",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "לְהֵרָפֵֽא",
       "lemma": "l/7495",
       "morph": "HR/VNc",
@@ -157,21 +172,6 @@
       "source": {
         "lemma": "l/7495",
         "morph": "HR/VNc"
-      }
-    },
-    {
-      "position": 12,
-      "text": "וּבַטְּחֹרִ֔ים",
-      "lemma": "c/b/2914",
-      "morph": "HC/Rd/Ncmpa",
-      "strongs": [
-        "H2914"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/b/2914",
-        "morph": "HC/Rd/Ncmpa"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֧אמֶר דָּוִ֛ד אֶל גָּ֖ד צַר לִ֣י מְאֹ֑ד נִפְּלָה נָּ֤א בְיַד יְהוָה֙ כִּֽי רַבִּ֣ים רחמו וּבְיַד אָדָ֖ם אַל אֶפֹּֽלָה רַֽחֲמָ֔יו",
+  "text": "וַיֹּ֧אמֶר דָּוִ֛ד אֶל גָּ֖ד צַר לִ֣י מְאֹ֑ד נִפְּלָה נָּ֤א בְיַד יְהוָה֙ כִּֽי רַבִּ֣ים רחמו רַֽחֲמָ֔יו וּבְיַד אָדָ֖ם אַל אֶפֹּֽלָה",
   "words": [
     {
       "position": 1,
@@ -210,6 +210,21 @@
     },
     {
       "position": 15,
+      "text": "רַֽחֲמָ֔יו",
+      "lemma": "7356 b",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H7356"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7356 b",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 16,
       "text": "וּבְיַד",
       "lemma": "c/b/3027",
       "morph": "HC/R/Ncbsc",
@@ -225,7 +240,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אָדָ֖ם",
       "lemma": "120",
       "morph": "HNcmsa",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אַל",
       "lemma": "408",
       "morph": "HTn",
@@ -255,7 +270,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֶפֹּֽלָה",
       "lemma": "5307",
       "morph": "HVqh1cs",
@@ -266,21 +281,6 @@
       "source": {
         "lemma": "5307",
         "morph": "HVqh1cs"
-      }
-    },
-    {
-      "position": 19,
-      "text": "רַֽחֲמָ֔יו",
-      "lemma": "7356 b",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H7356"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7356 b",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

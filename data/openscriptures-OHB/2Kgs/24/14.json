@@ -1,5 +1,5 @@
 {
-  "text": "וְהִגְלָ֣ה אֶת כָּל יְ֠רוּשָׁלִַם וְֽאֶת כָּל הַשָּׂרִ֞ים וְאֵ֣ת כָּל גִּבּוֹרֵ֣י הַחַ֗יִל עשרה אֲלָפִים֙ גּוֹלֶ֔ה וְכָל הֶחָרָ֖שׁ וְהַמַּסְגֵּ֑ר לֹ֣א נִשְׁאַ֔ר זוּלַ֖ת דַּלַּ֥ת עַם הָאָֽרֶץ עֲשֶׂ֤רֶת",
+  "text": "וְהִגְלָ֣ה אֶת כָּל יְ֠רוּשָׁלִַם וְֽאֶת כָּל הַשָּׂרִ֞ים וְאֵ֣ת כָּל גִּבּוֹרֵ֣י הַחַ֗יִל עשרה עֲשֶׂ֤רֶת אֲלָפִים֙ גּוֹלֶ֔ה וְכָל הֶחָרָ֖שׁ וְהַמַּסְגֵּ֑ר לֹ֣א נִשְׁאַ֔ר זוּלַ֖ת דַּלַּ֥ת עַם הָאָֽרֶץ",
   "words": [
     {
       "position": 1,
@@ -183,6 +183,21 @@
     },
     {
       "position": 13,
+      "text": "עֲשֶׂ֤רֶת",
+      "lemma": "6235",
+      "morph": "HAcmsc",
+      "strongs": [
+        "H6235"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6235",
+        "morph": "HAcmsc"
+      }
+    },
+    {
+      "position": 14,
       "text": "אֲלָפִים֙",
       "lemma": "505",
       "morph": "HAcbpa",
@@ -196,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "גּוֹלֶ֔ה",
       "lemma": "1473",
       "morph": "HVqrmsa",
@@ -210,7 +225,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְכָל",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc",
@@ -226,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "הֶחָרָ֖שׁ",
       "lemma": "d/2796",
       "morph": "HTd/Ncmsa",
@@ -240,7 +255,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְהַמַּסְגֵּ֑ר",
       "lemma": "c/d/4525",
       "morph": "HC/Td/Ncmsa",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -268,7 +283,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "נִשְׁאַ֔ר",
       "lemma": "7604",
       "morph": "HVNp3ms",
@@ -282,7 +297,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "זוּלַ֖ת",
       "lemma": "2108",
       "morph": "HR",
@@ -296,7 +311,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "דַּלַּ֥ת",
       "lemma": "1803 b",
       "morph": "HNcfsc",
@@ -310,7 +325,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "עַם",
       "lemma": "5971 a",
       "morph": "HNcmsc",
@@ -326,7 +341,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "הָאָֽרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -337,21 +352,6 @@
       "source": {
         "lemma": "d/776",
         "morph": "HTd/Ncbsa"
-      }
-    },
-    {
-      "position": 24,
-      "text": "עֲשֶׂ֤רֶת",
-      "lemma": "6235",
-      "morph": "HAcmsc",
-      "strongs": [
-        "H6235"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6235",
-        "morph": "HAcmsc"
       }
     }
   ],

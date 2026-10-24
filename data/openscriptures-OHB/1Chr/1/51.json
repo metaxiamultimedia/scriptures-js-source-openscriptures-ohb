@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּ֖מָת הֲדָ֑ד וַיִּהְיוּ֙ אַלּוּפֵ֣י אֱד֔וֹם אַלּ֥וּף תִּמְנָ֛ע אַלּ֥וּף עליה אַלּ֥וּף יְתֵֽת עַֽלְוָ֖ה",
+  "text": "וַיָּ֖מָת הֲדָ֑ד וַיִּהְיוּ֙ אַלּוּפֵ֣י אֱד֔וֹם אַלּ֥וּף תִּמְנָ֛ע אַלּ֥וּף עליה עַֽלְוָ֖ה אַלּ֥וּף יְתֵֽת",
   "words": [
     {
       "position": 1,
@@ -131,6 +131,21 @@
     },
     {
       "position": 10,
+      "text": "עַֽלְוָ֖ה",
+      "lemma": "5933",
+      "morph": "HNp",
+      "strongs": [
+        "H5933"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5933",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 11,
       "text": "אַלּ֥וּף",
       "lemma": "441 b",
       "morph": "HNcmsa",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְתֵֽת",
       "lemma": "3509",
       "morph": "HNp",
@@ -154,21 +169,6 @@
       "metadata": {},
       "source": {
         "lemma": "3509",
-        "morph": "HNp"
-      }
-    },
-    {
-      "position": 12,
-      "text": "עַֽלְוָ֖ה",
-      "lemma": "5933",
-      "morph": "HNp",
-      "strongs": [
-        "H5933"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5933",
         "morph": "HNp"
       }
     }

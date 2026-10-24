@@ -1,5 +1,5 @@
 {
-  "text": "וַאֲר֣וּ חֵיוָה֩ אָחֳרִ֨י תִנְיָנָ֜ה דָּמְיָ֣ה לְדֹ֗ב וְלִשְׂטַר חַד֙ הֳקִמַ֔ת וּתְלָ֥ת עִלְעִ֛ין בְּפֻמַּ֖הּ בֵּ֣ין שניה וְכֵן֙ אָמְרִ֣ין לַ֔הּ ק֥וּמִֽי אֲכֻ֖לִי בְּשַׂ֥ר שַׂגִּֽיא שִׁנַּ֑הּ",
+  "text": "וַאֲר֣וּ חֵיוָה֩ אָחֳרִ֨י תִנְיָנָ֜ה דָּמְיָ֣ה לְדֹ֗ב וְלִשְׂטַר חַד֙ הֳקִמַ֔ת וּתְלָ֥ת עִלְעִ֛ין בְּפֻמַּ֖הּ בֵּ֣ין שניה שִׁנַּ֑הּ וְכֵן֙ אָמְרִ֣ין לַ֔הּ ק֥וּמִֽי אֲכֻ֖לִי בְּשַׂ֥ר שַׂגִּֽיא",
   "words": [
     {
       "position": 1,
@@ -203,6 +203,21 @@
     },
     {
       "position": 15,
+      "text": "שִׁנַּ֑הּ",
+      "lemma": "8128",
+      "morph": "ANcfsc/Sp3fs",
+      "strongs": [
+        "H8128"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8128",
+        "morph": "ANcfsc/Sp3fs"
+      }
+    },
+    {
+      "position": 16,
       "text": "וְכֵן֙",
       "lemma": "c/3652",
       "morph": "AC/D",
@@ -216,7 +231,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אָמְרִ֣ין",
       "lemma": "560",
       "morph": "AVqrmpa",
@@ -230,7 +245,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לַ֔הּ",
       "lemma": "l",
       "morph": "AR/Sp3fs",
@@ -243,7 +258,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "ק֥וּמִֽי",
       "lemma": "6966",
       "morph": "AVqv2fs",
@@ -257,7 +272,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אֲכֻ֖לִי",
       "lemma": "399",
       "morph": "AVqv2fs",
@@ -271,7 +286,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "בְּשַׂ֥ר",
       "lemma": "1321",
       "morph": "ANcmsa",
@@ -285,7 +300,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "שַׂגִּֽיא",
       "lemma": "7690",
       "morph": "AAamsa",
@@ -296,21 +311,6 @@
       "source": {
         "lemma": "7690",
         "morph": "AAamsa"
-      }
-    },
-    {
-      "position": 22,
-      "text": "שִׁנַּ֑הּ",
-      "lemma": "8128",
-      "morph": "ANcfsc/Sp3fs",
-      "strongs": [
-        "H8128"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8128",
-        "morph": "ANcfsc/Sp3fs"
       }
     }
   ],

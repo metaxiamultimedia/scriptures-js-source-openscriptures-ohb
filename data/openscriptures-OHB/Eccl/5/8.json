@@ -1,23 +1,8 @@
 {
-  "text": "ה֑וּא וְיִתְר֥וֹן אֶ֖רֶץ בַּכֹּ֣ל היא מֶ֥לֶךְ לְשָׂדֶ֖ה נֶעֱבָֽד",
+  "text": "וְיִתְר֥וֹן אֶ֖רֶץ בַּכֹּ֣ל היא ה֑וּא מֶ֥לֶךְ לְשָׂדֶ֖ה נֶעֱבָֽד",
   "words": [
     {
       "position": 1,
-      "text": "ה֑וּא",
-      "lemma": "1931",
-      "morph": "HPp3ms",
-      "strongs": [
-        "H1931"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1931",
-        "morph": "HPp3ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "וְיִתְר֥וֹן",
       "lemma": "c/3504",
       "morph": "HC/Ncmsc",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "אֶ֖רֶץ",
       "lemma": "776",
       "morph": "HNcbsa",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "בַּכֹּ֣ל",
       "lemma": "b/3605",
       "morph": "HRd/Ncmsa",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "היא",
       "lemma": "1931",
       "morph": "HPp3fs",
@@ -72,6 +57,21 @@
         "lemma": "1931",
         "morph": "HPp3fs",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 5,
+      "text": "ה֑וּא",
+      "lemma": "1931",
+      "morph": "HPp3ms",
+      "strongs": [
+        "H1931"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1931",
+        "morph": "HPp3ms"
       }
     },
     {

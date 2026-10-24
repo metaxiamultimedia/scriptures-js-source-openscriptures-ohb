@@ -1,5 +1,5 @@
 {
-  "text": "עֲל֥וּ הָהָ֛ר וַהֲבֵאתֶ֥ם עֵ֖ץ וּבְנ֣וּ הַבָּ֑יִת וְאֶרְצֶה בּ֥וֹ ואכבד אָמַ֥ר יְהוָֽה וְאֶכָּבְדָ֖ה",
+  "text": "עֲל֥וּ הָהָ֛ר וַהֲבֵאתֶ֥ם עֵ֖ץ וּבְנ֣וּ הַבָּ֑יִת וְאֶרְצֶה בּ֥וֹ ואכבד וְאֶכָּבְדָ֖ה אָמַ֥ר יְהוָֽה",
   "words": [
     {
       "position": 1,
@@ -132,6 +132,21 @@
     },
     {
       "position": 10,
+      "text": "וְאֶכָּבְדָ֖ה",
+      "lemma": "c/3513",
+      "morph": "HC/VNh1cs",
+      "strongs": [
+        "H3513"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/3513",
+        "morph": "HC/VNh1cs"
+      }
+    },
+    {
+      "position": 11,
       "text": "אָמַ֥ר",
       "lemma": "559",
       "morph": "HVqp3ms",
@@ -145,7 +160,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יְהוָֽה",
       "lemma": "3068",
       "morph": "HNp",
@@ -156,21 +171,6 @@
       "source": {
         "lemma": "3068",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 12,
-      "text": "וְאֶכָּבְדָ֖ה",
-      "lemma": "c/3513",
-      "morph": "HC/VNh1cs",
-      "strongs": [
-        "H3513"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/3513",
-        "morph": "HC/VNh1cs"
       }
     }
   ],

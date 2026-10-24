@@ -1,5 +1,5 @@
 {
-  "text": "וְיוֹאָ֕ב אֶ֥ל כָּל הַצָּבָ֖א יִשְׂרָאֵ֑ל וּבְנָיָה֙ בֶּן יְה֣וֹיָדָ֔ע עַל הכרי וְעַל הַפְּלֵתִֽי הַכְּרֵתִ֖י",
+  "text": "וְיוֹאָ֕ב אֶ֥ל כָּל הַצָּבָ֖א יִשְׂרָאֵ֑ל וּבְנָיָה֙ בֶּן יְה֣וֹיָדָ֔ע עַל הכרי הַכְּרֵתִ֖י וְעַל הַפְּלֵתִֽי",
   "words": [
     {
       "position": 1,
@@ -151,6 +151,21 @@
     },
     {
       "position": 11,
+      "text": "הַכְּרֵתִ֖י",
+      "lemma": "d/3774",
+      "morph": "HTd/Ngmsa",
+      "strongs": [
+        "H3774"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/3774",
+        "morph": "HTd/Ngmsa"
+      }
+    },
+    {
+      "position": 12,
       "text": "וְעַל",
       "lemma": "c/5921 a",
       "morph": "HC/R",
@@ -166,7 +181,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַפְּלֵתִֽי",
       "lemma": "d/6432",
       "morph": "HTd/Ngmsa",
@@ -176,21 +191,6 @@
       "metadata": {},
       "source": {
         "lemma": "d/6432",
-        "morph": "HTd/Ngmsa"
-      }
-    },
-    {
-      "position": 13,
-      "text": "הַכְּרֵתִ֖י",
-      "lemma": "d/3774",
-      "morph": "HTd/Ngmsa",
-      "strongs": [
-        "H3774"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/3774",
         "morph": "HTd/Ngmsa"
       }
     }

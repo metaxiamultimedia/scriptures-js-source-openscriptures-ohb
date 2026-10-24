@@ -1,5 +1,5 @@
 {
-  "text": "וָאֵצְאָ֨ה בְשַֽׁעַר הַגַּ֜יא לַ֗יְלָה וְאֶל פְּנֵי֙ עֵ֣ין הַתַּנִּ֔ין וְאֶל שַׁ֖עַר הָאַשְׁפֹּ֑ת וָאֱהִ֨י שֹׂבֵ֜ר בְּחוֹמֹ֤ת יְרוּשָׁלִַ֨ם֙ אֲשֶׁר המפרוצים וּשְׁעָרֶ֖יהָ אֻכְּל֥וּ בָאֵֽשׁ הֵ֣ם פְּרוּצִ֔ים",
+  "text": "וָאֵצְאָ֨ה בְשַֽׁעַר הַגַּ֜יא לַ֗יְלָה וְאֶל פְּנֵי֙ עֵ֣ין הַתַּנִּ֔ין וְאֶל שַׁ֖עַר הָאַשְׁפֹּ֑ת וָאֱהִ֨י שֹׂבֵ֜ר בְּחוֹמֹ֤ת יְרוּשָׁלִַ֨ם֙ אֲשֶׁר המפרוצים הֵ֣ם פְּרוּצִ֔ים וּשְׁעָרֶ֖יהָ אֻכְּל֥וּ בָאֵֽשׁ",
   "words": [
     {
       "position": 1,
@@ -251,48 +251,6 @@
     },
     {
       "position": 18,
-      "text": "וּשְׁעָרֶ֖יהָ",
-      "lemma": "c/8179",
-      "morph": "HC/Ncmpc/Sp3fs",
-      "strongs": [
-        "H8179"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "c/8179",
-        "morph": "HC/Ncmpc/Sp3fs"
-      }
-    },
-    {
-      "position": 19,
-      "text": "אֻכְּל֥וּ",
-      "lemma": "398",
-      "morph": "HVQp3cp",
-      "strongs": [
-        "H398"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "398",
-        "morph": "HVQp3cp"
-      }
-    },
-    {
-      "position": 20,
-      "text": "בָאֵֽשׁ",
-      "lemma": "b/784",
-      "morph": "HRd/Ncbsa",
-      "strongs": [
-        "H784"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "b/784",
-        "morph": "HRd/Ncbsa"
-      }
-    },
-    {
-      "position": 21,
       "text": "הֵ֣ם",
       "lemma": "1992",
       "morph": "HPp3mp",
@@ -307,7 +265,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 19,
       "text": "פְּרוּצִ֔ים",
       "lemma": "6555",
       "morph": "HVqsmpa",
@@ -320,12 +278,54 @@
         "lemma": "6555",
         "morph": "HVqsmpa"
       }
+    },
+    {
+      "position": 20,
+      "text": "וּשְׁעָרֶ֖יהָ",
+      "lemma": "c/8179",
+      "morph": "HC/Ncmpc/Sp3fs",
+      "strongs": [
+        "H8179"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/8179",
+        "morph": "HC/Ncmpc/Sp3fs"
+      }
+    },
+    {
+      "position": 21,
+      "text": "אֻכְּל֥וּ",
+      "lemma": "398",
+      "morph": "HVQp3cp",
+      "strongs": [
+        "H398"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "398",
+        "morph": "HVQp3cp"
+      }
+    },
+    {
+      "position": 22,
+      "text": "בָאֵֽשׁ",
+      "lemma": "b/784",
+      "morph": "HRd/Ncbsa",
+      "strongs": [
+        "H784"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "b/784",
+        "morph": "HRd/Ncbsa"
+      }
     }
   ],
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      17
+      18
     ]
   }
 }

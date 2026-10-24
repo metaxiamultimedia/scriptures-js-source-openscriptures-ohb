@@ -1,5 +1,5 @@
 {
-  "text": "וַיָּבֹא֩ דָוִ֨ד וַאֲבִישַׁ֥י אֶל הָעָם֮ לַיְלָה֒ וְהִנֵּ֣ה שָׁא֗וּל שֹׁכֵ֤ב יָשֵׁן֙ בַּמַּעְגָּ֔ל וַחֲנִית֥וֹ מְעוּכָֽה בָאָ֖רֶץ מראשתו וְאַבְנֵ֣ר וְהָעָ֔ם שֹׁכְבִ֖ים סביבתו מְרַאֲשֹׁתָ֑יו סְבִיבֹתָֽיו",
+  "text": "וַיָּבֹא֩ דָוִ֨ד וַאֲבִישַׁ֥י אֶל הָעָם֮ לַיְלָה֒ וְהִנֵּ֣ה שָׁא֗וּל שֹׁכֵ֤ב יָשֵׁן֙ בַּמַּעְגָּ֔ל וַחֲנִית֥וֹ מְעוּכָֽה בָאָ֖רֶץ מראשתו מְרַאֲשֹׁתָ֑יו וְאַבְנֵ֣ר וְהָעָ֔ם שֹׁכְבִ֖ים סביבתו סְבִיבֹתָֽיו",
   "words": [
     {
       "position": 1,
@@ -219,6 +219,21 @@
     },
     {
       "position": 16,
+      "text": "מְרַאֲשֹׁתָ֑יו",
+      "lemma": "4763",
+      "morph": "HNcfpc/Sp3ms",
+      "strongs": [
+        "H4763"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4763",
+        "morph": "HNcfpc/Sp3ms"
+      }
+    },
+    {
+      "position": 17,
       "text": "וְאַבְנֵ֣ר",
       "lemma": "c/74",
       "morph": "HC/Np",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וְהָעָ֔ם",
       "lemma": "c/d/5971 a",
       "morph": "HC/Td/Ncmsa",
@@ -246,7 +261,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "שֹׁכְבִ֖ים",
       "lemma": "7901",
       "morph": "HVqrmpa",
@@ -260,7 +275,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "סביבתו",
       "lemma": "5439",
       "morph": "HNcbsc/Sp3ms",
@@ -273,21 +288,6 @@
         "lemma": "5439",
         "morph": "HNcbsc/Sp3ms",
         "type": "x-ketiv"
-      }
-    },
-    {
-      "position": 20,
-      "text": "מְרַאֲשֹׁתָ֑יו",
-      "lemma": "4763",
-      "morph": "HNcfpc/Sp3ms",
-      "strongs": [
-        "H4763"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4763",
-        "morph": "HNcfpc/Sp3ms"
       }
     },
     {
@@ -310,7 +310,7 @@
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 19
+        "afterWordPosition": 21
       }
     ],
     "terminator": "sof-pasuq",

@@ -1,5 +1,5 @@
 {
-  "text": "וְאָמַרְתָּ֣ לְצ֗וֹר הישבתי עַל מְבוֹאֹ֣ת יָ֔ם רֹכֶ֨לֶת֙ הָֽעַמִּ֔ים אֶל אִיִּ֖ים רַבִּ֑ים כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה צ֕וֹר אַ֣תְּ אָמַ֔רְתְּ אֲנִ֖י כְּלִ֥ילַת יֹֽפִי הַיֹּשֶׁ֨בֶת֙",
+  "text": "וְאָמַרְתָּ֣ לְצ֗וֹר הישבתי הַיֹּשֶׁ֨בֶת֙ עַל מְבוֹאֹ֣ת יָ֔ם רֹכֶ֨לֶת֙ הָֽעַמִּ֔ים אֶל אִיִּ֖ים רַבִּ֑ים כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה צ֕וֹר אַ֣תְּ אָמַ֔רְתְּ אֲנִ֖י כְּלִ֥ילַת יֹֽפִי",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "הַיֹּשֶׁ֨בֶת֙",
+      "lemma": "d/3427",
+      "morph": "HTd/Vqrfsa",
+      "strongs": [
+        "H3427"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "d/3427",
+        "morph": "HTd/Vqrfsa"
+      }
+    },
+    {
+      "position": 5,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "מְבוֹאֹ֣ת",
       "lemma": "3997",
       "morph": "HNcmpc",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יָ֔ם",
       "lemma": "3220",
       "morph": "HNcmsa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "רֹכֶ֨לֶת֙",
       "lemma": "7402",
       "morph": "HVqrfsc",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הָֽעַמִּ֔ים",
       "lemma": "d/5971 a",
       "morph": "HTd/Ncmpa",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אִיִּ֖ים",
       "lemma": "339",
       "morph": "HNcmpa",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "רַבִּ֑ים",
       "lemma": "7227 a",
       "morph": "HAampa",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "כֹּ֤ה",
       "lemma": "3541",
       "morph": "HD",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אָמַר֙",
       "lemma": "559",
       "morph": "HVqp3ms",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "אֲדֹנָ֣י",
       "lemma": "136",
       "morph": "HNcmpc/Sp1cs",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "יְהוִ֔ה",
       "lemma": "3069",
       "morph": "HNp",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "צ֕וֹר",
       "lemma": "6865",
       "morph": "HNp",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "אַ֣תְּ",
       "lemma": "859 c",
       "morph": "HPp2fs",
@@ -246,7 +261,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אָמַ֔רְתְּ",
       "lemma": "559",
       "morph": "HVqp2fs",
@@ -260,7 +275,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "אֲנִ֖י",
       "lemma": "589",
       "morph": "HPp1cs",
@@ -274,7 +289,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "כְּלִ֥ילַת",
       "lemma": "3632",
       "morph": "HAafsc",
@@ -288,7 +303,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "יֹֽפִי",
       "lemma": "3308",
       "morph": "HNcmsa",
@@ -299,21 +314,6 @@
       "source": {
         "lemma": "3308",
         "morph": "HNcmsa"
-      }
-    },
-    {
-      "position": 22,
-      "text": "הַיֹּשֶׁ֨בֶת֙",
-      "lemma": "d/3427",
-      "morph": "HTd/Vqrfsa",
-      "strongs": [
-        "H3427"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "d/3427",
-        "morph": "HTd/Vqrfsa"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֧אמֶר מָנ֛וֹחַ אֶל מַלְאַ֥ךְ יְהוָ֖ה מִ֣י שְׁמֶ֑ךָ כִּֽי יָבֹ֥א דבריך וְכִבַּדְנֽוּךָ דְבָרְךָ֖",
+  "text": "וַיֹּ֧אמֶר מָנ֛וֹחַ אֶל מַלְאַ֥ךְ יְהוָ֖ה מִ֣י שְׁמֶ֑ךָ כִּֽי יָבֹ֥א דבריך דְבָרְךָ֖ וְכִבַּדְנֽוּךָ",
   "words": [
     {
       "position": 1,
@@ -149,20 +149,6 @@
     },
     {
       "position": 11,
-      "text": "וְכִבַּדְנֽוּךָ",
-      "lemma": "c/3513",
-      "morph": "HC/Vpp1cp/Sp2ms",
-      "strongs": [
-        "H3513"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "c/3513",
-        "morph": "HC/Vpp1cp/Sp2ms"
-      }
-    },
-    {
-      "position": 12,
       "text": "דְבָרְךָ֖",
       "lemma": "1697",
       "morph": "HNcmsc/Sp2ms",
@@ -174,6 +160,20 @@
       "source": {
         "lemma": "1697",
         "morph": "HNcmsc/Sp2ms"
+      }
+    },
+    {
+      "position": 12,
+      "text": "וְכִבַּדְנֽוּךָ",
+      "lemma": "c/3513",
+      "morph": "HC/Vpp1cp/Sp2ms",
+      "strongs": [
+        "H3513"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "c/3513",
+        "morph": "HC/Vpp1cp/Sp2ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "וְהַחֲיִתֶ֞ם אֶת אָבִ֣י וְאֶת אִמִּ֗י וְאֶת אַחַי֙ וְאֶת אחותי וְאֵ֖ת כָּל אֲשֶׁ֣ר לָהֶ֑ם וְהִצַּלְתֶּ֥ם אֶת נַפְשֹׁתֵ֖ינוּ מִמָּֽוֶת אַחְיוֹתַ֔י",
+  "text": "וְהַחֲיִתֶ֞ם אֶת אָבִ֣י וְאֶת אִמִּ֗י וְאֶת אַחַי֙ וְאֶת אחותי אַחְיוֹתַ֔י וְאֵ֖ת כָּל אֲשֶׁ֣ר לָהֶ֑ם וְהִצַּלְתֶּ֥ם אֶת נַפְשֹׁתֵ֖ינוּ מִמָּֽוֶת",
   "words": [
     {
       "position": 1,
@@ -139,6 +139,21 @@
     },
     {
       "position": 10,
+      "text": "אַחְיוֹתַ֔י",
+      "lemma": "269",
+      "morph": "HNcfpc/Sp1cs",
+      "strongs": [
+        "H269"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "269",
+        "morph": "HNcfpc/Sp1cs"
+      }
+    },
+    {
+      "position": 11,
       "text": "וְאֵ֖ת",
       "lemma": "c/853",
       "morph": "HC/To",
@@ -152,7 +167,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "כָּל",
       "lemma": "3605",
       "morph": "HNcmsc",
@@ -168,7 +183,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "אֲשֶׁ֣ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "לָהֶ֑ם",
       "lemma": "l",
       "morph": "HR/Sp3mp",
@@ -195,7 +210,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "וְהִצַּלְתֶּ֥ם",
       "lemma": "c/5337",
       "morph": "HC/Vhq2mp",
@@ -209,7 +224,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -225,7 +240,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "נַפְשֹׁתֵ֖ינוּ",
       "lemma": "5315",
       "morph": "HNcbpc/Sp1cp",
@@ -239,7 +254,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "מִמָּֽוֶת",
       "lemma": "m/4194",
       "morph": "HR/Ncmsa",
@@ -250,21 +265,6 @@
       "source": {
         "lemma": "m/4194",
         "morph": "HR/Ncmsa"
-      }
-    },
-    {
-      "position": 18,
-      "text": "אַחְיוֹתַ֔י",
-      "lemma": "269",
-      "morph": "HNcfpc/Sp1cs",
-      "strongs": [
-        "H269"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "269",
-        "morph": "HNcfpc/Sp1cs"
       }
     }
   ],

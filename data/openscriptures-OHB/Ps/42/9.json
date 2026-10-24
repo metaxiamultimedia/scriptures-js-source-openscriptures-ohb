@@ -1,23 +1,8 @@
 {
-  "text": "שִׁיר֣וֹ יוֹמָ֤ם יְצַוֶּ֬ה יְהוָ֨ה חַסְדּ֗וֹ וּ֭בַלַּיְלָה שירה עִמִּ֑י תְּ֝פִלָּ֗ה לְאֵ֣ל חַיָּֽי",
+  "text": "יוֹמָ֤ם יְצַוֶּ֬ה יְהוָ֨ה חַסְדּ֗וֹ וּ֭בַלַּיְלָה שירה שִׁיר֣וֹ עִמִּ֑י תְּ֝פִלָּ֗ה לְאֵ֣ל חַיָּֽי",
   "words": [
     {
       "position": 1,
-      "text": "שִׁיר֣וֹ",
-      "lemma": "7892 a",
-      "morph": "HNcbsc/Sp3ms",
-      "strongs": [
-        "H7892"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7892 a",
-        "morph": "HNcbsc/Sp3ms"
-      }
-    },
-    {
-      "position": 2,
       "text": "יוֹמָ֤ם",
       "lemma": "3119",
       "morph": "HD",
@@ -31,7 +16,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "יְצַוֶּ֬ה",
       "lemma": "6680",
       "morph": "HVpi3ms",
@@ -45,7 +30,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "יְהוָ֨ה",
       "lemma": "3068",
       "morph": "HNp",
@@ -59,7 +44,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "חַסְדּ֗וֹ",
       "lemma": "2617 a",
       "morph": "HNcmsc/Sp3ms",
@@ -73,7 +58,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "וּ֭בַלַּיְלָה",
       "lemma": "c/b/3915",
       "morph": "HC/Rd/Ncmsa",
@@ -87,7 +72,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "שירה",
       "lemma": "7892 a",
       "morph": "HNcbsc/Sp3ms",
@@ -100,6 +85,21 @@
         "lemma": "7892 a",
         "morph": "HNcbsc/Sp3ms",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 7,
+      "text": "שִׁיר֣וֹ",
+      "lemma": "7892 a",
+      "morph": "HNcbsc/Sp3ms",
+      "strongs": [
+        "H7892"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7892 a",
+        "morph": "HNcbsc/Sp3ms"
       }
     },
     {
@@ -162,8 +162,8 @@
   "metadata": {
     "terminator": "sof-pasuq",
     "paseq": [
-      2,
-      4
+      1,
+      3
     ]
   }
 }

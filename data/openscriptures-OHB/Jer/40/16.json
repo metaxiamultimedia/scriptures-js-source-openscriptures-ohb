@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֨אמֶר גְּדַלְיָ֤הוּ בֶן אֲחִיקָם֙ אֶל יוֹחָנָ֣ן בֶּן קָרֵ֔חַ אַֽל תעש אֶת הַדָּבָ֣ר הַזֶּ֑ה כִּֽי שֶׁ֛קֶר אַתָּ֥ה דֹבֵ֖ר אֶל יִשְׁמָעֵֽאל תַּעֲשֵׂ֖ה",
+  "text": "וַיֹּ֨אמֶר גְּדַלְיָ֤הוּ בֶן אֲחִיקָם֙ אֶל יוֹחָנָ֣ן בֶּן קָרֵ֔חַ אַֽל תעש תַּעֲשֵׂ֖ה אֶת הַדָּבָ֣ר הַזֶּ֑ה כִּֽי שֶׁ֛קֶר אַתָּ֥ה דֹבֵ֖ר אֶל יִשְׁמָעֵֽאל",
   "words": [
     {
       "position": 1,
@@ -153,6 +153,21 @@
     },
     {
       "position": 11,
+      "text": "תַּעֲשֵׂ֖ה",
+      "lemma": "6213 a",
+      "morph": "HVqj2ms",
+      "strongs": [
+        "H6213"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6213 a",
+        "morph": "HVqj2ms"
+      }
+    },
+    {
+      "position": 12,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -168,7 +183,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַדָּבָ֣ר",
       "lemma": "d/1697",
       "morph": "HTd/Ncmsa",
@@ -182,7 +197,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "הַזֶּ֑ה",
       "lemma": "d/2088",
       "morph": "HTd/Pdxms",
@@ -196,7 +211,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -212,7 +227,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "שֶׁ֛קֶר",
       "lemma": "8267",
       "morph": "HNcmsa",
@@ -226,7 +241,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אַתָּ֥ה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -240,7 +255,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "דֹבֵ֖ר",
       "lemma": "1696",
       "morph": "HVqrmsa",
@@ -254,7 +269,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -270,7 +285,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "יִשְׁמָעֵֽאל",
       "lemma": "3458",
       "morph": "HNp",
@@ -282,28 +297,13 @@
         "lemma": "3458",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 20,
-      "text": "תַּעֲשֵׂ֖ה",
-      "lemma": "6213 a",
-      "morph": "HVqj2ms",
-      "strongs": [
-        "H6213"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6213 a",
-        "morph": "HVqj2ms"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 19
+        "afterWordPosition": 20
       }
     ],
     "terminator": "sof-pasuq"

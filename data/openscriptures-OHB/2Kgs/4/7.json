@@ -1,5 +1,5 @@
 {
-  "text": "וַתָּבֹ֗א וַתַּגֵּד֙ לְאִ֣ישׁ הָאֱלֹהִ֔ים וַיֹּ֗אמֶר לְכִי֙ מִכְרִ֣י אֶת הַשֶּׁ֔מֶן וְשַׁלְּמִ֖י אֶת נשיכי וְאַ֣תְּ בניכי תִֽחְיִ֖י בַּנּוֹתָֽר נִשְׁיֵ֑ךְ וּבָנַ֔יִךְ",
+  "text": "וַתָּבֹ֗א וַתַּגֵּד֙ לְאִ֣ישׁ הָאֱלֹהִ֔ים וַיֹּ֗אמֶר לְכִי֙ מִכְרִ֣י אֶת הַשֶּׁ֔מֶן וְשַׁלְּמִ֖י אֶת נשיכי נִשְׁיֵ֑ךְ וְאַ֣תְּ בניכי וּבָנַ֔יִךְ תִֽחְיִ֖י בַּנּוֹתָֽר",
   "words": [
     {
       "position": 1,
@@ -177,6 +177,21 @@
     },
     {
       "position": 13,
+      "text": "נִשְׁיֵ֑ךְ",
+      "lemma": "5386",
+      "morph": "HNcmsc/Sp2fs",
+      "strongs": [
+        "H5386"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5386",
+        "morph": "HNcmsc/Sp2fs"
+      }
+    },
+    {
+      "position": 14,
       "text": "וְאַ֣תְּ",
       "lemma": "c/859 c",
       "morph": "HC/Pp2fs",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בניכי",
       "lemma": "1121 a",
       "morph": "HNcmpc/Sp2fs",
@@ -206,7 +221,22 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
+      "text": "וּבָנַ֔יִךְ",
+      "lemma": "c/1121 a",
+      "morph": "HC/Ncmpc/Sp2fs",
+      "strongs": [
+        "H1121"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/1121 a",
+        "morph": "HC/Ncmpc/Sp2fs"
+      }
+    },
+    {
+      "position": 17,
       "text": "תִֽחְיִ֖י",
       "lemma": "2421",
       "morph": "HVqi2fs",
@@ -220,7 +250,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 18,
       "text": "בַּנּוֹתָֽר",
       "lemma": "b/3498",
       "morph": "HRd/VNrmsa",
@@ -232,43 +262,13 @@
         "lemma": "b/3498",
         "morph": "HRd/VNrmsa"
       }
-    },
-    {
-      "position": 17,
-      "text": "נִשְׁיֵ֑ךְ",
-      "lemma": "5386",
-      "morph": "HNcmsc/Sp2fs",
-      "strongs": [
-        "H5386"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5386",
-        "morph": "HNcmsc/Sp2fs"
-      }
-    },
-    {
-      "position": 18,
-      "text": "וּבָנַ֔יִךְ",
-      "lemma": "c/1121 a",
-      "morph": "HC/Ncmpc/Sp2fs",
-      "strongs": [
-        "H1121"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/1121 a",
-        "morph": "HC/Ncmpc/Sp2fs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "petuhah",
-        "afterWordPosition": 16
+        "afterWordPosition": 18
       }
     ],
     "terminator": "sof-pasuq"

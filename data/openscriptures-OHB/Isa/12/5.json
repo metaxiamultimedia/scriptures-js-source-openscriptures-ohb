@@ -1,5 +1,5 @@
 {
-  "text": "זַמְּר֣וּ יְהוָ֔ה כִּ֥י גֵא֖וּת עָשָׂ֑ה מידעת זֹ֖את בְּכָל הָאָֽרֶץ מוּדַ֥עַת",
+  "text": "זַמְּר֣וּ יְהוָ֔ה כִּ֥י גֵא֖וּת עָשָׂ֑ה מידעת מוּדַ֥עַת זֹ֖את בְּכָל הָאָֽרֶץ",
   "words": [
     {
       "position": 1,
@@ -89,6 +89,21 @@
     },
     {
       "position": 7,
+      "text": "מוּדַ֥עַת",
+      "lemma": "3045",
+      "morph": "HVHsfsa",
+      "strongs": [
+        "H3045"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3045",
+        "morph": "HVHsfsa"
+      }
+    },
+    {
+      "position": 8,
       "text": "זֹ֖את",
       "lemma": "2063",
       "morph": "HPdxfs",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בְּכָל",
       "lemma": "b/3605",
       "morph": "HR/Ncmsc",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הָאָֽרֶץ",
       "lemma": "d/776",
       "morph": "HTd/Ncbsa",
@@ -129,21 +144,6 @@
       "source": {
         "lemma": "d/776",
         "morph": "HTd/Ncbsa"
-      }
-    },
-    {
-      "position": 10,
-      "text": "מוּדַ֥עַת",
-      "lemma": "3045",
-      "morph": "HVHsfsa",
-      "strongs": [
-        "H3045"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3045",
-        "morph": "HVHsfsa"
       }
     }
   ],

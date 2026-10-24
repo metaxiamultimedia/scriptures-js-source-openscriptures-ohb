@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּ֨לֶךְ֙ לְמַסָּעָ֔יו מִנֶּ֖גֶב וְעַד בֵּֽית אֵ֑ל עַד הַמָּק֗וֹם אֲשֶׁר הָ֨יָה שָׁ֤ם אהלה בַּתְּחִלָּ֔ה בֵּ֥ין בֵּֽית אֵ֖ל וּבֵ֥ין הָעָֽי אָֽהֳלוֹ֙",
+  "text": "וַיֵּ֨לֶךְ֙ לְמַסָּעָ֔יו מִנֶּ֖גֶב וְעַד בֵּֽית אֵ֑ל עַד הַמָּק֗וֹם אֲשֶׁר הָ֨יָה שָׁ֤ם אהלה אָֽהֳלוֹ֙ בַּתְּחִלָּ֔ה בֵּ֥ין בֵּֽית אֵ֖ל וּבֵ֥ין הָעָֽי",
   "words": [
     {
       "position": 1,
@@ -181,6 +181,21 @@
     },
     {
       "position": 13,
+      "text": "אָֽהֳלוֹ֙",
+      "lemma": "168",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H168"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "168",
+        "morph": "HNcmsc/Sp3ms"
+      }
+    },
+    {
+      "position": 14,
       "text": "בַּתְּחִלָּ֔ה",
       "lemma": "b/8462",
       "morph": "HRd/Ncfsa",
@@ -194,7 +209,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "בֵּ֥ין",
       "lemma": "996",
       "morph": "HR",
@@ -208,7 +223,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "בֵּֽית",
       "lemma": "1008+",
       "morph": "HNp",
@@ -224,7 +239,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "אֵ֖ל",
       "lemma": "1008",
       "morph": "HNp",
@@ -238,7 +253,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "וּבֵ֥ין",
       "lemma": "c/996",
       "morph": "HC/R",
@@ -252,7 +267,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "הָעָֽי",
       "lemma": "d/5857",
       "morph": "HTd/Np",
@@ -263,21 +278,6 @@
       "source": {
         "lemma": "d/5857",
         "morph": "HTd/Np"
-      }
-    },
-    {
-      "position": 19,
-      "text": "אָֽהֳלוֹ֙",
-      "lemma": "168",
-      "morph": "HNcmsc/Sp3ms",
-      "strongs": [
-        "H168"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "168",
-        "morph": "HNcmsc/Sp3ms"
       }
     }
   ],

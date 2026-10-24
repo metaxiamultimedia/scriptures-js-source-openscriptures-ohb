@@ -1,5 +1,5 @@
 {
-  "text": "אִם לֹ֣א בֵרֲכ֣וּנִי חלצו וּמִגֵּ֥ז כְּ֝בָשַׂי יִתְחַמָּֽם חֲלָצָ֑יו",
+  "text": "אִם לֹ֣א בֵרֲכ֣וּנִי חלצו חֲלָצָ֑יו וּמִגֵּ֥ז כְּ֝בָשַׂי יִתְחַמָּֽם",
   "words": [
     {
       "position": 1,
@@ -63,6 +63,21 @@
     },
     {
       "position": 5,
+      "text": "חֲלָצָ֑יו",
+      "lemma": "2504",
+      "morph": "HNcbdc/Sp3ms",
+      "strongs": [
+        "H2504"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2504",
+        "morph": "HNcbdc/Sp3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "וּמִגֵּ֥ז",
       "lemma": "c/m/1488",
       "morph": "HC/R/Ncmsc",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כְּ֝בָשַׂי",
       "lemma": "3532",
       "morph": "HNcmpc/Sp1cs",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "יִתְחַמָּֽם",
       "lemma": "2552",
       "morph": "HVti3ms",
@@ -101,21 +116,6 @@
       "source": {
         "lemma": "2552",
         "morph": "HVti3ms"
-      }
-    },
-    {
-      "position": 8,
-      "text": "חֲלָצָ֑יו",
-      "lemma": "2504",
-      "morph": "HNcbdc/Sp3ms",
-      "strongs": [
-        "H2504"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2504",
-        "morph": "HNcbdc/Sp3ms"
       }
     }
   ],

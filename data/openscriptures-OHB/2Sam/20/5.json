@@ -1,5 +1,5 @@
 {
-  "text": "וַיֵּ֥לֶךְ עֲמָשָׂ֖א לְהַזְעִ֣יק אֶת יְהוּדָ֑ה וייחר מִן הַמּוֹעֵ֖ד אֲשֶׁ֥ר יְעָדֽוֹ וַיּ֕וֹחֶר",
+  "text": "וַיֵּ֥לֶךְ עֲמָשָׂ֖א לְהַזְעִ֣יק אֶת יְהוּדָ֑ה וייחר וַיּ֕וֹחֶר מִן הַמּוֹעֵ֖ד אֲשֶׁ֥ר יְעָדֽוֹ",
   "words": [
     {
       "position": 1,
@@ -91,6 +91,21 @@
     },
     {
       "position": 7,
+      "text": "וַיּ֕וֹחֶר",
+      "lemma": "c/309",
+      "morph": "HC/Vhw3ms",
+      "strongs": [
+        "H309"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/309",
+        "morph": "HC/Vhw3ms"
+      }
+    },
+    {
+      "position": 8,
       "text": "מִן",
       "lemma": "4480 a",
       "morph": "HR",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "הַמּוֹעֵ֖ד",
       "lemma": "d/4150",
       "morph": "HTd/Ncmsa",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אֲשֶׁ֥ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יְעָדֽוֹ",
       "lemma": "3259",
       "morph": "HVqp3ms/Sp3ms",
@@ -146,28 +161,13 @@
         "lemma": "3259",
         "morph": "HVqp3ms/Sp3ms"
       }
-    },
-    {
-      "position": 11,
-      "text": "וַיּ֕וֹחֶר",
-      "lemma": "c/309",
-      "morph": "HC/Vhw3ms",
-      "strongs": [
-        "H309"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/309",
-        "morph": "HC/Vhw3ms"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 10
+        "afterWordPosition": 11
       }
     ],
     "terminator": "sof-pasuq"

@@ -1,5 +1,5 @@
 {
-  "text": "אַ֭שֻּׁרֵינוּ עַתָּ֣ה סבבוני עֵינֵיהֶ֥ם יָ֝שִׁ֗יתוּ לִנְט֥וֹת בָּאָֽרֶץ סְבָב֑וּנוּ",
+  "text": "אַ֭שֻּׁרֵינוּ עַתָּ֣ה סבבוני סְבָב֑וּנוּ עֵינֵיהֶ֥ם יָ֝שִׁ֗יתוּ לִנְט֥וֹת בָּאָֽרֶץ",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "סְבָב֑וּנוּ",
+      "lemma": "5437",
+      "morph": "HVqp3cp/Sp1cp",
+      "strongs": [
+        "H5437"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5437",
+        "morph": "HVqp3cp/Sp1cp"
+      }
+    },
+    {
+      "position": 5,
       "text": "עֵינֵיהֶ֥ם",
       "lemma": "5869 a",
       "morph": "HNcbdc/Sp3mp",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "יָ֝שִׁ֗יתוּ",
       "lemma": "7896",
       "morph": "HVqi3mp",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "לִנְט֥וֹת",
       "lemma": "l/5186",
       "morph": "HR/Vqc",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בָּאָֽרֶץ",
       "lemma": "b/776",
       "morph": "HRd/Ncbsa",
@@ -99,21 +114,6 @@
       "source": {
         "lemma": "b/776",
         "morph": "HRd/Ncbsa"
-      }
-    },
-    {
-      "position": 8,
-      "text": "סְבָב֑וּנוּ",
-      "lemma": "5437",
-      "morph": "HVqp3cp/Sp1cp",
-      "strongs": [
-        "H5437"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5437",
-        "morph": "HVqp3cp/Sp1cp"
       }
     }
   ],

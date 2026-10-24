@@ -143,6 +143,19 @@ All of these are structural only: they never enter `words[]` as separate tokens
 and never carry a numeric value. A renderer can show the WLC base alone
 (`tradition === "leningrad"`) or the full received tradition.
 
+### Ketiv and qere
+
+Where the WLC writes one form (ketiv) and the Masorah reads another (qere), both
+are kept as words: `variant: "ketiv"` on the written form (consonants only, as
+in the WLC) and `variant: "qere"` on the read form (pointed). Words are in WLC
+reading order: each qere directly follows its ketiv (Neh 2:13 המפרוצים, then
+הֵם פְּרוּצִים; Isa 9:6 לםרבה, with its final mem mid-word, then לְמַרְבֵּה).
+A qere without ketiv (e.g. Ruth 3:5 אֵלַי, 2 Sam 8:3 פְּרָת) stands where the WLC
+places it, and a ketiv without qere (e.g. Jer 51:3 ידרך) has no qere after it.
+Paragraph breaks, maqqef and paseq that follow a ketiv/qere unit are recorded
+after its last qere word. Before 2.8.0 the qere words were emitted at the end
+(or start) of the verse.
+
 ### Word segmentation (maqqef)
 
 Maqqef-joined units are stored as **separate words**, by design. The maqqef

@@ -1,5 +1,5 @@
 {
-  "text": "מֵ֭חֹרֶף עָצֵ֣ל לֹא יַחֲרֹ֑שׁ ישאל בַּקָּצִ֣יר וָאָֽיִן וְשָׁאַ֖ל",
+  "text": "מֵ֭חֹרֶף עָצֵ֣ל לֹא יַחֲרֹ֑שׁ ישאל וְשָׁאַ֖ל בַּקָּצִ֣יר וָאָֽיִן",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "וְשָׁאַ֖ל",
+      "lemma": "c/7592",
+      "morph": "HC/Vqq3ms",
+      "strongs": [
+        "H7592"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/7592",
+        "morph": "HC/Vqq3ms"
+      }
+    },
+    {
+      "position": 7,
       "text": "בַּקָּצִ֣יר",
       "lemma": "b/7105 a",
       "morph": "HRd/Ncmsa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "וָאָֽיִן",
       "lemma": "c/369",
       "morph": "HC/Tn",
@@ -101,21 +116,6 @@
       "source": {
         "lemma": "c/369",
         "morph": "HC/Tn"
-      }
-    },
-    {
-      "position": 8,
-      "text": "וְשָׁאַ֖ל",
-      "lemma": "c/7592",
-      "morph": "HC/Vqq3ms",
-      "strongs": [
-        "H7592"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/7592",
-        "morph": "HC/Vqq3ms"
       }
     }
   ],

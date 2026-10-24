@@ -1,5 +1,5 @@
 {
-  "text": "לֹא יַאֲמִ֣ין שׁ֭וּב מִנִּי חֹ֑שֶׁךְ וצפו ה֣וּא אֱלֵי חָֽרֶב וְצָפ֖וּי",
+  "text": "לֹא יַאֲמִ֣ין שׁ֭וּב מִנִּי חֹ֑שֶׁךְ וצפו וְצָפ֖וּי ה֣וּא אֱלֵי חָֽרֶב",
   "words": [
     {
       "position": 1,
@@ -93,6 +93,21 @@
     },
     {
       "position": 7,
+      "text": "וְצָפ֖וּי",
+      "lemma": "c/6822",
+      "morph": "HC/Vqsmsa",
+      "strongs": [
+        "H6822"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6822",
+        "morph": "HC/Vqsmsa"
+      }
+    },
+    {
+      "position": 8,
       "text": "ה֣וּא",
       "lemma": "1931",
       "morph": "HPp3ms",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אֱלֵי",
       "lemma": "413",
       "morph": "HR",
@@ -122,7 +137,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "חָֽרֶב",
       "lemma": "2719",
       "morph": "HNcfsa",
@@ -133,21 +148,6 @@
       "source": {
         "lemma": "2719",
         "morph": "HNcfsa"
-      }
-    },
-    {
-      "position": 10,
-      "text": "וְצָפ֖וּי",
-      "lemma": "c/6822",
-      "morph": "HC/Vqsmsa",
-      "strongs": [
-        "H6822"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/6822",
-        "morph": "HC/Vqsmsa"
       }
     }
   ],

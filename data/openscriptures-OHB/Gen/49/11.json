@@ -1,5 +1,5 @@
 {
-  "text": "אֹסְרִ֤י לַגֶּ֨פֶן֙ עירה וְלַשֹּׂרֵקָ֖ה בְּנִ֣י אֲתֹנ֑וֹ כִּבֵּ֤ס בַּיַּ֨יִן֙ לְבֻשׁ֔וֹ וּבְדַם עֲנָבִ֖ים סותה עִיר֔וֹ סוּתֽוֹ",
+  "text": "אֹסְרִ֤י לַגֶּ֨פֶן֙ עירה עִיר֔וֹ וְלַשֹּׂרֵקָ֖ה בְּנִ֣י אֲתֹנ֑וֹ כִּבֵּ֤ס בַּיַּ֨יִן֙ לְבֻשׁ֔וֹ וּבְדַם עֲנָבִ֖ים סותה סוּתֽוֹ",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "עִיר֔וֹ",
+      "lemma": "5895",
+      "morph": "HNcmsc/Sp3ms",
+      "strongs": [
+        "H5895"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5895",
+        "morph": "HNcmsc/Sp3ms"
+      }
+    },
+    {
+      "position": 5,
       "text": "וְלַשֹּׂרֵקָ֖ה",
       "lemma": "c/l/8321 b",
       "morph": "HC/Rd/Ncfsa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בְּנִ֣י",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אֲתֹנ֑וֹ",
       "lemma": "860",
       "morph": "HNcfsc/Sp3ms",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כִּבֵּ֤ס",
       "lemma": "3526",
       "morph": "HVpp3ms",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "בַּיַּ֨יִן֙",
       "lemma": "b/3196",
       "morph": "HRd/Ncmsa",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "לְבֻשׁ֔וֹ",
       "lemma": "3830",
       "morph": "HNcmsc/Sp3ms",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "וּבְדַם",
       "lemma": "c/b/1818",
       "morph": "HC/R/Ncmsc",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "עֲנָבִ֖ים",
       "lemma": "6025",
       "morph": "HNcmpa",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "סותה",
       "lemma": "5497",
       "morph": "HNcmsc/Sp3ms",
@@ -173,21 +188,6 @@
         "lemma": "5497",
         "morph": "HNcmsc/Sp3ms",
         "type": "x-ketiv"
-      }
-    },
-    {
-      "position": 13,
-      "text": "עִיר֔וֹ",
-      "lemma": "5895",
-      "morph": "HNcmsc/Sp3ms",
-      "strongs": [
-        "H5895"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5895",
-        "morph": "HNcmsc/Sp3ms"
       }
     },
     {

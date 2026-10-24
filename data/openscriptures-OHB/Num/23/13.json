@@ -1,5 +1,5 @@
 {
-  "text": "וַיֹּ֨אמֶר אֵלָ֜יו בָּלָ֗ק לך נָּ֨א אִתִּ֜י אֶל מָק֤וֹם אַחֵר֙ אֲשֶׁ֣ר תִּרְאֶ֣נּוּ מִשָּׁ֔ם אֶ֚פֶס קָצֵ֣הוּ תִרְאֶ֔ה וְכֻלּ֖וֹ לֹ֣א תִרְאֶ֑ה וְקָבְנוֹ לִ֖י מִשָּֽׁם לְכָה",
+  "text": "וַיֹּ֨אמֶר אֵלָ֜יו בָּלָ֗ק לך לְכָה נָּ֨א אִתִּ֜י אֶל מָק֤וֹם אַחֵר֙ אֲשֶׁ֣ר תִּרְאֶ֣נּוּ מִשָּׁ֔ם אֶ֚פֶס קָצֵ֣הוּ תִרְאֶ֔ה וְכֻלּ֖וֹ לֹ֣א תִרְאֶ֑ה וְקָבְנוֹ לִ֖י מִשָּֽׁם",
   "words": [
     {
       "position": 1,
@@ -52,9 +52,7 @@
         "H3212"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "3212",
         "morph": "HVqv2ms",
@@ -63,6 +61,23 @@
     },
     {
       "position": 5,
+      "text": "לְכָה",
+      "lemma": "1980",
+      "morph": "HVqv2ms/Sh",
+      "strongs": [
+        "H1980"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "1980",
+        "morph": "HVqv2ms/Sh"
+      }
+    },
+    {
+      "position": 6,
       "text": "נָּ֨א",
       "lemma": "3212",
       "morph": "HTj",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אִתִּ֜י",
       "lemma": "854",
       "morph": "HR/Sp1cs",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "אֶל",
       "lemma": "413",
       "morph": "HR",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "מָק֤וֹם",
       "lemma": "4725",
       "morph": "HNcmsa",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "אַחֵר֙",
       "lemma": "312",
       "morph": "HAamsa",
@@ -134,7 +149,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "אֲשֶׁ֣ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "תִּרְאֶ֣נּוּ",
       "lemma": "7200",
       "morph": "HVqi2ms/Sp3ms",
@@ -162,7 +177,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "מִשָּׁ֔ם",
       "lemma": "m/8033",
       "morph": "HR/D",
@@ -176,7 +191,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "אֶ֚פֶס",
       "lemma": "657 a",
       "morph": "HNcmsa",
@@ -190,7 +205,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "קָצֵ֣הוּ",
       "lemma": "7097 a",
       "morph": "HNcbsc/Sp3ms",
@@ -204,7 +219,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "תִרְאֶ֔ה",
       "lemma": "7200",
       "morph": "HVqi2ms",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "וְכֻלּ֖וֹ",
       "lemma": "c/3605",
       "morph": "HC/Ncmsc/Sp3ms",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "לֹ֣א",
       "lemma": "3808",
       "morph": "HTn",
@@ -246,7 +261,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "תִרְאֶ֑ה",
       "lemma": "7200",
       "morph": "HVqi2ms",
@@ -260,7 +275,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "וְקָבְנוֹ",
       "lemma": "c/6895",
       "morph": "HC/Vqv2ms/Sp3ms",
@@ -276,7 +291,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "לִ֖י",
       "lemma": "l",
       "morph": "HR/Sp1cs",
@@ -289,7 +304,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "מִשָּֽׁם",
       "lemma": "m/8033",
       "morph": "HR/D",
@@ -300,21 +315,6 @@
       "source": {
         "lemma": "m/8033",
         "morph": "HR/D"
-      }
-    },
-    {
-      "position": 22,
-      "text": "לְכָה",
-      "lemma": "1980",
-      "morph": "HVqv2ms/Sh",
-      "strongs": [
-        "H1980"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1980",
-        "morph": "HVqv2ms/Sh"
       }
     }
   ],

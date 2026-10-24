@@ -1,5 +1,5 @@
 {
-  "text": "קֹר֤וֹת בָּתֵּ֨ינוּ֙ אֲרָזִ֔ים רחיטנו בְּרוֹתִֽים רַהִיטֵ֖נוּ",
+  "text": "קֹר֤וֹת בָּתֵּ֨ינוּ֙ אֲרָזִ֔ים רחיטנו רַהִיטֵ֖נוּ בְּרוֹתִֽים",
   "words": [
     {
       "position": 1,
@@ -61,20 +61,6 @@
     },
     {
       "position": 5,
-      "text": "בְּרוֹתִֽים",
-      "lemma": "1266",
-      "morph": "HNcmpa",
-      "strongs": [
-        "H1266"
-      ],
-      "metadata": {},
-      "source": {
-        "lemma": "1266",
-        "morph": "HNcmpa"
-      }
-    },
-    {
-      "position": 6,
       "text": "רַהִיטֵ֖נוּ",
       "lemma": "7351",
       "morph": "HNcmsc/Sp1cp",
@@ -86,6 +72,20 @@
       "source": {
         "lemma": "7351",
         "morph": "HNcmsc/Sp1cp"
+      }
+    },
+    {
+      "position": 6,
+      "text": "בְּרוֹתִֽים",
+      "lemma": "1266",
+      "morph": "HNcmpa",
+      "strongs": [
+        "H1266"
+      ],
+      "metadata": {},
+      "source": {
+        "lemma": "1266",
+        "morph": "HNcmpa"
       }
     }
   ],

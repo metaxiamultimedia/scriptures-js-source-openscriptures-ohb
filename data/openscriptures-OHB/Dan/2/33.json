@@ -1,5 +1,5 @@
 {
-  "text": "שָׁק֖וֹהִי דִּ֣י פַרְזֶ֑ל רַגְל֕וֹהִי מנהון דִּ֣י פַרְזֶ֔ל ומנהון דִּ֥י חֲסַֽף מִנְּהֵין֙ וּמִנְּהֵ֖ין",
+  "text": "שָׁק֖וֹהִי דִּ֣י פַרְזֶ֑ל רַגְל֕וֹהִי מנהון מִנְּהֵין֙ דִּ֣י פַרְזֶ֔ל ומנהון וּמִנְּהֵ֖ין דִּ֥י חֲסַֽף",
   "words": [
     {
       "position": 1,
@@ -75,6 +75,21 @@
     },
     {
       "position": 6,
+      "text": "מִנְּהֵין֙",
+      "lemma": "4481",
+      "morph": "AR/Sp3fp",
+      "strongs": [
+        "H4481"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "4481",
+        "morph": "AR/Sp3fp"
+      }
+    },
+    {
+      "position": 7,
       "text": "דִּ֣י",
       "lemma": "1768",
       "morph": "ATr",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "פַרְזֶ֔ל",
       "lemma": "6523",
       "morph": "ANcmsa",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "ומנהון",
       "lemma": "c/4481",
       "morph": "AC/R/Sp3mp",
@@ -118,7 +133,22 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
+      "text": "וּמִנְּהֵ֖ין",
+      "lemma": "c/4481",
+      "morph": "AC/R/Sp3fp",
+      "strongs": [
+        "H4481"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/4481",
+        "morph": "AC/R/Sp3fp"
+      }
+    },
+    {
+      "position": 11,
       "text": "דִּ֥י",
       "lemma": "1768",
       "morph": "ATr",
@@ -132,7 +162,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 12,
       "text": "חֲסַֽף",
       "lemma": "2635",
       "morph": "ANcmsa",
@@ -143,36 +173,6 @@
       "source": {
         "lemma": "2635",
         "morph": "ANcmsa"
-      }
-    },
-    {
-      "position": 11,
-      "text": "מִנְּהֵין֙",
-      "lemma": "4481",
-      "morph": "AR/Sp3fp",
-      "strongs": [
-        "H4481"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4481",
-        "morph": "AR/Sp3fp"
-      }
-    },
-    {
-      "position": 12,
-      "text": "וּמִנְּהֵ֖ין",
-      "lemma": "c/4481",
-      "morph": "AC/R/Sp3fp",
-      "strongs": [
-        "H4481"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/4481",
-        "morph": "AC/R/Sp3fp"
       }
     }
   ],

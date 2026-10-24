@@ -1,5 +1,5 @@
 {
-  "text": "בָּעֵ֣ת הַהִ֔יא עלה עַבְדֵ֛י נְבֻכַדְנֶאצַּ֥ר מֶֽלֶךְ בָּבֶ֖ל יְרוּשָׁלִָ֑ם וַתָּבֹ֥א הָעִ֖יר בַּמָּצֽוֹר עָל֗וּ",
+  "text": "בָּעֵ֣ת הַהִ֔יא עלה עָל֗וּ עַבְדֵ֛י נְבֻכַדְנֶאצַּ֥ר מֶֽלֶךְ בָּבֶ֖ל יְרוּשָׁלִָ֑ם וַתָּבֹ֥א הָעִ֖יר בַּמָּצֽוֹר",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "עָל֗וּ",
+      "lemma": "5927",
+      "morph": "HVqp3cp",
+      "strongs": [
+        "H5927"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5927",
+        "morph": "HVqp3cp"
+      }
+    },
+    {
+      "position": 5,
       "text": "עַבְדֵ֛י",
       "lemma": "5650",
       "morph": "HNcmpc",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "נְבֻכַדְנֶאצַּ֥ר",
       "lemma": "5019",
       "morph": "HNp",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "מֶֽלֶךְ",
       "lemma": "4428",
       "morph": "HNcmsc",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "בָּבֶ֖ל",
       "lemma": "894",
       "morph": "HNp",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "יְרוּשָׁלִָ֑ם",
       "lemma": "3389",
       "morph": "HNp",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "וַתָּבֹ֥א",
       "lemma": "c/935",
       "morph": "HC/Vqw3fs",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "הָעִ֖יר",
       "lemma": "d/5892 b",
       "morph": "HTd/Ncfsa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "בַּמָּצֽוֹר",
       "lemma": "b/4692",
       "morph": "HRd/Ncmsa",
@@ -157,21 +172,6 @@
       "source": {
         "lemma": "b/4692",
         "morph": "HRd/Ncmsa"
-      }
-    },
-    {
-      "position": 12,
-      "text": "עָל֗וּ",
-      "lemma": "5927",
-      "morph": "HVqp3cp",
-      "strongs": [
-        "H5927"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5927",
-        "morph": "HVqp3cp"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "עַ֭צְמוֹתָיו מָלְא֣וּ עלומו וְ֝עִמּ֗וֹ עַל עָפָ֥ר תִּשְׁכָּֽב עֲלוּמָ֑יו",
+  "text": "עַ֭צְמוֹתָיו מָלְא֣וּ עלומו עֲלוּמָ֑יו וְ֝עִמּ֗וֹ עַל עָפָ֥ר תִּשְׁכָּֽב",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "עֲלוּמָ֑יו",
+      "lemma": "5934",
+      "morph": "HNcmpc/Sp3ms",
+      "strongs": [
+        "H5934"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "5934",
+        "morph": "HNcmpc/Sp3ms"
+      }
+    },
+    {
+      "position": 5,
       "text": "וְ֝עִמּ֗וֹ",
       "lemma": "c/5973 a",
       "morph": "HC/R/Sp3ms",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "עָפָ֥ר",
       "lemma": "6083",
       "morph": "HNcmsa",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תִּשְׁכָּֽב",
       "lemma": "7901",
       "morph": "HVqi3fs",
@@ -101,21 +116,6 @@
       "source": {
         "lemma": "7901",
         "morph": "HVqi3fs"
-      }
-    },
-    {
-      "position": 8,
-      "text": "עֲלוּמָ֑יו",
-      "lemma": "5934",
-      "morph": "HNcmpc/Sp3ms",
-      "strongs": [
-        "H5934"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "5934",
-        "morph": "HNcmpc/Sp3ms"
       }
     }
   ],

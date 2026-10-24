@@ -1,5 +1,5 @@
 {
-  "text": "צַדִּ֣יק הָרִאשׁ֣וֹן בְּרִיב֑וֹ יבא רֵ֝עֵ֗הוּ וַחֲקָרֽוֹ וּבָֽא",
+  "text": "צַדִּ֣יק הָרִאשׁ֣וֹן בְּרִיב֑וֹ יבא וּבָֽא רֵ֝עֵ֗הוּ וַחֲקָרֽוֹ",
   "words": [
     {
       "position": 1,
@@ -52,9 +52,7 @@
         "H935"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "935",
         "morph": "HVqi3ms",
@@ -63,6 +61,23 @@
     },
     {
       "position": 5,
+      "text": "וּבָֽא",
+      "lemma": "c/935",
+      "morph": "HC/Vqq3ms",
+      "strongs": [
+        "H935"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "c/935",
+        "morph": "HC/Vqq3ms"
+      }
+    },
+    {
+      "position": 6,
       "text": "רֵ֝עֵ֗הוּ",
       "lemma": "7453",
       "morph": "HNcmsc/Sp3ms",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "וַחֲקָרֽוֹ",
       "lemma": "c/2713",
       "morph": "HC/Vqp3ms/Sp3ms",
@@ -87,21 +102,6 @@
       "source": {
         "lemma": "c/2713",
         "morph": "HC/Vqp3ms/Sp3ms"
-      }
-    },
-    {
-      "position": 7,
-      "text": "וּבָֽא",
-      "lemma": "c/935",
-      "morph": "HC/Vqq3ms",
-      "strongs": [
-        "H935"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/935",
-        "morph": "HC/Vqq3ms"
       }
     }
   ],

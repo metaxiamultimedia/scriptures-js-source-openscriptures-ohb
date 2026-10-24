@@ -1,5 +1,5 @@
 {
-  "text": "וּבָ֣אנוּ אֵלָ֗יו באחת הַמְּקוֹמֹת֙ אֲשֶׁ֣ר נִמְצָ֣א שָׁ֔ם וְנַ֣חְנוּ עָלָ֔יו כַּאֲשֶׁ֛ר יִפֹּ֥ל הַטַּ֖ל עַל הָאֲדָמָ֑ה וְלֹֽא נ֥וֹתַר בּ֛וֹ וּבְכָל הָאֲנָשִׁ֥ים אֲשֶׁר אִתּ֖וֹ גַּם אֶחָֽד בְּאַחַ֤ד",
+  "text": "וּבָ֣אנוּ אֵלָ֗יו באחת בְּאַחַ֤ד הַמְּקוֹמֹת֙ אֲשֶׁ֣ר נִמְצָ֣א שָׁ֔ם וְנַ֣חְנוּ עָלָ֔יו כַּאֲשֶׁ֛ר יִפֹּ֥ל הַטַּ֖ל עַל הָאֲדָמָ֑ה וְלֹֽא נ֥וֹתַר בּ֛וֹ וּבְכָל הָאֲנָשִׁ֥ים אֲשֶׁר אִתּ֖וֹ גַּם אֶחָֽד",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "בְּאַחַ֤ד",
+      "lemma": "b/259",
+      "morph": "HR/Acmsc",
+      "strongs": [
+        "H259"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "b/259",
+        "morph": "HR/Acmsc"
+      }
+    },
+    {
+      "position": 5,
       "text": "הַמְּקוֹמֹת֙",
       "lemma": "d/4725",
       "morph": "HTd/Ncmpa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אֲשֶׁ֣ר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "נִמְצָ֣א",
       "lemma": "4672",
       "morph": "HVNp3ms",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "שָׁ֔ם",
       "lemma": "8033",
       "morph": "HD",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְנַ֣חְנוּ",
       "lemma": "c/5117",
       "morph": "HC/Vqq1cp",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "עָלָ֔יו",
       "lemma": "5921 a",
       "morph": "HR/Sp3ms",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "כַּאֲשֶׁ֛ר",
       "lemma": "k/834 d",
       "morph": "HR/Tr",
@@ -144,7 +159,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "יִפֹּ֥ל",
       "lemma": "5307",
       "morph": "HVqi3ms",
@@ -158,7 +173,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "הַטַּ֖ל",
       "lemma": "d/2919",
       "morph": "HTd/Ncmsa",
@@ -172,7 +187,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "עַל",
       "lemma": "5921 a",
       "morph": "HR",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "הָאֲדָמָ֑ה",
       "lemma": "d/127",
       "morph": "HTd/Ncfsa",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "וְלֹֽא",
       "lemma": "c/3808",
       "morph": "HC/Tn",
@@ -218,7 +233,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "text": "נ֥וֹתַר",
       "lemma": "3498",
       "morph": "HVNp3ms",
@@ -232,7 +247,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "text": "בּ֛וֹ",
       "lemma": "b",
       "morph": "HR/Sp3ms",
@@ -245,7 +260,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "text": "וּבְכָל",
       "lemma": "c/b/3605",
       "morph": "HC/R/Ncmsc",
@@ -261,7 +276,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "text": "הָאֲנָשִׁ֥ים",
       "lemma": "d/376",
       "morph": "HTd/Ncmpa",
@@ -275,7 +290,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "text": "אֲשֶׁר",
       "lemma": "834 a",
       "morph": "HTr",
@@ -291,7 +306,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "text": "אִתּ֖וֹ",
       "lemma": "854",
       "morph": "HR/Sp3ms",
@@ -305,7 +320,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "text": "גַּם",
       "lemma": "1571",
       "morph": "HTa",
@@ -321,7 +336,7 @@
       }
     },
     {
-      "position": 23,
+      "position": 24,
       "text": "אֶחָֽד",
       "lemma": "259",
       "morph": "HAcmsa",
@@ -332,21 +347,6 @@
       "source": {
         "lemma": "259",
         "morph": "HAcmsa"
-      }
-    },
-    {
-      "position": 24,
-      "text": "בְּאַחַ֤ד",
-      "lemma": "b/259",
-      "morph": "HR/Acmsc",
-      "strongs": [
-        "H259"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "b/259",
-        "morph": "HR/Acmsc"
       }
     }
   ],

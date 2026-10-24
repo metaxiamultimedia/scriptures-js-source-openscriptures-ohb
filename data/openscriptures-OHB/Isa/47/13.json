@@ -1,5 +1,5 @@
 {
-  "text": "נִלְאֵ֖ית בְּרֹ֣ב עֲצָתָ֑יִךְ יַעַמְדוּ נָ֨א וְיוֹשִׁיעֻ֜ךְ הברו שָׁמַ֗יִם הַֽחֹזִים֙ בַּכּ֣וֹכָבִ֔ים מֽוֹדִיעִם֙ לֶחֳדָשִׁ֔ים מֵאֲשֶׁ֥ר יָבֹ֖אוּ עָלָֽיִךְ הֹבְרֵ֣י",
+  "text": "נִלְאֵ֖ית בְּרֹ֣ב עֲצָתָ֑יִךְ יַעַמְדוּ נָ֨א וְיוֹשִׁיעֻ֜ךְ הברו הֹבְרֵ֣י שָׁמַ֗יִם הַֽחֹזִים֙ בַּכּ֣וֹכָבִ֔ים מֽוֹדִיעִם֙ לֶחֳדָשִׁ֔ים מֵאֲשֶׁ֥ר יָבֹ֖אוּ עָלָֽיִךְ",
   "words": [
     {
       "position": 1,
@@ -105,6 +105,21 @@
     },
     {
       "position": 8,
+      "text": "הֹבְרֵ֣י",
+      "lemma": "1895",
+      "morph": "HVqrmpc",
+      "strongs": [
+        "H1895"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1895",
+        "morph": "HVqrmpc"
+      }
+    },
+    {
+      "position": 9,
       "text": "שָׁמַ֗יִם",
       "lemma": "8064",
       "morph": "HNcmpa",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "הַֽחֹזִים֙",
       "lemma": "d/2374",
       "morph": "HTd/Vqrmpa",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בַּכּ֣וֹכָבִ֔ים",
       "lemma": "b/3556",
       "morph": "HRd/Ncmpa",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "מֽוֹדִיעִם֙",
       "lemma": "3045",
       "morph": "HVhrmpa",
@@ -160,7 +175,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "לֶחֳדָשִׁ֔ים",
       "lemma": "l/2320",
       "morph": "HRd/Ncmpa",
@@ -174,7 +189,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "text": "מֵאֲשֶׁ֥ר",
       "lemma": "m/834 c",
       "morph": "HR/Tr",
@@ -188,7 +203,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "text": "יָבֹ֖אוּ",
       "lemma": "935",
       "morph": "HVqi3mp",
@@ -202,7 +217,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "text": "עָלָֽיִךְ",
       "lemma": "5921 a",
       "morph": "HR/Sp2fs",
@@ -213,21 +228,6 @@
       "source": {
         "lemma": "5921 a",
         "morph": "HR/Sp2fs"
-      }
-    },
-    {
-      "position": 16,
-      "text": "הֹבְרֵ֣י",
-      "lemma": "1895",
-      "morph": "HVqrmpc",
-      "strongs": [
-        "H1895"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1895",
-        "morph": "HVqrmpc"
       }
     }
   ],

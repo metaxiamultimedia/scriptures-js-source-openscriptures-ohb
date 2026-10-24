@@ -1,5 +1,5 @@
 {
-  "text": "גרל חֵ֭מָה נֹ֣שֵׂא עֹ֑נֶשׁ כִּ֥י אִם תַּ֝צִּ֗יל וְע֣וֹד תּוֹסִֽף גְּֽדָל",
+  "text": "גרל גְּֽדָל חֵ֭מָה נֹ֣שֵׂא עֹ֑נֶשׁ כִּ֥י אִם תַּ֝צִּ֗יל וְע֣וֹד תּוֹסִֽף",
   "words": [
     {
       "position": 1,
@@ -10,9 +10,7 @@
         "H1632"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "1632",
         "morph": "HNcmsc",
@@ -21,6 +19,23 @@
     },
     {
       "position": 2,
+      "text": "גְּֽדָל",
+      "lemma": "1419 a",
+      "morph": "HAamsc",
+      "strongs": [
+        "H1419"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "1419 a",
+        "morph": "HAamsc"
+      }
+    },
+    {
+      "position": 3,
       "text": "חֵ֭מָה",
       "lemma": "2534",
       "morph": "HNcfsa",
@@ -34,7 +49,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 4,
       "text": "נֹ֣שֵׂא",
       "lemma": "5375",
       "morph": "HVqrmsa",
@@ -48,7 +63,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "עֹ֑נֶשׁ",
       "lemma": "6066",
       "morph": "HNcmsa",
@@ -62,7 +77,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "כִּ֥י",
       "lemma": "3588 b",
       "morph": "HC",
@@ -76,7 +91,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אִם",
       "lemma": "518 b",
       "morph": "HC",
@@ -92,7 +107,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "תַּ֝צִּ֗יל",
       "lemma": "5337",
       "morph": "HVhi2ms",
@@ -106,7 +121,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "וְע֣וֹד",
       "lemma": "c/5750",
       "morph": "HC/D",
@@ -120,7 +135,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "תּוֹסִֽף",
       "lemma": "3254",
       "morph": "HVhi2ms",
@@ -131,21 +146,6 @@
       "source": {
         "lemma": "3254",
         "morph": "HVhi2ms"
-      }
-    },
-    {
-      "position": 10,
-      "text": "גְּֽדָל",
-      "lemma": "1419 a",
-      "morph": "HAamsc",
-      "strongs": [
-        "H1419"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1419 a",
-        "morph": "HAamsc"
       }
     }
   ],

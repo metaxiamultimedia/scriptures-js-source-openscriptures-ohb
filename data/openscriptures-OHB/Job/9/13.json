@@ -1,5 +1,5 @@
 {
-  "text": "אֱ֭לוֹהַּ לֹא יָשִׁ֣יב אַפּ֑וֹ תחתו שָׁ֝חֲח֗וּ עֹ֣זְרֵי רָֽהַב תַּחְתָּ֥יו",
+  "text": "אֱ֭לוֹהַּ לֹא יָשִׁ֣יב אַפּ֑וֹ תחתו תַּחְתָּ֥יו שָׁ֝חֲח֗וּ עֹ֣זְרֵי רָֽהַב",
   "words": [
     {
       "position": 1,
@@ -77,6 +77,21 @@
     },
     {
       "position": 6,
+      "text": "תַּחְתָּ֥יו",
+      "lemma": "8478",
+      "morph": "HR/Sp3ms",
+      "strongs": [
+        "H8478"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "8478",
+        "morph": "HR/Sp3ms"
+      }
+    },
+    {
+      "position": 7,
       "text": "שָׁ֝חֲח֗וּ",
       "lemma": "7817",
       "morph": "HVqp3cp",
@@ -90,7 +105,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "עֹ֣זְרֵי",
       "lemma": "5826",
       "morph": "HVqrmpc",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "רָֽהַב",
       "lemma": "7293",
       "morph": "HNp",
@@ -115,21 +130,6 @@
       "source": {
         "lemma": "7293",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 9,
-      "text": "תַּחְתָּ֥יו",
-      "lemma": "8478",
-      "morph": "HR/Sp3ms",
-      "strongs": [
-        "H8478"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "8478",
-        "morph": "HR/Sp3ms"
       }
     }
   ],

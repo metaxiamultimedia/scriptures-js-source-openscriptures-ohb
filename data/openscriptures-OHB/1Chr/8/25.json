@@ -1,5 +1,5 @@
 {
-  "text": "וְיִפְדְיָ֥ה ופניאל בְּנֵ֥י שָׁשָֽׁק וּפְנוּאֵ֖ל",
+  "text": "וְיִפְדְיָ֥ה ופניאל וּפְנוּאֵ֖ל בְּנֵ֥י שָׁשָֽׁק",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "וּפְנוּאֵ֖ל",
+      "lemma": "c/6439",
+      "morph": "HC/Np",
+      "strongs": [
+        "H6439"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/6439",
+        "morph": "HC/Np"
+      }
+    },
+    {
+      "position": 4,
       "text": "בְּנֵ֥י",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "שָׁשָֽׁק",
       "lemma": "8349",
       "morph": "HNp",
@@ -57,21 +72,6 @@
       "source": {
         "lemma": "8349",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 5,
-      "text": "וּפְנוּאֵ֖ל",
-      "lemma": "c/6439",
-      "morph": "HC/Np",
-      "strongs": [
-        "H6439"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/6439",
-        "morph": "HC/Np"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "מַה תֵּיטִ֥בִי דַּרְכֵּ֖ךְ לְבַקֵּ֣שׁ אַהֲבָ֑ה לָכֵן֙ גַּ֣ם אֶת הָרָע֔וֹת למדתי אֶת דְּרָכָֽיִךְ לִמַּ֖דְתְּ",
+  "text": "מַה תֵּיטִ֥בִי דַּרְכֵּ֖ךְ לְבַקֵּ֣שׁ אַהֲבָ֑ה לָכֵן֙ גַּ֣ם אֶת הָרָע֔וֹת למדתי לִמַּ֖דְתְּ אֶת דְּרָכָֽיִךְ",
   "words": [
     {
       "position": 1,
@@ -149,6 +149,21 @@
     },
     {
       "position": 11,
+      "text": "לִמַּ֖דְתְּ",
+      "lemma": "3925",
+      "morph": "HVpp1cs",
+      "strongs": [
+        "H3925"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "3925",
+        "morph": "HVpp1cs"
+      }
+    },
+    {
+      "position": 12,
       "text": "אֶת",
       "lemma": "853",
       "morph": "HTo",
@@ -164,7 +179,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "text": "דְּרָכָֽיִךְ",
       "lemma": "1870",
       "morph": "HNcbpc/Sp2fs",
@@ -175,21 +190,6 @@
       "source": {
         "lemma": "1870",
         "morph": "HNcbpc/Sp2fs"
-      }
-    },
-    {
-      "position": 13,
-      "text": "לִמַּ֖דְתְּ",
-      "lemma": "3925",
-      "morph": "HVpp1cs",
-      "strongs": [
-        "H3925"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "3925",
-        "morph": "HVpp1cs"
       }
     }
   ],

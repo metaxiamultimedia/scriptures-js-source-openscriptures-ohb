@@ -1,5 +1,5 @@
 {
-  "text": "עוּתַ֨י בֶּן עַמִּיה֤וּד בֶּן עָמְרִי֙ בֶּן אִמְרִ֣י בֶן בנימן בְּנֵי פֶ֖רֶץ בֶּן יְהוּדָֽה בָּנִ֔י מִן",
+  "text": "עוּתַ֨י בֶּן עַמִּיה֤וּד בֶּן עָמְרִי֙ בֶּן אִמְרִ֣י בֶן בנימן בָּנִ֔י מִן בְּנֵי פֶ֖רֶץ בֶּן יְהוּדָֽה",
   "words": [
     {
       "position": 1,
@@ -130,9 +130,7 @@
         "H1144"
       ],
       "variant": "ketiv",
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "1144",
         "morph": "HNcmpc/R",
@@ -141,6 +139,38 @@
     },
     {
       "position": 10,
+      "text": "בָּנִ֔י",
+      "lemma": "1137",
+      "morph": "HNp",
+      "strongs": [
+        "H1137"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "1137",
+        "morph": "HNp"
+      }
+    },
+    {
+      "position": 11,
+      "text": "מִן",
+      "lemma": "4480 a",
+      "morph": "HR",
+      "strongs": [
+        "H4480"
+      ],
+      "variant": "qere",
+      "metadata": {
+        "joinNext": "maqqef"
+      },
+      "source": {
+        "lemma": "4480 a",
+        "morph": "HR"
+      }
+    },
+    {
+      "position": 12,
       "text": "בְּנֵי",
       "lemma": "1121 a",
       "morph": "HNcmpc",
@@ -156,7 +186,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 13,
       "text": "פֶ֖רֶץ",
       "lemma": "6557",
       "morph": "HNp",
@@ -170,7 +200,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 14,
       "text": "בֶּן",
       "lemma": "1121 a",
       "morph": "HNcmsc",
@@ -186,7 +216,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 15,
       "text": "יְהוּדָֽה",
       "lemma": "3063",
       "morph": "HNp",
@@ -197,36 +227,6 @@
       "source": {
         "lemma": "3063",
         "morph": "HNp"
-      }
-    },
-    {
-      "position": 14,
-      "text": "בָּנִ֔י",
-      "lemma": "1137",
-      "morph": "HNp",
-      "strongs": [
-        "H1137"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "1137",
-        "morph": "HNp"
-      }
-    },
-    {
-      "position": 15,
-      "text": "מִן",
-      "lemma": "4480 a",
-      "morph": "HR",
-      "strongs": [
-        "H4480"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "4480 a",
-        "morph": "HR"
       }
     }
   ],

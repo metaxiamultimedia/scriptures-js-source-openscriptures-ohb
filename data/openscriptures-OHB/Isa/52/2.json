@@ -1,5 +1,5 @@
 {
-  "text": "הִתְנַעֲרִ֧י מֵעָפָ֛ר ק֥וּמִי שְּׁבִ֖י יְרֽוּשָׁלִָ֑ם התפתחו מוֹסְרֵ֣י צַוָּארֵ֔ךְ שְׁבִיָּ֖ה בַּת צִיּֽוֹן הִֽתְפַּתְּחִי֙",
+  "text": "הִתְנַעֲרִ֧י מֵעָפָ֛ר ק֥וּמִי שְּׁבִ֖י יְרֽוּשָׁלִָ֑ם התפתחו הִֽתְפַּתְּחִי֙ מוֹסְרֵ֣י צַוָּארֵ֔ךְ שְׁבִיָּ֖ה בַּת צִיּֽוֹן",
   "words": [
     {
       "position": 1,
@@ -89,6 +89,21 @@
     },
     {
       "position": 7,
+      "text": "הִֽתְפַּתְּחִי֙",
+      "lemma": "6605 a",
+      "morph": "HVtv2fs",
+      "strongs": [
+        "H6605"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6605 a",
+        "morph": "HVtv2fs"
+      }
+    },
+    {
+      "position": 8,
       "text": "מוֹסְרֵ֣י",
       "lemma": "4147",
       "morph": "HNcbpc",
@@ -102,7 +117,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "צַוָּארֵ֔ךְ",
       "lemma": "6677 a",
       "morph": "HNcmsc/Sp2fs",
@@ -116,7 +131,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "שְׁבִיָּ֖ה",
       "lemma": "7628 b",
       "morph": "HAafsa",
@@ -130,7 +145,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "בַּת",
       "lemma": "1323",
       "morph": "HNcfsc",
@@ -146,7 +161,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "צִיּֽוֹן",
       "lemma": "6726",
       "morph": "HNp",
@@ -158,28 +173,13 @@
         "lemma": "6726",
         "morph": "HNp"
       }
-    },
-    {
-      "position": 12,
-      "text": "הִֽתְפַּתְּחִי֙",
-      "lemma": "6605 a",
-      "morph": "HVtv2fs",
-      "strongs": [
-        "H6605"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6605 a",
-        "morph": "HVtv2fs"
-      }
     }
   ],
   "metadata": {
     "paragraphBreaks": [
       {
         "type": "setumah",
-        "afterWordPosition": 11
+        "afterWordPosition": 12
       }
     ],
     "terminator": "sof-pasuq"

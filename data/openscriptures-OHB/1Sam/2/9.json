@@ -1,5 +1,5 @@
 {
-  "text": "רַגְלֵ֤י חסידו יִשְׁמֹ֔ר וּרְשָׁעִ֖ים בַּחֹ֣שֶׁךְ יִדָּ֑מּוּ כִּֽי לֹ֥א בְכֹ֖חַ יִגְבַּר אִֽישׁ חֲסִידָיו֙",
+  "text": "רַגְלֵ֤י חסידו חֲסִידָיו֙ יִשְׁמֹ֔ר וּרְשָׁעִ֖ים בַּחֹ֣שֶׁךְ יִדָּ֑מּוּ כִּֽי לֹ֥א בְכֹ֖חַ יִגְבַּר אִֽישׁ",
   "words": [
     {
       "position": 1,
@@ -33,6 +33,21 @@
     },
     {
       "position": 3,
+      "text": "חֲסִידָיו֙",
+      "lemma": "2623",
+      "morph": "HAampc/Sp3ms",
+      "strongs": [
+        "H2623"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "2623",
+        "morph": "HAampc/Sp3ms"
+      }
+    },
+    {
+      "position": 4,
       "text": "יִשְׁמֹ֔ר",
       "lemma": "8104",
       "morph": "HVqi3ms",
@@ -46,7 +61,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 5,
       "text": "וּרְשָׁעִ֖ים",
       "lemma": "c/7563",
       "morph": "HC/Aampa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "בַּחֹ֣שֶׁךְ",
       "lemma": "b/2822",
       "morph": "HRd/Ncmsa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יִדָּ֑מּוּ",
       "lemma": "1826 a",
       "morph": "HVNi3mp",
@@ -88,7 +103,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -104,7 +119,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "לֹ֥א",
       "lemma": "3808",
       "morph": "HTn",
@@ -118,7 +133,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "text": "בְכֹ֖חַ",
       "lemma": "b/3581 b",
       "morph": "HR/Ncmsa",
@@ -132,7 +147,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "text": "יִגְבַּר",
       "lemma": "1396",
       "morph": "HVqi3ms",
@@ -148,7 +163,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "text": "אִֽישׁ",
       "lemma": "376",
       "morph": "HNcmsa",
@@ -159,21 +174,6 @@
       "source": {
         "lemma": "376",
         "morph": "HNcmsa"
-      }
-    },
-    {
-      "position": 12,
-      "text": "חֲסִידָיו֙",
-      "lemma": "2623",
-      "morph": "HAampc/Sp3ms",
-      "strongs": [
-        "H2623"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "2623",
-        "morph": "HAampc/Sp3ms"
       }
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "text": "הֲל֣וֹא מֵעַ֔תָּה קראתי לִ֖י אָבִ֑י אַלּ֥וּף נְעֻרַ֖י אָֽתָּה קָרָ֥את",
+  "text": "הֲל֣וֹא מֵעַ֔תָּה קראתי קָרָ֥את לִ֖י אָבִ֑י אַלּ֥וּף נְעֻרַ֖י אָֽתָּה",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "קָרָ֥את",
+      "lemma": "7121",
+      "morph": "HVqp2fs",
+      "strongs": [
+        "H7121"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7121",
+        "morph": "HVqp2fs"
+      }
+    },
+    {
+      "position": 5,
       "text": "לִ֖י",
       "lemma": "l",
       "morph": "HR/Sp1cs",
@@ -59,7 +74,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אָבִ֑י",
       "lemma": "1",
       "morph": "HNcmsc/Sp1cs",
@@ -73,7 +88,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "אַלּ֥וּף",
       "lemma": "441 a",
       "morph": "HNcmsc",
@@ -87,7 +102,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "text": "נְעֻרַ֖י",
       "lemma": "5271 a",
       "morph": "HNcbpc/Sp1cs",
@@ -101,7 +116,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "text": "אָֽתָּה",
       "lemma": "859 a",
       "morph": "HPp2ms",
@@ -112,21 +127,6 @@
       "source": {
         "lemma": "859 a",
         "morph": "HPp2ms"
-      }
-    },
-    {
-      "position": 9,
-      "text": "קָרָ֥את",
-      "lemma": "7121",
-      "morph": "HVqp2fs",
-      "strongs": [
-        "H7121"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7121",
-        "morph": "HVqp2fs"
       }
     }
   ],

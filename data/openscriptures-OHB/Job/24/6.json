@@ -1,5 +1,5 @@
 {
-  "text": "בַּ֭שָּׂדֶה בְּלִיל֣וֹ יקצירו וְכֶ֖רֶם רָשָׁ֣ע יְלַקֵּֽשׁוּ יִקְצ֑וֹרוּ",
+  "text": "בַּ֭שָּׂדֶה בְּלִיל֣וֹ יקצירו יִקְצ֑וֹרוּ וְכֶ֖רֶם רָשָׁ֣ע יְלַקֵּֽשׁוּ",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "יִקְצ֑וֹרוּ",
+      "lemma": "7114 b",
+      "morph": "HVqi3mp",
+      "strongs": [
+        "H7114"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "7114 b",
+        "morph": "HVqi3mp"
+      }
+    },
+    {
+      "position": 5,
       "text": "וְכֶ֖רֶם",
       "lemma": "c/3754",
       "morph": "HC/Ncbsa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "רָשָׁ֣ע",
       "lemma": "7563",
       "morph": "HAamsa",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "יְלַקֵּֽשׁוּ",
       "lemma": "3953",
       "morph": "HVpi3mp",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "3953",
         "morph": "HVpi3mp"
-      }
-    },
-    {
-      "position": 7,
-      "text": "יִקְצ֑וֹרוּ",
-      "lemma": "7114 b",
-      "morph": "HVqi3mp",
-      "strongs": [
-        "H7114"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "7114 b",
-        "morph": "HVqi3mp"
       }
     }
   ],

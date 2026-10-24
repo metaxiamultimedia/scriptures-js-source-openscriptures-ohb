@@ -1,5 +1,5 @@
 {
-  "text": "יְתוֹמִ֤ים הָיִ֨ינוּ֙ אין אָ֔ב אִמֹּתֵ֖ינוּ כְּאַלְמָנֽוֹת וְאֵ֣ין",
+  "text": "יְתוֹמִ֤ים הָיִ֨ינוּ֙ אין וְאֵ֣ין אָ֔ב אִמֹּתֵ֖ינוּ כְּאַלְמָנֽוֹת",
   "words": [
     {
       "position": 1,
@@ -47,6 +47,21 @@
     },
     {
       "position": 4,
+      "text": "וְאֵ֣ין",
+      "lemma": "c/369",
+      "morph": "HC/Tn",
+      "strongs": [
+        "H369"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "c/369",
+        "morph": "HC/Tn"
+      }
+    },
+    {
+      "position": 5,
       "text": "אָ֔ב",
       "lemma": "1",
       "morph": "HNcmsa",
@@ -60,7 +75,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "text": "אִמֹּתֵ֖ינוּ",
       "lemma": "517",
       "morph": "HNcfpc/Sp1cp",
@@ -74,7 +89,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "text": "כְּאַלְמָנֽוֹת",
       "lemma": "k/490",
       "morph": "HR/Ncfpa",
@@ -85,21 +100,6 @@
       "source": {
         "lemma": "k/490",
         "morph": "HR/Ncfpa"
-      }
-    },
-    {
-      "position": 7,
-      "text": "וְאֵ֣ין",
-      "lemma": "c/369",
-      "morph": "HC/Tn",
-      "strongs": [
-        "H369"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "c/369",
-        "morph": "HC/Tn"
       }
     }
   ],

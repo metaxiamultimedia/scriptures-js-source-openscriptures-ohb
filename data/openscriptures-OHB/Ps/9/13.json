@@ -1,23 +1,8 @@
 {
-  "text": "עֲנָוִֽים כִּֽי דֹרֵ֣שׁ דָּ֭מִים אוֹתָ֣ם זָכָ֑ר לֹֽא שָׁ֝כַ֗ח צַעֲקַ֥ת עניים",
+  "text": "כִּֽי דֹרֵ֣שׁ דָּ֭מִים אוֹתָ֣ם זָכָ֑ר לֹֽא שָׁ֝כַ֗ח צַעֲקַ֥ת עניים עֲנָוִֽים",
   "words": [
     {
       "position": 1,
-      "text": "עֲנָוִֽים",
-      "lemma": "6035",
-      "morph": "HAampa",
-      "strongs": [
-        "H6035"
-      ],
-      "variant": "qere",
-      "metadata": {},
-      "source": {
-        "lemma": "6035",
-        "morph": "HAampa"
-      }
-    },
-    {
-      "position": 2,
       "text": "כִּֽי",
       "lemma": "3588 a",
       "morph": "HC",
@@ -33,7 +18,7 @@
       }
     },
     {
-      "position": 3,
+      "position": 2,
       "text": "דֹרֵ֣שׁ",
       "lemma": "1875",
       "morph": "HVqrmsa",
@@ -47,7 +32,7 @@
       }
     },
     {
-      "position": 4,
+      "position": 3,
       "text": "דָּ֭מִים",
       "lemma": "1818",
       "morph": "HNcmpa",
@@ -61,7 +46,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 4,
       "text": "אוֹתָ֣ם",
       "lemma": "853",
       "morph": "HTo/Sp3mp",
@@ -75,7 +60,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 5,
       "text": "זָכָ֑ר",
       "lemma": "2142",
       "morph": "HVqp3ms",
@@ -89,7 +74,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 6,
       "text": "לֹֽא",
       "lemma": "3808",
       "morph": "HTn",
@@ -105,7 +90,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 7,
       "text": "שָׁ֝כַ֗ח",
       "lemma": "7911",
       "morph": "HVqp3ms",
@@ -119,7 +104,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 8,
       "text": "צַעֲקַ֥ת",
       "lemma": "6818",
       "morph": "HNcfsc",
@@ -133,7 +118,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 9,
       "text": "עניים",
       "lemma": "6041",
       "morph": "HAampa",
@@ -146,6 +131,21 @@
         "lemma": "6041",
         "morph": "HAampa",
         "type": "x-ketiv"
+      }
+    },
+    {
+      "position": 10,
+      "text": "עֲנָוִֽים",
+      "lemma": "6035",
+      "morph": "HAampa",
+      "strongs": [
+        "H6035"
+      ],
+      "variant": "qere",
+      "metadata": {},
+      "source": {
+        "lemma": "6035",
+        "morph": "HAampa"
       }
     }
   ],
