@@ -9,9 +9,7 @@
       "strongs": [
         "H376"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "l/376",
         "morph": "HR/Ncmsc"
@@ -53,9 +51,7 @@
       "strongs": [
         "H1121"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "c/l/1121 a",
         "morph": "HC/R/Ncmsc"
@@ -91,6 +87,46 @@
     }
   ],
   "metadata": {
-    "terminator": "sof-pasuq"
+    "sequence": [
+      {
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
+      }
+    ]
   }
 }

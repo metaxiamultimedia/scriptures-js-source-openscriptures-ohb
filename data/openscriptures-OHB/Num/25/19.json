@@ -45,10 +45,23 @@
     }
   ],
   "metadata": {
-    "paragraphBreaks": [
+    "sequence": [
       {
-        "type": "petuhah",
-        "afterWordPosition": 3
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "mark",
+        "type": "petuchah",
+        "text": "פ"
       }
     ]
   }

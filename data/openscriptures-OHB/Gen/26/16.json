@@ -37,9 +37,7 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -95,9 +93,7 @@
       "strongs": [
         "H3588"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "3588 a",
         "morph": "HC"
@@ -111,9 +107,7 @@
       "strongs": [
         "H6105"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "6105 a",
         "morph": "HVqp2ms"
@@ -149,6 +143,67 @@
     }
   ],
   "metadata": {
-    "terminator": "sof-pasuq"
+    "sequence": [
+      {
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "word",
+        "position": 7
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 8
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 9
+      },
+      {
+        "kind": "word",
+        "position": 10
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
+      }
+    ]
   }
 }

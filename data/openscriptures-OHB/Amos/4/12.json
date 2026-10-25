@@ -37,9 +37,7 @@
       "strongs": [
         "H6213"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "6213 a",
         "morph": "HVqi1cs"
@@ -94,9 +92,7 @@
       "strongs": [
         "H3588"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "3588 a",
         "morph": "HC"
@@ -124,9 +120,7 @@
       "strongs": [
         "H6213"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "6213 a",
         "morph": "HVqi1cs"
@@ -167,9 +161,7 @@
       "strongs": [
         "H7125"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "l/7125",
         "morph": "HR/Vqc"
@@ -205,6 +197,88 @@
     }
   ],
   "metadata": {
-    "terminator": "sof-pasuq"
+    "sequence": [
+      {
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "word",
+        "position": 7
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 8
+      },
+      {
+        "kind": "word",
+        "position": 9
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 10
+      },
+      {
+        "kind": "word",
+        "position": 11
+      },
+      {
+        "kind": "word",
+        "position": 12
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 13
+      },
+      {
+        "kind": "word",
+        "position": 14
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
+      }
+    ]
   }
 }

@@ -65,9 +65,7 @@
       "strongs": [
         "H8055"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "8055",
         "morph": "HVpi3ms"
@@ -145,12 +143,62 @@
     }
   ],
   "metadata": {
-    "paragraphBreaks": [
+    "sequence": [
       {
-        "type": "petuhah",
-        "afterWordPosition": 2
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "mark",
+        "type": "petuchah",
+        "text": "פ"
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "word",
+        "position": 7
+      },
+      {
+        "kind": "word",
+        "position": 8
+      },
+      {
+        "kind": "word",
+        "position": 9
+      },
+      {
+        "kind": "word",
+        "position": 10
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
       }
-    ],
-    "terminator": "sof-pasuq"
+    ]
   }
 }

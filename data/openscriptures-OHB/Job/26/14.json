@@ -9,9 +9,7 @@
       "strongs": [
         "H2005"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "2005",
         "morph": "HTj"
@@ -84,9 +82,7 @@
       "strongs": [
         "H4100"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "c/4100",
         "morph": "HC/Ti"
@@ -128,9 +124,7 @@
       "strongs": [
         "H8085"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "8085",
         "morph": "HVqi1cp"
@@ -224,15 +218,97 @@
     }
   ],
   "metadata": {
-    "paragraphBreaks": [
+    "sequence": [
       {
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "mark",
+        "type": "paseq",
+        "text": "׀"
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 7
+      },
+      {
+        "kind": "word",
+        "position": 8
+      },
+      {
+        "kind": "word",
+        "position": 9
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 10
+      },
+      {
+        "kind": "word",
+        "position": 11
+      },
+      {
+        "kind": "word",
+        "position": 12
+      },
+      {
+        "kind": "word",
+        "position": 13
+      },
+      {
+        "kind": "word",
+        "position": 14
+      },
+      {
+        "kind": "word",
+        "position": 15
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
+      },
+      {
+        "kind": "mark",
         "type": "setumah",
-        "afterWordPosition": 15
+        "text": "ס"
       }
-    ],
-    "terminator": "sof-pasuq",
-    "paseq": [
-      2
     ]
   }
 }

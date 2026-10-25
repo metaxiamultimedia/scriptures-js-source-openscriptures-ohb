@@ -65,9 +65,7 @@
       "strongs": [
         "H7604"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "7604",
         "morph": "HVNp3ms"
@@ -89,12 +87,46 @@
     }
   ],
   "metadata": {
-    "paragraphBreaks": [
+    "sequence": [
       {
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
+      },
+      {
+        "kind": "mark",
         "type": "setumah",
-        "afterWordPosition": 6
+        "text": "ס"
       }
-    ],
-    "terminator": "sof-pasuq"
+    ]
   }
 }

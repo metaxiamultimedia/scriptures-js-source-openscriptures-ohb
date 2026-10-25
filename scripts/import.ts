@@ -1,15 +1,15 @@
 /**
  * Import script for OpenScriptures MorphHB (Hebrew Bible) data.
  *
- * Downloads individual book XML files from the MorphHB GitHub repository
- * and converts to JSON format.
+ * Downloads individual book XML files from the MorphHB GitHub repository at
+ * MORPHHB_COMMIT and converts to JSON format.
  *
  * Usage: npx tsx scripts/import.ts
  */
 
 import { XMLParser } from 'fast-xml-parser';
 import { mkdir, writeFile, readFile } from 'fs/promises';
-import { existsSync, readFileSync } from 'fs';
+import { existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -17,7 +17,10 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const ROOT_DIR = join(__dirname, '..');
 
-const BASE_URL = 'https://raw.githubusercontent.com/openscriptures/morphhb/refs/heads/master/wlc/';
+// openscriptures/morphhb commit the data is imported from (master head since
+// 2024-08-27, "Merge pull request #92 from Clear-Bible/earlier-requests").
+const MORPHHB_COMMIT = '3d15126fb1ef74867fc1434be1942e837932691f';
+const BASE_URL = `https://raw.githubusercontent.com/openscriptures/morphhb/${MORPHHB_COMMIT}/wlc/`;
 
 const BOOKS = [
   'Gen.xml', 'Exod.xml', 'Lev.xml', 'Num.xml', 'Deut.xml',
@@ -31,68 +34,15 @@ const BOOKS = [
   'Zech.xml', 'Mal.xml',
 ];
 
-const SOURCE_DIR = join(ROOT_DIR, 'source');
+// Downloads are cached per commit, so a cache never outlives a pin change.
+const SOURCE_DIR = join(ROOT_DIR, 'source', MORPHHB_COMMIT);
 const DATA_DIR = join(ROOT_DIR, 'data', 'openscriptures-OHB');
 
-// Received-Masoretic special-letter supplement (#2): majuscules/minuscules the
-// Leningrad codex does not itself mark, drawn from a cited enumeration and
-// occurrence-adjudicated against a scholarly source. Only entries attested by
-// multiple sources with a single unambiguous location are included; contested
-// (either/or) and occurrence-ambiguous cases are excluded. Keyed
-// `${book}|${chapter}|${verse}` -> entries; merged into words[].metadata.specialLetters
-// at save time, tagged tradition:'masoretic-received' with the citation.
-const SPECIAL_SUPPLEMENT_SOURCE =
-  'Jewish Encyclopedia (1906), "Small and Large Letters"; A.E. Brouwer, "Typographic details in the Hebrew Bible"; L. Cohen, "Windows into the Text: Majuscules and Minuscules in the Hebrew Bible" (HUC, 2000)';
-const SPECIAL_SUPPLEMENT: Record<
-  string,
-  Array<{ position: number; type: 'large' | 'small'; char: string; index: number }>
-> = (() => {
-  const raw = JSON.parse(
-    readFileSync(join(__dirname, 'overlays', 'special-letters-supplement.json'), 'utf-8')
-  );
-  const map: Record<string, Array<{ position: number; type: 'large' | 'small'; char: string; index: number }>> = {};
-  for (const e of raw.entries) {
-    (map[`${e.book}|${e.chapter}|${e.verse}`] ??= []).push({
-      position: e.position,
-      type: e.type,
-      char: e.char,
-      index: e.index,
-    });
-  }
-  return map;
-})();
-
-// Received-Masoretic extraordinary-point supplement: where the received
-// tradition's dotted letters differ from the dots the WLC carries. Keyed
-// `${book}|${chapter}|${verse}` -> entries, merged into words[].metadata.points
-// at save time. kind 'add' = a dot the WLC lacks (tradition 'masoretic-received');
-// kind 'not-received' = a WLC dot the received tradition does not count (it keeps
-// tradition 'leningrad' and gains received:false). Each entry carries its citation.
-interface PointSupplementEntry {
-  position: number;
-  kind: 'add' | 'not-received';
-  index: number;
-  char: string;
-  mark: 'upper' | 'lower';
-  source: string;
-}
-const POINT_SUPPLEMENT: Record<string, PointSupplementEntry[]> = (() => {
-  const raw = JSON.parse(
-    readFileSync(join(__dirname, 'overlays', 'points-supplement.json'), 'utf-8')
-  );
-  const map: Record<string, PointSupplementEntry[]> = {};
-  for (const e of raw.entries) {
-    (map[`${e.book}|${e.chapter}|${e.verse}`] ??= []).push({
-      position: e.position,
-      kind: e.kind,
-      index: e.index,
-      char: e.char,
-      mark: e.mark,
-      source: (e.sources as string[]).map(k => raw.sources[k]).join('; '),
-    });
-  }
-  return map;
-})();
+// Special letters and extraordinary points come only from the WLC's own markup
+// (<seg type="x-large|x-small|x-suspended"> inside a <w>; U+05C4/U+05C5 in the
+// word text). Marks of the Masoretic tradition that the WLC does not carry are
+// not part of this package; @metaxia/scriptures has cited tables of them
+// (data/masoretic-marks/).
 
 const STRONGS_RE =/(?:strongs?:)?([HGhg]?\d{1,5})/g;
 
@@ -116,50 +66,40 @@ interface WordEntry {
 }
 
 /**
- * A scribal mark that belongs to the verse as a whole rather than to any word
- * (e.g. the reversed nun / nun hafukha, which the WLC places after the
- * sof-pasuq). Recorded as verse-level metadata so it never enters `words[]` and
- * therefore cannot affect gematria or word counts; renderers use it to display
- * the mark at the verse boundary.
+ * The marks the WLC writes between words, each a <seg> outside any <w>:
+ * maqaf (־ x-maqqef), paseq (׀ x-paseq), sof pasuq (׃ x-sof-pasuq), the
+ * paragraph divisions petuchah (פ x-pe) and setumah (ס x-samekh), and the
+ * reversed nun (׆ x-reversednun).
  */
-interface ScribalMark {
-  type: 'reversed-nun';
-  /** Where the mark sits relative to the verse. All attested cases are 'after'. */
-  position: 'after';
-}
+type MarkType = 'maqaf' | 'paseq' | 'sof-pasuq' | 'petuchah' | 'setumah' | 'reversed-nun';
+
+const MARK_BY_SEG: Record<string, MarkType> = {
+  'x-maqqef': 'maqaf',
+  'x-paseq': 'paseq',
+  'x-sof-pasuq': 'sof-pasuq',
+  'x-pe': 'petuchah',
+  'x-samekh': 'setumah',
+  'x-reversednun': 'reversed-nun',
+};
 
 /**
- * A Masoretic paragraph division (parashah break) that follows a word.
- * petuhah (פ) = open paragraph; setumah (ס) = closed paragraph. Recorded at the
- * verse level (never in words[]) so it cannot affect gematria or word counts;
- * `afterWordPosition` is the final 1-based position of the word it follows
- * (= last word for a verse-trailing break, or the specific word for a mid-verse
- * break such as the one inside Gen 35:22).
+ * One item of `metadata.sequence`: the verse's words and marks in the order of
+ * the WLC XML. A word item points into `words[]` by `position`. A mark item is
+ * the mark itself and belongs to no word, ketiv or qere. `reading` says which
+ * reading a mark inside a ketiv/qere is part of: 'qere' = inside the qere
+ * (<note><rdg type="x-qere">), e.g. the paseq between הֵם and פְּרוּצִים in
+ * Neh 2:13 or the maqaf of מַה־זֶּה in Exod 4:2; 'ketiv' = between two ketiv
+ * words (<seg subType="x-ketiv">), e.g. the maqaf of מי־לי in Isa 52:5.
  */
-interface ParagraphBreak {
-  type: 'petuhah' | 'setumah';
-  afterWordPosition: number;
-}
+type SequenceItem =
+  | { kind: 'word'; position: number }
+  | { kind: 'mark'; type: MarkType; text: string; reading?: 'ketiv' | 'qere' };
 
 interface VerseData {
   text: string;
   words: WordEntry[];
-  metadata?: {
-    scribalMarks?: ScribalMark[];
-    paragraphBreaks?: ParagraphBreak[];
-    /**
-     * Masoretic verse terminator. The WLC closes every verse with a sof-pasuq
-     * (׃ U+05C3); recorded once per verse rather than as a redundant per-verse
-     * mark. Omitted if the source verse carries no sof-pasuq. Structural only —
-     * never valued, never in words[].
-     */
-    terminator?: 'sof-pasuq';
-    /**
-     * Paseq (׀ U+05C0) — a disjunctive mark the WLC places *between* two words.
-     * Recorded as the 1-based final positions of the words it follows (verse
-     * level, never in words[]), so gematria/word-count paths are untouched.
-     */
-    paseq?: number[];
+  metadata: {
+    sequence: SequenceItem[];
   };
 }
 
@@ -194,106 +134,12 @@ interface SpecialLetter {
   /** 0-based index of the marked consonant among the word's base consonants. */
   index: number;
   /**
-   * Which tradition attests this marking. `leningrad` = marked in the WLC
-   * manuscript itself (our base source). `masoretic-received` = the broader
-   * received Masoretic tradition, supplied from a cited enumeration (see
-   * `source`) and not marked in the Leningrad codex.
+   * Always `leningrad`: the letter is marked in the WLC itself. Since 3.0.0
+   * there are no other entries (see SPECIAL_START).
    */
-  tradition?: 'leningrad' | 'masoretic-received';
-  /** Citation for the marking (set for supplement entries). */
-  source?: string;
-}
-
-// Paragraph-division markers (petuhah/setumah). The WLC encodes these as
-// <seg type="x-pe"> (פ, open paragraph) and <seg type="x-samekh"> (ס, closed
-// paragraph) placed BETWEEN words — usually verse-trailing (after the
-// sof-pasuq), occasionally mid-verse (e.g. the break inside Gen 35:22). With
-// preserveOrder:false the XML parser would bucket them into an unordered `seg`
-// array, losing which word they follow. So before parsing we relocate each one
-// INTO the preceding <w> as a Private-Use sentinel, which rides along as plain
-// text in the right position; extractParagraphMarks() later strips the sentinel
-// and records the break against that word (afterWordPosition).
-const MARK_START = '';
-const MARK_END = '';
-const PARAGRAPH_TYPE_CODE: Record<string, 'petuhah' | 'setumah'> = {
-  pe: 'petuhah',
-  samekh: 'setumah',
-};
-const PARAGRAPH_CODE_BY_TYPE: Record<string, string> = {
-  pe: 'P',
-  samekh: 'C',
-};
-const PARAGRAPH_TYPE_BY_CODE: Record<string, 'petuhah' | 'setumah'> = {
-  P: 'petuhah',
-  C: 'setumah',
-};
-
-type ParagraphType = 'petuhah' | 'setumah';
-
-// Masoretic inter-word punctuation (maqqef / paseq). Like the paragraph markers
-// above, the WLC encodes these as <seg> placed BETWEEN words — maqqef
-// (x-maqqef, ־ U+05BE) connects a word to the next; paseq (x-paseq, ׀ U+05C0)
-// disjoins them. With preserveOrder:false the XML parser buckets segs into an
-// unordered `seg` array, losing which word they follow, so we relocate each one
-// INTO the preceding <w> as a Private-Use sentinel (distinct from the paragraph
-// sentinels above) that rides along as plain text in the right position;
-// extractPunctuation() later strips the sentinel and records which word it
-// follows. (sof-pasuq is handled separately: it is always verse-final and
-// one-per-verse, so it is detected by scanning the verse's segs and recorded as
-// a single verse-level `terminator` rather than relocated.)
-const PUNCT_START = '\uE002';
-const PUNCT_END = '\uE003';
-const PUNCT_TYPE_CODE: Record<string, string> = {
-  maqqef: 'M',
-  paseq: 'K',
-};
-const PUNCT_TYPE_BY_CODE: Record<string, 'maqqef' | 'paseq'> = {
-  M: 'maqqef',
-  K: 'paseq',
-};
-
-type PunctuationType = 'maqqef' | 'paseq';
-
-/**
- * Pull any punctuation-marker sentinels off a word piece, returning the clean
- * word text and the list of inter-word marks that follow this word (in order).
- */
-function extractPunctuation(piece: string): {
-  clean: string;
-  punctuation: PunctuationType[];
-} {
-  if (!piece.includes(PUNCT_START)) return { clean: piece, punctuation: [] };
-  const punctuation: PunctuationType[] = [];
-  const clean = piece.replace(
-    new RegExp(`${PUNCT_START}(.)${PUNCT_END}`, 'g'),
-    (_m, code: string) => {
-      const type = PUNCT_TYPE_BY_CODE[code];
-      if (type) punctuation.push(type);
-      return '';
-    }
-  );
-  return { clean, punctuation };
-}
-
-/**
- * Pull any paragraph-marker sentinels off a word piece, returning the clean
- * word text and the list of paragraph breaks that follow this word (in order).
- */
-function extractParagraphMarks(piece: string): {
-  clean: string;
-  paragraphs: ParagraphType[];
-} {
-  if (!piece.includes(MARK_START)) return { clean: piece, paragraphs: [] };
-  const paragraphs: ParagraphType[] = [];
-  const clean = piece.replace(
-    new RegExp(`${MARK_START}(.)${MARK_END}`, 'g'),
-    (_m, code: string) => {
-      const type = PARAGRAPH_TYPE_BY_CODE[code];
-      if (type) paragraphs.push(type);
-      return '';
-    }
-  );
-  return { clean, paragraphs };
+  tradition: 'leningrad';
+  /** Always 'WLC / OpenScriptures'. */
+  source: string;
 }
 
 // A Hebrew base consonant (alef..tav, incl. final forms). Points, dagesh, and
@@ -362,8 +208,7 @@ function extractSpecialLetters(piece: string): {
 // `text`, faithful to the source. A dot belongs to the base consonant that
 // precedes it in the text, as for any combining mark; in Gen 19:33 and Num 29:15
 // the WLC text places the dot after the consonant before the vav (קׄוּ, רׄוֹ),
-// so those are recorded on ק and ר. Differences from the received tradition are
-// applied from scripts/overlays/points-supplement.json (see POINT_SUPPLEMENT).
+// so those are recorded on ק and ר.
 const PUNCTUM_UPPER = 'ׄ';
 const PUNCTUM_LOWER = 'ׅ';
 
@@ -374,18 +219,10 @@ interface ExtraordinaryPoint {
   char: string;
   /** Dot position: above (U+05C4) or below (U+05C5) the letter. */
   mark: 'upper' | 'lower';
-  /**
-   * `leningrad` = the dot is in the WLC text itself. `masoretic-received` = a
-   * dot the received Masoretic tradition counts that the WLC text lacks; it is
-   * metadata only and is not inserted into the word `text`.
-   */
-  tradition: 'leningrad' | 'masoretic-received';
-  /** Citation for the dot. */
+  /** Always `leningrad`: the dot is in the WLC text itself. */
+  tradition: 'leningrad';
+  /** Always 'WLC / OpenScriptures'. */
   source: string;
-  /** false = the received tradition does not count this WLC dot. */
-  received?: false;
-  /** Citation for `received: false`. */
-  receivedSource?: string;
 }
 
 function extractPoints(word: string): ExtraordinaryPoint[] {
@@ -458,14 +295,18 @@ async function downloadBook(bookName: string): Promise<string> {
   return xml;
 }
 
+/** A word or a mark of one verse, in WLC XML order, before positions are final. */
+type RawItem =
+  | { kind: 'w'; ord: number }
+  | { kind: 'mark'; type: MarkType; text: string; reading?: 'ketiv' | 'qere' };
+
 interface ParsedVerse {
   book: string;
   chapter: number;
   number: number;
   text: string;
-  scribalMarks?: ScribalMark[];
-  /** Transient: the verse carries a sof-pasuq terminator (always verse-final). */
-  hasSofPasuq?: boolean;
+  /** Transient: the verse's <w> elements and marks in XML order (see readSequence). */
+  items: RawItem[];
   words: Array<{
     position: number;
     /** Transient: document order of the source <w> (see parseOsis). */
@@ -481,23 +322,14 @@ interface ParsedVerse {
       morph?: string;
       type?: string;
     };
-    /** Transient: paragraph breaks (petuhah/setumah) that follow this word. */
-    paragraphsAfter?: ParagraphType[];
-    /** Transient: inter-word punctuation (maqqef/paseq) that follows this word. */
-    punctuationAfter?: PunctuationType[];
   }>;
 }
 
 /**
  * Put a verse's words back in WLC document order (by `ord`, the <w> number set
  * in parseOsis) and renumber `position`. A word without `ord` (bare text outside
- * a <w>) keeps its place after the word extracted before it.
- *
- * The inter-word marks the importer lifts into the word they follow (paragraph
- * breaks, maqqef, paseq: see the sentinel pass in parseOsis) sit on the ketiv,
- * because in the XML the qere <note> comes between the ketiv </w> and the mark.
- * In reading order the mark follows the whole ketiv + qere unit, so it moves to
- * the last qere word of that unit.
+ * a <w>) keeps its place after the word extracted before it. `ord` is kept: the
+ * verse sequence is built from it at save time.
  */
 function restoreDocumentOrder(words: ParsedVerse['words']): void {
   let last = -1;
@@ -510,24 +342,71 @@ function restoreDocumentOrder(words: ParsedVerse['words']): void {
   for (let i = 0; i < keyed.length; i++) {
     words[i] = keyed[i].w;
     words[i].position = i + 1;
-    delete words[i].ord;
   }
-  for (let i = 0; i < words.length; i++) {
-    const w = words[i];
-    if (w.variant !== 'ketiv' || (!w.paragraphsAfter && !w.punctuationAfter)) continue;
-    let j = i + 1;
-    while (j < words.length && words[j].variant === 'qere') j++;
-    if (j === i + 1) continue;
-    const target = words[j - 1];
-    if (w.paragraphsAfter) {
-      target.paragraphsAfter = [...(target.paragraphsAfter ?? []), ...w.paragraphsAfter];
-      delete w.paragraphsAfter;
+}
+
+/**
+ * Read one verse's <w> elements and inter-word marks in XML order. Walks the
+ * tags of the verse body (after the data-ord numbering and the special-letter
+ * pass, so the only <seg>s left are the marks):
+ *   - <w>: a word, by its data-ord number;
+ *   - <seg> outside a <w>: a mark (MARK_BY_SEG), with its text as written;
+ *     subType="x-ketiv" (a maqaf between two ketiv words) gives reading: 'ketiv';
+ *   - <note type="variant"><rdg type="x-qere">: the qere reading. Its words and
+ *     marks are read in place, and its marks get reading: 'qere';
+ *   - the catchWord (a copy of the ketiv), <rdg type="x-accent"> (alternative
+ *     accents of words already read) and every other <note> (editorial notes)
+ *     are skipped, as the word extraction skips them.
+ * An unknown <seg> type fails the import rather than being dropped.
+ */
+function readSequence(body: string, where: string): RawItem[] {
+  const items: RawItem[] = [];
+  const stack: Array<{ name: string; skip: boolean; qere: boolean; inW: boolean }> = [];
+  const tagRe = /<(\/?)([A-Za-z]+)\b([^>]*?)(\/?)>/g;
+  let m: RegExpExecArray | null;
+  while ((m = tagRe.exec(body))) {
+    const [, close, name, attrs, selfClose] = m;
+    if (close) {
+      const top = stack.pop();
+      if (!top || top.name !== name) throw new Error(`${where}: unbalanced </${name}>`);
+      continue;
     }
-    if (w.punctuationAfter) {
-      target.punctuationAfter = [...(target.punctuationAfter ?? []), ...w.punctuationAfter];
-      delete w.punctuationAfter;
+    const parent = stack[stack.length - 1] ?? { skip: false, qere: false, inW: false };
+    const type = /\btype="([^"]*)"/.exec(attrs)?.[1];
+    let { skip, qere, inW } = parent;
+    if (name === 'note') {
+      if (type !== 'variant') skip = true;
+    } else if (name === 'catchWord') {
+      skip = true;
+    } else if (name === 'rdg') {
+      if (type === 'x-qere') qere = true;
+      else skip = true;
+    } else if (name === 'w') {
+      if (!skip) {
+        const ord = /data-ord="(\d+)"/.exec(attrs);
+        if (!ord) throw new Error(`${where}: <w> without data-ord`);
+        items.push({ kind: 'w', ord: Number(ord[1]) });
+      }
+      inW = true;
+    } else if (name === 'seg' && !skip && !inW) {
+      const mark = type ? MARK_BY_SEG[type] : undefined;
+      if (!mark) throw new Error(`${where}: unknown <seg type="${type}">`);
+      const end = body.indexOf('</seg>', tagRe.lastIndex);
+      items.push({
+        kind: 'mark',
+        type: mark,
+        text: body.slice(tagRe.lastIndex, end),
+        ...(qere
+          ? { reading: 'qere' as const }
+          : /\bsubType="x-ketiv"/.test(attrs)
+            ? { reading: 'ketiv' as const }
+            : {}),
+      });
     }
+    if (!selfClose) stack.push({ name, skip, qere, inW });
   }
+  if (stack.length) throw new Error(`${where}: unclosed <${stack[stack.length - 1].name}>`);
+  return items;
 }
 
 function parseOsis(xml: string): ParsedVerse[] {
@@ -559,52 +438,13 @@ function parseOsis(xml: string): ParsedVerse[] {
       `${SPECIAL_START}${SPECIAL_TYPE_CODE[type]}${inner}${SPECIAL_END}`
   );
 
-  // Relocate inter-word markers that follow a word into the preceding <w> as
-  // ordered sentinels, so their position (which word they follow) survives the
-  // preserveOrder:false parse. Two independent families ride in distinct
-  // Private-Use sentinels:
-  //   - paragraph divisions (x-pe / x-samekh)  -> MARK_*  (extractParagraphMarks)
-  //   - inter-word punctuation (x-maqqef / x-paseq) -> PUNCT_* (extractPunctuation)
-  // A marker can sit anywhere in a seg run (which may also contain sof-pasuq,
-  // notes, …); we lift only these families and leave the rest of the run in
-  // place (sof-pasuq stays a seg and is detected separately as the verse
-  // terminator; notes continue to be handled/skipped as before). Verse-trailing
-  // paragraph markers attach to the last word; mid-verse markers (e.g. the break
-  // inside Gen 35:22, or a maqqef between עַל and פְּנֵי) attach to the word they
-  // follow.
-  // A qere <note> in the run is not lifted from: the marks inside it (e.g. the
-  // paseq between הֵם and פְּרוּצִים in Neh 2:13) follow a qere word, so the
-  // same pass runs on the note's own content and lifts them into that word.
-  const relocate = (src: string): string =>
-    src.replace(
-      /<\/w>((?:\s*(?:<seg type="x-[a-z-]+">[^<]*<\/seg>|<note\b[^>]*>[\s\S]*?<\/note>))+)/g,
-      (_m, run: string) => {
-        let sentinels = '';
-        const lift = (part: string): string => {
-          let kept = part.replace(
-            /<seg type="x-(pe|samekh)">[^<]*<\/seg>/g,
-            (_s, t: string) => {
-              sentinels += `${MARK_START}${PARAGRAPH_CODE_BY_TYPE[t]}${MARK_END}`;
-              return '';
-            }
-          );
-          kept = kept.replace(
-            /<seg type="x-(maqqef|paseq)">[^<]*<\/seg>/g,
-            (_s, t: string) => {
-              sentinels += `${PUNCT_START}${PUNCT_TYPE_CODE[t]}${PUNCT_END}`;
-              return '';
-            }
-          );
-          return kept;
-        };
-        const kept = run
-          .split(/(<note\b[^>]*>[\s\S]*?<\/note>)/)
-          .map((part, i) => (i % 2 === 1 ? relocate(part) : lift(part)))
-          .join('');
-        return `${sentinels}</w>${kept}`;
-      }
-    );
-  xml = relocate(xml);
+  // The marks between words (maqaf, paseq, sof pasuq, petuchah, setumah,
+  // reversed nun) are read straight from the XML text, in order, per verse
+  // (readSequence); the order-losing parse below skips them.
+  const sequences = new Map<string, RawItem[]>();
+  for (const vm of xml.matchAll(/<verse osisID="([^"]+)">([\s\S]*?)<\/verse>/g)) {
+    sequences.set(vm[1], readSequence(vm[2], vm[1]));
+  }
 
   const parser = new XMLParser({
     ignoreAttributes: false,
@@ -646,9 +486,7 @@ function parseOsis(xml: string): ParsedVerse[] {
             const cleanText = content.replace(/\//g, '').trim();
             if (cleanText) {
               for (const rawWord of cleanText.split(/\s+/).filter(Boolean)) {
-                const { clean: afterParas, paragraphs } = extractParagraphMarks(rawWord);
-                const { clean: afterPunct, punctuation } = extractPunctuation(afterParas);
-                const { clean: word, specials } = extractSpecialLetters(afterPunct);
+                const { clean: word, specials } = extractSpecialLetters(rawWord);
                 // Skip maqqef-only entries (punctuation, not words)
                 if (word === MAQQEF) continue;
                 const points = extractPoints(word);
@@ -662,8 +500,6 @@ function parseOsis(xml: string): ParsedVerse[] {
                   morph: null,
                   metadata: wordMeta,
                   source: {},
-                  ...(paragraphs.length > 0 ? { paragraphsAfter: paragraphs } : {}),
-                  ...(punctuation.length > 0 ? { punctuationAfter: punctuation } : {}),
                 });
               }
             }
@@ -700,9 +536,7 @@ function parseOsis(xml: string): ParsedVerse[] {
               if (text) {
                 const strongs = extractStrongs(lemma || null, text);
                 for (const rawPiece of text.split(/\s+/).filter(Boolean)) {
-                  const { clean: afterParas, paragraphs } = extractParagraphMarks(rawPiece);
-                  const { clean: afterPunct, punctuation } = extractPunctuation(afterParas);
-                  const { clean: piece, specials } = extractSpecialLetters(afterPunct);
+                  const { clean: piece, specials } = extractSpecialLetters(rawPiece);
                   // Skip maqqef-only entries (punctuation, not words)
                   if (piece === MAQQEF) continue;
                   const points = extractPoints(piece);
@@ -737,8 +571,6 @@ function parseOsis(xml: string): ParsedVerse[] {
                           }
                         : undefined,
                     source: Object.keys(source).length > 0 ? source : undefined,
-                    ...(paragraphs.length > 0 ? { paragraphsAfter: paragraphs } : {}),
-                    ...(punctuation.length > 0 ? { punctuationAfter: punctuation } : {}),
                   });
                 }
               }
@@ -809,43 +641,17 @@ function parseOsis(xml: string): ParsedVerse[] {
 
         restoreDocumentOrder(words);
 
-        // Capture verse-level scribal marks that the importer would otherwise
-        // drop via the generic "skip x-* seg" rule. The reversed nun (nun
-        // hafukha, U+05C6) is encoded as <seg type="x-reversednun"> and the WLC
-        // always places it after the sof-pasuq, outside the words — so it is
-        // recorded as verse metadata and never enters words[] (no effect on
-        // gematria or word counts). All 9 attested marks (Num 10:34/36,
-        // Ps 107:20-25/39) are verse-trailing, hence position 'after'.
-        // The sof-pasuq (׃ U+05C3) is the verse terminator: the WLC closes every
-        // verse with exactly one, always verse-final. Position is therefore
-        // fixed, so (unlike maqqef/paseq) it need not be relocated into a word —
-        // its mere presence is detected here from the unordered seg bucket and
-        // recorded once as a verse-level terminator.
-        const scribalMarks: ScribalMark[] = [];
-        let hasSofPasuq = false;
-        const rawSeg = record['seg'];
-        const segList = Array.isArray(rawSeg) ? rawSeg : rawSeg ? [rawSeg] : [];
-        for (const seg of segList) {
-          if (seg && typeof seg === 'object') {
-            const segType = (seg as Record<string, unknown>)['@_type'];
-            if (segType === 'x-reversednun') {
-              scribalMarks.push({ type: 'reversed-nun', position: 'after' });
-            } else if (segType === 'x-sof-pasuq') {
-              hasSofPasuq = true;
-            }
-          }
-        }
-
         if (words.length > 0) {
           const text = words.map(w => w.text).join(' ');
+          const items = sequences.get(osisId);
+          if (!items) throw new Error(`${osisId}: verse body not found for its sequence`);
 
           results.push({
             book,
             chapter: parseInt(chap, 10),
             number: parseInt(num, 10),
             text,
-            ...(scribalMarks.length > 0 ? { scribalMarks } : {}),
-            ...(hasSofPasuq ? { hasSofPasuq: true } : {}),
+            items,
             words,
           });
         }
@@ -881,32 +687,13 @@ function isParagraphMarker(w: ParsedVerse['words'][0]): boolean {
   return !w.lemma && !w.morph && (w.text === 'פ' || w.text === 'ס');
 }
 
-/**
- * A supplement entry names its word by position and its letter by consonant
- * index + char. Fail the import if they no longer agree (e.g. word order or the
- * WLC text changed under the overlay), instead of marking the wrong letter.
- */
-function assertSupplementLetter(
-  verse: ParsedVerse,
-  s: { position: number; index: number; char: string },
-  w: WordEntry | undefined
-): void {
-  const where = `${verse.book} ${verse.chapter}:${verse.number} word ${s.position}`;
-  if (!w) throw new Error(`supplement: ${where} not found`);
-  const consonants = [...w.text].filter(c => c >= '\u05D0' && c <= '\u05EA');
-  if (consonants[s.index] !== s.char) {
-    throw new Error(`supplement: ${where} "${w.text}" letter ${s.index} is ${consonants[s.index]}, expected ${s.char}`);
-  }
-}
-
 async function saveVerse(verse: ParsedVerse): Promise<void> {
   const verseDir = join(DATA_DIR, verse.book, String(verse.chapter));
   await mkdir(verseDir, { recursive: true });
 
   // Filter out textual critical notes and paragraph markers, renumber positions
   const filteredWords: WordEntry[] = [];
-  const paragraphBreaks: ParagraphBreak[] = [];
-  const paseqPositions: number[] = [];
+  const positionsByOrd = new Map<number, number[]>();
   let position = 1;
   for (const w of verse.words) {
     if (isTextualCriticalNote(w)) continue;
@@ -918,27 +705,10 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
     }
 
     const finalPosition = position++;
-
-    // Record any paragraph breaks that follow this word against its final
-    // (renumbered) position. Verse-level, never in words[].
-    if (w.paragraphsAfter) {
-      for (const type of w.paragraphsAfter) {
-        paragraphBreaks.push({ type, afterWordPosition: finalPosition });
-      }
-    }
-
-    // Record inter-word punctuation that follows this word. maqqef is a
-    // connector, so it rides on the word itself as `joinNext` (renderers join it
-    // to the following word); paseq is a verse-level disjunctive recorded by the
-    // position it follows. Neither is valued or enters the word count.
-    if (w.punctuationAfter) {
-      for (const type of w.punctuationAfter) {
-        if (type === 'maqqef') {
-          metadata.joinNext = 'maqqef';
-        } else if (type === 'paseq') {
-          paseqPositions.push(finalPosition);
-        }
-      }
+    if (w.ord !== undefined) {
+      const list = positionsByOrd.get(w.ord) ?? [];
+      list.push(finalPosition);
+      positionsByOrd.set(w.ord, list);
     }
 
     filteredWords.push({
@@ -954,84 +724,39 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
   }
   const wordEntries = filteredWords;
 
-  // Merge the received-Masoretic special-letter supplement onto the matching
-  // words (by final position). These are additive, cited, and tagged
-  // tradition:'masoretic-received' so they are distinguishable from the WLC's
-  // own (leningrad) markings; like all specialLetters they are structural and
-  // never affect gematria or counts.
-  const supp = SPECIAL_SUPPLEMENT[`${verse.book}|${verse.chapter}|${verse.number}`];
-  if (supp) {
-    for (const s of supp) {
-      const w = wordEntries.find(x => x.position === s.position);
-      assertSupplementLetter(verse, s, w);
-      if (!w) continue;
-      const meta = (w.metadata ??= {}) as Record<string, unknown>;
-      const list = (meta.specialLetters ??= []) as SpecialLetter[];
-      // Skip if the WLC already marks this same letter (avoid a duplicate).
-      if (list.some(e => e.type === s.type && e.index === s.index)) continue;
-      list.push({
-        type: s.type,
-        char: s.char,
-        index: s.index,
-        tradition: 'masoretic-received',
-        source: SPECIAL_SUPPLEMENT_SOURCE,
-      });
-    }
-  }
-
-  // Merge the received-Masoretic extraordinary-point supplement. Added dots are
-  // metadata only (the word text keeps the WLC's dots), so the consonant stream,
-  // gematria, and counts are unchanged.
-  const pointSupp = POINT_SUPPLEMENT[`${verse.book}|${verse.chapter}|${verse.number}`];
-  if (pointSupp) {
-    for (const s of pointSupp) {
-      const w = wordEntries.find(x => x.position === s.position);
-      assertSupplementLetter(verse, s, w);
-      if (!w) continue;
-      const meta = (w.metadata ??= {}) as Record<string, unknown>;
-      const list = (meta.points ??= []) as ExtraordinaryPoint[];
-      const existing = list.find(p => p.index === s.index && p.mark === s.mark);
-      if (s.kind === 'not-received') {
-        if (existing) {
-          existing.received = false;
-          existing.receivedSource = s.source;
-        }
-      } else if (!existing) {
-        list.push({
-          index: s.index,
-          char: s.char,
-          mark: s.mark,
-          tradition: 'masoretic-received',
-          source: s.source,
-        });
-      }
-    }
-  }
 
   // Rebuild text from filtered words (excludes textual critical notes)
   const text = wordEntries.map(w => w.text).join(' ');
 
+  // The verse sequence: every word (by position) and every mark, in XML order.
+  // Each word must appear exactly once and in position order; anything else
+  // means the sequence and words[] disagree, so the import fails.
+  const sequence: SequenceItem[] = [];
+  for (const item of verse.items) {
+    if (item.kind === 'w') {
+      for (const p of positionsByOrd.get(item.ord) ?? []) sequence.push({ kind: 'word', position: p });
+    } else {
+      sequence.push({
+        kind: 'mark',
+        type: item.type,
+        text: item.text,
+        ...(item.reading ? { reading: item.reading } : {}),
+      });
+    }
+  }
+  const seen = sequence.flatMap(i => (i.kind === 'word' ? [i.position] : []));
+  if (seen.length !== wordEntries.length || seen.some((p, i) => p !== i + 1)) {
+    throw new Error(
+      `${verse.book} ${verse.chapter}:${verse.number}: sequence words ${seen.join(',')} do not match words 1..${wordEntries.length}`
+    );
+  }
+
   const data: VerseData = {
     text,
     words: wordEntries,
+    metadata: { sequence },
   };
 
-  const metadata: VerseData['metadata'] = {};
-  if (verse.scribalMarks && verse.scribalMarks.length > 0) {
-    metadata.scribalMarks = verse.scribalMarks;
-  }
-  if (paragraphBreaks.length > 0) {
-    metadata.paragraphBreaks = paragraphBreaks;
-  }
-  if (verse.hasSofPasuq) {
-    metadata.terminator = 'sof-pasuq';
-  }
-  if (paseqPositions.length > 0) {
-    metadata.paseq = paseqPositions;
-  }
-  if (Object.keys(metadata).length > 0) {
-    data.metadata = metadata;
-  }
 
   const filePath = join(verseDir, `${verse.number}.json`);
   await writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');

@@ -15,6 +15,18 @@ function extractConsonants(text: string): string {
   return text.replace(/[^\u05D0-\u05EA]/g, '');
 }
 
+type SeqItem = { kind: 'word'; position: number } | { kind: 'mark'; type: string; text: string; reading?: string };
+/** The positions of the words that each mark of `type` follows in metadata.sequence. */
+function marksAfter(data: { metadata: { sequence: SeqItem[] } }, type: string): number[] {
+  const out: number[] = [];
+  let last = 0;
+  for (const i of data.metadata.sequence) {
+    if (i.kind === 'word') last = i.position;
+    else if (i.type === type) out.push(last);
+  }
+  return out;
+}
+
 describe('word data', () => {
   it('should have Israel word at correct position in Genesis 32:29', async () => {
     // Genesis 32:29 contains יִשְׂרָאֵל (Israel) at position 9
@@ -34,9 +46,9 @@ describe('word data', () => {
 describe('maqqef word segmentation (#3)', () => {
   // Decision (finalized): maqqef-joined units are kept as SEPARATE words — each
   // maqqef element has its own lexical identity + Strong's, so its own box. The
-  // connection is preserved via metadata.joinNext ('maqqef'). Verse gematria
+  // connection is preserved as a maqaf item in metadata.sequence. Verse gematria
   // totals are unaffected (sum of parts = whole); only word counts differ.
-  it('splits בְּכָל־לְבָבְךָ into two words in Deut 6:5, with joinNext on the first', async () => {
+  it('splits בְּכָל־לְבָבְךָ into two words in Deut 6:5, with a maqaf item between them', async () => {
     const data = JSON.parse(
       await readFile(join(__dirname, '..', 'data', 'openscriptures-OHB', 'Deut', '6', '5.json'), 'utf-8')
     );
@@ -53,8 +65,9 @@ describe('maqqef word segmentation (#3)', () => {
     const joined = data.words.find((w: { text: string }) => cons(w.text) === 'בכללבבך');
     expect(joined).toBeUndefined();
 
-    // The maqqef connection is recorded on the first element.
-    expect(bekhol.metadata?.joinNext).toBe('maqqef');
+    // The maqaf is its own item between the two words.
+    expect(marksAfter(data, 'maqaf')).toContain(bekhol.position);
+    expect(bekhol.metadata?.joinNext).toBeUndefined();
   });
 });
 
@@ -91,48 +104,26 @@ describe('maqqef punctuation handling', () => {
   });
 });
 
-describe('special-letter tradition layer (#2)', () => {
+describe('special letters: WLC only (3.0.0)', () => {
   const load = async (...p: string[]) =>
     JSON.parse(await readFile(join(__dirname, '..', 'data', 'openscriptures-OHB', ...p), 'utf-8'));
   const special = (w: { metadata?: { specialLetters?: Array<{ type: string; char: string; index: number; tradition?: string; source?: string }> } }) =>
     w.metadata?.specialLetters ?? [];
 
-  it('adds the famous received-tradition majuscule — Genesis 1:1 large bet — cited', async () => {
-    const d = await load('Gen', '1', '1.json');
-    const sl = special(d.words.find((w: { position: number }) => w.position === 1));
-    const bet = sl.find(s => s.type === 'large' && s.char === 'ב');
-    expect(bet).toBeDefined();
-    expect(bet!.index).toBe(0);
-    expect(bet!.tradition).toBe('masoretic-received');
-    expect(bet!.source).toMatch(/Jewish Encyclopedia/);
+  it('no received-tradition letters: Gen 1:1 bet and Lev 1:1 alef are unmarked', async () => {
+    for (const [b, c, v] of [['Gen', '1', '1'], ['Lev', '1', '1']]) {
+      const d = await load(b, c, `${v}.json`);
+      for (const w of d.words) expect(special(w), `${b} ${c}:${v}`).toEqual([]);
+    }
   });
 
-  it('adds the small alef of Leviticus 1:1 (received tradition)', async () => {
-    const d = await load('Lev', '1', '1.json');
-    const sl = special(d.words.find((w: { position: number }) => w.position === 1));
-    expect(sl.some(s => s.type === 'small' && s.char === 'א' && s.tradition === 'masoretic-received')).toBe(true);
-  });
-
-  it('tags the WLC’s own markings as leningrad and does NOT duplicate them', async () => {
+  it('tags the WLC’s own markings as leningrad, once each', async () => {
     // Deut 6:4 large ayin is marked in the WLC itself.
     const d = await load('Deut', '6', '4.json');
     const sl = special(d.words.find((w: { position: number }) => w.position === 1));
-    const ayin = sl.filter(s => s.type === 'large' && s.char === 'ע');
-    expect(ayin).toHaveLength(1); // no duplicate supplement entry
-    expect(ayin[0].tradition).toBe('leningrad');
-    expect(ayin[0].source).toMatch(/WLC/);
-  });
-
-  it('every specialLetter carries a tradition + source', async () => {
-    for (const [b, c, v] of [['Gen','1','1'],['Lev','1','1'],['Deut','6','4'],['1Chr','1','1'],['Prov','30','15']]) {
-      const d = await load(b, c, `${v}.json`);
-      for (const w of d.words as { metadata?: { specialLetters?: { tradition?: string; source?: string }[] } }[]) {
-        for (const s of special(w)) {
-          expect(s.tradition === 'leningrad' || s.tradition === 'masoretic-received').toBe(true);
-          expect(typeof s.source).toBe('string');
-        }
-      }
-    }
+    expect(sl).toHaveLength(1);
+    expect(sl[0]).toMatchObject({ type: 'large', char: 'ע', index: 2, tradition: 'leningrad' });
+    expect(sl[0].source).toMatch(/WLC/);
   });
 });
 
@@ -147,51 +138,46 @@ describe('Masoretic punctuation preservation (#5)', () => {
   const SOF_PASUQ = '׃';
   const PASEQ = '׀';
 
-  it('records maqqef as per-word joinNext on the connecting word (Gen 1:2)', async () => {
-    // עַל־פְּנֵי appears twice; each עַל connects to the following word.
+  it('records each maqaf as a sequence item after the word it follows (Gen 1:2)', async () => {
+    // עַל־פְּנֵי appears twice; each עַל is followed by a maqaf.
     const data = await load('Gen', '1', '2.json');
-    const joiners = data.words.filter(
-      (w: { metadata?: { joinNext?: string } }) => w.metadata?.joinNext === 'maqqef'
-    );
-    expect(joiners.map((w: { position: number }) => w.position)).toEqual([6, 12]);
-    expect(joiners.every((w: { text: string }) => extractConsonants(w.text) === 'על')).toBe(true);
+    expect(marksAfter(data, 'maqaf')).toEqual([6, 12]);
+    for (const p of [6, 12]) expect(extractConsonants(data.words[p - 1].text)).toBe('על');
+    expect(data.words.some((w: { metadata?: { joinNext?: string } }) => w.metadata?.joinNext)).toBe(false);
   });
 
-  it('records the sof-pasuq as a single verse-level terminator (Gen 1:2)', async () => {
+  it('records the sof-pasuq as the last item (Gen 1:2)', async () => {
     const data = await load('Gen', '1', '2.json');
-    expect(data.metadata?.terminator).toBe('sof-pasuq');
+    expect(data.metadata.sequence.at(-1)).toEqual({ kind: 'mark', type: 'sof-pasuq', text: SOF_PASUQ });
+    expect(data.metadata.terminator).toBeUndefined();
   });
 
-  it('records paseq as verse-level positions of the word it follows (Gen 1:5)', async () => {
+  it('records paseq as an item after the word it follows (Gen 1:5)', async () => {
     // paseq sits after word 2 (אֱלֹהִים).
     const data = await load('Gen', '1', '5.json');
-    expect(data.metadata?.paseq).toEqual([2]);
+    expect(marksAfter(data, 'paseq')).toEqual([2]);
+    expect(data.metadata.paseq).toBeUndefined();
   });
 
   it('resolves the Deut 6:5 maqqef example (בְּכָל joins its noun)', async () => {
-    // The issue cited Deut 6:5 showing a bare space where maqqef belongs.
     const data = await load('Deut', '6', '5.json');
-    const joiners = data.words
-      .filter((w: { metadata?: { joinNext?: string } }) => w.metadata?.joinNext === 'maqqef')
-      .map((w: { position: number }) => w.position);
-    expect(joiners).toEqual([5, 7, 9]);
+    expect(marksAfter(data, 'maqaf')).toEqual([5, 7, 9]);
   });
 
-  it('keeps the Shema large letters while adding the Deut 6:4 paseq', async () => {
-    // Regression: special letters must survive alongside the new punctuation.
+  it('keeps the Shema large letters alongside the Deut 6:4 paseq', async () => {
     const data = await load('Deut', '6', '4.json');
-    expect(data.metadata?.paseq).toEqual([5]);
+    expect(marksAfter(data, 'paseq')).toEqual([5]);
     const specials = data.words
       .filter((w: { metadata?: { specialLetters?: unknown[] } }) => w.metadata?.specialLetters)
       .map((w: { position: number }) => w.position);
     expect(specials).toEqual([1, 6]); // large ע (שְׁמַע) and large ד (אֶחָד)
   });
 
-  it('omits the terminator for verses the WLC leaves open (Exod 34:6)', async () => {
+  it('has no sof-pasuq item for verses the WLC leaves open (Exod 34:6)', async () => {
     // A handful of verses carry no sof-pasuq in the source (e.g. the enjambed
-    // divine-name formula of Exod 34:6). The field must reflect that faithfully.
+    // divine-name formula of Exod 34:6).
     const data = await load('Exod', '34', '6.json');
-    expect(data.metadata?.terminator).toBeUndefined();
+    expect(marksAfter(data, 'sof-pasuq')).toEqual([]);
   });
 
   it('surfaces extraordinary points (puncta) on exactly the 15 dotted verses', async () => {
@@ -228,17 +214,13 @@ describe('Masoretic punctuation preservation (#5)', () => {
     const bare = w.text.replace(/[ׅׄ]/g, '');
     expect(extractConsonants(w.text)).toBe(extractConsonants(bare));
 
-    // A received-tradition point is metadata only: the Deut 29:28 ayin of עד
-    // has a point entry, but its word text is the WLC text with no dot, so the
-    // consonant stream (and so the gematria) is unchanged.
+    // Only the WLC's own dots are recorded: the ayin of עד in Deut 29:28 has no
+    // dot in the WLC, so it carries no point.
     const deut = await load('Deut','29','28.json');
     const ad = deut.words.find((x: { position: number }) => x.position === 7);
     expect(ad.text).toBe('\u05E2\u05B7\u05D3'); // עַד
     expect(/[\u05C4\u05C5]/.test(ad.text)).toBe(false);
-    expect(extractConsonants(ad.text)).toBe('עד');
-    expect(ad.metadata.points).toEqual([
-      expect.objectContaining({ index: 0, char: 'ע', mark: 'upper', tradition: 'masoretic-received' }),
-    ]);
+    expect(ad.metadata.points).toBeUndefined();
     expect(extractConsonants(deut.text)).toBe(extractConsonants(deut.text.replace(/[\u05C4\u05C5]/g, '')));
   });
 
@@ -269,110 +251,68 @@ describe('extraordinary points: the fifteen passages, letter by letter', () => {
   const DATA = join(__dirname, '..', 'data', 'openscriptures-OHB');
   const load = async (...p: string[]) => JSON.parse(await readFile(join(DATA, ...p), 'utf-8'));
 
-  // Citations. Avot de-Rabbi Natan (A) 34 and Sifre Numbers 69 list the ten
-  // Torah passages; ARN 34 also names the dotted letters. Brouwer lists all
-  // fifteen passages with the dotted letters and notes variant witnesses.
-  const SOURCES = {
-    WLC: 'WLC / OpenScriptures (Leningrad Codex)',
-    ARN34: 'Avot de-Rabbi Natan (A) 34',
-    SIFRE69: 'Sifre Numbers 69',
-    BROUWER: 'A.E. Brouwer, "Typographic details in the Hebrew Bible" (https://aeb.win.tue.nl/natlang/hebrew/hebrew_bible.html)',
-  } as const;
-
+  // The dots exactly as the WLC text carries them (U+05C4 upper, U+05C5 lower).
+  // Since 3.0.0 the package records no other tradition's dots.
   type Mark = 'upper' | 'lower';
   type Dot = [index: number, char: string, mark: Mark];
   interface Word {
     position: number;
     /** The word's consonants. */
     word: string;
-    /** Dots in the WLC text (tradition 'leningrad'). */
+    /** Dots in the WLC text. */
     leningrad: Dot[];
-    /** Dots of the received tradition (leningrad dots not marked received:false, plus masoretic-received dots). */
-    received: Dot[];
   }
   interface Passage {
     ref: [book: string, chapter: string, verse: string];
     words: Word[];
-    sources: (keyof typeof SOURCES)[];
-    /** Known differences between witnesses, recorded rather than resolved. */
-    note?: string;
   }
 
   const up = (letters: string, from = 0): Dot[] => [...letters].map((c, i) => [from + i, c, 'upper']);
 
   const PASSAGES: Passage[] = [
-    { ref: ['Gen', '16', '5'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 19, word: 'וביניך', leningrad: [[4, 'י', 'upper']], received: [[4, 'י', 'upper']] }],
-      note: 'ARN 34 names "the yod of ביניך"; Brouwer places it on the second yod.' },
-    { ref: ['Gen', '18', '9'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 2, word: 'אליו', leningrad: up('אליו'),
-        received: [[0, 'א', 'upper'], [2, 'י', 'upper'], [3, 'ו', 'upper']] }],
-      note: 'ARN 34 and Brouwer: א, י, ו (3 dots). The WLC (and BHS, per Brouwer) also dots the ל; that dot is received:false.' },
-    { ref: ['Gen', '19', '33'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 15, word: 'ובקומה', leningrad: [[2, 'ק', 'upper']], received: [[3, 'ו', 'upper']] }],
-      note: 'ARN 34 and Brouwer: the vav of בקומה. The WLC text has U+05C4 after the ק (קׄוּ).' },
-    { ref: ['Gen', '33', '4'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 8, word: 'וישקהו', leningrad: up('וישקהו'), received: up('וישקהו') }] },
-    { ref: ['Gen', '37', '12'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 4, word: 'את', leningrad: up('את'), received: up('את') }] },
-    { ref: ['Num', '3', '39'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 7, word: 'ואהרן', leningrad: up('ואהרן'), received: up('ואהרן') }],
-      note: 'ARN 34 says "dotted on אהרן" without saying whether the conjunction ו is dotted; Brouwer and the WLC dot all five letters.' },
-    { ref: ['Num', '9', '10'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 14, word: 'רחקה', leningrad: [[3, 'ה', 'upper']], received: [[3, 'ה', 'upper']] }] },
-    { ref: ['Num', '21', '30'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 9, word: 'אשר', leningrad: [[2, 'ר', 'upper']], received: [[2, 'ר', 'upper']] }] },
-    { ref: ['Num', '29', '15'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [{ position: 1, word: 'ועשרון', leningrad: [[3, 'ר', 'upper']], received: [[4, 'ו', 'upper']] }],
-      note: 'ARN 34 and Brouwer: the vav of עשרון. The WLC text has U+05C4 after the ר (רׄוֹ).' },
-    { ref: ['Deut', '29', '28'], sources: ['WLC', 'ARN34', 'SIFRE69', 'BROUWER'],
-      words: [
-        { position: 5, word: 'לנו', leningrad: up('לנו'), received: up('לנו') },
-        { position: 6, word: 'ולבנינו', leningrad: up('ולבנינו'), received: up('ולבנינו') },
-        { position: 7, word: 'עד', leningrad: [], received: [[0, 'ע', 'upper']] },
-      ],
-      note: 'ARN 34 and Brouwer: 11 dots, including the ע of עד. The WLC (and BHS, per Brouwer) has 10.' },
-    { ref: ['2Sam', '19', '20'], sources: ['WLC', 'BROUWER'],
-      words: [{ position: 17, word: 'יצא', leningrad: up('יצא'), received: up('יצא') }],
-      note: 'Brouwer: 3 dots; the Mechon-Mamre text, as Brouwer cites it, dots only י and א.' },
-    { ref: ['Isa', '44', '9'], sources: ['WLC', 'BROUWER'],
-      words: [{ position: 9, word: 'המה', leningrad: up('המה'), received: up('המה') }] },
-    { ref: ['Ezek', '41', '20'], sources: ['WLC', 'BROUWER'],
-      words: [{ position: 9, word: 'ההיכל', leningrad: up('ההיכל'), received: up('ההיכל') }],
-      note: 'Brouwer: 5 dots; the Letteris edition (Berlin 1925), as Brouwer cites it, dots only ההכל.' },
-    { ref: ['Ezek', '46', '22'], sources: ['WLC', 'BROUWER'],
-      words: [{ position: 13, word: 'מהקצעות', leningrad: up('מהקצעות'), received: up('מהקצעות') }] },
-    { ref: ['Ps', '27', '13'], sources: ['WLC', 'BROUWER'],
-      words: [{ position: 1, word: 'לולא',
-        leningrad: [[0, 'ל', 'upper'], [0, 'ל', 'lower'], [2, 'ל', 'upper'], [2, 'ל', 'lower'], [3, 'א', 'upper'], [3, 'א', 'lower']],
-        received: [[0, 'ל', 'upper'], [0, 'ל', 'lower'], [2, 'ל', 'upper'], [2, 'ל', 'lower'], [3, 'א', 'upper'], [3, 'א', 'lower']] }],
-      note: 'Brouwer: 3 upper + 3 lower on ל, ל, א; the Mechon-Mamre text, as Brouwer cites it, has upper dots on all four letters and no lower; Brouwer notes 4+4 is also seen.' },
+    { ref: ['Gen', '16', '5'], words: [{ position: 19, word: 'וביניך', leningrad: [[4, 'י', 'upper']] }] },
+    { ref: ['Gen', '18', '9'], words: [{ position: 2, word: 'אליו', leningrad: up('אליו') }] },
+    // The WLC text has U+05C4 after the ק (קׄוּ).
+    { ref: ['Gen', '19', '33'], words: [{ position: 15, word: 'ובקומה', leningrad: [[2, 'ק', 'upper']] }] },
+    { ref: ['Gen', '33', '4'], words: [{ position: 8, word: 'וישקהו', leningrad: up('וישקהו') }] },
+    { ref: ['Gen', '37', '12'], words: [{ position: 4, word: 'את', leningrad: up('את') }] },
+    { ref: ['Num', '3', '39'], words: [{ position: 7, word: 'ואהרן', leningrad: up('ואהרן') }] },
+    { ref: ['Num', '9', '10'], words: [{ position: 14, word: 'רחקה', leningrad: [[3, 'ה', 'upper']] }] },
+    { ref: ['Num', '21', '30'], words: [{ position: 9, word: 'אשר', leningrad: [[2, 'ר', 'upper']] }] },
+    // The WLC text has U+05C4 after the ר (רׄוֹ).
+    { ref: ['Num', '29', '15'], words: [{ position: 1, word: 'ועשרון', leningrad: [[3, 'ר', 'upper']] }] },
+    { ref: ['Deut', '29', '28'], words: [
+        { position: 5, word: 'לנו', leningrad: up('לנו') },
+        { position: 6, word: 'ולבנינו', leningrad: up('ולבנינו') },
+      ] },
+    { ref: ['2Sam', '19', '20'], words: [{ position: 17, word: 'יצא', leningrad: up('יצא') }] },
+    { ref: ['Isa', '44', '9'], words: [{ position: 9, word: 'המה', leningrad: up('המה') }] },
+    { ref: ['Ezek', '41', '20'], words: [{ position: 9, word: 'ההיכל', leningrad: up('ההיכל') }] },
+    { ref: ['Ezek', '46', '22'], words: [{ position: 13, word: 'מהקצעות', leningrad: up('מהקצעות') }] },
+    { ref: ['Ps', '27', '13'], words: [{ position: 1, word: 'לולא',
+        leningrad: [[0, 'ל', 'upper'], [0, 'ל', 'lower'], [2, 'ל', 'upper'], [2, 'ל', 'lower'], [3, 'א', 'upper'], [3, 'א', 'lower']] }] },
   ];
 
-  interface Point { index: number; char: string; mark: Mark; tradition?: string; source?: string; received?: boolean; receivedSource?: string }
+  interface Point { index: number; char: string; mark: Mark; tradition?: string; source?: string; [k: string]: unknown }
   interface WordData { position: number; text: string; metadata?: { points?: Point[] } }
   const dot = (p: Point): Dot => [p.index, p.char, p.mark];
   const sortDots = (d: Dot[]) => [...d].sort((a, b) => a[0] - b[0] || a[2].localeCompare(b[2]));
 
   it('lists fifteen passages, ten of them in the Torah', () => {
     expect(PASSAGES).toHaveLength(15);
-    const torah = PASSAGES.filter(p => ['Gen', 'Exod', 'Lev', 'Num', 'Deut'].includes(p.ref[0]));
-    expect(torah).toHaveLength(10);
-    for (const p of torah) expect(p.sources).toContain('ARN34');
+    expect(PASSAGES.filter(p => ['Gen', 'Exod', 'Lev', 'Num', 'Deut'].includes(p.ref[0]))).toHaveLength(10);
   });
 
   for (const p of PASSAGES) {
     const [b, c, v] = p.ref;
-    it(`${b} ${c}:${v}: exact dotted letters (${p.sources.join(', ')})`, async () => {
+    it(`${b} ${c}:${v}: exact dotted letters (WLC)`, async () => {
       const d = await load(b, c, `${v}.json`);
       const words = d.words as WordData[];
       for (const exp of p.words) {
         const w = words.find(x => x.position === exp.position)!;
         expect(w, `${b} ${c}:${v} word ${exp.position}`).toBeDefined();
         expect(extractConsonants(w.text)).toBe(exp.word);
-        const points = w.metadata?.points ?? [];
-        expect(sortDots(points.filter(x => x.tradition === 'leningrad').map(dot))).toEqual(sortDots(exp.leningrad));
-        expect(sortDots(points.filter(x => x.received !== false).map(dot))).toEqual(sortDots(exp.received));
+        expect(sortDots((w.metadata?.points ?? []).map(dot))).toEqual(sortDots(exp.leningrad));
       }
       // No other word in the verse carries points.
       const listed = new Set(p.words.map(x => x.position));
@@ -380,7 +320,7 @@ describe('extraordinary points: the fifteen passages, letter by letter', () => {
     });
   }
 
-  it('the leningrad points are exactly the dots in the word text', async () => {
+  it('the points are exactly the dots in the word text', async () => {
     for (const p of PASSAGES) {
       const d = await load(p.ref[0], p.ref[1], `${p.ref[2]}.json`);
       for (const w of d.words as WordData[]) {
@@ -393,45 +333,21 @@ describe('extraordinary points: the fifteen passages, letter by letter', () => {
           else if (ch === 'ׄ') fromText.push([i, base, 'upper']);
           else if (ch === 'ׅ') fromText.push([i, base, 'lower']);
         }
-        const len = (w.metadata?.points ?? []).filter(x => x.tradition === 'leningrad').map(dot);
-        expect(sortDots(len)).toEqual(sortDots(fromText));
+        expect(sortDots((w.metadata?.points ?? []).map(dot))).toEqual(sortDots(fromText));
       }
     }
   });
 
-  it('every point carries a tradition and a source; received:false carries its own citation', async () => {
+  it('every point is the WLC\'s own: tradition leningrad, source WLC, no other fields', async () => {
     for (const p of PASSAGES) {
       const d = await load(p.ref[0], p.ref[1], `${p.ref[2]}.json`);
       for (const w of d.words as WordData[]) {
         for (const pt of w.metadata?.points ?? []) {
-          expect(['leningrad', 'masoretic-received']).toContain(pt.tradition);
-          expect(typeof pt.source).toBe('string');
-          if (pt.tradition === 'leningrad') expect(pt.source).toBe('WLC / OpenScriptures');
-          else expect(pt.source).toMatch(/Avot de-Rabbi Natan/);
-          if (pt.received === false) {
-            expect(pt.tradition).toBe('leningrad');
-            expect(pt.receivedSource).toMatch(/Avot de-Rabbi Natan/);
-          } else {
-            expect(pt.received).toBeUndefined();
-            expect(pt.receivedSource).toBeUndefined();
-          }
+          expect(Object.keys(pt).sort()).toEqual(['char', 'index', 'mark', 'source', 'tradition']);
+          expect(pt.tradition).toBe('leningrad');
+          expect(pt.source).toBe('WLC / OpenScriptures');
         }
       }
-    }
-  });
-
-  it('the data reflects every entry of the points supplement overlay', async () => {
-    const overlay = JSON.parse(
-      await readFile(join(__dirname, '..', 'scripts', 'overlays', 'points-supplement.json'), 'utf-8')
-    );
-    for (const e of overlay.entries) {
-      const d = await load(e.book, String(e.chapter), `${e.verse}.json`);
-      const w = (d.words as WordData[]).find(x => x.position === e.position)!;
-      const pt = (w.metadata?.points ?? []).find(x => x.index === e.index && x.mark === e.mark)!;
-      expect(pt, `${e.book} ${e.chapter}:${e.verse}`).toBeDefined();
-      expect(pt.char).toBe(e.char);
-      if (e.kind === 'add') expect(pt.tradition).toBe('masoretic-received');
-      else expect(pt.received).toBe(false);
     }
   });
 

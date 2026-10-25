@@ -23,18 +23,7 @@
       "strongs": [
         "H1431"
       ],
-      "metadata": {
-        "joinNext": "maqqef",
-        "specialLetters": [
-          {
-            "type": "large",
-            "char": "י",
-            "index": 0,
-            "tradition": "masoretic-received",
-            "source": "Jewish Encyclopedia (1906), \"Small and Large Letters\"; A.E. Brouwer, \"Typographic details in the Hebrew Bible\"; L. Cohen, \"Windows into the Text: Majuscules and Minuscules in the Hebrew Bible\" (HUC, 2000)"
-          }
-        ]
-      },
+      "metadata": {},
       "source": {
         "lemma": "1431",
         "morph": "HVqj3ms"
@@ -126,6 +115,49 @@
     }
   ],
   "metadata": {
-    "terminator": "sof-pasuq"
+    "sequence": [
+      {
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "word",
+        "position": 7
+      },
+      {
+        "kind": "word",
+        "position": 8
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
+      }
+    ]
   }
 }

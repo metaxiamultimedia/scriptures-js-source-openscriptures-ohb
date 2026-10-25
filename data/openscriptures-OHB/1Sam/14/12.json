@@ -51,9 +51,7 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "853",
         "morph": "HTo"
@@ -81,9 +79,7 @@
       "strongs": [
         "H853"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "c/853",
         "morph": "HC/To"
@@ -237,9 +233,7 @@
       "strongs": [
         "H413"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "413",
         "morph": "HR"
@@ -309,9 +303,7 @@
       "strongs": [
         "H3588"
       ],
-      "metadata": {
-        "joinNext": "maqqef"
-      },
+      "metadata": {},
       "source": {
         "lemma": "3588 a",
         "morph": "HC"
@@ -375,15 +367,146 @@
     }
   ],
   "metadata": {
-    "paragraphBreaks": [
+    "sequence": [
       {
-        "type": "petuhah",
-        "afterWordPosition": 14
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "mark",
+        "type": "paseq",
+        "text": "׀"
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 7
+      },
+      {
+        "kind": "word",
+        "position": 8
+      },
+      {
+        "kind": "word",
+        "position": 9
+      },
+      {
+        "kind": "word",
+        "position": 10
+      },
+      {
+        "kind": "word",
+        "position": 11
+      },
+      {
+        "kind": "word",
+        "position": 12
+      },
+      {
+        "kind": "word",
+        "position": 13
+      },
+      {
+        "kind": "word",
+        "position": 14
+      },
+      {
+        "kind": "mark",
+        "type": "petuchah",
+        "text": "פ"
+      },
+      {
+        "kind": "word",
+        "position": 15
+      },
+      {
+        "kind": "word",
+        "position": 16
+      },
+      {
+        "kind": "word",
+        "position": 17
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 18
+      },
+      {
+        "kind": "word",
+        "position": 19
+      },
+      {
+        "kind": "word",
+        "position": 20
+      },
+      {
+        "kind": "word",
+        "position": 21
+      },
+      {
+        "kind": "word",
+        "position": 22
+      },
+      {
+        "kind": "mark",
+        "type": "maqaf",
+        "text": "־"
+      },
+      {
+        "kind": "word",
+        "position": 23
+      },
+      {
+        "kind": "word",
+        "position": 24
+      },
+      {
+        "kind": "word",
+        "position": 25
+      },
+      {
+        "kind": "word",
+        "position": 26
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
       }
-    ],
-    "terminator": "sof-pasuq",
-    "paseq": [
-      5
     ]
   }
 }

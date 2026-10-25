@@ -92,56 +92,98 @@ Each verse includes morphological annotations:
 }
 ```
 
-### Masoretic marks (structural metadata)
+### Masoretic marks: `metadata.sequence`
 
 The data model is **words-only**: every word's `text` carries just the letters,
 points, and cantillation, so gematria totals and word counts are never affected
-by scribal punctuation. The Masoretic marks the WLC places *around* words are
-preserved separately so a renderer can reproduce a faithful text:
+by scribal punctuation. The marks the WLC writes *between* words are separate
+items of **`metadata.sequence`**, which lists the verse's words and marks in the
+order of the WLC XML:
 
-- **`words[].metadata.joinNext: "maqqef"`** — the maqqef (־, U+05BE) connector;
-  recorded on the word it binds to the following word.
-- **`metadata.terminator: "sof-pasuq"`** — the verse-ending sof-pasuq (׃,
-  U+05C3). Recorded once per verse; omitted for the handful of verses the WLC
-  leaves open (e.g. the enjambed divine-name formula of Exod 34:6).
-- **`metadata.paseq: [n, …]`** — the paseq disjunctive (׀, U+05C0), as the
-  1-based positions of the words it follows.
-- **`metadata.paragraphBreaks`**, **`metadata.scribalMarks`** — petuhah/setumah
-  parashah breaks and the reversed nun (nun hafukha), likewise verse-level.
-- **`words[].metadata.points`** — the extraordinary points (puncta extraordinaria),
-  the traditional fifteen dotted passages. Each entry `{index, char, mark, tradition, source}`
-  names the dotted base consonant (0-based `index`) and whether the dot sits `upper`
-  (U+05C4) or `lower` (U+05C5). Each entry is tagged by **tradition**:
-  - `tradition: "leningrad"` — the dot is in the WLC text (`source: "WLC / OpenScriptures"`).
-    These dots are retained in the word `text` as combining marks; because they
-    lie outside the consonant range they do not affect gematria or counts.
-  - `tradition: "masoretic-received"` — a dot the received Masoretic tradition
-    counts that the WLC text lacks, with its `source` citation (Avot de-Rabbi
-    Natan A 34; A.E. Brouwer). These are metadata only: the word `text` is not
-    changed. Example: the ayin of עד in Deut 29:28, the eleventh dot of that verse.
-  - `received: false` (with `receivedSource`) on a `leningrad` dot that the
-    received tradition does not count. Examples: the ל of אליו in Gen 18:9 (the
-    received tradition dots א, י, ו), and Gen 19:33 / Num 29:15, where the WLC
-    text places the dot on the letter before the vav (ק, ר) and the received
-    tradition places it on the vav.
+```json
+"sequence": [
+  { "kind": "word", "position": 1 },
+  { "kind": "word", "position": 2 },
+  { "kind": "mark", "type": "maqaf", "text": "־" },
+  { "kind": "word", "position": 3 },
+  { "kind": "mark", "type": "sof-pasuq", "text": "׃" },
+  { "kind": "mark", "type": "petuchah", "text": "פ" }
+]
+```
 
-  To render the WLC dots, use the entries with `tradition === "leningrad"`; to
-  render the received tradition, use the entries with `received !== false`.
-  The supplement is `scripts/overlays/points-supplement.json`.
-- **`words[].metadata.specialLetters`** — enlarged / small / suspended letters
-  (litterae majusculae / minusculae / suspensae), `{type, char, index, tradition, source}`.
-  Each entry is tagged by **tradition**:
-  - `tradition: "leningrad"` — marked in the WLC manuscript itself (`source: "WLC / OpenScriptures"`).
-  - `tradition: "masoretic-received"` — the broader received-Masoretic
-    majuscules/minuscules the Leningrad codex does not mark, supplied from a
-    cited enumeration (`source` = Jewish Encyclopedia 1906 + A.E. Brouwer),
-    occurrence-adjudicated against L. Cohen, *Windows into the Text* (HUC, 2000).
-    Only entries those sources attest with a single unambiguous location are
-    included; contested either/or and occurrence-ambiguous cases are excluded.
+- A **word item** points into `words[]` by `position`. Every word appears exactly
+  once, in `words[]` order.
+- A **mark item** is the mark itself. It belongs to no word: not to the word
+  before it, and not to a ketiv or a qere. `text` is the character as the WLC
+  writes it.
 
-All of these are structural only: they never enter `words[]` as separate tokens
-and never carry a numeric value. A renderer can show the WLC base alone
-(`tradition === "leningrad"`) or the full received tradition.
+| `type` | Mark | WLC element |
+|---|---|---|
+| `maqaf` | ־ U+05BE | `<seg type="x-maqqef">` |
+| `paseq` | ׀ U+05C0 | `<seg type="x-paseq">` |
+| `sof-pasuq` | ׃ U+05C3 | `<seg type="x-sof-pasuq">` |
+| `petuchah` | פ (open paragraph) | `<seg type="x-pe">` |
+| `setumah` | ס (closed paragraph) | `<seg type="x-samekh">` |
+| `reversed-nun` | ׆ U+05C6 (nun hafukha) | `<seg type="x-reversednun">` |
+
+`reading` is set only on a mark that is part of one reading of a ketiv/qere:
+
+- `reading: "qere"`: inside the qere (`<note><rdg type="x-qere">`), e.g. the
+  paseq between הֵם and פְּרוּצִים in Neh 2:13, or the maqaf of מַה־זֶּה in Exod 4:2.
+- `reading: "ketiv"`: between two ketiv words (`<seg subType="x-ketiv">`), e.g.
+  the maqaf of מי־לי in Isa 52:5.
+
+A mark after a whole ketiv/qere unit has no `reading` and comes after the last
+qere word (Nah 1:3: ketiv וגדול, qere וּגְדָל, then the maqaf, then כֹּחַ).
+
+To render a reading, walk `sequence` and keep the words of that reading
+(`variant`) and the marks whose `reading` is unset or matches. To find "the
+word a mark follows", take the nearest word item before it.
+
+Counts over the whole corpus equal the WLC's own: 42,577 maqaf, 2,278 paseq,
+23,192 sof pasuq, 1,181 petuchah, 1,981 setumah, 9 reversed nun.
+
+### Special letters and extraordinary points
+
+- **`words[].metadata.specialLetters`**: enlarged / small / suspended letters,
+  `{type, char, index, tradition: "leningrad", source: "WLC / OpenScriptures"}`,
+  exactly as the WLC marks them (`<seg type="x-large|x-small|x-suspended">`
+  inside a word): 4 large (Lev 11:42; Num 27:5; Deut 6:4 twice), 3 small (Isa
+  44:14; Jer 39:13; Prov 16:28) and 4 suspended (Judg 18:30; Ps 80:14; Job
+  38:13, 38:15). `index` is the 0-based base consonant.
+  Marks of the Masoretic tradition that the WLC does not carry are not part of
+  this package; `@metaxia/scriptures` has cited tables of them by authority
+  (`data/masoretic-marks/`).
+- **`words[].metadata.points`**: the extraordinary points (puncta extraordinaria),
+  exactly the dots the WLC text carries: HEBREW MARK UPPER DOT (U+05C4) and
+  LOWER DOT (U+05C5) in fifteen passages. Each entry
+  `{index, char, mark, tradition: "leningrad", source: "WLC / OpenScriptures"}`
+  names the dotted base consonant (0-based `index`) and whether the dot sits
+  `upper` or `lower`. The dots stay in the word `text` as combining marks;
+  they lie outside the consonant range, so they do not affect gematria or
+  counts.
+
+### Changes in 3.0.0
+
+- Removed: `words[].metadata.joinNext`, `metadata.paseq`,
+  `metadata.paragraphBreaks`, `metadata.terminator`, `metadata.scribalMarks`.
+  The same marks are items of `metadata.sequence`. Names changed: `maqqef` is
+  `maqaf`, `petuhah` is `petuchah`.
+- Removed: the special-letters supplement (`tradition: "masoretic-received"`
+  entries of `specialLetters`, `scripts/overlays/special-letters-supplement.json`).
+- Removed: the extraordinary-points supplement (`scripts/overlays/points-supplement.json`):
+  the `tradition: "masoretic-received"` points (the ayin of עד ("until") in Deut 29:28,
+  the vav of ובקומה ("and when she arose") in Gen 19:33, the vav of ועשרון
+  ("and a tenth") in Num 29:15) and the
+  `received: false` / `receivedSource` fields (Gen 18:9, 19:33; Num 29:15).
+  `points` is the WLC's own dots only.
+- The importer reads morphhb at a pinned commit,
+  `3d15126fb1ef74867fc1434be1942e837932691f`, instead of `master`.
+- Fixed: the six maqafs between two ketiv words (`<seg subType="x-ketiv">`:
+  Isa 52:5, Lam 1:6, 1 Sam 9:1, 20:2, 24:9, 1 Kgs 17:15) were dropped; they are
+  now in `sequence` with `reading: "ketiv"`.
+- Unchanged: `words[]` text, order, positions, lemmas, morphology and
+  variants, the verse `text`, and the WLC's own extraordinary points.
 
 ### Ketiv and qere
 
@@ -152,9 +194,9 @@ reading order: each qere directly follows its ketiv (Neh 2:13 המפרוצים, 
 הֵם פְּרוּצִים; Isa 9:6 לםרבה, with its final mem mid-word, then לְמַרְבֵּה).
 A qere without ketiv (e.g. Ruth 3:5 אֵלַי, 2 Sam 8:3 פְּרָת) stands where the WLC
 places it, and a ketiv without qere (e.g. Jer 51:3 ידרך) has no qere after it.
-Paragraph breaks, maqqef and paseq that follow a ketiv/qere unit are recorded
-after its last qere word. Before 2.8.0 the qere words were emitted at the end
-(or start) of the verse.
+Before 2.8.0 the qere words were emitted at the end (or start) of the verse.
+`tests/upstream-xml.test.ts` checks words and marks against the upstream XML for
+Deut 29:22, Gen 30:11, Exod 4:2, Nah 1:3, Job 38:1, Neh 2:13, Isa 9:6 and Dan 6:20.
 
 ### Word segmentation (maqqef)
 
@@ -170,9 +212,9 @@ Consequences to expect:
   convention difference, not an error.
 - **Per-word gematria** is computed per element. Verse/phrase **totals are
   unaffected** — the sum of the split parts equals the sum of the joined whole.
-- The connection is not lost: the preceding word carries
-  `metadata.joinNext: "maqqef"`, so a renderer can re-join the unit for display
-  or for an alternative word count.
+- The connection is not lost: the maqaf is an item of `metadata.sequence`
+  between the two words, so a renderer can re-join the unit for display or for
+  an alternative word count.
 
 ## Morphology Codes
 

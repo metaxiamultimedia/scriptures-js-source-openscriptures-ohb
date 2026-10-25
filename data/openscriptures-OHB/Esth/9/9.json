@@ -107,24 +107,7 @@
       "strongs": [
         "H2055"
       ],
-      "metadata": {
-        "specialLetters": [
-          {
-            "type": "large",
-            "char": "ו",
-            "index": 0,
-            "tradition": "masoretic-received",
-            "source": "Jewish Encyclopedia (1906), \"Small and Large Letters\"; A.E. Brouwer, \"Typographic details in the Hebrew Bible\"; L. Cohen, \"Windows into the Text: Majuscules and Minuscules in the Hebrew Bible\" (HUC, 2000)"
-          },
-          {
-            "type": "small",
-            "char": "ז",
-            "index": 2,
-            "tradition": "masoretic-received",
-            "source": "Jewish Encyclopedia (1906), \"Small and Large Letters\"; A.E. Brouwer, \"Typographic details in the Hebrew Bible\"; L. Cohen, \"Windows into the Text: Majuscules and Minuscules in the Hebrew Bible\" (HUC, 2000)"
-          }
-        ]
-      },
+      "metadata": {},
       "source": {
         "lemma": "2055",
         "morph": "HNp"
@@ -132,12 +115,64 @@
     }
   ],
   "metadata": {
-    "terminator": "sof-pasuq",
-    "paseq": [
-      1,
-      3,
-      5,
-      7
+    "sequence": [
+      {
+        "kind": "word",
+        "position": 1
+      },
+      {
+        "kind": "mark",
+        "type": "paseq",
+        "text": "׀"
+      },
+      {
+        "kind": "word",
+        "position": 2
+      },
+      {
+        "kind": "word",
+        "position": 3
+      },
+      {
+        "kind": "mark",
+        "type": "paseq",
+        "text": "׀"
+      },
+      {
+        "kind": "word",
+        "position": 4
+      },
+      {
+        "kind": "word",
+        "position": 5
+      },
+      {
+        "kind": "mark",
+        "type": "paseq",
+        "text": "׀"
+      },
+      {
+        "kind": "word",
+        "position": 6
+      },
+      {
+        "kind": "word",
+        "position": 7
+      },
+      {
+        "kind": "mark",
+        "type": "paseq",
+        "text": "׀"
+      },
+      {
+        "kind": "word",
+        "position": 8
+      },
+      {
+        "kind": "mark",
+        "type": "sof-pasuq",
+        "text": "׃"
+      }
     ]
   }
 }
